@@ -26,10 +26,10 @@ Communiquer coute cher, la collectivité doit s’organiser et établir un proje
 
  	- ou Valoriser la création d’**évènements d’envergure régionale, nationale, voire internationale**
 
-[![Image](/images/blog/demarche-internationale-attractivité-territoriale.jpg)](/images/blog/demarche-internationale-attractivité-territoriale.jpg) Parties prenantes d'une démarche internationale
+[![demarche-internationale-attractivité-territoriale.jpg](/images/blog/demarche-internationale-attractivité-territoriale.jpg) Parties prenantes d'une démarche internationale
 ## **Une méthodologie de projet au service d’une stratégie d’attractivité du territoire**
 
-[![Image](/images/blog/mise-en-oeuvre-strategie-marketing-territorial-402x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/mise-en-oeuvre-strategie-marketing-territorial.jpg) Mise en oeuvre strategie marketing territorial
+[![mise-en-oeuvre-strategie-marketing-territorial-402x300.jpg](/images/blog/mise-en-oeuvre-strategie-marketing-territorial-402x300.jpg) Mise en oeuvre strategie marketing territorial
 
  	- Dresser un état des lieux partagé de l’attractivité : analyse des dynamiques économiques et attractivité du territoire, analyse des sites d’activités, identité et image du territoire par les acteurs économiques
 
@@ -37,15 +37,15 @@ Communiquer coute cher, la collectivité doit s’organiser et établir un proje
 
 C’est ensuite selon le diagnostic partagé sur les actions à mener, que sera dresser le plan opérationnel avec les actions concrètes à faire en terme de marketing et de communication. Cela ne diffère guère avec la mise en place d’un plan stratégique d’une organisation privée.
 
-[![Image](/images/blog/plan-opérationnel-marketing-territorial-388x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/plan-opérationnel-marketing-territorial.jpg) plan opérationnel marketing territorial
+[![plan-opérationnel-marketing-territorial-388x300.jpg](/images/blog/plan-opérationnel-marketing-territorial-388x300.jpg) plan opérationnel marketing territorial
 
  	- Plan d’action marketing opérationnel : déclinaison du positionnement retenu, création d’une Marque, travail collectif sur les outils (SAE, plan marketing, gouvernance etc.), recherche des leviers d’actions et projets à valoriser et notamment les campagnes de visibilité, de Branding, de notoriété sur les axes du projet.
 
-[![Image](/images/blog/ob_37cfa5_marques-territoriales-france-janv19-502x292.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/ob_37cfa5_marques-territoriales-france-janv19.jpg) Marques-territoriales-france-janv19
+[![ob_37cfa5_marques-territoriales-france-janv19-502x292.jpg](/images/blog/ob_37cfa5_marques-territoriales-france-janv19-502x292.jpg) Marques-territoriales-france-janv19
 
 Comme pour un produit je dirais « classique » les parties prenantes dans le projet doivent s’entendre afin de  mettre en place un **mix territorial** en adéquation avec les objectifs stratégique du projet.
 
-[![Image](/images/blog/vincent-gollain-mix-territorial-marketing-424x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/vincent-gollain-mix-territorial-marketing.jpg) Mix territorial par VIncent Gollain
+[![vincent-gollain-mix-territorial-marketing-424x300.jpg](/images/blog/vincent-gollain-mix-territorial-marketing-424x300.jpg) Mix territorial par VIncent Gollain
 ## ***Médiatisation des projets d’attractivité territoriale : cas d’école avec Laval, devenu épicentre Français de la réalité virtuelle***
 
 C’est François d’Aubert ministre de la recherche à l’époque et Maire de Laval un de ces pionniers, au retour d’un voyage au Japon, à croire en ces technologies. Ce sera donc au cœur d’une ville et d’un département à vocation agricole que ce projet de territoire sera lancé. D’un laboratoire de recherche au premier salon mondial consacré à la Réalité Virtuelle, Laval et ses territoires ont gagné leur pari.
@@ -54,20 +54,20 @@ C’est François d’Aubert ministre de la recherche à l’époque et Maire de
 
 *C’est l’agence *Thomas Marko & Associés qui gère depuis 2017 la **médiatisation du Laval Virtual Center** et pour cela met en place les campagnes print,  webmarketing sur le moteur de recherche Google  et sur le réseau display. Cette année le  v21 ème salon d’envergure désormais mondiale se tiendra donc au printemps prochain au Laval center.
 
-[![Image](/images/blog/laval-virtual-490x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/laval-virtual.jpg) Campagne Laval Virtual
+[![laval-virtual-490x300.jpg](/images/blog/laval-virtual-490x300.jpg) Campagne Laval Virtual
 
-[![Image](/images/blog/laval-sea-365x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/laval-sea.jpg) Campagne Google ads sur desktop a gauche  **&** Display mobile à droite
+[![laval-sea-365x300.jpg](/images/blog/laval-sea-365x300.jpg) Campagne Google ads sur desktop a gauche  **&** Display mobile à droite
 ## ***Expertises et Présence des collectivités sur les réseaux sociaux ***
 
 ***Des dispositifs classiques aux applications mobiles sophistiqués certains projets témoignent de la maturité des acteurs au service des citoyens. Voici ci-dessous quelques exemples sur différents territoires Français***
 
 Selon le niveau d’échelle (Région, Métropoles, départements, intercommunalités, grandes villes, villes moyennes)ou autrement surnommé "le mille-feuille français" la maturité des collectivités locales diffèrent mais au global on peut constater que des améliorations sont possibles !
 
-[![Image](/images/blog/presence-sur-les-reseaux-sociaux-des-collectivités-locales-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/presence-sur-les-reseaux-sociaux-des-collectivités-locales.jpg) Presence sur les réseaux sociaux des collectivités locales
+[![presence-sur-les-reseaux-sociaux-des-collectivités-locales-409x300.jpg](/images/blog/presence-sur-les-reseaux-sociaux-des-collectivités-locales-409x300.jpg) Presence sur les réseaux sociaux des collectivités locales
 
 ***Les disparités existent selon ensuite le type d’organisation.***
 
-[![Image](/images/blog/presence-sur-les-reseaux-sociaux-des-grandes-villes-429x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/presence-sur-les-reseaux-sociaux-des-grandes-villes.jpg) Presence sur les réseaux sociaux des grandes villes
+[![presence-sur-les-reseaux-sociaux-des-grandes-villes-429x300.jpg](/images/blog/presence-sur-les-reseaux-sociaux-des-grandes-villes-429x300.jpg) Presence sur les réseaux sociaux des grandes villes
 
 Pour ce qui concerne les Régions les plus actives au 5 janvier 2019 sur Twitter selon le blog https://www.eterritoire.fr
 

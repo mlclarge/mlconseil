@@ -21,7 +21,7 @@ Eric Garletti, en 1ère partie, fit une présentation du métier de référenceu
 
  	- la démultiplication du champ lexical et le travail sur la longue traîne *(mots clés)*
 
-[![Image](/images/blog/pyramide-du-référencement-310x192.jpg)](/images/blog/pyramide-du-référencement-310x192.jpg) Représentation des niveaux en référencement (source: christophe Benoit)
+[![pyramide-du-référencement-310x192.jpg](/images/blog/pyramide-du-référencement-310x192.jpg) Représentation des niveaux en référencement (source: christophe Benoit)
 
 ## Facteurs d'optimisation Seo
 
@@ -65,7 +65,7 @@ Social
 
 Plus d’infos sur les pratiques : [http://checklists.opquast.com/seo](http://checklists.opquast.com/seo)
 
-[![Image](/images/blog/1-facteurs-positionnement-seo-300x165.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/07/1-facteurs-positionnement-seo.png) Fig.2 Facteurs de positionnement Seo                  (adapté de seomoz.org)
+[![1-facteurs-positionnement-seo-300x165.png](/images/blog/1-facteurs-positionnement-seo-300x165.png) Fig.2 Facteurs de positionnement Seo                  (adapté de seomoz.org)
 
 Les principaux pièges à éviter 
 
@@ -123,7 +123,7 @@ Techniques d’acquisition de liens entrants *(pour favoriser la popularité d�
 
  	- LinkWheel  (schéma complexe de construction de liens à partir  d’un réseau de sites, blogs, réseaux sociaux ).
 
-[![Image](/images/blog/2-Roue-de-liens-seo-297x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/07/2-Roue-de-liens-seo.png) Fig.3 Un schéma " type "Roue de liens ou LinkWheel"
+[![2-Roue-de-liens-seo-297x300.png](/images/blog/2-Roue-de-liens-seo-297x300.png) Fig.3 Un schéma " type "Roue de liens ou LinkWheel"
 
 T.  Gibertie souligne que l’on passe d’une métrique de** popularité** vers une métrique **d’affinité** chez les moteurs de recherche. La sémantique pointe son nez  chez Google *(selon Amit Singhal - Google annoncé ce printemps dernier)* ,  le profilage de l’internaute se précise afin de mieux saisir son intention de recherche et ainsi adapter un résultat pertinent pour l’internaute.
 ### **Questions / Réponses**

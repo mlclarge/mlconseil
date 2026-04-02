@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=XsgT6yMWLWo
 
 Du machine learning est embarqué qui suggère des itinéraires ou lieux selon nos habitudes, encore une façon de nous enfermer ou alors de nous faire découvrir selon nos préférences, des espaces physiques enrichis par la réalité augmentée.  De plus, Google assistant va y être embarqué et les démarches de prise de rendez-vous pourront être effectuées par le robot ! Fini la corvée de prise de rendez-vous, l’assistant parle pour vous ! La démonstration fut bluffante parait-il .
 
-[![Image](/images/blog/google-map-2018-310x214.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/google-map-2018.jpg) google map 2018 avec IA et VR
+[![google-map-2018-310x214.jpg](/images/blog/google-map-2018-310x214.jpg) google map 2018 avec IA et VR
 ### **Google photos**
 
 des retouches (exposition, colorisation) et des fonctions de partage automatisées (reconnaissances des personnes), et d’édition au format pdf
@@ -38,22 +38,22 @@ https://www.youtube.com/watch?v=YBsGtHzuWYY
 
 revoit sa copie avec un contenu qui mélange l’essentiel (5  news) et la personnalisation de l’utilisateur, des contenus à affichage plus rapide à l’aide de l’AMP, les médias pourront monétiser leur contenu à l’aide d’un bouton souscription, directement depuis le fil d’actus.
 
-[![Image](/images/blog/google-news-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/google-news.jpg) Nouveau google news
+[![google-news-310x159.jpg](/images/blog/google-news-310x159.jpg) Nouveau google news
 ## **En vrac aussi à savoir sur IO 2018**
 
  	- **Santé :** santé avec diagnostic des maladies, Liftware start up qui fabrique des couverts qui aident les malades atteint de parkinson.
 
-[![Image](/images/blog/couverts-intelligents-parkinson-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/couverts-intelligents-parkinson.jpg) couverts intelligents pour patients parkinson
+[![couverts-intelligents-parkinson-310x175.jpg](/images/blog/couverts-intelligents-parkinson-310x175.jpg) couverts intelligents pour patients parkinson
 
  
 
-[![Image](/images/blog/google-sante-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/google-sante.jpg) Imagerie prédictive google sante
+[![google-sante-310x175.jpg](/images/blog/google-sante-310x175.jpg) Imagerie prédictive google sante
 
  	- **Voiture Android **: pas que Waymo (voiture autonome Google) mais aussi  Volvo, Audi des marques qui s’intéressent à de l’Android embarqué très prochainement.
 
  	- **Material Theming **: Un plugin pour sketch qui facilite le design des applications style material design un standard google pour la création des interfaces.
 
-[![Image](/images/blog/material-theming-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/material-theming.jpg) material theming
+[![material-theming-310x180.jpg](/images/blog/material-theming-310x180.jpg) material theming
 ### ***Pour en savoir plus ! sur l’I/O 2018***
 
 La revue 01.net : Gmail plus intelligent, voix plus humaine, assistant vocaux avec écrans

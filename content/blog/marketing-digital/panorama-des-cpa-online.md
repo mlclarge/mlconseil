@@ -57,32 +57,32 @@ Un vendeur de chaussures n'aura pas le même CPA qu'un organisme de formation, c
 
 Une étude dont j’ai oublié la source, fait état d’une lucidité moyenne de la part des marketeurs sur leur coût engendré dans leur politique d’acquisition
 
-[![Image](/images/blog/cpl-moyen-502x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cpl-moyen.jpg) Une ignorance des coûts précis
+[![cpl-moyen-502x277.jpg](/images/blog/cpl-moyen-502x277.jpg) Une ignorance des coûts précis
 ### ***Tendances comparées des leviers avec focus  BtoC (business to consumer)***
 
 L’email maison (House) et  celui de conquête (Direct mail) sont les tenants et aboutissants de cette gamme ci-dessous, avec pour intermédiaires en allant croissant, le paid, le social et le display.
 
-[![Image](/images/blog/2017-cout-par-acquisition-502x267.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/2017-cout-par-acquisition.jpg)
+[![2017-cout-par-acquisition-502x267.jpg](/images/blog/2017-cout-par-acquisition-502x267.jpg)
 
 On retrouve de la part d’une autre plateforme de prestations de campagnes , certaines similitudes dans les montants.
 
-[![Image](/images/blog/cout-par-acquisition-online-502x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cout-par-acquisition-online.jpg)
+[![cout-par-acquisition-online-502x235.jpg](/images/blog/cout-par-acquisition-online-502x235.jpg)
 ### ***CPA Search Adwords***
 
 Selon Wordstream le CPA constaté est de 59.18 dollars !
 ***Le display, bon à tout faire , sauf à rentabiliser ;)***
 Ici sur une publication du magazine en ligne adweek qui reprend des statistiques d’une enquête sur le canal display, avec confirmation des coûts élevés de ce canal
 
-[![Image](/images/blog/cpa-display-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cpa-display.jpg) Un Display toujours décrié !(infographie : adweek)
+[![cpa-display-421x300.jpg](/images/blog/cpa-display-421x300.jpg) Un Display toujours décrié !(infographie : adweek)
 ## **Cout par Lead par métier et par canaux**
 
 Là encore ces chiffres sont issus d’une infographie trouvée sur un site dont j’ai encore oublié la source, sorry, mais dont les sources sont quant à elles citées dans ce screen. Dommage qu’il manque l’email « in house », mais on notera le faible coût sur le seo-content marketing , à prendre néanmoins avec des pincettes.  En revanche, on retrouve certains niveaux de coûts constatés sur le second tableau :
 
-[![Image](/images/blog/etude-cout-par-acquisition-leviers-201x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/etude-cout-par-acquisition-leviers.jpg)
+[![etude-cout-par-acquisition-leviers-201x300.jpg](/images/blog/etude-cout-par-acquisition-leviers-201x300.jpg)
 
 A comparer avec les chiffres d' hubspot : état de l’inbound marketing (2015, celle de 2016 n'en fait pas mention)
 
-[![Image](/images/blog/cout-par-lead-par-industries-420x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cout-par-lead-par-industries.jpg) Une moyenne monde constaté (inbound report)
+[![cout-par-lead-par-industries-420x300.jpg](/images/blog/cout-par-lead-par-industries-420x300.jpg) Une moyenne monde constaté (inbound report)
 ## Zoom sur les coûts par acquisition des médias sociaux
 
 ### 
@@ -91,16 +91,16 @@ A comparer avec les chiffres d' hubspot : état de l’inbound marketing (2015,
 
 Je repends ici un article qui reprend une toute petite campagne que tout un chacun peut lancer, il n’y en a pas que pour les gros ! Ici le CPA est celui de l’acquisition d’un abonné sur Twitter
 
-[![Image](/images/blog/cout-par-acquisition-twitter-502x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cout-par-acquisition-twitter.jpg) Coûts  par acquisition Twitter
+[![cout-par-acquisition-twitter-502x250.jpg](/images/blog/cout-par-acquisition-twitter-502x250.jpg) Coûts  par acquisition Twitter
 ### ***CPA Facebook***
 
 Et oui, encore Wordstream et US, mais c’est vrai qu’ils possèdent de la data, avec ici un joli graphique par secteur d’activité, on remarquera que l’éducation possède le plus bas CPA ($ 7.85)  et que l’industrie Tech est la plus convoitée ($ 55.21) . Le secteur du BtoB reste encore abordable ($23.77). Enfin, l’ensemble donne une moyenne de 18 dollars environ.
 
-[![Image](/images/blog/cout-acquisition-facebook-407x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cout-acquisition-facebook.jpg) coûts acquisition facebook
+[![cout-acquisition-facebook-407x300.jpg](/images/blog/cout-acquisition-facebook-407x300.jpg) coûts acquisition facebook
 ### ***CPI Instagram vs Facebook***
 
 On reste ici dans l’écosystème de Facebook sur ces 2 médias, celui de son réseau social et réseau d’images avec un benchmark sur le CPI segmenté par niveau de coûts
 
-[![Image](/images/blog/cout-par-installation-instagram-502x234.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/cout-par-installation-instagram.jpg) Coût par installation Instagram
+[![cout-par-installation-instagram-502x234.jpg](/images/blog/cout-par-installation-instagram-502x234.jpg) Coût par installation Instagram
 
 Voilà pour cet petit aperçu des coûts par acquisition des médias online, le CPA idéal n’existe pas bien que l’on le souhaite le plus bas possible. Mais le meilleur reste celui qui puisse assurer une rentabilité pérenne de l’annonceur dans sa stratégie online et de voir au-delà du simple coût, la notion d’investissement global. Ne pas s’arrêter dans un raisonnement roiste de premier degré, mais parfois , voir plus loin, et concevoir que certains coûts, même si non rentables dans un premier temps, peuvent le devenir par la suite, en y intégrant des notions plus globale de cycle de vie client (up-selling , fidélisation, bouche à oreille) entretenues sans cesse par une expérience client  à jour, et une politique d’innovation produit permanente.

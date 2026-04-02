@@ -10,7 +10,7 @@ image: "/images/blog/urls-tracking.jpg"
 
 Le suivi des canaux d’acquisition revêt un caractère prépondérant par temps de RGPD. Connaître la source de ses audiences est un minimum même s’il devient plus difficile d’avoir des données personnelles.  Les plateformes publicitaires d’acquisition ont toujours mis à disposition des outils de suivi. Ces derniers consistent la plupart du temps par l’ajout de paramètres à la fin des urls de destination. Donc toutes les sources, selon l’application de mesure qui les recevra, ici Google analytics, devront être « tagguées » avec des paramètres reconnus par l’App. de web analytics. Voyons donc les spécificités d’un modèle de suivi dans un contexte classique de plateformes où les parties prenantes sont : le site web, Google ads (adwords), Google analytics, Crm (zoho), Attribution (Facebook).
 
-[![Image](/images/blog/suivi-des-urls-dans-google-ads.jpg)](/images/blog/suivi-des-urls-dans-google-ads.jpg) Suivi des urls dans google ads
+[![suivi-des-urls-dans-google-ads.jpg](/images/blog/suivi-des-urls-dans-google-ads.jpg) Suivi des urls dans google ads
 ## **Conserver la valeur des utms sur le site Web**
 
 Le site web, plateforme d’atterrissage, reçoit le trafic qui provient de Google ads, Facebook, twitter doit reconnaître et conserver les paramètres des urls entrantes venant de ces sources d’acquisition entrantes. C’est souvent là que réside le problème de la transmission des valeurs de ces variables « UTM » qui littéralement signifie « urchin tracking module ». Urchin étant le nom d’une ancienne startup créatrice de ce modèle avant Google analytics.  Le visiteur rempli un formulaire donc, valide un panier d’achat,  et lors du clic, il est redirigé ou reste sur la même page avec un message de remerciement à la fin. Ces paramètres UTM doivent être transmis jusqu’au bout du parcours. Pour cela,  un petit script récupère les valeurs de ces balises  qui sont alors stockées sous forme de cookies. Chaque fois qu'un utilisateur soumet un formulaire donné, les valeurs de cookie sont ensuite transmises dans des champs cachés du formulaire en question.
@@ -45,7 +45,7 @@ Exemple d’Url tagguée :
 
 Ou alors un simple tableur peut suffire comme celui-ci , que j’ai récupéré quelque part et Franchisé pour l’occasion : [https://docs.google.com/spreadsheets/d/1BMJ6B-NG8e03GSgGBHtpV7UoQR3SeqFGs79ZRwsjswQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BMJ6B-NG8e03GSgGBHtpV7UoQR3SeqFGs79ZRwsjswQ/edit?usp=sharing)
 
-[![Image](/images/blog/outil-utm-gratuit.gif)](/images/blog/outil-utm-gratuit.gif) outil utm gratuit
+[![outil-utm-gratuit.gif](/images/blog/outil-utm-gratuit.gif) outil utm gratuit
 
 Bon à savoir : Quand à la syntaxe , il est classique de séparer l’url des variables « utm » par un « ? » mais cela fonctionne aussi avec un « # » qui serait mieux d’un point de vue « seo » afin parfois d’éviter des scénarios de duplicate content. Mais bon, c’est déjà ici un niveau avancé dans la conception pour moi ! Mieux vaut, selon les urls présentes sur le site, faire appel à un expert qui maitrisera le sujet.
 
@@ -67,7 +67,7 @@ Il existe deux types de paramètres d'URL que vous pouvez utiliser dans le mod
 
 le suivi automatisé Classique  proposé par le système
 
-[![Image](/images/blog/gclid-vs-utm.jpg)](/images/blog/gclid-vs-utm.jpg)
+[![gclid-vs-utm.jpg](/images/blog/gclid-vs-utm.jpg)
 
  	- Le marquage automatique associe un paramètre GCLID (ID de clic Google) à l'URL sur laquelle cliquent vos clients. Cela vous permet de savoir quelle annonce a reçu un clic pour chaque visite effectuée sur votre site Web.
 
@@ -77,12 +77,12 @@ le suivi automatisé Classique  proposé par le système
 
 A noter que ce paramétrage est aussi compatible avec un marquage manuel pour Google analytics. Cela permet d’avoir à la fois les données détaillés depuis Acquisition > Google ads dans GA mais aussi d’avoir des données plus « propriétaires » de suivi dans Acquisition > campagnes
 
-[![Image](/images/blog/glcid-et-utm-dans-google-analytics.jpg)](/images/blog/glcid-et-utm-dans-google-analytics.jpg) glcid et utm dans google analytics
+[![glcid-et-utm-dans-google-analytics.jpg](/images/blog/glcid-et-utm-dans-google-analytics.jpg) glcid et utm dans google analytics
 ## **Suivi avancé  depuis Google Ads à l’aide de Gclid et Value Track**
 
 Un Template de suivi personnalisé, avec Value Track, permet de transférer des données de clics d’une annonce pour un système de suivi tiers comme un CRM par exemple. Les 2 systèmes de suivi sont donc compatibles. Le CRM peut recueillir ensuite ce genre de statistiques comme le suivi gclid, le mot clé, le cpc, la date, le coût d’acquisition total.
 
-[![Image](/images/blog/crm-et-gclid.jpg)](/images/blog/crm-et-gclid.jpg) crm et suivi gclid
+[![crm-et-gclid.jpg](/images/blog/crm-et-gclid.jpg) crm et suivi gclid
 
 Les paramètres ValueTrack sont un type de paramètre d'URL. Chaque paramètre d'URL est constitué d'un texte entre accolades ({}), comme : {matchtype}. Vous pouvez insérer ces paramètres dans l'URL finale, le modèle de suivi ou le paramètre personnalisé de votre annonce.
 
@@ -96,7 +96,7 @@ Plus d’infos ici : [https://support.google.com/google-ads/answer/6305529](htt
 
 Admettons ici qu’en plus d’un suivi Gclid et Utm, nous souhaitons aussi transférer des données de clics et de conversions à une solution tierce d’analyse d’attribution de sources de trafic. Prenons ici celle de Facebook. Il faudra donc partir du mode de tracking de Fbook récupérer les éléments et les inclure dans un modèle de suivi, ici que nous placerons au niveau du compte de toutes les sources d’acquisition comme Bing, Google, etc..
 
-[![Image](/images/blog/google-adwords-parallel-tracking.gif)](/images/blog/google-adwords-parallel-tracking.gif)
+[![google-adwords-parallel-tracking.gif](/images/blog/google-adwords-parallel-tracking.gif)
 
 Fbook attrib img
 
@@ -104,11 +104,11 @@ Img config
 
 Faire un test selon toutes les situations, et afin de ne pas trop alourdi le temps entre le clic et l’arrivée sur le site, un traitement en parallèle des redirections.
 
-[![Image](/images/blog/test-des-urls-de-redirection.jpg)](/images/blog/test-des-urls-de-redirection.jpg) Test des urls de redirection
+[![test-des-urls-de-redirection.jpg](/images/blog/test-des-urls-de-redirection.jpg) Test des urls de redirection
 
 Cela peut donner ensuite des rapports comme ceci
 
-[![Image](/images/blog/attibution-fbook.png)](/images/blog/attibution-fbook.png) attribution fbook
+[![attibution-fbook.png](/images/blog/attibution-fbook.png) attribution fbook
 ## Et le suivi dans un écosystème d’application mobile  (Vs web/user centric) ?
 
 C’est un sujet super intéressant que je propose d’aborder lors d’un prochain article !

@@ -25,57 +25,57 @@ Voilà pour rappel les principaux résultats à suivre dans google, avec un taux
 
  	- **Knowledge graph** : 59%
 
-[![Image](/images/blog/kowledge-graph-502x281.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kowledge-graph.jpg)
+[![kowledge-graph-502x281.jpg](/images/blog/kowledge-graph-502x281.jpg)
 
  	- **Cartes enrichies** : 13 %
 
-[![Image](/images/blog/rich-snippets-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/rich-snippets.jpg)
+[![rich-snippets-304x300.jpg](/images/blog/rich-snippets-304x300.jpg)
 
  	- **Pack local** : 25%
 
-[![Image](/images/blog/kg-local-243x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kg-local.jpg)
+[![kg-local-243x300.jpg](/images/blog/kg-local-243x300.jpg)
 
  	- **Google Actualités** : 15%
 
-[![Image](/images/blog/a-la-une-news-326x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/a-la-une-news.jpg)
+[![a-la-une-news-326x300.jpg](/images/blog/a-la-une-news-326x300.jpg)
 
  	- **Google Images** : 12 %
 
-[![Image](/images/blog/images-457x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/images.jpg)
+[![images-457x300.jpg](/images/blog/images-457x300.jpg)
 
  	- **Tweets Box** : 7%
 
-[![Image](/images/blog/twitter-box-serp-google-417x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/twitter-box-serp-google.jpg)
+[![twitter-box-serp-google-417x300.jpg](/images/blog/twitter-box-serp-google-417x300.jpg)
 
  	- **Autres questions posées **: 30% et** featured Snippets**
 
-[![Image](/images/blog/reponse-instantanée-et-questions-posées-295x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/reponse-instantanée-et-questions-posées.jpg)
+[![reponse-instantanée-et-questions-posées-295x300.jpg](/images/blog/reponse-instantanée-et-questions-posées-295x300.jpg)
 
  	- **Vidéos :** 10%
 
-[![Image](/images/blog/video-392x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/video.jpg)
+[![video-392x300.jpg](/images/blog/video-392x300.jpg)
 
  	- **Liens de sites** : 20%
 
-[![Image](/images/blog/sitelinks-serp-336x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sitelinks-serp.jpg)
+[![sitelinks-serp-336x300.jpg](/images/blog/sitelinks-serp-336x300.jpg)
 
  	- **Avis consommateurs **: 39%
 
-[![Image](/images/blog/avis-serp-google-385x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/avis-serp-google.jpg)
+[![avis-serp-google-385x300.jpg](/images/blog/avis-serp-google-385x300.jpg)
 
  	- **Annonces Top et Bas de page** : 57 % et 25 %
 
-[![Image](/images/blog/top-and-bottom-annonces-adwords-200x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/top-and-bottom-annonces-adwords.jpg)
+[![top-and-bottom-annonces-adwords-200x300.jpg](/images/blog/top-and-bottom-annonces-adwords-200x300.jpg)
 
  	- **Google shopping :** 15 %
 
-[![Image](/images/blog/shopping-google-494x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/shopping-google.jpg)
+[![shopping-google-494x300.jpg](/images/blog/shopping-google-494x300.jpg)
 ## **SeoPowersuite facilite le monitoring des Serp**
 
 Rank Tracker de SeoPowersuite, est pratique pour les petits projets seo, depuis des années, il s’enrichit de fonctionnalités sans cesse renouvellées avec cette possibilité d’avoir la nature de son spot dans google donc évoqués plus haut, mais aussi d’avoir celle de la pole position ! Pratique non ? C’est sans doute pas le seul outil à le faire mais certainement le moins cher du marché.
 
 Lorsque je fais mes relevés, je suis surpris que dans le domaine du **webmarketing**, pas moins d’une dizaine de Serp différentes ressortent ! Images, vidéos, Knowledge graph, avis, cartes enrichies, actus, publicités, réponses directes…
 
-[![Image](/images/blog/RELEVES-DE-POSITION-SERP-GOOGLE-469x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/RELEVES-DE-POSITION-SERP-GOOGLE.jpg) RELEVES DE POSITION SERP GOOGLE
+[![RELEVES-DE-POSITION-SERP-GOOGLE-469x300.jpg](/images/blog/RELEVES-DE-POSITION-SERP-GOOGLE-469x300.jpg) RELEVES DE POSITION SERP GOOGLE
 
 A vous de jouer donc dans vos projets de monitoring seo, de control de positiions, de ranking dans google.

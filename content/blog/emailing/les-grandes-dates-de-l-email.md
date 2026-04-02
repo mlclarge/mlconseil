@@ -28,7 +28,7 @@ L’**email** ou autrement appelé [courrier électronique,](https://fr.wikiped
 
  	- **1982** : Scott Fahlman, chercheur américain, invente le smiley
 
-[![Image](/images/blog/2008-barrack-obama.jpg)](/images/blog/2008-barrack-obama.jpg) Le politique à la conquête de l'email
+[![2008-barrack-obama.jpg](/images/blog/2008-barrack-obama.jpg) Le politique à la conquête de l'email
 
  	- **1985** : L’usage de l’email devient commun dans les institutions (états, universités, armées)
 
@@ -70,4 +70,4 @@ L’**email** ou autrement appelé [courrier électronique,](https://fr.wikiped
 
 ## **Infographie email **
 
-[](/images/blog/histoire-de-lemail.jpeg)[![Image](/images/blog/histoire-de-lemail.jpeg)](/images/blog/histoire-de-lemail.jpeg)
+[](/images/blog/histoire-de-lemail.jpeg)[![histoire-de-lemail.jpeg](/images/blog/histoire-de-lemail.jpeg)

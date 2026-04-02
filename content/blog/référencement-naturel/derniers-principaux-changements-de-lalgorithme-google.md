@@ -11,7 +11,7 @@ Je ne reviendrai pas sur la très controversée mesure de Google sur la non divu
 
 	- **Mise à jour pour les requêtes faites en langues considérées comme "minoritaires"** par le moteur de recherche* (Afrikaans, Malay, Slovak, Swahili, Hindi, Norwegian, Serbian, Catalan, Maltese, Macedonian, Albanian, Slovenian, Welsh, Icelandic)*, les résultats seront traduits de l'anglais vers la langue de la requête.
 
-[![Image](/images/blog/foreign-languages-queries-300x222.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/foreign-languages-queries.png)
+[![foreign-languages-queries-300x222.png](/images/blog/foreign-languages-queries-300x222.png)
 
 	- Snippets ou** morceaux de code seront mieux remontés** au lieu de contenus situés dans les entêtes de pages , donc webmasters, consulter le schema.org pour améliorer la lisibilité des pages.
 
@@ -19,13 +19,13 @@ Je ne reviendrai pas sur la très controversée mesure de Google sur la non divu
 
 	- Elargissement des** "rich snippets" pour les applications**, afin d'avoir des détails comme le coût et les avis directement sur la page de recherche
 
-[![Image](/images/blog/rich-snippets-applications-300x62.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/rich-snippets-applications.png)
+[![rich-snippets-applications-300x62.png](/images/blog/rich-snippets-applications-300x62.png)
 
 	- Retrait d'un **"signal"  dans la recherche d'images **qui ont des références dans de multiples documents sur le net *(google insère des filtres selon certains critères et selon ce que cela donne dans le temps, il les supprime). Un peu flou  pour ma part cette suppression !  :) *.
 
 	- Emphase donnée aux **contenus liés à l'actualité**, j'en avais déjà parlé ici au sujet de la mise à jour de cafféine.
 
-[![Image](/images/blog/freshness-results-google-300x232.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/freshness-results-google.png)
+[![freshness-results-google-300x232.png](/images/blog/freshness-results-google-300x232.png)
 
 	- Amélioration de la** détection des pages "officielles" **et donc amélioration de leurs positionnements dans le moteur *(officielle dans le jargon indique les pages dont le contenu source est bien privilègié et ne provient pas d'une duplication)*.
 

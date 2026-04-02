@@ -14,7 +14,7 @@ Des outils d’aide à l’**optimisation de campagnes** [Google Adwords](https:
 
 Bonjour Maurice, [adCore](https://www.adcore.com/) est une solution d'automatisation et optimisation de campagnes SEM permettant aux utilisateurs de gérer leurs campagnes à partir d'une seule et unique interface. Les utilisateurs peuvent créer des règles personnalisées par rapport à leurs pratiques habituelles. adCore permet à ses utilisateurs de gagner un temps précieux en automatisant le processus de création et gestion quotidienne des campagnes tel que la gestion des enchères, les tests A/B et plus encore, dans un objectif d'amélioration du ROI.
 
-[![Image](/images/blog/adcore-fonctionnalités-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/adcore-fonctionnalités.jpg) Fonctionnalités principales Adcore
+[![adcore-fonctionnalités-310x166.jpg](/images/blog/adcore-fonctionnalités-310x166.jpg) Fonctionnalités principales Adcore
 
 **Quel est ton rôle au sein de la société ?**
 
@@ -30,7 +30,7 @@ Google offre des solutions limitées en matière de création et automatisation 
 
 Enfin, adCore propose plusieurs niveaux de contrôle en matière d'automatisation. Les utilisateurs d'adCore ont la possibilité de préalablement approuver les changements proposés par adCore ou laisser adCore automatiquement gérer les changements.
 
-[![Image](/images/blog/gestion-des-termes-de-recherche-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/gestion-des-termes-de-recherche.jpg) Gestion des termes de recherche
+[![gestion-des-termes-de-recherche-310x177.jpg](/images/blog/gestion-des-termes-de-recherche-310x177.jpg) Gestion des termes de recherche
 
 **Quel est votre modèle économique ?**
 

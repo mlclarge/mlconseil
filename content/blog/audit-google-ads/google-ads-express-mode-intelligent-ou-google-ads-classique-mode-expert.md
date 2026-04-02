@@ -36,7 +36,7 @@ Sinon voici selon google les fonctionnalités principales du mode simplifié
 
 ## **J'ai une campagne qui tourne en Ads Express dois-je passer en Google Ads ? ("mode expert" dans l'interface)**
 
-[![Image](/images/blog/activer-le-mode-expert-google-ads-453x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/activer-le-mode-expert-google-ads.png) faut il activer le mode expert google ads ?
+[![activer-le-mode-expert-google-ads-453x300.png](/images/blog/activer-le-mode-expert-google-ads-453x300.png) faut il activer le mode expert google ads ?
 ### ***Les compétences réclamées sont elles présentes chez l’annonceur ?***
 
 Le passage de la solution très simplifiée vers celle plus classique est loin d'être évidente et dépend étroitement de la maturité des marques sur la stratégie d'acquisition en ligne. Il m'arrive de faire des audits de compte google ads express ! Rien n'est évident dès le départ, le postulat "rien de ne vaut google ads classique" n'est qu'un raccourci de la problématique. Un audit est un préalable. Une compétence en interne est-elle disponible, combien de temps peut on y allouer ? Externaliser par une agence ou un freelance est souvent peine perdue, car les budgets sont souvent petits, le montant des frais de maintenance externe dépasserait l'achat de clics !
@@ -56,17 +56,17 @@ La solution classique permet une personnalisation complète du message de l'anno
 
 - [Des rapports pour auditer](https://www.mauricelargeron.com/15-points-a-checker-pour-google-ads/) hautement précis, parfois même trop nombreux peuvent perdre le néophyte, rapport de base, personnalisées, segmentation des données, brefs des dizaines de rapports peuvent être consultés. Alors ads express, tout est réuni dans un seul tableau de bord. Ce dernier existe aussi pour la version 'experte" mais il est là aussi plus détaillé.
 
-[![Image](/images/blog/différences-entre-mode-expert-et-simple-502x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/différences-entre-mode-expert-et-simple.jpg) Création d'une campagne  :  entre mode expert et intelligent
+[![différences-entre-mode-expert-et-simple-502x237.jpg](/images/blog/différences-entre-mode-expert-et-simple-502x237.jpg) Création d'une campagne  :  entre mode expert et intelligent
 ## **L’optimisation offerte par le mode expert peut elle peser dans la balance ?**
 
 L'entreprise qui s'est engagée dans des campagnes peut se poser la légitimement la question de la rentabilité. Mes campagnes sont-elles rentables ? Le programme Ads Express s'est enrichi depuis son [lancement voir déjà bientôt 9 ans](https://www.mauricelargeron.com/initiation-campagne-publicitaire-locale/). Les rapports et les fonctionnalités sont plus efficaces. On peut échafauder sur ce que rapporte un compte ads express par la remontée des appels reçus, les actions effectuées sur une fiche GMB.
-[![Image](/images/blog/ad-express-rapport-502x292.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/ad-express-rapport.jpg) Tableau de bord des campagnes intelligentes
+[![ad-express-rapport-502x292.jpg](/images/blog/ad-express-rapport-502x292.jpg) Tableau de bord des campagnes intelligentes
 
 Il suffira ensuite de faire un rapprochement entre ces données offline et la progression des ventes. Ce que pousse aussi Ads Express, ce sont les annonces pour Google Maps. Pour les visites dans une boutique il faudra faire des offres uniquement visibles sur GMB, ou alors demander systématiquement comment les nouveaux clients ont découvert le magasin. Personnaliser les pages de destination pour les ventes en ligne, faire un suivi des appels pour les ventes ayant un chemin de conversion plus long.
-[![Image](/images/blog/google-ads-express-428x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/google-ads-express.jpg) Annonces sur Google maps : 100 % utile ici !
+[![google-ads-express-428x300.jpg](/images/blog/google-ads-express-428x300.jpg) Annonces sur Google maps : 100 % utile ici !
 
 L'optimisation des campagnes, si la rentabilité est perçue, passe par une constante vérification des impressions déclenchées par le choix de la ou des catégories métier. Google ads express à une tendance à pousser l’enseigne, la marque de l'annonceur. Et une surexposition fait des impressions, des clics, qui parfois est un pur gâchis de budget au détriment de requêtes plus métiers reliés au produit ou service vendu.
-[![Image](/images/blog/ADS-354x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/ADS.png) Annonces sur google maps, aucun intérêt  !
+[![ADS-354x300.png](/images/blog/ADS-354x300.png) Annonces sur google maps, aucun intérêt  !
 
 Pour vous y aider voilà résumé par google les **7  différences majeures  entre la gestion en mode simplifiée express dit "intelligent" **et le mode plus avancé de google ads
 

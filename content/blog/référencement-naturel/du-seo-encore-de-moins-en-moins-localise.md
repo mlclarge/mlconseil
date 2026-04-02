@@ -12,7 +12,7 @@ Les meilleurs articles sur le **seo local**, enfin ceux qui me semblent les plus
 
 ## **Etat des lieux des serp locales **
 
-[![Image](/images/blog/possum-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/possum.jpg) Possum : algo du changement
+[![possum-310x139.jpg](/images/blog/possum-310x139.jpg) Possum : algo du changement
 ### ***Local Pack + Possum et ses conséquences***
 
 Il y a eu durant l’été un changement de packaging, donc de présentation des résultats locaux de Google maps déclenchés sur les serps de Google de sa première page. De 7 liens on passe à 3. La forme des picots change, la présentation est plus austère sans fioriture, surtout lorsqu’il n’y a pas d’avis.
@@ -23,7 +23,7 @@ Il y a eu durant l’été un changement de packaging, donc de présentation des
 
  	- 4 types de liens : un seul amène vers le site web, les 3 restants  sur une liste Google maps si l’on clique sur le listing, sur la fiche  issue de Google my business s’il l’on tape sur le lien du professionnel avec picot. Local.
 
-[![Image](/images/blog/peinture-artsan-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/peinture-artsan.jpg)
+[![peinture-artsan-302x300.jpg](/images/blog/peinture-artsan-302x300.jpg)
 
  	- Ce listing n’est pas figé, et peut changer selon la localisation de l’internaute
 
@@ -51,7 +51,7 @@ Celui a apporté un changement dans la façon de se classer sur une carte. Voil�
 
  	- Enfin, et paradoxalement au point évoqué plus haut sur le filtrage anti-duplicate, certains résultats laisse apparaître des doublons, c’est-à-dire présent à la fois sur le pack 3 et sur les serp traditionnelles naturelles, ce qui laisse à ses bénéficiaires **une double présence**. Pour optimiser ce genre de résultats, il faut jouer la carte hybride et l’équilibre entre d’une part des signaux classiques de référencement naturel et d’autre part, ceux liés au seo local.
 
-[![Image](/images/blog/patisseries-local-pluriels-310x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/patisseries-local-pluriels.jpg) Avec ou Sans "s" , algo. est plus précis
+[![patisseries-local-pluriels-310x216.jpg](/images/blog/patisseries-local-pluriels-310x216.jpg) Avec ou Sans "s" , algo. est plus précis
 
 ***Etude de Neil Patel pour terminer***
 
@@ -69,7 +69,7 @@ Quelques idées  pour **renforcer sa visibilité local**e sur les moteurs de re
 
 Ce post souligne une façon d’améliorer son CTR sur le rendu du listing de Google maps : [https://goo.gl/FZrhFR](https://goo.gl/FZrhFR)
 
-[![Image](/images/blog/google-local-kp-emoji-3-310x295.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/google-local-kp-emoji-3.jpg) Emoji inséré dans la liste Pack 3
+[![google-local-kp-emoji-3-310x295.jpg](/images/blog/google-local-kp-emoji-3-310x295.jpg) Emoji inséré dans la liste Pack 3
 
 Une infographie éclairante sur le gabarit d’une landing page seo friendly ! https://niftymarketing.com/optimal-local-landing-page-infographic/
 
@@ -87,7 +87,7 @@ Une infographie éclairante sur le gabarit d’une landing page seo friendly ! 
 
  	- Rédactionnel
 
-[![Image](/images/blog/optimal-landing-page-original-307x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/optimal-landing-page-original.jpg) Gabarit de Page de destination marquée localement
+[![optimal-landing-page-original-307x300.jpg](/images/blog/optimal-landing-page-original-307x300.jpg) Gabarit de Page de destination marquée localement
 
  	- Un outil pour construire ses requêtes locales, bon, rien de rare, mais le site en lui-même vaut le coup d’être consulté ; [http://www.localseoguide.com/the-local-keyword-generator-tool/](http://www.localseoguide.com/the-local-keyword-generator-tool/)
 
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=7XiOXNYZ7wE
 
 J’ai récolté ici, les réponses de la communauté advertiser community France.   Cette dernière je vous le rappelle, assiste les annonceurs sur 3 thématiques distinctes :  Adwords, Google mu business, et Google analytics.
 
-[![Image](/images/blog/adwords-communaute-310x286.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/adwords-communaute.jpg) Communauté adwords dévouée !
+[![adwords-communaute-310x286.jpg](/images/blog/adwords-communaute-310x286.jpg) Communauté adwords dévouée !
 
  	- Comment associer une page G+ et une page GMB ? : [https://goo.gl/osxrCh](https://goo.gl/osxrCh)
 
@@ -116,11 +116,11 @@ J’ai récolté ici, les réponses de la communauté advertiser community Franc
 
  	- Des nouvelles serp outre atlantique vont-elles arriver chez nous, ou le sont-elles déjà au fait ?  L’organisation des différents snippers changent véritablement. Le pack 3 local est repoussé plus en bas, laissant place sur cette recherche «agence digitale «  la place à adwords, à l’actualité, à maps, et ensuite aux serp organiques classiques.
 
-[![Image](/images/blog/google-card-news-ads-local-2.png)](/images/blog/google-card-news-ads-local-2.png) Nouvellles serp locales
+[![google-card-news-ads-local-2.png](/images/blog/google-card-news-ads-local-2.png) Nouvellles serp locales
 
  	- Il n’y a pas que Google dans la vie. L’autre américain se voit aussi bien placé dans l’acquisition de trafic, de leads, de contact dans une zone de proximité. Les campagnes locales se veulent ultra-précises dans leur ciblage, à ne pas ignorer donc, c'est l'intrus de la série.
 
-[![Image](/images/blog/facebook-campagne-locales-347x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/facebook-campagne-locales.jpg)
+[![facebook-campagne-locales-347x300.jpg](/images/blog/facebook-campagne-locales-347x300.jpg)
 
  	- Notez la fin de mapMaker au printemps prochain 2017, avec une intégration des outils dans l’interface unique de Google maps, lisez cet article : [https://goo.gl/Eddi0W](https://goo.gl/Eddi0W)
 
@@ -128,6 +128,6 @@ J’ai récolté ici, les réponses de la communauté advertiser community Franc
 
  	- Ce nouveau format de publicité dans le pack 3 local, outre atlantique, commence à être testé avec des variantes sur les smartphones.
 
-[![Image](/images/blog/nouvelle-pub-dans-listing-pack-3-310x184.png)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/nouvelle-pub-dans-listing-pack-3.png) Nouveau format d'annonces dans le pack local
+[![nouvelle-pub-dans-listing-pack-3-310x184.png](/images/blog/nouvelle-pub-dans-listing-pack-3-310x184.png) Nouveau format d'annonces dans le pack local
 
  	- Enfin, toutes les nouvelles fonctionnalités de Google my business se trouvent ici : [https://goo.gl/xTT5Iz](https://goo.gl/xTT5Iz)

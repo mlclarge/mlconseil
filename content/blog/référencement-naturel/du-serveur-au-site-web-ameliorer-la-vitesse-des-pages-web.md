@@ -20,7 +20,7 @@ Alors banco, cela a pris 10 minutes chrono, avec interdiction d’écrire sur la
 
 Résultat ? Prenons comme étalon, la page d’accueil sur un site WordPress. Sans aller rentrer dans les outils de Benchmark dans un premier temps. Les pages s’affichent plus vite, après bien sûr vidage de cache au préalable en partant d’une session toute neuve. Je dirai au doigt mouillé que j’ai pu gagner, selon les pages une grosse demi-seconde soit 500 ms tout de même ! Si vous êtes curieux sur l'histoire des processeurs, cette infographie vaut le détour...
 
-[![Image](/images/blog/histoire-des-processeurs-intel-502x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/histoire-des-processeurs-intel.jpg) histoire des processeurs intel
+[![histoire-des-processeurs-intel-502x233.jpg](/images/blog/histoire-des-processeurs-intel-502x233.jpg) histoire des processeurs intel
 ### ***Comment vraiment vérifier la vitesse réelle d’un site web ?***
 
 Il y a de nombreux outils, mais cela dépend vraiment du contexte utilisateur, dans l’idéal aujourd’hui, il faut faire confronter  différents outils  en mode 3G pour être au fait de la mobilité et de l’affichage sur les smartphones.
@@ -28,16 +28,16 @@ Il y a de nombreux outils, mais cela dépend vraiment du contexte utilisateur, d
 
  	- Certains sont flatteurs comme Pingdom  qui me donne moins  de bons résultats,   je passe sous la barre de 1 seconde …hum hum...
 
-[![Image](/images/blog/temps-de-chargement-pingdom-449x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/temps-de-chargement-pingdom.jpg) temps de chargement pingdom
+[![temps-de-chargement-pingdom-449x300.jpg](/images/blog/temps-de-chargement-pingdom-449x300.jpg) temps de chargement pingdom
 
  	- D’autres, moins flexibles pour paramétrages donnent des performances moins flatteuses comme DareBoost, GtMetrix, GooglePage Speed, WebpageTest.
 
-[![Image](/images/blog/temps-de-chargement-site-web-502x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/temps-de-chargement-site-web.jpg) temps de chargement site web aec Gt Métrix
+[![temps-de-chargement-site-web-502x226.jpg](/images/blog/temps-de-chargement-site-web-502x226.jpg) temps de chargement site web aec Gt Métrix
 ### ***Des  outils côté « client »***
 
  	- Plugins natifs de chrome ou lightHouse, mais encore [a](https://www.apptelemetry.com/)pptelemetry.com qui semblent plus proche de la vérité, la vôtre sur le moment uniquement ! Je suis sans doute plus proche de la réalité ici qu'avec les 2 outils précédents., entre 1 et 2 secondes sur la page d'accueil.
 
-[![Image](/images/blog/temps-de-chargement-reel-coté-client-453x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/temps-de-chargement-reel-coté-client.jpg) Temps de chargement reel coté client
+[![temps-de-chargement-reel-coté-client-453x300.jpg](/images/blog/temps-de-chargement-reel-coté-client-453x300.jpg) Temps de chargement reel coté client
 ### ***Des Services tiers de test utilisateurs***
 
  	- Des plateformes  comme [https://www.userlynx.com/](https://www.userlynx.com/) permettent de prendre du recul et d’avoir une vision utilisateurs plus exhaustive  et en plus de travailler sur l’expérience utilisateur (UX)
@@ -46,7 +46,7 @@ Il y a de nombreux outils, mais cela dépend vraiment du contexte utilisateur, d
 
  	- **Optimisation du PHP** du site grâce à la gestion des connections, des caches avec** Nginx ou Varnish** comme Reverse Proxy. Cela consiste à utiliser via ces logiciels principalement des modes de compressions comme brotli (pas reconnu par des outils de test de vitesse d’ailleurs), gzip, http2. Le but étant d’optimiser le chargement du code source du site web. Bon je ne m’aventure pas trop là-dedans, trop technique et je pourrais raconter n’importe quoi. Ci-dessous les principaux apports des techniques du marché.
 
-[![Image](/images/blog/caracteristiques-nginx-varnish-et-autres-1-502x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/caracteristiques-nginx-varnish-et-autres-1.jpg) Sur mon site j’ai Nginx d’installé.
+[![caracteristiques-nginx-varnish-et-autres-1-502x204.jpg](/images/blog/caracteristiques-nginx-varnish-et-autres-1-502x204.jpg) Sur mon site j’ai Nginx d’installé.
 ## **Optimiser aussi son Seo côté site web**
 
  	- Un **langage optimisé** : dans le cas de WordPress, depuis 2015 les versions sont compatibles php7 une sacré évolution sur la 5.6 (2 fois plus performant en gros en vitesse d’exécution).

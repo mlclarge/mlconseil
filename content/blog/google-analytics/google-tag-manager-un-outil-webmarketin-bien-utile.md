@@ -22,7 +22,7 @@ Il faut savoir un petit peu comprendre le langage JavaScript
 
  	- Vérifier, tester
 
-[![Image](/images/blog/coder.jpg)](/images/blog/coder.jpg) Dur dur de coder pour un marketeur
+[![coder.jpg](/images/blog/coder.jpg) Dur dur de coder pour un marketeur
 
 Entretemps, le code selon les cms a été modifié par l’éditeur natif (Joomla, WordPress..) et commence la galère. Le développeur qui peut vous aider n’a pas que cela à faire, et votre contenu, tout neuf, tout beau sur la page, reste seul, vierge de tout marquage, face aux éventuelles interactions des visiteurs !
 
@@ -30,7 +30,7 @@ Entretemps, le code selon les cms a été modifié par l’éditeur natif (Jooml
 
  GTM est composé de bouts de Js (listeners) et d'un conteneur de données (dataLayer) automatisé.
 
-[![Image](/images/blog/automatiser-310x149.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/automatiser.jpg) Tracking assisté avec GTM
+[![automatiser-310x149.jpg](/images/blog/automatiser-310x149.jpg) Tracking assisté avec GTM
 
 Si on détaille, un temps d’apprentissage est nécessaire pour comprendre la logique de la plateforme certes ! Mais ensuite c’est tout bénéfice pour la suite des tâches de marquage. En effet, GTM embarque dans sa librairie JS nativement des **écouteurs prêts à   l’emploi** qui couvrent l’essentiel des besoins en
 
@@ -56,15 +56,15 @@ Si on détaille, un temps d’apprentissage est nécessaire pour comprendre la l
 
  	- Envoie ensuite à des solutions d'optimation de marketing online la data (balises).
 
-[![Image](/images/blog/collecteur-gtm-310x106.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/collecteur-gtm.jpg) Processus GTM
+[![collecteur-gtm-310x106.jpg](/images/blog/collecteur-gtm-310x106.jpg) Processus GTM
 
 Ce qu’impose GTM par rapport à la méthode « traditionnelle » manuelle,  est dû à sa nature (pilotage distant du marquage),  donc il faut lui replacer tous les éléments dans le bon ordre.  GTM demande à se poser 3 questions :
 
-[![Image](/images/blog/processus-marquage-Gtm-310x144.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/processus-marquage-Gtm.jpg) Raisonnement marquage d'un lien sortant
+[![processus-marquage-Gtm-310x144.jpg](/images/blog/processus-marquage-Gtm-310x144.jpg) Raisonnement marquage d'un lien sortant
 
 ***LA VARIABLE*  c’est lui indiquer ce que l’on veut suivre !** Le QUOI en résumé. Cela  correspondant à l’objet que je souhaite suivre, dans le cadre d’un suivi de lien sortant, c’est **l’identification de l’image**  qui pointe vers un site tiers. Le débogueur du gestionnaire de balise nous aide à identifier cela. Exemple avec ce clic sur le l’image vers Apple store. C’est automatiquement tracé !
 
-[![Image](/images/blog/identification-de-la-vairiable-310x107.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/identification-de-la-vairiable.jpg) Identification de la variable : objet à cliquer
+[![identification-de-la-vairiable-310x107.jpg](/images/blog/identification-de-la-vairiable-310x107.jpg) Identification de la variable : objet à cliquer
 
  	- Variable : click élément
 
@@ -72,13 +72,13 @@ Ce qu’impose GTM par rapport à la méthode « traditionnelle » manuelle, 
 
  	- Comment : suite à un clic (event : à ne pas confondre avec l’event de GA !) et lorsque qu’un élément de type variable ‘click élément » comporte « iTunes
 
-[![Image](/images/blog/declencheur-gtm-310x172.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/declencheur-gtm.jpg) **Declencheur gtm**
+[![declencheur-gtm-310x172.jpg](/images/blog/declencheur-gtm-310x172.jpg) **Declencheur gtm**
 ### **NOTER A CE STADE QUE CETTE CONFIGURATION NE CONCERNE EN RIEN GOOGLE ANALYTICS !**
 
 ***LA BALISE ***Reste ensuite à relier Variable et Déclencheur à l’application de tracking ici donc GA avec le modèle de data habituel des évènements (catégorie, action, libellé)  sur l’ordre du déclencheur préalablement défini.
 
-[![Image](/images/blog/balise-GA-310x273.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/balise-GA.jpg) Balise - Tag GA
+[![balise-GA-310x273.jpg](/images/blog/balise-GA-310x273.jpg) Balise - Tag GA
 
 Puis à contrôler le résultat…
 
-[![Image](/images/blog/google-analytics-evenement-310x199.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/google-analytics-evenement.jpg) Control dans GA temps réel
+[![google-analytics-evenement-310x199.jpg](/images/blog/google-analytics-evenement-310x199.jpg) Control dans GA temps réel

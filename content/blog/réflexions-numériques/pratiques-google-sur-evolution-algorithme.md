@@ -17,7 +17,7 @@ Selon Éric Schmidt ont été conduits en 2010, 13 311 tests d'évaluation pour
 
 Finalement, ce processus s'est traduit par 516 modifications dans l'algorithme de Google, la plupart de ces changements sont imperceptibles pour l'utilisateur et n’affectent qu'une petite partie des sites Internet précise M. Schmidt.
 
-[![Image](/images/blog/Panel_google.jpg)](/images/blog/Panel_google.jpg) Panel humains
+[![Panel_google.jpg](/images/blog/Panel_google.jpg) Panel humains
 
 Ce n'est pas un secret que Google utilise des ressources humaines pour qualifier ces changements d'algorithme , déjà en 2008 Google faisait connaître sa politique dans l’évaluation de ses paramètres d’algorithme, ce document  n’est plus disponible mais cet article (en anglais) en trace les grandes lignes.
 

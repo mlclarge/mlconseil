@@ -14,7 +14,7 @@ C’est la saison des « keynotes » dans la silicone valley à San Francisco.
 
 Cette présentation a vu se succéder pas moins de **6 cadres de la team** **sea chez Google** sur une scène panoramique pas piquée des vers comme dirait l’autre !
 
-[![Image](/images/blog/scene-google-partners-310x121.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/scene-google-partners.jpg) Scène panoramique du séminaire
+[![scene-google-partners-310x121.jpg](/images/blog/scene-google-partners-310x121.jpg) Scène panoramique du séminaire
 
 Une vidéo de présentation dresse le décor, notre vie est faîte de micro **moments,** ces derniers liés à nos usages quotidiens qui vont de la simple information..à l’achat bien sûr, là où la marque doit s’immiscer d'une manière fluide.
 Les intervenants s'appuient sur des données et les chiffres tombent  :
@@ -47,11 +47,11 @@ A la vue de ces études, la **priorité est donné au [mobile](https://www.mauri
 
  	- Les annonces textuelles se voient dotées de plus de texte (50% en plus), que va-t-il rester au seo J
 
-[![Image](/images/blog/annonces-textuelle-269x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/annonces-textuelle.jpg) Annonces textuelle mobiles plus riches
+[![annonces-textuelle-269x300.jpg](/images/blog/annonces-textuelle-269x300.jpg) Annonces textuelle mobiles plus riches
 
  	- Les formats de bannières display se font un lifting : responsive, plus immersives
 
-[![Image](/images/blog/formats-dbm-et-gdn-display-2016-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/formats-dbm-et-gdn-display-2016.jpg) Formats display mobile
+[![formats-dbm-et-gdn-display-2016-310x176.jpg](/images/blog/formats-dbm-et-gdn-display-2016-310x176.jpg) Formats display mobile
 
  	- Les inventaires du réseau DoubleClick et GDN s’entrecroisent plus simplement (cross exchange)
 

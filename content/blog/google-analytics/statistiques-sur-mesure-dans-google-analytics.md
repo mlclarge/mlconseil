@@ -10,7 +10,7 @@ image: "/images/blog/statistiques-calculees-ga.jpg"
 
 Attardons-nous sur une fonctionnalité qui donne un grand pouvoir dans la **[personnalisation de statistiques de google analytics](https://support.google.com/analytics/answer/2709829?hl=fr&ref_topic=2709827)**. Out of the box, ga affiche des données dans ses rapports standards selon un schema classique comme par exemple : le croisement d'une dimension, valeur insécable (comme un utilisateur) avec une statistique, valeur quantifiable (nombre de pages vues). Jusqu'à présent il était impossible de pouvoir créer de toute pièce ses propres indicateurs de suivi, désormais, c'est possible, ce qui apporte plus de flexibilité dans la connaissance de son audience et évite d'aller bidouiller dans un tableur externe !
 
-[![Image](/images/blog/statifisques-calculees-ga-310x227.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/statifisques-calculees-ga.jpg) Principes statistiques calculees
+[![statifisques-calculees-ga-310x227.jpg](/images/blog/statifisques-calculees-ga-310x227.jpg) Principes statistiques calculees
 ## **Ingrédients pour monter ses propres indicateurs statistiques**
 
 L'interface est simplicime dans son usage : nommage du ratio, type de variable souhaitée, et indicateurs à associer.
@@ -26,7 +26,7 @@ L'interface est simplicime dans son usage : nommage du ratio, type de variable s
 
  	- Percentage (avec personnalisation après la virgule)
 
-[![Image](/images/blog/fonctionnalité-statistique-calculée-analytics-1-276x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/fonctionnalité-statistique-calculée-analytics-1.jpg) Statistiques calculées dans GA
+[![fonctionnalité-statistique-calculée-analytics-1-276x300.jpg](/images/blog/fonctionnalité-statistique-calculée-analytics-1-276x300.jpg) Statistiques calculées dans GA
 ### ***Formulation et opérateurs disponibles***
 
  	- Plus (+)
@@ -48,7 +48,7 @@ Ceux Standards de GA et personnalisés issus des objectifs, des dimensions perso
 
 L'intérêt de cette fonctionnalité nouvelle est de pouvoir ramener certains indicateurs globaux d'une part à une échelle user centric (utilisateurs : atteinte des **micro-conversions**) et d'autre part à mieux appréhender certaines entités liées aux [sources de trafic](https://www.mauricelargeron.com/deduplication-au-service-de-lannonceur/) comme le Roi d'une campagne adwords par visite.
 
-[![Image](/images/blog/rapport-personnalisés-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/rapport-personnalisés.jpg) DIsponibilité des SC
+[![rapport-personnalisés-310x204.jpg](/images/blog/rapport-personnalisés-310x204.jpg) DIsponibilité des SC
 
 A noter qu'il est possible pour ces statistiques "maison" :
 
@@ -60,7 +60,7 @@ A noter qu'il est possible pour ces statistiques "maison" :
 
  	- de les supprimer (attention une fois modifié dans l'admin, de les supprimer )
 
-[![Image](/images/blog/rapport-personnalisés-2-310x94.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/rapport-personnalisés-2.jpg) Lecture des rapports perso. dans GA avec Stat. Calc.
+[![rapport-personnalisés-2-310x94.jpg](/images/blog/rapport-personnalisés-2-310x94.jpg) Lecture des rapports perso. dans GA avec Stat. Calc.
 ## **Exemples d'indicateurs de performances**
 
 ### ***Acquisition (campagne)***

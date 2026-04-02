@@ -38,35 +38,35 @@ J’ai demandé du secours à un developpeur  et notamment à Jean Moga  pour
 
 Apparemment mon compte MCC ne suffisait pas, étant sans doute en mode attente de clé API, il fallait signer les conditions TOS de Google *, . Bon, un peu galère pour trouver ce formulaire…mais ils sont très réactif, quelques après j’avais un document à signer et accepté dans la foulée.
 
-[![Image](/images/blog/signature-tos-adwords-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/signature-tos-adwords.jpg) Signature du contrat TOS api Adwords
+[![signature-tos-adwords-310x221.jpg](/images/blog/signature-tos-adwords-310x221.jpg) Signature du contrat TOS api Adwords
 ### **Second probleme  d'autorisation accès Api**
 
 cela entraine ce genre de message d’erreur : redirec-uri-mismatch
 
-[![Image](/images/blog/error-oauth-api-adwords-268x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/error-oauth-api-adwords.jpg) Erreur oauth api adwords
+[![error-oauth-api-adwords-268x300.jpg](/images/blog/error-oauth-api-adwords-268x300.jpg) Erreur oauth api adwords
 
 Le souci ici est lié au système d’identification renseigné au niveau du **fichier  auth.ini** h où il est demandé d’avoir un clientId plus une clé secrète à renseigner dans ce fichier. Il faut aller la chercher sur la console développeur de Google et surtout, ne pas se tromper dans le choix de l’application, il faut prendre le choix « application installée » et « autre ».
 
-[![Image](/images/blog/processus-autorisation-adwords-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/processus-autorisation-adwords.jpg) Configuration Autorisation Accès Api
+[![processus-autorisation-adwords-310x272.jpg](/images/blog/processus-autorisation-adwords-310x272.jpg) Configuration Autorisation Accès Api
 ## **Récupération des données de la campagne du bac à sable !**
 
 Bon cette fois, je pense que la configuration est bonne. J’appelle donc via le script GetKeywords, les mots clés de mon groupe d’annonces …cela marche !  Ouf !
 
-[![Image](/images/blog/resulats-comande-adwords-310x43.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/resulats-comande-adwords.jpg) Resulats commande adwords via script php
+[![resulats-comande-adwords-310x43.jpg](/images/blog/resulats-comande-adwords-310x43.jpg) Resulats commande adwords via script php
 ## **Présentation sous forme de page Html**
 
 Afin d’avoir une présentation plus agréable,  sous forme de page web, Jean M.  m’a inséré  dans le script,  tout simplement des balises html pour créer une  page html à l'intérieur du fichier GetKeywords.php  . C'est une méthode, mais d'autres existent...
 
-[![Image](/images/blog/affichage-html-resultat-requete-via-api-310x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/affichage-html-resultat-requete-via-api.jpg) affichage html resultat requete via api
+[![affichage-html-resultat-requete-via-api-310x233.jpg](/images/blog/affichage-html-resultat-requete-via-api-310x233.jpg) affichage html resultat requete via api
 
 Dans un navigateur, cela donne cela...
 
-[![Image](/images/blog/affichage-page-web-api-adwords-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/affichage-page-web-api-adwords.jpg) Affichage page web commande api adwords
+[![affichage-page-web-api-adwords-310x217.jpg](/images/blog/affichage-page-web-api-adwords-310x217.jpg) Affichage page web commande api adwords
 ## **Etapes par étapes le processus démarrer avec l'api adwords**
 
 Une illustration vaut mieux que du blabla , donc les 7 étapes capitales du processus dans sa globalité :
 
-[![Image](/images/blog/api-tutoriel-310x76.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/api-tutoriel.jpg) Process global
+[![api-tutoriel-310x76.jpg](/images/blog/api-tutoriel-310x76.jpg) Process global
 
 Eh bien "tout çà pour çà" comme dit l’autre…bon, et beh,  je serais développeur dans une autre vie sans doute…après tout, chacun son métier !
 

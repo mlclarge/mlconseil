@@ -20,11 +20,11 @@ Partons donc de la base : les fameux [4Ps](https://www.mauricelargeron.com/evol
 
  	- **Produit, prix, placement, promotion**
 
-[![Image](/images/blog/emarketing-4p-457x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/emarketing-4p.jpg) Le modèle McCarthy
+[![emarketing-4p-457x300.jpg](/images/blog/emarketing-4p-457x300.jpg) Le modèle McCarthy
 
 Pour chacun des variables Ps, il est possible de se fixer des objectifs, d’y appliquer des indicateurs de suivis  pour se donner un cap dans le temps (key performance indicators) et d’y adjoindre les moyens tactiques  opérationnels (plans d’actions) : nous avons là tous les éléments d’un plan marketing solide soutenu par une vision sur le long terme, liée au marché à conquérir. On peut aussi englober cela dans un ensemble,  nommé stratégie sur le domaine qui nous intéresse ici, le  marketing.
 
-[![Image](/images/blog/emarketing-4p-apple-467x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/emarketing-4p-apple.jpg) Illustration de la stratégie Appole
+[![emarketing-4p-apple-467x300.jpg](/images/blog/emarketing-4p-apple-467x300.jpg) Illustration de la stratégie Appole
 ### ***Un enrichissement des 4Ps par des spécificités du net :  2P + 2C + 3S***
 
 Ce modèle inclut des variables liées particulièrement à l’écosystème numérique.  Il prend son fondement dans la pseudo  relation « one to one » qu’apporte la technologie numérique avec ses différentes interfaces.
@@ -33,7 +33,7 @@ Ce modèle inclut des variables liées particulièrement à l’écosystème num
 
  	- **Privacy  :** c’est la nerf de la guerre, à l’heure où tout le monde s’expose mais à la fois craint le non-respect de la vie privée. Monde schizophrène J .
 
-[![Image](/images/blog/enrichissement-des-4ps.jpg)](/images/blog/enrichissement-des-4ps.jpg) Enrichissement du Modèle des quatre ps
+[![enrichissement-des-4ps.jpg](/images/blog/enrichissement-des-4ps.jpg) Enrichissement du Modèle des quatre ps
 
  	- **Customer Service** : Encore une conséquence des possibilités qu’apporte la technologie numérique, le support client, par différents canaux et outils : email, chat, bots, messageries en tout genre, helpdesk, microbloging. Ce support prend souvent une forme asynchrone ou automatisée, moins chère que le traditionnel support par la voix en direct.
 
@@ -61,7 +61,7 @@ Mais comment se représenter cette notion de service ? Trois éléments nouveau
 
  	- **Physical évidence** : Dans une relation en ligne, distante donc, la preuve tangible du produit doit être reconsidéré de fond en comble. C’est là ou intervient ce 7ème P qui marque l’expérience client, plus communément appelé Expérience utilisateur ou UX (user expérience). En quoi mon site web marchand véhicule-t-il la confiance : ergonomie, persuasive design. On va jouer sur les techniques nouvelles de cognition, le neuromarketing afin de trouver le contexte idéal pour la conversion.
 
-[![Image](/images/blog/7ps-354x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/7ps.jpg) Le service qui se rajoute à la tradition marketing
+[![7ps-354x300.jpg](/images/blog/7ps-354x300.jpg) Le service qui se rajoute à la tradition marketing
 ## **La suggestion des 10Ps  suite logique  des 7Ps**
 
 On va rajouter en plus du reste 3 notions complémentaires qui véhicule à la fois une notion d’ouverture sur monde ou circule l’information à vitesse grand « v », la mondialisation ou l’internet de la connaissance, ou trouver des synergies avec ces partenaires business devient primordial.  La différenciation prend tout son sens enfin dans ce monde de la multitude, avec la vache pourpre de Seth Godin que l'on peut citer lors de [formation webmarketing à Bordeaux ](https://www.mauricelargeron.com/ateliers-referencement-bordeaux/)ou ailleurs ;) .
@@ -72,6 +72,6 @@ On va rajouter en plus du reste 3 notions complémentaires qui véhicule à la f
 
  	- **Purple Cow :** c’est donc là le signe distinctif de la marque, l’essor du Brand Marketing en quelque sorte. Etre unique, tel est la question dans un monde devenu horizontal où la marque est soumise à la multitude médiatique.
 
-[![Image](/images/blog/10p-368x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/10p.jpg) La roue des 10ps pour un marketing plus ubiquitaire
+[![10p-368x300.jpg](/images/blog/10p-368x300.jpg) La roue des 10ps pour un marketing plus ubiquitaire
 
 Pour  les organisations aujourd’hui, issues de l’ancienne économie,  qui procèdent à leur mutation, parfois à marche forcée orchestrée par des **Chief digital officiers** (CDO) et aiguillonnées par les **starts ups disruptives**,  ces modèles font sens.  Pour celles qui n’ont pas attendu, ces représentations peuvent paraître désuètes tant le numérique est intégré nativement dans leur processus. Pour les purs Player, ils peuvent néanmoins s’en inspirer dans leur **stratégie de positionnement nouveau dans le monde du retail** où les stratégies brick et mortar sont toujours et de loin d’actualité.

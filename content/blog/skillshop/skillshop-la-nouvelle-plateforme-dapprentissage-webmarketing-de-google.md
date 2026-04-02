@@ -18,7 +18,7 @@ Depuis 2018 également, les équipes de Dublin pour la France, ont animé un pro
 
 Reste une incertitude sur la pérennité de ce programme, mais les vidéos restent d'actualité dans leur contenu par rapport à ce qui se fait en cette fin 2019.
 
-[![Image](/images/blog/programme-academy-on-air-google-partner.jpg)](/images/blog/programme-academy-on-air-google-partner.jpg) Programme academy on air google partner
+[![programme-academy-on-air-google-partner.jpg](/images/blog/programme-academy-on-air-google-partner.jpg) Programme academy on air google partner
 
 Cependant, notez un changement récent sur l'acquisition des spécialisations google Partner.
 
@@ -30,13 +30,13 @@ Cette plateforme est ouverte à tous, avec une simple adresse mail, sans avoir p
 
 Professionnels, étudiants, curieux du marketing en ligne. Le contenu de cette plateforme peut se résumer à six grandes rubriques .
 
-[![Image](/images/blog/10-parcours-de-formation.jpg)](/images/blog/10-parcours-de-formation.jpg) 10-parcours-de-formation
+[![10-parcours-de-formation.jpg](/images/blog/10-parcours-de-formation.jpg) 10-parcours-de-formation
 
 Ce qui représentent plus d'une dizaine de sujets sur le web marketing réunit dans un catalogue de formations sous forme de parcours pour l'apprenant :
 
 Android, Authorized Buyers, Google Ad Manager, Google AdMob, Google Ads, Analytics Académie, Google Digital Académie, Google Marketing Platform, Google My Business, Google for Education, Waze.
 
-[![Image](/images/blog/goole-ads-sous-parcours-thématique-skillshop.jpg)](/images/blog/goole-ads-sous-parcours-thématique-skillshop.jpg) Google ads sous parcours thématique skillshop
+[![goole-ads-sous-parcours-thématique-skillshop.jpg](/images/blog/goole-ads-sous-parcours-thématique-skillshop.jpg) Google ads sous parcours thématique skillshop
 
 Ces parcours sont organisés en sous thématiques, jalonnées par des cours, comme par exemple, pour google ads, sous forme de bonnes pratiques (développer une activité avec google ads, maitrisez les enchères, rédactionnel des annonces etc.…).
 
@@ -46,7 +46,7 @@ Lors d'une inscription à Skillshop, la plateforme délivre des titres de réuss
 
 Les titres de réussite sont des reconnaissances obtenues lors de l'évaluation finale d'un parcours de formation, un minimum de 80% est exigé. Ils marquent des étapes clés dans l’apprentissage de nouvelles compétences. Bien sûr ces titres de réussite ne sont pas des accréditations officielles, mais ils témoignent d'un engagement sur les disciplines.
 
-[![Image](/images/blog/titres-de-réussite-skillshop.jpg)](/images/blog/titres-de-réussite-skillshop.jpg) Titres de réussite skillshop
+[![titres-de-réussite-skillshop.jpg](/images/blog/titres-de-réussite-skillshop.jpg) Titres de réussite skillshop
 
 En échange, le profil de l’utilisateur via son url sur skillshop est partageable et ma page du profil indexable sur Google.
 

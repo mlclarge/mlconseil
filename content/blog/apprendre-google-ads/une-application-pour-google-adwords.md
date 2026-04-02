@@ -15,7 +15,7 @@ C’est l’été, alors soyons plus léger et faisons part d’une actualité A
 
 Adwords express, créée en 2011, est une version allégée, enfant dirons nous,  de la plateforme Adwords , parente. Elle permet à tout un chacun de monter sa campagne en quelques clics et cela sans avoir de site internet, quoi demander de plus. Elle se présente sous une interface totalement différente de celle obtenue par un compte standard. Aucune passerelle de l'une vers l'autre et possible (migration, transfert ou autre).
 
-[![Image](/images/blog/interface-adwords-express-310x132.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/interface-adwords-express.jpg) Interface Adwords Express
+[![interface-adwords-express-310x132.jpg](/images/blog/interface-adwords-express-310x132.jpg) Interface Adwords Express
 
 ***Les avantages ***
 
@@ -59,7 +59,7 @@ Il faudra bien sûr s’inscrire et laisser ces coordonnées bancaires  avant d
 
 	- Tableaux de bord statistiques
 
-[![Image](/images/blog/apps-adwords-express-310x267.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/apps-adwords-express.jpg) Ecrans de gestion de campagne Adw Express
+[![apps-adwords-express-310x267.jpg](/images/blog/apps-adwords-express-310x267.jpg) Ecrans de gestion de campagne Adw Express
 
 On peut supposer que ’ici quelque mois, selon le succès de cette application « App Adwords express », qu’une version  sera téléchargeable en Europe.
 

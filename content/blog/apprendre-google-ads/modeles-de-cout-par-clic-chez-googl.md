@@ -22,7 +22,7 @@ Avoir un maximum de clics pour le budget pourrait-on dire
 
 3/ **Cpc** **Semi-automatique **: Revenons sur terre et  proposons un marché à  Google, en lui fixant  une limite de cpc maximal  à ne pas dépasser, ainsi, on s’assure de maitriser son enchère et son budget, mais l’ajustement du cout du clic est décidé par la plateforme.
 
-[![Image](/images/blog/schema-de-base-310x288.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/schema-de-base.jpg) Panoplie de stratégie d'enchères
+[![schema-de-base-310x288.jpg](/images/blog/schema-de-base-310x288.jpg) Panoplie de stratégie d'enchères
 ### Objectif stratégique retenu  : un début de rentabilité !
 
 4/ **Semi-automatique avec optimiseur de CPC** : Cela se corse.. Nous donnons toujours la main à Google  avec des couts par clics maximaux  (tiens, cela se dit ?) mais en plus on lui assigne le fait de les optimiser car l’annonceur à un **objectif de retour sur investissement**. Attention, les cpc eux ne sont pas forcément à la baisse.  On commence à parler de conversion *(action recherchée par l’annonceur de la part du visiteur : formulaire, vente, appel).* Il faut donc que la campagne fasse l’objet d’un** suivi de conversion** sinon aucun intérêt (ajout d’un script sur les pages de transformation) et que ce dernier rassemble suffisamment de données statistiques pour être enclenché. Donc, cette stratégie doit être maitrisée dans son concept au départ, ensuite être validée par le système, donc débutant, s’abstenir ;) . Techniquement ici,  l’algo prend la main sur le serveur d’annonce et va rechercher les annonces les plus profitables pour d’éventuelles conversions. Les CPC peut s’envoler dans une fourchette de **+ de 30 % du cpc max**.  Sur l’ensemble du trafic généré il n’en prend que 50%  afin de pouvoir ajuster ou modérer son impact au global.  Les clics ne sont donc pas négligés, les données des mots clés et de leurs enchères sont travaillés afin d’obtenir la meilleure optimisation.
@@ -37,12 +37,12 @@ Donc pour résumer nous avons une gamme de stratégie d’enchères bien établi
 
 Elles sont disponibles depuis le menu de gauche, dans la catégorie bibliothèque partagée. Il suffit de cliquer sur le lien et la configuration selon 4 choix possibles s’offre via un menu déroulant.
 
-[![Image](/images/blog/interface-310x174.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/interface.jpg) Accès aux enchères flexibles
+[![interface-310x174.jpg](/images/blog/interface-310x174.jpg) Accès aux enchères flexibles
 ### Vers le tout automatique ?
 
 A ce jour, cette option d’enchères flexibles sont donc une invitation à l’automatisation des mises en enchères par Google avec néanmoins une possibilité facultative de  limite de cpc et de budget manuelle pour l’option 4 (optimiser pour les clics) qui fusionne en quelque sorte les possibilités d’enchères 1 et 2 énumérées en première partie. C’est donc un changement !
 
-[![Image](/images/blog/encheresflexible-310x156.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/encheresflexible.jpg) Les 4 enchères flexibles
+[![encheresflexible-310x156.jpg](/images/blog/encheresflexible-310x156.jpg) Les 4 enchères flexibles
 ### Universalité et granularité c'est sûr !
 
 Les évolutions de ce type d’enchères suivent l’ossature des** campagnes universelles**, avec une liaison selon  le temps réel, les appareils, les zones géographiques.  Mais le plus bluffant, c’est sans doute la possibilité de panacher  les  stratégies *(la 2 et 4 celles  d’emplacement et d’optimisation de clics)*  à tous les niveaux du compte  : **campagnes, groupes d’annonces, mots clés.**
@@ -59,7 +59,7 @@ Elle propose 4 items pour acquérir des la visibilité sur la "top page" :
 
 	- Option sur budget et Qualité des mots clés
 
-[![Image](/images/blog/paramètres-encheres-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/paramètres-encheres.jpg) paramètres-encheres
+[![paramètres-encheres-310x141.jpg](/images/blog/paramètres-encheres-310x141.jpg) paramètres-encheres
 
 Le positionnement des stratégies  d’optimisation de Cpc et de Cpa universelles  (le cpa ne touche pas à l’ajustement des -100% sur mobile)  restent sur les entités des campagnes et groupes d’annonces. Pour résumer, pouvoir user de plusieurs types de stratégies d’enchères sur une même campagne est un tour de force ! Elle vient concurrencer des solutions logicielles tierces développées pour pallier justement ce manque de flexibilité qu’avait adwords, le vide est comblé bien que d’autres fonctionnalités liées au ROI restent encore à être développées.
 
@@ -75,6 +75,6 @@ Il faut désormais avoir une bonne calculatrice pour connaître le montant globa
 
 	- En cas d’ajustement automatiques multiples sur une même zone géographique,  seul l’emplacement le plus restreint se verra appliquer la majoration. Un outil peut aider à connaître ses positions où les enchères ont été ajustées. Pour y avoir accès, un indicateur est à rajouter dans un rapport sous l’onglet "tous les paramètres". Ensuite, reste à observer tout simplement ces rapports de cpc pour avoir une réelle vision du cout réel des clics.
 
-[![Image](/images/blog/outils-mesure-310x231.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/outils-mesure.jpg) Outil Calculatrice Adwords
+[![outils-mesure-310x231.jpg](/images/blog/outils-mesure-310x231.jpg) Outil Calculatrice Adwords
 
 On le voit encore avec cette évolution de la plateforme, les ingénieurs d'adwords trouve de nouvelles astuces et sources de rentabilité. Plus d'infos : [https://support.google.com/adwords/answer/2979071?hl=fr&ref_topic=1713915](https://support.google.com/adwords/answer/2979071?hl=fr&ref_topic=1713915)

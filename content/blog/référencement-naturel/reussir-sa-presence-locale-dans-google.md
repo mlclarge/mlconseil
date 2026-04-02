@@ -12,12 +12,12 @@ Attardons-nous donc un peu plus sur cette thématique du « référencement loc
 **
 L’algorithme de Google varie selon le type de  requête, je veux dire selon la thématique locale  (ou catégorie) recherchée. La précision d’un lieu géographique donnera des résultats qui diffèrent dans leur présentation sur google. C’est ce que l’on a pu constater dans la partie 1. Il convient d’y revenir avec plus de  précisions.
 
-[![Image](/images/blog/refrencementLocalBoite7résultat-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/refrencementLocalBoite7résultat.jpg) refrencement local
+[![refrencementLocalBoite7résultat-310x217.jpg](/images/blog/refrencementLocalBoite7résultat-310x217.jpg) refrencement local
 
 Donc ici, 2 types de résultats, le "pack" local avec les pictos (1) et liens les uns à la suite des autres et le pack "organique" (2) dit résultats "naturels" (entourés dans un carré vert).
 
 Mais nous pouvons avoir aussi, avec une requête locale, ce type de résultats...
-[![Image](/images/blog/referencementLocalhybride-300x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/referencementLocalhybride.jpg)
+[![referencementLocalhybride-300x180.jpg](/images/blog/referencementLocalhybride-300x180.jpg)
 
 Ci-dessus, les liens donnés en résultats diffèrent dans leurs présentations (plus de "boîtes" ou "packs") et  apportent plus d'informations avec le lien du site web mais avec en plus les**"avis" d'internautes**. Ce qui va tout changer pour optimiser sa présence *(optimisation qui fera l'objet d'une 3eme partie prochainement)*.
 

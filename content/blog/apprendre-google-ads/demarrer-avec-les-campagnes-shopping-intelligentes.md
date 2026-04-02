@@ -12,7 +12,7 @@ Le principe des campagnes d’une [smart shopping](https://support.google.com/g
 
 ## **Conditions pour démarrer une campagnes Smart Shopping**
 
-[![Image](/images/blog/demarrer-campagne-smart-shopping.gif)](/images/blog/demarrer-campagne-smart-shopping.gif)
+[![demarrer-campagne-smart-shopping.gif](/images/blog/demarrer-campagne-smart-shopping.gif)
 
  	- Avoir enregistré au moins 20 conversions au cours des 45 derniers jours dans les campagnes Shopping existantes.
 
@@ -74,4 +74,4 @@ Bon, parfois oui , parfois non, certains collègues me disent que cela marche, s
 
 Un exemple de performances sur des paramètres de campagne et produits similaires sur 90 jours. Ici, les smart sont sous performantes...
 
-[![Image](/images/blog/smart-vs-classique-shopping-campagne-502x61.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/smart-vs-classique-shopping-campagne.jpg)
+[![smart-vs-classique-shopping-campagne-502x61.jpg](/images/blog/smart-vs-classique-shopping-campagne-502x61.jpg)

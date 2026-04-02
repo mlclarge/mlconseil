@@ -14,14 +14,14 @@ image: "/images/blog/optimize.jpg"
 
 ### ***Principales caractéristiques de la version gratuite par rapport à celle de la suite 360 payante.***
 
-[![Image](/images/blog/comparatifs-versions-299x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/comparatifs-versions.png)
+[![comparatifs-versions-299x300.png](/images/blog/comparatifs-versions-299x300.png)
 ### *Quoi analyser au final ?*
 
  	- Type de Pages : accueil, contact, produit, panier, remerciement, résultat de recherche, destination
 
  	- Objets du la page à tester : navigation, recherche, champs de formulaires, boutons les fameux « call to action », fenêtres pop-up, vidéos, images, les aplats de couleurs, bref, y’a du boulot !
 
-[![Image](/images/blog/test-ab-abn-502x234.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/test-ab-abn.png) Tests dans Google Optimize
+[![test-ab-abn-502x234.png](/images/blog/test-ab-abn-502x234.png) Tests dans Google Optimize
 
 Quoiqu’il en soit, son intégration avec Google analytics en fait vraiment un outil puissant relié à l’audience que l’on souhaite ciblée. Il est tout à fait possible de pouvoir faire des tests uniquement sur un groupe de visiteurs préalablement segmenté suite à un critère de ciblage comme le montant dépensé, la provenance géographique, le type de produit recherché sur un site etc…
 https://www.youtube.com/watch?v=qUEfEXuDtkI&

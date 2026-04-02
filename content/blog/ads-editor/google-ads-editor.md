@@ -31,7 +31,7 @@ Google Ads Editor v1 aide également à gérer les comptes plus rapidement !
 
 Identifiez les meilleures pratiques et assurez la mise en œuvre appropriée des campagnes. Au delà de la douzaine de règles  initiales qui permet d'indiquer si les paramétrages fondamentaux ont été faits, maintenant ces règles se rajoutent au fil du développement de la plateforme.
 
-[![Image](/images/blog/google-ads-editor-liste-des-regles-personnalisées.jpg)](/images/blog/google-ads-editor-liste-des-regles-personnalisées.jpg) google ads editor liste des regles personnalisées
+[![google-ads-editor-liste-des-regles-personnalisées.jpg](/images/blog/google-ads-editor-liste-des-regles-personnalisées.jpg) google ads editor liste des regles personnalisées
 ### ***Gestion des Enchères et budgets***
 
  	- Budgets quotidiens recommandés

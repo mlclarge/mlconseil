@@ -16,7 +16,7 @@ Dans le long processus d’[**acquisition webmarketing la landing page**](https:
 
  	- **Zoning** : la répartition des blocs de contenus d’une manière très globale rentrait dans le détail chacun des blocs, c’est un brouillon.
 
-[![Image](/images/blog/zoning-wireframe-prototype-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/zoning-wireframe-prototype.jpg) Du zoning  au prototype
+[![zoning-wireframe-prototype-310x194.jpg](/images/blog/zoning-wireframe-prototype-310x194.jpg) Du zoning  au prototype
 
  	- **Wireframe **: plus communément appelé chemin de fer en acier dans le contenu de chacun des blocs et sur leur objectif.
 
@@ -38,12 +38,12 @@ Dans le long processus d’[**acquisition webmarketing la landing page**](https:
 
  	- Infos complémentaires de l'offre
 
-[![Image](/images/blog/gabarit-de-la-page-de-destination-199x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/gabarit-de-la-page-de-destination.jpg) Eléménts prinicipaux d'une landing page
+[![gabarit-de-la-page-de-destination-199x300.jpg](/images/blog/gabarit-de-la-page-de-destination-199x300.jpg) Eléménts prinicipaux d'une landing page
 ## **UX-Design : Emotion2 et Raison = Action **
 
 Comme le disait le prix Nobel de la paix, l’économiste **Daniel Khaneman** « la plupart du temps les gens ne font pas ce qu’ils pensent ou ce que nous pensons qu’ils pensent » (récupéré d’une doc Google). 85 % des décisions sont basés sur le cerveau lymbique,  95 % des activités cérébrales sont non conscientes. D’où l’extrême complexité lors de la création d’une interface,  et donc ici d’une page,  de couvrir l’ensemble des aspects qui vont empêcher, freiner, différer une conversion de la part d’un visiteur dont  **l’anxiété,  la distraction, la méfiance**. Il faudra donc rester dans les grands standards pour couvrir un maximum de besoins et de situations à moins de démultiplier les pages de destination. Cela devient très problématique dans des cas comme l’e-commerce
 
-[![Image](/images/blog/plantronics-jvweb-310x199.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/plantronics-jvweb.jpg) Image issue livre blanc Agence JvWeb
+[![plantronics-jvweb-310x199.jpg](/images/blog/plantronics-jvweb-310x199.jpg) Image issue livre blanc Agence JvWeb
 ## **23 questions à se poser une fois la page terminée**
 
  	- Votre **page de destination** offre-t-elle plusieurs offres pour un visiteur?
@@ -66,7 +66,7 @@ Comme le disait le prix Nobel de la paix, l’économiste **Daniel Khaneman** «
 
  	- Votre appel à l'action est-il de grande taille par rapport à d'autres éléments de la page ?
 
-[![Image](/images/blog/pagededestination-227x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/pagededestination.jpg) Ma belle page !
+[![pagededestination-227x300.jpg](/images/blog/pagededestination-227x300.jpg) Ma belle page !
 
  	- La couleur de votre appel à l'action est-elle différente des autres éléments de la page?
 

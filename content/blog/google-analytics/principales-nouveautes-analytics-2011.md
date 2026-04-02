@@ -47,7 +47,7 @@ Remaniage et renommage de l'interface
 
 	-  Sous menu d'exploration : Permet une navigation plus facile dans les données des rapports des sous rubliques *(voir image ci-dessous).*
 
-[![Image](/images/blog/explorerSous-Cat-150x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/explorerSous-Cat.jpg)
+[![explorerSous-Cat-150x150.jpg](/images/blog/explorerSous-Cat-150x150.jpg)
 **Menu de gauche** 
 - Section "visiteur"  : Création d'une rubrique comportement, dans laquelle on retrouve trois types de données : nouveau visiteur contre visiteurs connus, fréquence ces dernières visites, intérêt et interaction.
 - Section "Source de traffic"   : Création d'une rubrique recherche, à l'intérieur de la sosu catégorie "source entrante" au niveau de l'entête de rubrique sources de trafic. Celle-ci distingue  les recherches effectuées sur les moteurs de l'origine du trafic global vers le site.

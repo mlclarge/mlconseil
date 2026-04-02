@@ -11,7 +11,7 @@ Continuons cette série estivale sur l’analyse d’audience . La semaine derni
 
 ## Bizo, la plateforme intégrée web marketing
 
-[![Image](/images/blog/architecture-bizo-310x100.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/architecture-bizo.jpg) Architecture de la Plateforme Bizo
+[![architecture-bizo-310x100.jpg](/images/blog/architecture-bizo-310x100.jpg) Architecture de la Plateforme Bizo
 ### Principe de collecte des informations
 
 Bizo est une plateforme américaine qui collecte en amont 5 types de données provenant de milliers de sites en B2B :
@@ -42,7 +42,7 @@ Parfaitement intégré au tag manager de Google analytics, il suffit de renseign
 
  	- Géographie (lieux, ici, concentré sur le nouveau  monde !)
 
-[![Image](/images/blog/bizo-audience-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/bizo-audience.jpg) Tableau de Bord Bizo
+[![bizo-audience-310x163.jpg](/images/blog/bizo-audience-310x163.jpg) Tableau de Bord Bizo
 
 Au-delà de l’audience, Bizo  propose  d’ajouter des actions comme le téléchargement de documents, ou l’abonnement à une newsletter, l’inscription à un webinar, afin de **construire un profil visiteur** et d’inciter  ce dernier à s’engager  en vue de l’objectif : ** la conversion**.
 
@@ -72,7 +72,7 @@ Cette plateforme française récupère les adresses ip des visiteurs et  les re
 
 En cliquant sur l’enseigne, on accède à une fiche statistique qui agrège les données de l’entreprise collectée (point « 2 » de l’illustration)  soit : les infos légales, les contacts pro., 2 fiches de veille depuis l’actualité du moment et provenant de la blogosphère.
 
-[![Image](/images/blog/get-plus-mesure-audience-310x267.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/get-plus-mesure-audience.jpg) Reporting GET+ sur les Eses Collectées
+[![get-plus-mesure-audience-310x267.jpg](/images/blog/get-plus-mesure-audience-310x267.jpg) Reporting GET+ sur les Eses Collectées
 ## Les services d’enregistrement visuel de sessions  
 
 ### Suivre la balade du visiteur
@@ -87,7 +87,7 @@ Le principe de configuration reste toujours  le même que les applications pré
 
 Les attitudes  du  visiteur sont relevées à l’aide de  quatre fonctionnalités (plus les couleurs sont chaudes plus la valeur mesurée est importante) .  J’ai utilisé ici l’application saas « SessionCam » sur 1 session relative à la lecture d’un article (la solution précédente le propose aussi). Pour l'illustration, j'ai capturé l'ensemble de la page avec un dézoomage au maximum pour prendre du recul sur l'ensemble.
 
-[![Image](/images/blog/interactions-310x261.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/interactions.jpg) Rapports Degré d'attention-Clics-Scrolling-Mouvements de souris
+[![interactions-310x261.jpg](/images/blog/interactions-310x261.jpg) Rapports Degré d'attention-Clics-Scrolling-Mouvements de souris
 
  	- Degré d’attention (zone plus observée)
 
@@ -99,7 +99,7 @@ Les attitudes  du  visiteur sont relevées à l’aide de  quatre fonctionnal
 
 Pour aller plus loin et mettre un lien avec Google analytics, il est possible de poser des variables personnalisées afin d’intégrer et de croiser les éléments de comportements avec les données visiteurs.
 
-[![Image](/images/blog/google-analytics-variable-personnalisee-310x247.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/google-analytics-variable-personnalisee.jpg) Erreurs comme variables personnalisées dans GA
+[![google-analytics-variable-personnalisee-310x247.jpg](/images/blog/google-analytics-variable-personnalisee-310x247.jpg) Erreurs comme variables personnalisées dans GA
 ## Une marketplace d’Apps
 
 ### Contrôler les erreurs JavaScript dans GA
@@ -108,14 +108,14 @@ Cette plateforme pose un tag qui permet l’**intégration de divers snippets** 
 
 Pour l’occasion, j’ai installé une Apps qui me  permet d’**identifier  les erreurs JavaScript sur le site**. Gadget me direz-vous ?  L’enregistrement se fait sous forme d’évènements que je retrouve dans Google analytics.
 
-[![Image](/images/blog/site-apps-js-error1-310x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/site-apps-js-error1.jpg) Détection des erreurs Javascript dans GA (VP)
+[![site-apps-js-error1-310x192.jpg](/images/blog/site-apps-js-error1-310x192.jpg) Détection des erreurs Javascript dans GA (VP)
 ## Les scanners de site web
 
 ### Un scan de votre solution d’analytics
 
 Compatible sur les principales plateformes de suivi d’analyse d’audience (Google analytics, At internet, Ibm..)  la solution saas **Hubscan** réalise un check complet du site : erreurs constatées sur les pages (figure : 1) , optimisation entre les marqueurs (balises)  et le plan de marquage (figure :2), monitoring  (alerte email), automatisation de l’analyse.
 
-[![Image](/images/blog/hubscan-301x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/hubscan.jpg) HubScan : L'Auto Bilan du site Web
+[![hubscan-301x300.jpg](/images/blog/hubscan-301x300.jpg) HubScan : L'Auto Bilan du site Web
 ### Un balayage pour l’indexation du site
 
 Scanner les logs de son site demande de l’expertise. Plus voué à l’**optimisation pour les moteurs de recherche**,  le service Botify analyse en profondeur l’architecture de  votre site,  soit,  les différents niveaux, les pages et leur nombre,   et les regroupe sous forme de catégories thématiques.  Le site est-il crawlé facilement par Google (fig:1) ?  L’est-il souvent ? De quelle manière ?
@@ -140,6 +140,6 @@ Dans l’exemple  ici plus d’une dizaine d’items ont été identifiés dans
 
  	- Promos…
 
-[![Image](/images/blog/botify-239x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/botify.jpg) Botify un outil d'aide à l'indexation
+[![botify-239x300.jpg](/images/blog/botify-239x300.jpg) Botify un outil d'aide à l'indexation
 
 Après toutes ces analyses, s’intégrant ou pas dans Google analytics,  le site n’a plus de secret, tout devient limpide ou presque pour l’analyste !  Mais attention, trop de données  peuvent cacher l’essentiel, les choix et objectifs  marketing de départ  !  A bon entendeur…

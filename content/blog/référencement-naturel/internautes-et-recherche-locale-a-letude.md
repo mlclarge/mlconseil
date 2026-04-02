@@ -22,12 +22,12 @@ Les points principaux à  retenir …
 
 D'ailleurs à ce sujet, la petite enquête de Dr Pete de la sté User effect  sur le suivi comportemental lors d'une recherche locale confirme l'importance des images . L'image attire l'oeil (évidence sans doute, mais intéressant à confirmer néanmoins).
 
-[![Image](/images/blog/eye_Catching-300x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/eye_Catching.jpg)
+[![eye_Catching-300x255.jpg](/images/blog/eye_Catching-300x255.jpg)
 
 Source : [http://www.seomoz.org/blog/eyetracking-google-serps](http://www.seomoz.org/blog/eyetracking-google-serps)
 
 	- Malgré cet engouement pour les requêtes locales,** seulement 37 des entreprises sont recencées localement **dans les moteurs de recherche.
 
-[![Image](/images/blog/Infographic_Local_Search_Evolved_mdg_advertising_475.gif)](http://www.mdgadvertising.com/blog/infographic-local-search-evolved/)
+[![Infographic_Local_Search_Evolved_mdg_advertising_475.gif](/images/blog/Infographic_Local_Search_Evolved_mdg_advertising_475.gif)
 
 Infographic by [MDG Advertising](http://www.mdgadvertising.com/)

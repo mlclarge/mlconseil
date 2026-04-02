@@ -11,11 +11,11 @@ image: "/images/blog/livre-blanc-facebook.jpg"
 En ce début d'été 2018 facebook nous propose un livre blanc sur l'attribution.
 Ce contenu a été créé par les membres du measurement  forum de Facebook dans lequel prennent place différents acteurs de l'écosystème webmarketing, instituts d'études,  agences, marques comme  55, La Redoute,  Criteo...
 
-[![Image](/images/blog/facebook-livre-blanc-attribution-450x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/facebook-livre-blanc-attribution.jpg) Facebook nous livre sa vision sur l'attribution marketing
+[![facebook-livre-blanc-attribution-450x300.jpg](/images/blog/facebook-livre-blanc-attribution-450x300.jpg) Facebook nous livre sa vision sur l'attribution marketing
 
 ## L'attribution marketing selon Facebook
 
-[![Image](/images/blog/facebook-attribution-502x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/facebook-attribution.jpg)
+[![facebook-attribution-502x235.jpg](/images/blog/facebook-attribution-502x235.jpg)
 Dans ce document de 27 pages vous y découvrirez :
 
  	- L'attribution et ses différents modèles
@@ -28,7 +28,7 @@ Dans ce document de 27 pages vous y découvrirez :
 
  	- Les principales ressources depuis le cadrage, la collecte  jusqu son enrichissement.
 
-[![Image](/images/blog/ressources-projet-attribution-marketing-502x271.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/ressources-projet-attribution-marketing.jpg) Ressources projet attribution marketing
+[![ressources-projet-attribution-marketing-502x271.jpg](/images/blog/ressources-projet-attribution-marketing-502x271.jpg) Ressources projet attribution marketing
 
 Enfin différents témoignages d'acteurs avec leur vision sur l'attribution dans une stratégie d acquisition et son pilotage dans la durée termine ce livre blanc.
 

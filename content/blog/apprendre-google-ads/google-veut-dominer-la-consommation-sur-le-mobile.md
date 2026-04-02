@@ -15,7 +15,7 @@ Selon emarketer, 86% des interactions sur mobile passeraient par des apps contre
 
 Alors que les **réseaux sociaux comme Facebook, Twitter** prennent un place de plus en plus importante dans la prescription et l’influence dans les **téléchargements d’applications** (quasiment 20 % selon certaines études). Google veut taper fort et rester maître du jeu dans la **promotion et l’usage des applications** mobiles et au-delà s’imposer sur les supports mobiles (Smartphones, tablettes et bientôt objets connectés). Les stats Us montrent que même si le marché des apps est florissant, le réel engagement des utilisateurs est faible avec 60% des apps qui ne sont pas installées, **80% ne sont utilisées qu’une fois**…décourageant non ? Alors comment pousser l’utilisateur à s’engager concrètement dans ses usages en mobilité ? Tout simplement en lui poussant un message promotionnel constant qu’il soit en recherche d’information (moteur), en navigation "normale" (display:réseau de sites et Youtube:vidéos) et cela peu importe le support matériel utilisé (Pcs de bureau, mobiles, tablettes, consoles, tv…). Seul importe la **qualité du message selon la contextualisation**, le contexte, toujours le contexte !
 
-[![Image](/images/blog/annonces-google-adwords-apps-264x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/annonces-google-adwords-apps.jpg) Formats d'Annonces pour les Apps
+[![annonces-google-adwords-apps-264x300.jpg](/images/blog/annonces-google-adwords-apps-264x300.jpg) Formats d'Annonces pour les Apps
 
 Qui dit message, dit format publicitaire, donc sur le moteur, display, sur du Youtube, les annonces vont pouvoir pousser des téléchargements, certaines pages profondes d’applications web pour les rappeler à leur utilisateurs.
 
@@ -23,7 +23,7 @@ Qui dit message, dit format publicitaire, donc sur le moteur, display, sur du Yo
 
 Selon Google, 32% des conversions sur les paniers e-commerce outre atlantique sont obtenues grâce à un premier point de contact depuis les mobiles, et 7% des conversions sont qualifiées comme étant acquises depuis différents « touch point ».
 
-[![Image](/images/blog/conversions-multipoints-310x69.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/conversions-multipoints.jpg) Le suivi multi appareils une arme pour la conversion
+[![conversions-multipoints-310x69.jpg](/images/blog/conversions-multipoints-310x69.jpg) Le suivi multi appareils une arme pour la conversion
 
 Cas cela ne tienne ! Google adwords fournit depuis quelques mois déjà des **données de conversions depuis différents points digitaux**, mais également, offline. Là où la limite du système est atteint, est justement sur l’aspect des remontées hors numérique, depuis les magasins de détail, le marchand ne souhaite pas forcément tout communiquer à Google !
 
@@ -33,7 +33,7 @@ Cas cela ne tienne ! Google adwords fournit depuis quelques mois déjà des **do
 
 Les campagnes sont soumises à différents aléas comme le changement de stratégie de l’annonceur (couverture géographique, budget etc..), la saisonnalité, la diffusion (rotation des annonces), cela implique des modifications parfois à grandes échelles sur des grosses campagnes. Les modifications en masse rentrent dans ce cadre-là. Adwords innove en apportant la possibilité d’effectuer sur des changements transversaux multi campagnes.
 
-[![Image](/images/blog/nouveaux-outils-natifs-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/nouveaux-outils-natifs.jpg) Des fonctionnalités nouvelles dans Adwords
+[![nouveaux-outils-natifs-310x123.jpg](/images/blog/nouveaux-outils-natifs-310x123.jpg) Des fonctionnalités nouvelles dans Adwords
 
  
 ### Optimiser la mise en enchères
@@ -44,21 +44,21 @@ Nerf de la guerre de tous les annonceurs, toujours optimiser..Je ne trouve pas p
 
 Chapeau bas sur cet aspect ! Google adwords nous promet un tableur intégré à la plateforme, avec des fonctionnalités dignes de ce nom : manipulation drag and drop les données, croisements des indicateurs : enchères, mots clés, paramètres de campagne, formats d’annonces..). Fini donc l’importation de fichier csv, le travail dans excel , tout peut se faire depuis l’interface.
 
-[![Image](/images/blog/tableau-adwords-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/tableau-adwords.jpg) Tableaux multi-dimentionnels
+[![tableau-adwords-310x171.jpg](/images/blog/tableau-adwords-310x171.jpg) Tableaux multi-dimentionnels
 
 Pour le look et reporting client, les graphiques sous diverses formes seront disponibles…
 
-[![Image](/images/blog/graphiques-google-adwords-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/graphiques-google-adwords.jpg) Des graphiques personnalisés
+[![graphiques-google-adwords-310x183.jpg](/images/blog/graphiques-google-adwords-310x183.jpg) Des graphiques personnalisés
 
 **Un back-end puissant off dans le cloud d’adwords**
 
 Une fonctionnalité « brouillon » intégrée « live » dans adwords, qui va permettre de faire des projections en « off » sur les données réelles de campagne ! Depuis une campagne existante, il va être possible de switcher sur une copie de celle-ci en « off », d’appliquer des modifications et de les valider par la suite …
 
-[![Image](/images/blog/mode-brouillon-310x164.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/mode-brouillon.jpg) Une version "brouillon" de campagne
+[![mode-brouillon-310x164.jpg](/images/blog/mode-brouillon-310x164.jpg) Une version "brouillon" de campagne
 
 Ou alors de faire un test sur une partie de mon trafic pour ces changements. J’obtiens alors un tableau de bord avec une série double comparative entre la version actuel de la campagne et celle mise en test. Il est alors possible d’appliquer ou non les données expérimentales à l’ensemble de la campagne gérée.
 
-[![Image](/images/blog/experimentation-310x91.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/experimentation.jpg) Pilotage des données de test..
+[![experimentation-310x91.jpg](/images/blog/experimentation-310x91.jpg) Pilotage des données de test..
 
 **Et c’est pour quand ?**
 

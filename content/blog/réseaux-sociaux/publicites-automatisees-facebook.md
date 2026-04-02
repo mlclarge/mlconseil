@@ -19,7 +19,7 @@ Facebook comme Google met du machine Learning dans ce type de campagne, et sera 
 
 La version sur ces 6 créas la plus efficace  sera au bout de quelque temps est suggérée.
 
-[![Image](/images/blog/publicite-automatisée-facebook.jpg)](/images/blog/publicite-automatisée-facebook.jpg) Vue d'ensemble de la campagne facebook automatisée
+[![publicite-automatisée-facebook.jpg](/images/blog/publicite-automatisée-facebook.jpg) Vue d'ensemble de la campagne facebook automatisée
 
  	- **Suggestions d’audience :** Des options d’audience en fonction des informations recueillies depuis la page Facebook. Une option d’audience automatique personnalisée pour votre entreprise. Facebook crée et améliore cette audience automatique en combinant plusieurs données, comme les personnes situées à proximité de l’entreprise ou celles ayant des centres d’intérêt en lien avec la Page.
 
@@ -64,16 +64,16 @@ Notez que pour ceux qui utilisent aussi Facebook business manager, le centre ava
 
 Du coup, le principe de base est de ne rien faire vu que c’est l’algorithme dit intelligent qui va se charger de faire le reste !
 
-[![Image](/images/blog/reporting-facebook-pub-automatisée.jpg)](/images/blog/reporting-facebook-pub-automatisée.jpg) Reporting Publicité Automatisée
+[![reporting-facebook-pub-automatisée.jpg](/images/blog/reporting-facebook-pub-automatisée.jpg) Reporting Publicité Automatisée
 
  	- Observer les performances
 
  	- Sinon, il est possible dès l’acquisition d’un lead, de le télécharger en local sur son pc
 
-[![Image](/images/blog/lead-facebook.jpg)](/images/blog/lead-facebook.jpg) téléchargement lead facebook
+[![lead-facebook.jpg](/images/blog/lead-facebook.jpg) téléchargement lead facebook
 
  	- Prévoir éventuellement une synchronisation avec un CRM, plateforme emailing, pour pousser automatiquement le contact et assurer un suivi personnalisé, ou des scénarios de marketing automatisé.
 
-[![Image](/images/blog/integration-crm-facebook-lead.jpg)](/images/blog/integration-crm-facebook-lead.jpg) Integration crm facebook lead
+[![integration-crm-facebook-lead.jpg](/images/blog/integration-crm-facebook-lead.jpg) Integration crm facebook lead
 
 Alors bien sûr que ce genre de publicité fonctionne, parfois pas du 1er coup, il faut trouver le bon discours, le bon format selon le persona cible. Bon une routine pour le marketeur !

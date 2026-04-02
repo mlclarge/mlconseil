@@ -32,7 +32,7 @@ Nous avons donc d'une part :
 
  	- **L'univers des applications mobiles natives** enfin, sur les Google Play et autre Apple store, Windows utilise des langages différents (java, C#, Ruby).
 
-[![Image](/images/blog/ecosysteme-tech-mobile-web-et-app-482x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/ecosysteme-tech-mobile-web-et-app.jpg) ecosysteme tech mobile web et app
+[![ecosysteme-tech-mobile-web-et-app-482x300.jpg](/images/blog/ecosysteme-tech-mobile-web-et-app-482x300.jpg) ecosysteme tech mobile web et app
 ## **5 Avantages pour les pwa**
 
 Cette infographie présente les points positifs des progressifs web app. Retenons que son usage est principalement focalisé sur les pays aujourd'hui où la connectivité internet est restreinte. Elles éliminent les frictions de connectivité, sont plus rapides à charger, permettent des notifications push, peuvent être retrouvé facilement par un raccourci en page d'accueil automatisé. D’un point de vue marketing, la PWA est plutôt situé en haut de tunnel, favorable au search donc et peut très bien être complémentaire à une application native des stores, plus orientée fidélisation (bas de tunnel de vente).
@@ -47,12 +47,12 @@ On retiendra que les PWA sont indexables d'un point de vue SEO (heureusement d'a
 
 Selon l'article https://www.smashingmagazine.com/2016/12/progressive-web-amps/ ce choix n’est pas si simple,  vu que des modèles hybrides sont possibles avec imbrication de pages AMP dans des PWA. Les Pwa étant plus fonctionnelles pour des problématiques de paiement, d’affichages dynamiques, de notifications push.
 
-[![Image](/images/blog/amp-vs-pwa-502x282.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/amp-vs-pwa.png) amp vs pwa
+[![amp-vs-pwa-502x282.png](/images/blog/amp-vs-pwa-502x282.png) amp vs pwa
 ## **Apprendre les PWA**
 
 Je vous recommande ce cours gratuit sur udacity, c'est une formation un peu technique, qui débroussaille bien  le sujet.
 
-[![Image](/images/blog/apprendre-les-progressive-web-app-502x288.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/apprendre-les-progressive-web-app.jpg) apprendre les progressive web app
+[![apprendre-les-progressive-web-app-502x288.jpg](/images/blog/apprendre-les-progressive-web-app-502x288.jpg) apprendre les progressive web app
 ## **Quel sera le vainqueur ?  les apps natives ou les Progressive Web App ?**
 
 Qui va gagner la bataille des contenus sur mobile ? Le monde fermé des applications ? Ou celui ouvert du web , plus pratique à créer, à déployer, et à maintenir ? Il s'agit là certainement d'une question que doivent se poser les acteurs, pour Google, cette problématique ne se pose pas, même si présent sur les stores, tous ses atouts sont sur la recherche, qu'elle soit écrite ou vocale. Quant aux autres acteurs, Apple semble le plus exposé dans l'histoire, les autres stores ne représentant pas grand chose (windows, samsung, amazon..). Il pourrait se dessiner un "web riche" de contenus médias d'une part, et de l'autre un "web land" , tel qui l'est aujourd'hui, toujours plus tourné vers le divertissement et la communication (streaming, réseaux sociaux).

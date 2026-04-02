@@ -10,7 +10,7 @@ image: "/images/blog/surveys.jpg"
 
 [Google Survey](https://en.wikipedia.org/wiki/Google_Surveys) existe depuis 2012  mais fait partie depuis peu de la **suite Analytics 360**. Dans le [framework webmarketing](https://www.mauricelargeron.com/recadrer-ses-idees-marketing/), ce service intéresse   la partie** audience**. Pour l'instant l'interface de ce service est entièrement en anglais mais fonctionne pour une dizaine de pays dont la france. Deux produits en un constituent cette plate-forme dédiée à l'écoute de consommateurs :  l’enquête de satisfaction classique (gratuite) et les sondages plus avancés.
 
-[![Image](/images/blog/framawork-webmarketing-502x189.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/framawork-webmarketing.png) Audience dans le framework webmarketing
+[![framawork-webmarketing-502x189.png](/images/blog/framawork-webmarketing-502x189.png) Audience dans le framework webmarketing
 ## **Créer une enquête de satisfaction pour un site Web en deux clics**
 
 ### ***Google form ou Google Survey ?***
@@ -29,7 +29,7 @@ Classique :
 
 Google travail avec un réseau de sites sur des thématiques qui correspondent à des audiences spécifiques et susceptibles d’être intéressés par des contenus soumis gratuitement s’ils répondent à des questions. Google rémunère cette collecte de data auprès des éditeurs de sites. Donc ici on sort du domaine gratuit et toutes les questions que l’on souhaite poser sont facturées à la question dont voici les tarifs :
 
-[![Image](/images/blog/5.1-502x173.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/5.1.png) Tarifs Google survey
+[![5.1-502x173.png](/images/blog/5.1-502x173.png) Tarifs Google survey
 
 Uniquement une audience grand public est possible comme critère de ciblage. Les audiences segmentées sur possesseurs d’Android ou panels spécifiques ne sont pas encore disponible pour la France.
 
@@ -41,6 +41,6 @@ Un échantillon de 1500 réponses est conseillé pour raison de fiabilité stati
 
 Dans la plateforme il existe des exemples de rapports. Enfin, la collecte des résulats est disponible sous 7 jours minium et visible depuis son interface.
 
-[![Image](/images/blog/reporting-google-surveys-407x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/reporting-google-surveys.png) reporting google surveys
+[![reporting-google-surveys-407x300.png](/images/blog/reporting-google-surveys-407x300.png) reporting google surveys
 
 Allez, bon sondage alors !

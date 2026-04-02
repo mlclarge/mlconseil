@@ -23,7 +23,7 @@ Basé également sur du CrowdSourcing, c'est aussi toute une communauté qui gra
 
 Disponible sur Apple ou Google Play gratuitement.
 
-[![Image](/images/blog/the-explorers-application-502x253.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/the-explorers-application.png) the explorers application
+[![the-explorers-application-502x253.png](/images/blog/the-explorers-application-502x253.png) the explorers application
 ## **La fondation theexplorers**
 
 La feuille de route de la fondation pour soutenir des projets durables  sont retenues après analyse des actions présentées par des opérateurs de terrain au comité scientifique, qui s’assurera du suivi de l’affectation des fonds et de la bonne exécution du projet. Les actions de terrains sont suivis d’un point de vue technique, scientifique, 

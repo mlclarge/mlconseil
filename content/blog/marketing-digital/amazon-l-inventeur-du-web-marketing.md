@@ -38,15 +38,15 @@ Mais  concentrons-nous sur les fondamentaux du plus gros vendeur de tous les t
 
  	- 2 millions de vendeurs sur la place de marché (10 000 en France).
 
-[![Image](/images/blog/histoire-damazon-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/histoire-damazon.jpg) Etapes d'une livraison chez amazon
+[![histoire-damazon-310x142.jpg](/images/blog/histoire-damazon-310x142.jpg) Etapes d'une livraison chez amazon
 ### ***AWS, un  business qui monte***
 
 Lors de mes [formations webmarketing](https://www.mauricelargeron.com/), quand je cite souvent Amazon et  son activité d'informatique avec son CA généré par la fourniture de service cloud (IT +69% avec 8 milliards de dollars en 2015) .  Bon nombre de  start ups américaines (Uber, Dropbox, mailchimp, Apple même) sont clients d’Amazon pour leur ingénierie informatique. 1er employeur parmi les GAFAM (Google Apple Facebook Amazon Microsoft avec plus de 130 000  personnes avec des pics saisonniers à 100 000 personnes supplémentaires (Noël 2015). Fin 2016, le grand A. aura embauché plus de 1000 personnes en France sur les sites du Loiret, des Hauts-de-France, de la Drôme et de la Saône-et-Loire.
 
-[![Image](/images/blog/effectif-salaries-2015-gafam-310x197.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/effectif-salaries-2015-gafam.jpg) Effectifs des GAFAM
+[![effectif-salaries-2015-gafam-310x197.jpg](/images/blog/effectif-salaries-2015-gafam-310x197.jpg) Effectifs des GAFAM
 ## **Timeline d’Amazon : une histoire loin d’être écrite !**
 
-[![Image](/images/blog/dates-de-la-genese-amazon-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/dates-de-la-genese-amazon.jpg) Principales dates de la genèse amazon
+[![dates-de-la-genese-amazon-310x163.jpg](/images/blog/dates-de-la-genese-amazon-310x163.jpg) Principales dates de la genèse amazon
 
 Tous les géants du web d'aujourd'hui sont des vieux dinosaures..
 
@@ -92,7 +92,7 @@ Tous les géants du web d'aujourd'hui sont des vieux dinosaures..
 
 En France c'est le numéro du commerce en ligne avec 16,8 millions de visiteurs uniques par mois et mondialement des kpis qui font rêver un peu : 21 de taux de rebond, 11 pages vues par visiteur et 12 minutes de temps passé (chiffres alexa septembre 2016).
 
-[![Image](/images/blog/audience-et-engagement-amazon-310x120.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/audience-et-engagement-amazon.jpg) Audience-et-engagement-amazon
+[![audience-et-engagement-amazon-310x120.jpg](/images/blog/audience-et-engagement-amazon-310x120.jpg) Audience-et-engagement-amazon
 ## **Acquisition de traffic : Seo - SEAmazon  et social profil  :)**
 
 ### ***Amazon avec le référencement naturel comme canal numéro 1 ***
@@ -101,16 +101,16 @@ Le trafic arrive de toute part, mais principalement du search selon similarweb. 
 
 Selon le dernier classement de Moz (qui subit actuellement des difficultés de croissance, 30% de leur masse salariale remerciée) sur 10 000  mots clés de monitorés, notre star du jour emporte aussi la mise ou presque puisqu’il arrive second en terme de **visibilité sur les moteurs de recherche** US.
 
-[![Image](/images/blog/amazon-et-seo-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/amazon-et-seo.jpg) Amazon et seo
+[![amazon-et-seo-310x270.jpg](/images/blog/amazon-et-seo-310x270.jpg) Amazon et seo
 
 Maintenant, la carte « seo »  avec la force  du domaine d’amazon.com exprimée  par ses backlinks, , place Amazon en 17ème position, on ne peut pas non plus gagner à tous les coups.
 
-[![Image](/images/blog/top-domaines-sur-internet-2016-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/top-domaines-sur-internet-2016.jpg) Top domaines sur internet-2016
+[![top-domaines-sur-internet-2016-310x226.jpg](/images/blog/top-domaines-sur-internet-2016-310x226.jpg) Top domaines sur internet-2016
 ### *** 1er client Google Adwords, c'est encore lui ..***
 
 Je n’ai pas trouvé de chiffre récent de 2016, mais j’ai toujours constaté qu’Amazon était le 1er client de Google en terme de dépense (le chiffre de 157 millions de dollars traîne ici et là). En tout cas, en terme de visibilité, Amazon ressort 1er parmi un ensemble de requêtes où la publicité de l’annonceur sont présentes, ceci explique cela.
 
-[![Image](/images/blog/Visibiliité-adwords-310x149.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/Visibiliité-adwords.jpg) Visibiliité-adwords
+[![Visibiliité-adwords-310x149.jpg](/images/blog/Visibiliité-adwords-310x149.jpg) Visibiliité-adwords
 ### ***Et quid de son empreinte sociale ?***
 
 J’ai trouvé cette  étude de la compagnie brandwatch (enquête Us mais d’envergure mondiale) qui s’est basée sur un panel de 43 marques les plus importantes dans le retail niveau monde. La data a été collectée de 3 manières :
@@ -123,7 +123,7 @@ J’ai trouvé cette  étude de la compagnie brandwatch (enquête Us mais d’e
 
 Le scoring maximal est de 500. Ici, A. remporte la médaille d’or.
 
-[![Image](/images/blog/social-medias-and-amazon-310x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/social-medias-and-amazon.jpg) Empreinte sociale du Géant de Seattle
+[![social-medias-and-amazon-310x230.jpg](/images/blog/social-medias-and-amazon-310x230.jpg) Empreinte sociale du Géant de Seattle
 ## **Conversions : taux , CA et nombre de clients**
 
 Alors là , tous les observateurs y vont bon train. Certains scindent en 2 types d'acheteurs : les clients non premium dont les taux de conversion pourraient avoisiner  les 13% selon un classement des Top 500 retailers de Millward Brown Digital ,  versus 73% pour les abonnés. Bon , il faudrait connaître le principe du calcul de ce taux etc...En tout cas, les chiffres corporate eux sont plus fiables avec un CA de plus les 100 milliards qui seront surement dépassés en 2016 pour 304 millions de clients.

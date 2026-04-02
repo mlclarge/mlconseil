@@ -14,7 +14,7 @@ Après un bref [historique sur l’emailing](https://www.mauricelargeron.com/les
 
 Petit rappel sur l’**acheminement  des emails**. Les clients locaux existent encore dans les entreprises, mais l’usage de clients cloud (gmail, live) devient la norme surtout en mobilité. Selon une étude récente, ce serait 40% des emails qui s’ouvriraient sur des devices mobiles.
 
-[![Image](/images/blog/processus-achememinement-email-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/processus-achememinement-email.jpg) Processus achememinement email
+[![processus-achememinement-email-310x221.jpg](/images/blog/processus-achememinement-email-310x221.jpg) Processus achememinement email
 
 MUA, MTA et MDA sont dans un …Je récupère ici la documentation fournit par la société éditrice de solutions NAS Synology :) .
 
@@ -40,7 +40,7 @@ Le domaine est intrinsèquement véhicule une réputation, accolé à un arobase
 
 De plus, ne nous leurrons pas dans cette histoire, le terme de technique souligne le fait que nous sommes dans un processus de machine to machine où de plus en plus, le machine Learning prends une place prépondérante sur les paramétrages d’infrastructure. La messagerie de Google, Gmail, n’est pas en reste dans ce domaine-là et apprend des **usages de l’utilisateur** (comportement) lors de réception des messages. Mais nous parlerons une autre fois de la mesure de l’engagement des destinataires par les serveurs de messagerie.
 
-[![Image](/images/blog/solutions-emailing-310x207.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/solutions-emailing.jpg) Solutions d' emailing
+[![solutions-emailing-310x207.jpg](/images/blog/solutions-emailing-310x207.jpg) Solutions d' emailing
 ### ***Utiliser les Fai du marché***
 
 Avec un Gmail, Hotmail, Outlook, il est possible de lancer une petite campagne qui sera limitée par le serveur de messagerie (200 pour Gmail). C’est une solution souple, sans paramétrage technique mais qui sera néanmoins monitoré par votre fournisseur. Pour du publipostage, il suffira de joindre un fichier de contacts (feuille de calcul de type Google drive dans le cadre de Gmail).
@@ -67,7 +67,7 @@ Il va de soi que les enregistrements A, Ptr, Mx , accessibles et configurables a
 
 Toute utilisation extérieure à sa propre infrastructure va nécessiter l’ajout dans l’idéal de ces 3 enregistrements. Cette procédure doit être faîte lors de l’usage d’une plateforme tierce d’envois d’email comme mailjet par exemple.
 
-[![Image](/images/blog/spf-dkim-dmarc-310x86.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/spf-dkim-dmarc.jpg) 3 standards dans l'authentification routage
+[![spf-dkim-dmarc-310x86.jpg](/images/blog/spf-dkim-dmarc-310x86.jpg) 3 standards dans l'authentification routage
 
  	- **SPF **: Send policy Framework qui permet, dans le cadre d’externalisation du routage, d’indiquer que tel ou tel autre infrastructure (mailjet par exemple) est autorisée à envoyer pour le compte de…
 
@@ -79,20 +79,20 @@ Toute utilisation extérieure à sa propre infrastructure va nécessiter l’ajo
 
 L’idée ici se résume à ce cas d’envoi simple via un client léger cloud Webmail.
 
-[![Image](/images/blog/envoi-dun-email-via-webmal-310x106.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/envoi-dun-email-via-webmal.jpg) Exemple : envoi dun email via webmal
+[![envoi-dun-email-via-webmal-310x106.jpg](/images/blog/envoi-dun-email-via-webmal-310x106.jpg) Exemple : envoi dun email via webmal
 
 Avant d'envoyer son message, on peut utiliser un outil pratique qui vérifie les configurations des standards d'authentification (sfp, dkim)
 
-[![Image](/images/blog/test-mail-tester-256x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/test-mail-tester.jpg) Tester les parametres de configuration authentification
+[![test-mail-tester-256x300.jpg](/images/blog/test-mail-tester-256x300.jpg) Tester les parametres de configuration authentification
 
 On peut scinder en 2 la façon dont traite un email un serveur de messagerie comme gmail.com
 
 La partie qui concerne l’envoi depuis un ordinateur : comment le Gmail identifie l’envoyeur du message.
 
-[![Image](/images/blog/decryptage-envoi-mail-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/decryptage-envoi-mail.jpg) Décryptage envoi mail selon récipiendaire
+[![decryptage-envoi-mail-310x158.jpg](/images/blog/decryptage-envoi-mail-310x158.jpg) Décryptage envoi mail selon récipiendaire
 
 La partie qui concerne la réception par le serveur, comment Gmail interprète la fiabilité de l’envoyeur.
 
-[![Image](/images/blog/delivrabilite-email-310x149.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/delivrabilite-email.jpg) Délivrabilite email perçue par recepteur gmail
+[![delivrabilite-email-310x149.jpg](/images/blog/delivrabilite-email-310x149.jpg) Délivrabilite email perçue par recepteur gmail
 
 Voilà pour un rapide tour d’horizon du côté de la machinerie pour assurer une **bonne délivrabilité d’un message email**. Tout reste possible en terme de configuration d’adressage, mais une fois maîtrisé, reste à se concentrer sur le message et l’engagement utilisateur (lors d’un prochain article).

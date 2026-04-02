@@ -17,15 +17,15 @@ Du moins c’est  comme cela que présente l’équipe de développement chez G
 
 Bien que depuis 2012, il soit possible d’utiliser GA universel, nous rentrons maintenant dans son déploiement uniformisé sur tous les comptes, standards ou premium. D’ici un an probablement, voire même avant, **Universel Analytics** sera le seul code disponible. D’ici là, 4 phases dans la feuille de route vont se succéder. De toute façon, il faudra y passer, même le transfert automatique d’ici quelques mois n’exemptera pas de faire le changement de code de suivi de base.  Donc, il faudra mettre la main à la pâte, quoiqu’il  arrive. Un petit schéma pour y voir plus clair sur le timing des opérations.
 
-[![Image](/images/blog/timeline-deploiement-google-analytics-310x164.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/timeline-deploiement-google-analytics.jpg)
+[![timeline-deploiement-google-analytics-310x164.jpg](/images/blog/timeline-deploiement-google-analytics-310x164.jpg)
 
 ### Aujourd’hui,  c’est la phase 1 !
 
 Etape 1 : Se rendre sur la propriété dans le compte GA à migrer, appuyé sur le bouton « transférer » .Attendre 24/48 heures pour l’achèvement du processus.
 
-[![Image](/images/blog/transfert-ga-310x249.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/transfert-ga.jpg) Ecran 1 : Interface transfert dans ga
+[![transfert-ga-310x249.jpg](/images/blog/transfert-ga-310x249.jpg) Ecran 1 : Interface transfert dans ga
 
-[![Image](/images/blog/transfert-ga-2-310x286.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/transfert-ga-2.jpg) Ecran 2 : Attention, tout n'est pas transférable !
+[![transfert-ga-2-310x286.jpg](/images/blog/transfert-ga-2-310x286.jpg) Ecran 2 : Attention, tout n'est pas transférable !
 
 Etape 2 : Changer le code natif classique par le nouveau. Voilà, c’est fait.
 ## **Les avantages et inconvénients d’utiliser l’outil  de migration dès à présent**

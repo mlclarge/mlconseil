@@ -60,7 +60,7 @@ Si vous procédez à une installation simple, soit copier-coller le code de suiv
 
 - **50 variables personnalisées** ramenées à **5** pour la Std
 
-[![Image](/images/blog/ga-std-vs-premium-1-310x257.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/ga-std-vs-premium-1.jpg) Principales différences entre Std et Premium
+[![ga-std-vs-premium-1-310x257.jpg](/images/blog/ga-std-vs-premium-1-310x257.jpg) Principales différences entre Std et Premium
 ## **Les quotas limites MAX standard de  GA **
 
 Je résume ici une information rapportée par Peter Graig lors d'un post sur le site [http://www.customreportsharing.com](http://www.customreportsharing.com/) .

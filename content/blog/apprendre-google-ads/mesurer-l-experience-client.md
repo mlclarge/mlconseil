@@ -21,12 +21,12 @@ Je les appelle comme cela, je ne sais pas si c’est le terme officiel, mais bon
 
 	- **Open Data :** Sans être dans le big data, les données ont été libérées par les collectivités publiques,  états pour le bénéfice de tous afin de développer des services pour les visiteurs (disponibilités des infrastructures locales, transport, météo)
 
-[![Image](/images/blog/ecosysteme-285x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/ecosysteme.jpg) Ecosysteme Data Site Web
+[![ecosysteme-285x300.jpg](/images/blog/ecosysteme-285x300.jpg) Ecosysteme Data Site Web
 **Des techniques de collecte automatisées sur page web**
 
 Le paradis du développeur web qui va jouer  avec les différents objets de la page (code html, url, formulaire, DOM, variables de sessions navigateur) à l’aide d’outils comme les pixels, cookies et  les manipuler  (transport, collecte)  via des scripts dédiés  côté client (Javascript) ou côté serveur (php, asp, node JS)
 
-[![Image](/images/blog/developpement-tracking-web-298x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/developpement-tracking-web.jpg) Sources Données sur page Web
+[![developpement-tracking-web-298x300.jpg](/images/blog/developpement-tracking-web-298x300.jpg) Sources Données sur page Web
 **Mobilité**
 
 *Web to store ou store to web,* peu importe le sens, les données via les** ibeacons** illustrent la collecte d’une donnée de proximité et propose au visiteur une offre censée être adaptée..Les applications sont multiples : validation de coupons, op de push marketing, paiement (bon enfin, pas trop encore mûr comme système), localisation..Bref, tout ce qui intéresse le géo-fencing an terme anglo-saxon.
@@ -41,19 +41,19 @@ First  party elles aussi, elles concernent les données de transactions,  acha
 
 	- ***Des indicateurs de satisfaction client** :*  comme le Net promoter Score ou plus récent le Customer Effort Score qui consiste à poser une simple question client  permettent de prendre le pou sur l’idée que se fait le client sur son fournisseur.
 
-[![Image](/images/blog/enquete-nps-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/enquete-nps.jpg) Le Net Promoter Score
+[![enquete-nps-310x201.jpg](/images/blog/enquete-nps-310x201.jpg) Le Net Promoter Score
 
-[![Image](/images/blog/satisfaction-client-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/satisfaction-client.jpg) 3 traditionnels Indicateurs Satisfaction et correlation prédictive
+[![satisfaction-client-310x300.jpg](/images/blog/satisfaction-client-310x300.jpg) 3 traditionnels Indicateurs Satisfaction et correlation prédictive
 
 	- ***L’analyse des ventes :***  transactionnel  (panier moyen, nombre d’articles, taux de réachat) , les retours  et les réclamations et leur pondération dans des objectifs de scoring,  sont aussi de précieuses données sur lesquelles  des modèles prédictifs  guideront les objectifs de nouvelles campagnes d’acquisitions pour éviter un taux d’attrition élevé.
 
-[![Image](/images/blog/processus-predictif-rapid-miner-310x260.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/processus-predictif-rapid-miner.jpg) Processus pour analyse prédictive taux attrition
+[![processus-predictif-rapid-miner-310x260.jpg](/images/blog/processus-predictif-rapid-miner-310x260.jpg) Processus pour analyse prédictive taux attrition
 
 On peut  noter des KPis "traditionnels"   marketing comme :
 
 **- RFM** (récence, Fréquence, montant), FRAT (avec déclinaison sur la gamme d’achat)
 
-[![Image](/images/blog/rfm-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/rfm.jpg) Indicateur RFM
+[![rfm-310x206.jpg](/images/blog/rfm-310x206.jpg) Indicateur RFM
 
 **- Valeur moyenne du client***** **: *autre façon de piloter un budget de campagne, consiste à calculer la valeur moyenne d’un client. Les composantes principales sont :
 
@@ -74,7 +74,7 @@ Ces indicateurs  (**RFM/CLV : customer lifetime value)** sont pragmatiques dans
 
 ***L’analyse sociale :*** le bruit des réseaux sociaux exprimée par la WebSphere sur les présences sociale de la marque  (pages Facebook, fil twister, autres réseau social : RSE), des plateformes  sociales sont aussi une source d’identification, le big data prend tout son sens car il faut ici déployer des modes de calculs rapides sur de gros volumes de données généralement non structurées. Remonter le tout dans les fichiers contacts pour enrichir la **donnée client ou de ses salariés sur un produit, nouvelle mesure etc **(voir ci dessous avec un outil gadget mais qui illustre l'idée)** .** L’expérience client est aussi jugée à l’aune du ressenti des salariés impliqués dans la relation commerciale. Selon une enquête, 65% des salariés manquerait d’implication dans leur travail selon un cabinet RH dont j’ai oublié le nom, cela se ressent forcément sur le client lambda…
 
-[![Image](/images/blog/analyse-de-sentiment-produit-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/analyse-de-sentiment-produit.jpg) Analyse de sentiment produit "Apple Watch"
+[![analyse-de-sentiment-produit-310x179.jpg](/images/blog/analyse-de-sentiment-produit-310x179.jpg) Analyse de sentiment produit "Apple Watch"
 
 	- **Type de données  dit d’engagement** : like, commentaires, partage, Rt, visites de profils, chaîne vidéo.
 

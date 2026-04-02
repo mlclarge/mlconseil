@@ -33,7 +33,7 @@ J’indique *en italique* **au-dessous de chaque KPI** la façon de les retrouv
 
              * Publicité> Adwords > Campagnes -> onglet « clic »*
 
-[![Image](/images/blog/roi-300x114.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/roi.jpg)
+[![roi-300x114.jpg](/images/blog/roi-300x114.jpg)
 
 	- **CA par Nouveau visiteur  & visiteur connu** ?  Utile pour juger si la nature du visiteur influe sur le montant de ses achats, selon le rapport, des actions peuvent être menées pour améliorer les performances de l’un ou l’autre profil.
 
@@ -41,7 +41,7 @@ J’indique *en italique* **au-dessous de chaque KPI** la façon de les retrouv
 
 	- **Ratio du Ca du nouveau visiteur**
 
-[![Image](/images/blog/ratio-ca-nouv-visiteur.jpg)](/images/blog/ratio-ca-nouv-visiteur.jpg)
+[![ratio-ca-nouv-visiteur.jpg](/images/blog/ratio-ca-nouv-visiteur.jpg)
 
 	- *Si ratio = 1.0 indique visiteur peut convertir à même égalité avec 1 visiteur connu*
 
@@ -51,13 +51,13 @@ J’indique *en italique* **au-dessous de chaque KPI** la façon de les retrouv
 
 	- **Engagement de la marque** (le ratio s’explique tout seul)
 
-[![Image](/images/blog/engagement-marque-300x39.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/engagement-marque.jpg)
+[![engagement-marque-300x39.jpg](/images/blog/engagement-marque-300x39.jpg)
 
                             Ex = 45 % *(taux moyen d'intéraction)*
 
 	- **CQI  Index de qualité de conversion** : quelle valeur est apportée par un trafic issue d’un lien qui pointe vers la boutique ?
 
-[![Image](/images/blog/index-qualité-conversion.jpg)](/images/blog/index-qualité-conversion.jpg)
+[![index-qualité-conversion.jpg](/images/blog/index-qualité-conversion.jpg)
 
 	- **Taux de rebond** *(internautes qui quittent le site dès la 1ère page)*
 
@@ -66,4 +66,4 @@ J’indique *en italique* **au-dessous de chaque KPI** la façon de les retrouv
 
 	- **% d’interaction** *(engagement visiteurs)*
 
-% visites avec interaction =  [![Image](/images/blog/pourcentage-interaction.jpg)](/images/blog/pourcentage-interaction.jpg)
+% visites avec interaction =  [![pourcentage-interaction.jpg](/images/blog/pourcentage-interaction.jpg)

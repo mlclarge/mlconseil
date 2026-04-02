@@ -20,7 +20,7 @@ Nous avions jusqu’au 31 juillet pour nous y inscrire, avec frais de voyage et 
 
 **Jour 1 :** La grand-messe avec des plénières qui rassemblent l’ensemble des Top Contributeurs des services Google (Gmail, search console, adwords, chrome, YouTube Play…). On remarquera toujours dans les équipes de managers, la présence de Français (Emmanuel Sauquet, julien Schleret)
 
-[![Image](/images/blog/fort-mason-310x278.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/fort-mason.jpg) Plénières à Fort-mason
+[![fort-mason-310x278.jpg](/images/blog/fort-mason-310x278.jpg) Plénières à Fort-mason
 
 Thématiques traitées :
 
@@ -36,7 +36,7 @@ Thématiques traitées :
 
  	- Les projets du labs  : impressionnant **la vue radar de la google car **(comment elle se représente son environnement).
 
-[![Image](/images/blog/google-car-simulateur-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/google-car-simulateur.jpg) Dans le cerveau de la Google Car
+[![google-car-simulateur-310x235.jpg](/images/blog/google-car-simulateur-310x235.jpg) Dans le cerveau de la Google Car
 
 **Jour 2 :** Consacré à des interventions de **Product Managers** (le matin). Pour l’équipe Adwords, ce moment informe des différentes nouveautés à venir :
 
@@ -51,15 +51,15 @@ Scripts adwords, Approbation des annonces, Création de campagnes display..
 Img session breeakout
 ### ***Les Tops contributeurs Français***
 
-[![Image](/images/blog/vue-de-tous-les-tcs-310x135.png)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/vue-de-tous-les-tcs.png) Vue de tous les tcs wordlwide !
+[![vue-de-tous-les-tcs-310x135.png](/images/blog/vue-de-tous-les-tcs-310x135.png) Vue de tous les tcs wordlwide !
 
 Tout d’abord 1001 excuses, je ne représente ici que 2 équipes : adwords et Search Console. D’ailleurs si les Gmail, chrome, YouTube et autres ont des photos, je les insère volontiers !
 
-[![Image](/images/blog/IMG_8227-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/IMG_8227.jpg) L'équipe de choc Adwords France
+[![IMG_8227-310x221.jpg](/images/blog/IMG_8227-310x221.jpg) L'équipe de choc Adwords France
 
 Avec un grand merci particulier à Marion, notre community manager adwords, qui nous a chouchouté lors de ce périple.
 
-[![Image](/images/blog/eqipe-webmaster-tcs-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/eqipe-webmaster-tcs.jpg) Equipe de choc Search console
+[![eqipe-webmaster-tcs-310x202.jpg](/images/blog/eqipe-webmaster-tcs-310x202.jpg) Equipe de choc Search console
 
 Hep un petit coucou à Denis, qui se reconnaitra sans doute !
 ## **Le Off de ce TC summit 2015**

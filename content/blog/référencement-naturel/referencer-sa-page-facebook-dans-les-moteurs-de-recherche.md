@@ -13,7 +13,7 @@ Je reviens ce matin sur un petit billet paru le 20 septembre 2011 sur le [site s
 
  
 
-[![Image](/images/blog/changement-173x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/changement.png)
+[![changement-173x300.png](/images/blog/changement-173x300.png)
 
 **Alors quelle ligne suivre afin de voir le contenu de sa page bien référencée ?**
 

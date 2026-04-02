@@ -13,7 +13,7 @@ Amazon, Cdiscount, Rue du commerce, Pixmania, cela y est, nous y sommes, diffici
 
 Bonjour, je suis Guilhem Gleizes, fondateur de l’agence Cible web et de la [**solution Iziflux**](http://www.iziflux.com/normalisation-et-gestion-des-flux-produits-2-73).  Iziflux est une solution de gestion de flux permettant d’exporter son catalogue produits vers des plateformes telles que les comparateurs de prix et les places de marché. C’est simple, à partir d’un catalogue unique de produits, Iziflux génère et adapte des flux conformes aux contraintes techniques des plateformes. La solution permet également d’avoir un tableau de bord unique de pilotage de vos campagnes sur les différents supports. Un gain de temps indéniable !
 
-[![Image](/images/blog/croquis-310x186.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/croquis.jpg) Principes de la plateforme
+[![croquis-310x186.jpg](/images/blog/croquis-310x186.jpg) Principes de la plateforme
 ## **Parlons plus précisemment des marketplaces. Depuis quand, ce canal d'acquisition de trafic , existe-t-il ?**
 
 Les marketplaces existent depuis 10 ans avec les deux plus connus en France qui sont ebay (ex ibazar) et Priceminister.Au départ ces sites sont des espaces de ventes aux enchères et de vente entre particuliers Ils ont très vite acceptés des vendeurs pro (en 2001 nous gérions des opérations de vente avec  aucland.fr pour le compte de nos clients) .La vague « d’explosion » des marketplaces, en nombre et en audience est, elle beaucoup plus récente avec le lancement des marketplaces au sein des principaux sites marchands. On peut considérer que le virage a été pris en 2007 avec le lancement de la place de marché de rueducommerce notamment.
@@ -42,7 +42,7 @@ Il n’y a pas de taille minimum, au contraire sur les supports généralistes 
 
 Par contre dès que le catalogue grossit et que le nombre de supports augmente, la nécessité de passer par un gestionnaire de flux comme Iziflux devient indispensable. Ce dernier permettra un gain de temps indéniable pour un marchand présent sur diverses places de marché ou comparateurs de prix.
 
-[![Image](/images/blog/schema-markets-99x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/schema-markets.jpg) Intérêts de la plateforme Iziflux
+[![schema-markets-99x300.jpg](/images/blog/schema-markets-99x300.jpg) Intérêts de la plateforme Iziflux
 ## **Quel est le  modèle économique  d’une marketplace (par conséquent, que doit payer le commerçant) ? **
 
 Bien souvent, les places de marché fonctionnent avec un pourcentage sur les ventes et pour certaines il faut y ajouter un abonnement mensuel de quelques dizaines d’euros par mois. Le pourcentage sur les ventes varie en fonction de la catégorie de produits que le marchand souhaite vendre tandis que l’abonnement mensuel dépend de la marketplace elle-même.

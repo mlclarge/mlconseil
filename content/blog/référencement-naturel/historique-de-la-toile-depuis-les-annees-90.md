@@ -94,7 +94,7 @@ J’ai partagé en 2 périodes, pour des raisons pratiques de largeur de timelin
 
  	- 2012 : Mesures sur excès d'Affichage publicitaire au-dessus lignes de flottaison (google fait la loi ici, il est juge et partie).
 
-[![Image](/images/blog/2011-2015-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/2011-2015.jpg) Evolution Algorithme recherche G. 2011-2015
+[![2011-2015-310x228.jpg](/images/blog/2011-2015-310x228.jpg) Evolution Algorithme recherche G. 2011-2015
 
  	- 2012 : **Venice (Seo local)** : apparition de pages  organiques localisées qui ouvrent un champ plus grand au **seo local**.
 

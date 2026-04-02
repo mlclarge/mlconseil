@@ -35,7 +35,7 @@ Facebook tente de rebondir lors de la conférence annuelle F8 tenue la semaine d
 
  	- Déploiement des écrans connectés Facebook pour la maison
 
-[![Image](/images/blog/nouvelle-interface-facebook-desktop-et-mobile.jpg)](/images/blog/nouvelle-interface-facebook-desktop-et-mobile.jpg) Nouvelle interface facebook desktop et mobile
+[![nouvelle-interface-facebook-desktop-et-mobile.jpg](/images/blog/nouvelle-interface-facebook-desktop-et-mobile.jpg) Nouvelle interface facebook desktop et mobile
 ## **6 grands principes pour l'avenir**
 
  	- Respect de la vie privée
@@ -50,7 +50,7 @@ Facebook tente de rebondir lors de la conférence annuelle F8 tenue la semaine d
 
  	- Non stockage des données sensibles : gouvernance sur les données ouvertes aux organismes qui font l'internet.
 
-[![Image](/images/blog/6-principes-facebook.jpg)](/images/blog/6-principes-facebook.jpg) 6 principes facebook
+[![6-principes-facebook.jpg](/images/blog/6-principes-facebook.jpg) 6 principes facebook
 
 Mark Zuckerberg insiste sur la stabilité de la plateforme, de l'infrastructure pour éviter les failles du système.
 ## **3 nouveautés sur Instagram**
@@ -78,7 +78,7 @@ Instagram est de connecte des communautés.
 
 Très prochainement, un nouveau design d'interface de l’appareil photo incluant le mode « Créer » fera son apparition, permettant ainsi de partager plus facilement au-delà d'une photo ou d'une video. Cette nouvelle caméra simplifiera l'utilisation d'outils créatifs comme les filtres et les stickers interactifs afin de permettre à chacun de s'exprimer toujours plus librement.
 
-[![Image](/images/blog/instagram-interface-nouvelle.jpg)](/images/blog/instagram-interface-nouvelle.jpg) Instagram interface nouvelle
+[![instagram-interface-nouvelle.jpg](/images/blog/instagram-interface-nouvelle.jpg) Instagram interface nouvelle
 ### ***Vendre des produits avec Instagram***
 
  	- Pour l'ecommerçant le déploiement global de la fonction shopping est en cours. Elle permet d'acheter directement depuis Instagram sans sortir de l'application.
@@ -87,7 +87,7 @@ Très prochainement, un nouveau design d'interface de l’appareil photo incluan
 
  	- Aujourd'hui, les influenceurs tagguent les marques qu’ils portent, rajoutent des détails dans les légendes de leurs publications et interagissent à une multitude de commentaires et de messages directs de la part de leurs communautés avec les produits mis en avant. Cette nouvelle fonctionnalité permettra depuis le tag d'aller sur la fiche produit pour l'acheter directement.
 
-[![Image](/images/blog/Shopping-instagram.jpg)](/images/blog/Shopping-instagram.jpg) Shopping instagram
+[![Shopping-instagram.jpg](/images/blog/Shopping-instagram.jpg) Shopping instagram
 ## **Rapprocher par  les écrans : la réalité virtuelle les personnes**
 
 Jouer  d'une manière plus réelle  devient concret avec le lancement de ces 2 modèles de casques de réalité virtuelle.
@@ -98,12 +98,12 @@ Jouer  d'une manière plus réelle  devient concret avec le lancement de ces 2
 
  	- Plus léger, sans câble pour le modèle oculus.
 
-[![Image](/images/blog/masque-réalité-virtuelle.jpg)](/images/blog/masque-réalité-virtuelle.jpg) 2 masques réalité virtuelle dont l' oculus
+[![masque-réalité-virtuelle.jpg](/images/blog/masque-réalité-virtuelle.jpg) 2 masques réalité virtuelle dont l' oculus
 
  	- Ecran connecté Facebook relié aux messageries messenger et what'sapp
 
  
 
-[![Image](/images/blog/portal-facebook.jpg)](/images/blog/portal-facebook.jpg) Portal facebook
+[![portal-facebook.jpg](/images/blog/portal-facebook.jpg) Portal facebook
 
 On peut comprendre donc que le fondateur de facebook souhaite transformer son réseau de place publique en lieu privé, sécurisé, de proximité ou famille et amis proches peuvent tisser des relations plus intimes, à l'aide éventuellement d'instruments virtuels (casques VR). L'époque de la grande ouverture aux médias d'informations est sans doute derrière nous !

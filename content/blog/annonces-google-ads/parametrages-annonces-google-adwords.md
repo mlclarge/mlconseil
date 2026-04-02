@@ -12,31 +12,31 @@ Le sujet de cette semaine s'intéresse aux "petits plus", qui vont faire le qu'u
 
 **Extensions de lieu** : aidez les mobinautes situés à proximité à trouver ou appeler votre magasin le plus proche.
 
-[![Image](/images/blog/lieux-300x65.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/lieux.jpg) Extension de lieu Annonce G. Express
+[![lieux-300x65.jpg](/images/blog/lieux-300x65.jpg) Extension de lieu Annonce G. Express
 
 **Extensions d'appel** : permettez aux mobinautes de contacter directement votre entreprise par téléphone.
 
-[![Image](/images/blog/appel.jpg)](/images/blog/appel.jpg) Extension d'appel
+[![appel.jpg](/images/blog/appel.jpg) Extension d'appel
 
 **Extensions de réseau social** : associez les recommandations des utilisateurs de Google+ en faveur de votre entreprise à votre campagne AdWords. Cette extension est très récente !
 
-[![Image](/images/blog/réseauSocial-300x35.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/réseauSocial.jpg) Extension Réseau Social
+[![réseauSocial-300x35.jpg](/images/blog/réseauSocial-300x35.jpg) Extension Réseau Social
 
 **Extensions de produit** : ajoutez des informations complémentaires sur vos produits dans votre annonce.
 
-[![Image](/images/blog/produits.jpg)](/images/blog/produits.jpg) Extension Produits
+[![produits.jpg](/images/blog/produits.jpg) Extension Produits
 
 **Avis de consommateurs** : affichez les avis sur votre entreprise dans votre annonce.
 Liens annexes pour les annonces : faites la promotion de pages supplémentaires de votre site, en plus de la page de destination principale de votre annonce.
 
-[![Image](/images/blog/avis1-300x45.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/avis1.jpg) Extension d'avis
+[![avis1-300x45.jpg](/images/blog/avis1-300x45.jpg) Extension d'avis
 
 ## Configuration extensions d’annonces 
 
 Vous pouvez utiliser plusieurs fois les mêmes extensions pour plusieurs campagnes, cela évite de ressaisir les mêmes informations.
 Pour les extensions de lieux il est conseillé d’avoir un compte google adresse (et modifier selon ses souhaits si plusieurs coordonnées)  afin de le lier à votre annonce mais vous pouvez également saisir les données à la main.
 
-[![Image](/images/blog/reglagesExtensions-liens-300x225.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/reglagesExtensions-liens.jpg) Configuration extension de lieu
+[![reglagesExtensions-liens-300x225.jpg](/images/blog/reglagesExtensions-liens-300x225.jpg) Configuration extension de lieu
 
 Pour les **extensions d’avis**, pas de paramétrages spécifiques. J’ai idenfié cependant 3 sources pour optimiser cet affichage avec mentions des étoiles en dessous du lien principal :
 
@@ -50,4 +50,4 @@ Pour les **extensions de produits** *(donc avec photos des produits)* , il sera 
 
 **Edition du 18/06/2012** : **Extension d'annonces pour les offres :** elle permet d'ajouter ses offres promotionnels à côté des ses annonces***  (coupons, bons de réduction..)*.**
 
-[![Image](/images/blog/offresPromo-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/offresPromo.png) Extensions d'annonces pour les promos.
+[![offresPromo-150x150.png](/images/blog/offresPromo-150x150.png) Extensions d'annonces pour les promos.

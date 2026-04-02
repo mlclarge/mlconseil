@@ -41,14 +41,14 @@ Jusqu’à peu, en effet, l’ouverture d’un compte adwords ne réclamait pas 
 
  	- Depuis le MCC, créer et inviter par l’ajout du mail un compte Aw , VIERGE, de tout compte Google adwords.
 
-[![Image](/images/blog/creation-cpte-google-adw-242x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/creation-cpte-google-adw.jpg) Creation cpte google adwords depuis mcc
+[![creation-cpte-google-adw-242x300.jpg](/images/blog/creation-cpte-google-adw-242x300.jpg) Creation cpte google adwords depuis mcc
 
  	- Le client reçoit l’invitation dans sa messagerie liée à son compte google , à confirmer par un lien cliquable d'acceptation.
 
-[![Image](/images/blog/acceptation-invitation-adwords-310x174.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/acceptation-invitation-adwords.jpg) Acceptation invitation adwords par annonceur
+[![acceptation-invitation-adwords-310x174.jpg](/images/blog/acceptation-invitation-adwords-310x174.jpg) Acceptation invitation adwords par annonceur
 
  	- Le gestionnaire peut ensuite accorder l’accès au client depuis le Mcc (accorder l'accès depuis accès au compte), et celui est prévenu à nouveau qu’il peut s’y connecter et démarrer sa campagne.
 
-[![Image](/images/blog/validation-acces-cpte-google-310x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/validation-acces-cpte-google.jpg) Validation acces compte adwords par Gestionnaire
+[![validation-acces-cpte-google-310x230.jpg](/images/blog/validation-acces-cpte-google-310x230.jpg) Validation acces compte adwords par Gestionnaire
 
 Bon, voilà pour la pratique, il existe sans doute d’autres méthodes mais celle-ci permet un contrôle total du compte par son gestionnaire.

@@ -14,7 +14,7 @@ A l'heure de l'arrivée sur le territoire Français de mastodontes de la data en
 
 De formation économique et financière à la base, j'ai développé une fascination particulière pour l'informatique dès l'avènement d'Internet et la distribution massive de Windows dans les années 2000... J'ai un parcours professionnel très atypique et très varié, avec un accent sur l'autodidacte et l'apprentissage à la volée auprès de séniors.
 
-[![Image](/images/blog/yoorshop-ceo.jpg)](/images/blog/yoorshop-ceo.jpg) Johann Carnevali - Ceo YOORshop
+[![yoorshop-ceo.jpg](/images/blog/yoorshop-ceo.jpg) Johann Carnevali - Ceo YOORshop
 
 Courant 2008, j'ai décidé de m'intéresser aux systèmes informatiques : serveurs, réseaux, mais aussi  la programmation des sites web. J'ai suivi des formations privés  et sur mesure auprès de séniors pendant 2 ans. En 2010, me vient l'idée d'offrir des services d'hébergement web, et ceci s'est confirmé en 2011-2012 lors de ma longue étude de marchés : j'ai pu constater la mauvaise qualité des services d'hébergement web fournis parmi les grands acteurs de ce domaine.
 
@@ -41,7 +41,7 @@ En 2013, l'avènement de la** technologie Cloudlinux** a révolutionné le segme
 
 Une de nos forces : innover avec une gestion audacieuse combinant les **meilleures technologies : disques SSD, Nginx, LiteSpeed, Http2, Brotli.**..
 
-[![Image](/images/blog/schema-ssd-fr-2.jpg)](/images/blog/schema-ssd-fr-2.jpg)
+[![schema-ssd-fr-2.jpg](/images/blog/schema-ssd-fr-2.jpg)
 
 Egalement, la mise à profit d'un savoir faire avancé en sécurité des sites webs, ce qui touche au niveau applicatif, mais aussi au niveau serveur en rejetant dès an amont le trafic spam, tentatives de piratage...
 
@@ -61,7 +61,7 @@ Sur 3 ans, 20% des nouveaux clients sont des 'Prime' : première fois qu'ils co
 
  	- Ensuite le choix de l'hébergeur peut varier selon votre besoin en performances/ressources allouées, et le type de support.
 
-[![Image](/images/blog/avis-yoorshop-502x124.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/avis-yoorshop.jpg) Avis clients YOORshop
+[![avis-yoorshop-502x124.jpg](/images/blog/avis-yoorshop-502x124.jpg) Avis clients YOORshop
 ## **Ciblez-vous une clientèle en particulier ?**
 
 Les boutiques web de taille moyenne et grande, correspondant à notre gamme hébergement professionnel.

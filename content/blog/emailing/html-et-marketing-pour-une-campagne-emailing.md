@@ -46,7 +46,7 @@ Blabla !
 
  	- *Navigateur/web/cloud/saas (*** **Gmail Office 365 Outlook.com Yahoo! *)*
 
-[![Image](/images/blog/tester-les-emails-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/tester-les-emails.jpg) Outil testeur à l'intérieur de la plateforme mailchimp
+[![tester-les-emails-310x165.jpg](/images/blog/tester-les-emails-310x165.jpg) Outil testeur à l'intérieur de la plateforme mailchimp
 
  	- Tester le code à l'aide d'outils dédiés (utiliser le standard spam assassin)
 
@@ -68,7 +68,7 @@ Blabla !
 
 Juste un rappel ici des questions à se poser, les responsables marketing regorgent d’idées pour faire mouche !
 
-[![Image](/images/blog/no-scroll-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/no-scroll.jpg) Exemple d'email réussi !
+[![no-scroll-310x180.jpg](/images/blog/no-scroll-310x180.jpg) Exemple d'email réussi !
 
  	- L’Adresse mail avec un vrai nom de domaine ?
 

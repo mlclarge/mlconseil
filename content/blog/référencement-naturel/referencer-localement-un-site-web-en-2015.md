@@ -31,7 +31,7 @@ Il aura fallu attendre la septième année de Google, l’âge de raison en quel
 
 	- 2014      Balisage Schema.org et  arrivée de Pigeon en décembre (déployé en juillet à l’US)
 
-[![Image](/images/blog/histoire-seo-local-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/histoire-seo-local.jpg) Histoire seo local : principales dates
+[![histoire-seo-local-310x153.jpg](/images/blog/histoire-seo-local-310x153.jpg) Histoire seo local : principales dates
 ## **Principaux Facteurs du Pigeon référenceur**
 
 D’une manière générale, retenons que cette update a pour objectif de remettre un peu d’ordre dans le classement des business locaux. J’indiquais dans cet [article](https://www.mauricelargeron.com/renforcer-son-positionnement-localis-dans-google/) en 2013  une orientation des résultats de recherche axée sur des signaux pur seo, cela se confirme !  Le spam comme partout ailleurs est présent,  et les requêtes concurrentielles sont dans la ligne de mire…une sorte de "payday loan"  (filtre anti-spam sur requêtes génériques très concurrentielles) mais  à l’échelle locale. Sa mise en place est progressive et l’expérience américaine, toujours en avance d’un semestre  lors d’un nouveau déploiement  par rapport à  l’Europe, sert de retour d’expérience pour l’europe. Les commentaires outre atlantique ont pu faire remonter que certaines rubriques étaient plus touchées que d’autres par exemple : déménagement, immobilier, serrurerie, plomberie, sur des intentions liées à l’urgence, rapidité etc..
@@ -53,7 +53,7 @@ Retenons  dans l’ensemble  ce que font apparaître  ces nouveaux résultats
 
 	- Une moindre importance des signaux locaux (trop spammy pour G.)
 
-[![Image](/images/blog/les-serp-locales-2015-310x232.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/les-serp-locales-2015.jpg) Un exemple d'un résultat "Pigeonné"
+[![les-serp-locales-2015-310x232.jpg](/images/blog/les-serp-locales-2015-310x232.jpg) Un exemple d'un résultat "Pigeonné"
 
 Soyons exhaustif et reprenons-le ressenti de ceux qui ont essuyés  avant nous les affres du volatile !
 ### ***Paramètres  qui prennent  de l’importance***
@@ -76,7 +76,7 @@ Soyons exhaustif et reprenons-le ressenti de ceux qui ont essuyés  avant nous 
 
 	- DA/PA de la page locale
 
-[![Image](/images/blog/facteurs-positonnement-google-local-2015-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/facteurs-positonnement-google-local-2015.jpg) Selon Moz facteurs dominants "Pigeon"
+[![facteurs-positonnement-google-local-2015-310x235.jpg](/images/blog/facteurs-positonnement-google-local-2015-310x235.jpg) Selon Moz facteurs dominants "Pigeon"
 
 On revient donc sur une stratégie seo plus « globale » axée sur les signaux natifs de l’algorithme de Google.
 ## **Que faire pour être vu localement ?**

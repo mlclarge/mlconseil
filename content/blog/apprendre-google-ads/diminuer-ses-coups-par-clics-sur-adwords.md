@@ -45,7 +45,7 @@ Alors que je me trouve au siège de Google pour le sommet des communautés adwor
 
 Voici le reporting d’une campagne adwords dont l’optimisation démarre en Mars et se termine en Juillet.
 
-[![Image](/images/blog/dashboard-310x157.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/dashboard.png) Fig.1 Reporting de campagne Adwords
+[![dashboard-310x157.png](/images/blog/dashboard-310x157.png) Fig.1 Reporting de campagne Adwords
 
 1/ **Trafic **: on assiste à une chute des impressions (-80%)  et des clics (-60%) qui s’accompagne au final avec une augmentation de plus de 100 % du taux de clic *(CTR est plus que doublé)*, le trafic devient plus qualifié.
 

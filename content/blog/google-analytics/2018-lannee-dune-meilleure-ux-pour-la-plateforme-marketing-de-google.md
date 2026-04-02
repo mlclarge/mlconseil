@@ -71,7 +71,7 @@ Déployé récemment dans les comptes, vous avez sans doute remarqué l’expér
 
 Depuis un relooking des différents logos des plateformes, la plateforme marketing unifie propose un service d'intégration et d'administration centralisé depuis l'url https://marketingplatform.google.com
 
-[![Image](/images/blog/google-marketing-platform-402x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/google-marketing-platform.jpg) Outils d'intégration sur la marketing plateforme de google
+[![google-marketing-platform-402x300.jpg](/images/blog/google-marketing-platform-402x300.jpg) Outils d'intégration sur la marketing plateforme de google
 
 Voici les principaux points de son interface ....
 

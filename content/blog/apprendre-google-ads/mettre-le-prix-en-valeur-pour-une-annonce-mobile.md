@@ -14,21 +14,21 @@ image: "/images/blog/googla-adwords-nouvelle-ext.jpg"
 
 Ces extensions ne sont visibles que sur les appareils mobiles et tablettes. Les annonceurs s’y mettent petit à petit. Voici quelques exemples de ces formats d’annonces sur smarphone :
 
-[![Image](/images/blog/extension-code-promotion-310x188.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/extension-code-promotion.jpg) Exemple de formats sur smatrphones
+[![extension-code-promotion-310x188.jpg](/images/blog/extension-code-promotion-310x188.jpg) Exemple de formats sur smatrphones
 ## **Les performances de ces extensions sont elles au rendez vous ?**
 
 Selon wordstream, ces extensions testées en version betâ ont montré un taux d’engagement 4 fois supérieurs en dépassant même les performances des sitelinks.
 
-[![Image](/images/blog/engagement-sur-les-extensions-de-prix-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/engagement-sur-les-extensions-de-prix.jpg) Taux d'engagement-sur-les-extensions-de-prix
+[![engagement-sur-les-extensions-de-prix-310x153.jpg](/images/blog/engagement-sur-les-extensions-de-prix-310x153.jpg) Taux d'engagement-sur-les-extensions-de-prix
 
 Les dimensions sont sensiblement équivalentes entre une extension de liens et de prix, l’effet attractif tient sans doute sur l’effet « prix affiché » et le** swipe possible, gauche- droite**.
 
-[![Image](/images/blog/extension-prix-disney-310x261.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/extension-prix-disney.jpg) SiteLinks Versus Extension Prix
+[![extension-prix-disney-310x261.jpg](/images/blog/extension-prix-disney-310x261.jpg) SiteLinks Versus Extension Prix
 ## **Quels sont les  paramétrages nécessaires ?**
 
 8 thématiques sont concernées. Comme toutes les extensions d’annonces de google adwords, il est possible de rajouter à volonté des valeurs assorties d’une entete et description avec une url dédiée , et  un calendrier optionnel. Un minimum de 3 articles sont requis.
 
-[![Image](/images/blog/interface-et-paramétrage-nouvelle-extension-de-prix-adwords-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/interface-et-paramétrage-nouvelle-extension-de-prix-adwords.jpg) interface-et-parametrage-nouvelle-extension-de-prix-adwords
+[![interface-et-paramétrage-nouvelle-extension-de-prix-adwords-310x226.jpg](/images/blog/interface-et-paramétrage-nouvelle-extension-de-prix-adwords-310x226.jpg) interface-et-parametrage-nouvelle-extension-de-prix-adwords
 
 **Marques**
 

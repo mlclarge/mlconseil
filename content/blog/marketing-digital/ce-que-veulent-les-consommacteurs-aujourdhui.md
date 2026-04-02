@@ -40,7 +40,7 @@ La fréquentation du commerce physique baisse lentement, c’est une tendance de
 
  	- 49% des -35 ans font tout sur internet depuis leur smartphone
 
-[![Image](/images/blog/infographie-ecommerce.jpg)](/images/blog/infographie-ecommerce.jpg) Chiffres principaux de l'étude OpinionWay/HavasParis
+[![infographie-ecommerce.jpg](/images/blog/infographie-ecommerce.jpg) Chiffres principaux de l'étude OpinionWay/HavasParis
 ### ***Un commerce omniscient ***
 
 ***Du cognitif à l’émotionnel*** : ère du big data, mieux comprendre le consommateur certes mais avec une intelligence artificielle qui s’insère au moment de l’acte d’achat : 72 % ont peur que le commerce se déshumanise mais les  technologies du deep learning sont là  justement pour prendre le contrepied de cette crainte, avec l’ère de l’assistance avec les enceintes connectés (Alexa, Google home),  l’apprentissage du langage naturel pour plus d’humanisation de la relation.

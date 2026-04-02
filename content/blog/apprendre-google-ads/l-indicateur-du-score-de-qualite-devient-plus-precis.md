@@ -35,16 +35,16 @@ Url à afficher, sa popularité au sein de l’annonce.
 
 L’internaute a-t-il trouvé satisfaction après la promesse de l’annonce ? Est-elle vraiment en rapport avec le mot clé de départ ?
 
-[![Image](/images/blog/quality-score-310x129.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/quality-score.jpg) Vue globale du QS
+[![quality-score-310x129.jpg](/images/blog/quality-score-310x129.jpg) Vue globale du QS
 ### Objectif de cet indicateur
 
 Motiver l’internaute à produire de belles annonces en lui faisant payer moins cher le clic (soit disant)  et ainsi faire cliquer un maximum d’annonces.  pour faire plaisir à Google ;) .
 
-[![Image](/images/blog/formule-scrore-de-qualite1-310x146.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/formule-scrore-de-qualite1.jpg) La recette officielle du QS
+[![formule-scrore-de-qualite1-310x146.jpg](/images/blog/formule-scrore-de-qualite1-310x146.jpg) La recette officielle du QS
 
 Une étude de la société  Click équation rapportée  en 2009, actualisée en 2013 montre des écarts en % cpcs allant de 30% entre un QS de 10 et de 7 à plus de 600% pour un score de qualité à 1 !
 
-[![Image](/images/blog/impact-quality-score-sur-cpc-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/impact-quality-score-sur-cpc.jpg) Impact du Qs sur Cpc selon Wordstream
+[![impact-quality-score-sur-cpc-310x165.jpg](/images/blog/impact-quality-score-sur-cpc-310x165.jpg) Impact du Qs sur Cpc selon Wordstream
 ## **Contrôler l’évolution de son score de qualité **
 
 ### De manière empirique
@@ -59,15 +59,15 @@ Je remercie encore le blog de **Martin Roettgerding** d’où je tire les source
 
 2/ Récupérer et renommer la feuille de  calcul (Google drive)  -> [http://bit.ly/rapportsQsAdw](http://bit.ly/rapportsQsAdw) ,  elle comprend 2 onglets ‘input keyword’ et ‘qs history’ . Remplir les 3 colonnes mots clés, campagne et  groupes d’annonces  du premier "onglet kw" par  copier-coller depuis Excel.
 
-[![Image](/images/blog/rapport-mot-cles-310x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/rapport-mot-cles.jpg) Feuille de calcul excel - Copier les données adwords
+[![rapport-mot-cles-310x184.jpg](/images/blog/rapport-mot-cles-310x184.jpg) Feuille de calcul excel - Copier les données adwords
 
 3/ Copier ce  script : [http://bit.ly/scriptQsAdw](http://bit.ly/scriptQsAdw)  en allant  sur la campagne Compte adwords > rubrique opération groupées>script  le Copier-coller.
 
-[![Image](/images/blog/script-adwords-310x257.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/script-adwords.jpg) Installation du script Adwords
+[![script-adwords-310x257.jpg](/images/blog/script-adwords-310x257.jpg) Installation du script Adwords
 
 4/ Puis, dans le début du script à l’emplacement : "INSERT_SPREADSHEET_URL_HERE";  vous  mettez l’url de la feuille de calcul Google. Enregistrez et exécuter le script. Le second onglet devrait se remplir des données recherchées soit QS et, au fil du temps, les variations du QS.
 
-[![Image](/images/blog/qs-hsitory-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/qs-hsitory.jpg) Après exec. du script Lecture dans  google Doc
+[![qs-hsitory-310x219.jpg](/images/blog/qs-hsitory-310x219.jpg) Après exec. du script Lecture dans  google Doc
 
 Une fois cette routine installée, il sera possible de suivre les aléas des changements du QS et notamment de suivre les mises à jour de Google. J’ai installé tardivement ce script, donc n’ai pas assez de recul pour en faire une illustration personnelle ici.
 
@@ -75,7 +75,7 @@ Une fois cette routine installée, il sera possible de suivre les aléas des cha
 
 Je pense que l’on peut être unanime, que ce soit à l’Us ou en Europe, les aficionados d’adwords ont remarqué des nets changements dans le **scoring du QS**.  Des essais seraient même intervenus avant l’annonce, dès le mois de juin.
 
-[![Image](/images/blog/chutedestauxdequalite-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/chutedestauxdequalite.jpg)
+[![chutedestauxdequalite-310x160.jpg](/images/blog/chutedestauxdequalite-310x160.jpg)
 
 ### Objectifs du changement
 
@@ -89,7 +89,7 @@ Précision plus grande dans les sous facteurs qui impactent le score de qualité
 
 Le fait d’être dans en dessus ou en dessous de la moyenne dans les 3 paramètres ou seulement parmi l’un des trois est dorénavant plus ajusté.
 
-[![Image](/images/blog/sous-facteurs-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/sous-facteurs.jpg) 3 sous facteurs plus précis
+[![sous-facteurs-310x183.jpg](/images/blog/sous-facteurs-310x183.jpg) 3 sous facteurs plus précis
 
 Exemple : avoir les trois sous facteurs moyens donne un QS de 6, avoir un des trois au-dessus, donne un qs de 7.  Avoir 2 items moyens et 1 en dessous donne un 5 etc…
 

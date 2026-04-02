@@ -12,7 +12,7 @@ image: "/images/blog/adwords_Express.jpg"
 
 Les annonces Google Adwords Express se reconnaissent grâce à leurs **pictos bleus**
 
-[![Image](/images/blog/AdwordsExpress01-300x137.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/AdwordsExpress01.png) Annonce "type" Adw Express
+[![AdwordsExpress01-300x137.png](/images/blog/AdwordsExpress01-300x137.png) Annonce "type" Adw Express
 ## Objectifs Adwords Express
 
  	- Faciliter pour le commun des organisations locales (commerce, artisanat..) , le lancement d'une campagne publicitaire.
@@ -29,13 +29,13 @@ Se rendre sur l'interface à  l'adresse [http://www.google.fr/adwords/express/]
 
 **2/ Informations **: Si le système ne trouve pas de fiche, vous la créez tout simplement. Deux champs importants à remplir, le site web d'une part, **vous n'êtes pas obligé d'être propriétaire d'un site** ! Si vous êtes dans ce cas, vous cochez la case "je n'ai pas de site web", et d'autre part le choix de** la catégorie**, utiliser selon votre activité les rubriques qui sont proposés par le système. Plusieurs catégories peuvent se cumuler, faire un choix pertinent vu que ces catégories représentent les mots clés sur lesquels le système adwords express fera apparaître vos annonces.
 
-[![Image](/images/blog/2-adwords-tutoriel-creation-fiche-adresse1-300x275.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/2-adwords-tutoriel-creation-fiche-adresse1.png) Fiche G. Adresse
+[![2-adwords-tutoriel-creation-fiche-adresse1-300x275.png](/images/blog/2-adwords-tutoriel-creation-fiche-adresse1-300x275.png) Fiche G. Adresse
 
 **3/ Créez votre annonce**
 
 L'annonce est composée de 5 lignes dont 3 que vous pouvez paramétrer qui sont le titre (25 caractères) et 2 lignes de 70 caractères. Veillez à bien rédigez ces informations. Ensuite dans cette étape, vous devez choisir de diriger les internautes sur 1 site, 1 page Google adresse (que vous remplissez par défaut ici) ou sur 1 page Google plus (réseau social de Google). Budget : Une estimation de clics est proposée selon le montant investi. Attention, Google annonce ici la couleur, il faudra compter en moyenne sur **une fourchette allant de 0,85 à 1,45 cts d'euros le clic.**
 
-[![Image](/images/blog/3-adwords-tutoriel-creation-fiche-annonce2-300x216.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/3-adwords-tutoriel-creation-fiche-annonce2.png) Paramétrage campagne
+[![3-adwords-tutoriel-creation-fiche-annonce2-300x216.png](/images/blog/3-adwords-tutoriel-creation-fiche-annonce2-300x216.png) Paramétrage campagne
 
 **4/ Paiement**
 
@@ -55,13 +55,13 @@ Comme pour Google adwords, il conviendra d'**optimiser son annonce.**
 
  	- Les annonces Express et Adwords traditionnelles se mélangent lors de requêtes concurrentielles et se situent aussi bien en position premium (en dessous du champ de recherche) que  sur le côté gauche.
 
-[![Image](/images/blog/serpLocalParis-300x189.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/serpLocalParis.png) Serp - Résultat requête locale sur Paris
+[![serpLocalParis-300x189.png](/images/blog/serpLocalParis-300x189.png) Serp - Résultat requête locale sur Paris
 
  	- Les critères de qualité restent les mêmes que pour 1 annonce adwords traditionnelle selon Google .
 
  	- Néanmoins, pour le suivi de vos annonces vous avez dans votre interface Adwords express, un tableau de bord qui vous permet de suivre vos établissements inscrits, un suivi de vos clics et affichages avec des indications sur les termes de recherche ainsi que les informations de facturations.La possibilité de lier un compte adwords express avec un compte Google analytics (pour les possesseurs de site web) peut se faire, dans la mesure ou automatiquement, en créant une annonce adwords express, se crée un compte adwords*(ou se rajoute dans un compte existant)* dans lequel s'affiche la parution  qui n'est pas modifiable mais cependant possible de lier à ce même compte analytics.
 
-[![Image](/images/blog/Analytics-Adwords-Express-300x240.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/Analytics-Adwords-Express.png) Suivi des retombées campagne
+[![Analytics-Adwords-Express-300x240.png](/images/blog/Analytics-Adwords-Express-300x240.png) Suivi des retombées campagne
 ## Inconvénients de ce type de campagne
 
  	- Prix du clic non maîtrisable

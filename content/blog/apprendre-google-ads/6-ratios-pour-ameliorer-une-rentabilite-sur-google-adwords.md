@@ -49,7 +49,7 @@ Autre cas de figure, je souhaite augmenter mon budget pour augmenter mon nombre 
 
 Si le CIC est inférieur à mon revenu par clic, j’opte pour une augmentation d’enchère. Ce calcul est fait pour aider à maitriser ce qu’est une enchère par le maniement de valeurs. En réalité, une augmentation de budget entraîne selon la qualité de la campagne, des répercussions plus complexes  (concurrence etc.) Le simulateur d’enchères, outil  dans adwords donne également des prévisions basées sur ce principe.
 
-[![Image](/images/blog/simu-310x271.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/simu.png) Fig. 1 Simulateur d'enchères
+[![simu-310x271.png](/images/blog/simu-310x271.png) Fig. 1 Simulateur d'enchères
 ### **Cout par acquisition**
 
 Le cout par acquisition est utile à connaitre, combien  coûte l’obtention d’un prospect, d’une vente, d’une souscription etc.
@@ -66,6 +66,6 @@ You tube reste le second moteur de recherche après Google ! Là encore du pote
 
 Dorénavant, le modèle de calcul n’est plus basé sur le maximum de clics, de vues, mais  sur un potentiel  sur le taux de lecture réel, ce qui est plus fiable et  plus juste. Dans adwords, vous rentrez donc ce que vous pensez être le maximum rentable  à payer pour une annonce vidéo et le calcul se fait automatiquement  selon un potentiel de visionnage, le cout par vue moyen est ensuite indiqué.
 
-[![Image](/images/blog/video-310x126.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/video.png) Cout par vue adwords vidéo
+[![video-310x126.png](/images/blog/video-310x126.png) Cout par vue adwords vidéo
 
 A la semaine prochaine …

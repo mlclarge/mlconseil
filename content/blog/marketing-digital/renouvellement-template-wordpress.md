@@ -16,7 +16,7 @@ Bon, si on n’est pas de la partie, autant faire-faire si on en a les moyens. �
 
 Faire faire un Template personnalisé par un intégrateur-développeur qui connait bien le cms, du « sur mesure »  pourra coûter entre 1000 et 2000 euros  selon ses fonctionnalités, le type de prestataire (agence, indépendant, stagiaire  :)  )
 
-[![Image](/images/blog/tariftemplate-502x231.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/tariftemplate.jpg) Exemples de tarifs de prestations
+[![tariftemplate-502x231.jpg](/images/blog/tariftemplate-502x231.jpg) Exemples de tarifs de prestations
 
  
 
@@ -44,7 +44,7 @@ Guide : [https://bulledev.com/optimiser-wordpress/](https://bulledev.com/optimi
 
 On se laissera séduire par les Template aux atours  les plus beaux, mais ensuite c’est une autre histoire….il va falloir passer à l’intégration.
 
-[![Image](/images/blog/tarif-comparateur-template-502x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/tarif-comparateur-template.jpg) Comparatif/Benchmark de fournisseurs de template
+[![tarif-comparateur-template-502x206.jpg](/images/blog/tarif-comparateur-template-502x206.jpg) Comparatif/Benchmark de fournisseurs de template
 ## **Mise en œuvre, va on se retrousse les manches**
 
 ***Travail à faire de préparationi avant le basculement ***

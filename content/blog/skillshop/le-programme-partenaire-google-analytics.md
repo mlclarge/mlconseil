@@ -14,12 +14,12 @@ Les **certifications** dans le monde du [**web analytics**](https://fr.wikipedi
 
 Il existe bien la **GAIQ (Google Analytics Individual qualification)** qui est un label qui fait partie du programme **Google partner** (orienté essentiellement sur le marketing en ligne) et directement relié à [skillshop](https://www.mauricelargeron.com/skillshop/). Ce dernier peut être matérialisé par l’édition d’une preuve d’achèvement avec un lien uniquement visible depuis la plateforme partner.  Si l’on souhaite arborer cette certif. **,  une capture d’écran fera l’affaire. Sinon, depuis le profil « entreprise », cette certification apparaît au même titre que celles liées plus précisément à adwords.
 
-[![Image](/images/blog/certifications-google-310x118.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/08/certifications-google.jpg) Evolution présentation certifications google analytics
+[![certifications-google-310x118.jpg](/images/blog/certifications-google-310x118.jpg) Evolution présentation certifications google analytics
 ## **Le Label du programme Google analytics Partner (**GACP)
 
 L’acronyme change et devient Google Analytics Certified Partner. Elle intéresse plus particulièrement les entreprises qui sont structurées et qui font un business. Je reprends l’essentiel de la documentation officielle anglaise de ce programme. Elle repose sur 3 exigences  principales :
 
-[![Image](/images/blog/analytics-certifiedpartner.jpg)](/images/blog/analytics-certifiedpartner.jpg) Badge de partenaire GACP
+[![analytics-certifiedpartner.jpg](/images/blog/analytics-certifiedpartner.jpg) Badge de partenaire GACP
 ### ***Méthode de travail à fournir***
 
  	- un worflow sur la mise en place d’une mission d’accompagnement, d’implémentation de mesure d’audience.
@@ -60,7 +60,7 @@ L’acronyme change et devient Google Analytics Certified Partner. Elle intéres
 
 Toute organisation qui possède ce badge est forcément GACP à la base. C’est un premier palier pour devenir revendeur de la solution payante Google premium devenue cette année analytics 360.
 
-[![Image](/images/blog/log4.jpg)](/images/blog/log4.jpg) Google analytics premium reseller
+[![log4.jpg](/images/blog/log4.jpg) Google analytics premium reseller
 
 Afin de pouvoir revendre cette solution payante de Google analytics il faut avoir les reins solides et avoir pu démontrer en qualité de GACP  son expertise.  L’agence certifiée premium accède directement au support technique de GA afin d’assurer un service support dédié.
 
@@ -68,10 +68,10 @@ Afin de pouvoir revendre cette solution payante de Google analytics il faut avoi
 
 Il faut être au minimum GACP et passer une certification dédiée qualifiée de « corsée » par Julien Coquet. Donc il faut se familiariser avec le concept de gestionnaire de balises, mais en plus, en être utilisateur et en connaître les subtilités. Je n'ai pas de critères plus précis quant au cahier des charges à respecter en 2016, ces partenaires étant soumis à un accord de non divulgation (NDA) et qui plus est, la suite 360 va apporter certainement des modifications dans le droit et obligations des parties prenantes.
 
-[![Image](/images/blog/log5.jpg)](/images/blog/log5.jpg) Tag Manager certified partner
+[![log5.jpg](/images/blog/log5.jpg) Tag Manager certified partner
 ## **Google Analytics Technology Partner (GATP)**
 
-[![Image](/images/blog/google-analytics-technnology-partner.jpg)](/images/blog/google-analytics-technnology-partner.jpg) Google Analytics Technology Partner
+[![google-analytics-technnology-partner.jpg](/images/blog/google-analytics-technnology-partner.jpg) Google Analytics Technology Partner
 
 Un peu moins connu dans le panel des labels analytics, celui de partenaire technnologique. Toute organisation qui souhaite élargir le potentiel de la plateforme google analytics se voit remettre ce badge. Les bénéficiaires s’ils le souhaitent, sont listés sur le listing des partenaires officiels, sont en avant première sur des events et bénéficient du réseau.
 

@@ -15,7 +15,7 @@ C’est l’été, il est temps de faire un break en cette fin de semestre 2013 
 
 Lancé depuis février dernier, le déploiement automatique des nouvelles fonctionnalités des campagnes  (appelées universelles) s’est effectué ce 22 juillet dernier. Pour résumer, mais déjà abordé ici, adwords  accomplit une évolution majeure sur 3 domaines :
 
-[![Image](/images/blog/campagnes-universelles-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/campagnes-universelles.jpg) Flexibilité et contexte des campagnes universelles
+[![campagnes-universelles-310x165.jpg](/images/blog/campagnes-universelles-310x165.jpg) Flexibilité et contexte des campagnes universelles
 
 	- **Multi-devices**  (avec la diffusion automatique sur les appareils portables ou non, avec possibilité de moduler ses impressions sur les Smartphones)
 
@@ -41,45 +41,45 @@ Comme dirait la formule consacrée, à l’heure où  j’écris ces lignes,  
 
 Ce format est disponible en test sur demande via le responsable de compte, sur le réseau de sites de Google, ces annonces au survol de la souris affiche dynamiquement des pages plus détaillées d’un catalogue produit par exemple.
 
-[![Image](/images/blog/light-ads-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/light-ads.jpg) Annonce style "lightbox"
+[![light-ads-310x177.jpg](/images/blog/light-ads-310x177.jpg) Annonce style "lightbox"
 ### Extensions d’annonces
 
 Extension de liens de site
 
 Le passage à l’universel obligé va satisfaire les annonceurs en mal d’extensions flexibles. Notons par exemple la possibilité de paramétrer ces extensions selon un planning, un type d’appareil (ici mobile) avec une description personnalisée.
 
-[![Image](/images/blog/extensions-liens-310x239.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/extensions-liens.jpg) Extension de liens modulables
+[![extensions-liens-310x239.jpg](/images/blog/extensions-liens-310x239.jpg) Extension de liens modulables
 Deux formats nouveaux à venir
 
 Deux formats d’annonces en cours de test. L’un  s’intitule «** extension de commentaires** »,  qui permet d’insérer des témoignages au sein de l’annonce. L’autre s’appellerait  « **extension d’images **», destinée aux activités de services, un peu déçu de ne pas avoir droit eux aussi à des images comme les annonces Google shopping.
 
-[![Image](/images/blog/extensions-avec-avis-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/extensions-avec-avis.jpg) 2 types d'extensions nouvelles
+[![extensions-avec-avis-310x177.jpg](/images/blog/extensions-avec-avis-310x177.jpg) 2 types d'extensions nouvelles
 ## **Réseau de recherche** *(moteur Google et partenaires)*
 
 ### Retargeting pour ces visiteurs (RLSA : Remarketing List Search Ads)
 
 La grande nouveauté est la possibilité de créer des **listes d’audience sur le search** avec donc comme objectif inhérent, la gestion de campagne **remarketing ou de reciblage s**ur le moteur de recherche Google.  A noter, que les paramétrages s’effectuent dans adwords et non via Google analytics. Un minimum de 500 membres à une liste est requis pour lancer une opération de reciblage (100 uniquement sur le display).
 
-[![Image](/images/blog/rsla-310x59.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/rsla.jpg) Liste de Retargeting sur réseau recherche
+[![rsla-310x59.jpg](/images/blog/rsla-310x59.jpg) Liste de Retargeting sur réseau recherche
 ## **Réseau Display**
 
 ### Ad planner pour le réseau display
 
 Remplace depuis début Mai, les deux outils de sélection des emplacements et du ciblage contextuel *(vont disparaitre sous quelques jours*) et l’ancien ad planner, externe à adwords.
 
-[![Image](/images/blog/ad-planner-display-310x182.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/ad-planner-display.jpg) Planification emplacement Display
+[![ad-planner-display-310x182.jpg](/images/blog/ad-planner-display-310x182.jpg) Planification emplacement Display
 ### Audiences
 
 Audiences similaires
 
 Depuis maintenant un gros semestre, l’enrichissement d’une liste d’audience déjà établie est possible, avec des **profils visiteurs semblables** mais qui n’ont pas parcouru votre site.
 
-[![Image](/images/blog/audience-similaire-310x114.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/audience-similaire.jpg) Ciblage sur audience similaire
+[![audience-similaire-310x114.jpg](/images/blog/audience-similaire-310x114.jpg) Ciblage sur audience similaire
 Affinités, des nouveaux segments à cibler disponibles
 
 80 **catégories d’affinités** ont été ajoutées à ce jour, et permettent un ciblage démographico-social associées aux catégories d’intérêts déjà présentes. Elles ont été établies statistiquement selon le type de pages vues, le temps passé. Elles permettent d’élargir une audience potentielle ([infos](https://support.google.com/adwords/answer/2497941)).
 
-[![Image](/images/blog/audience-affinités-display-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/audience-affinités-display.jpg) audience-affinités-display
+[![audience-affinités-display-310x206.jpg](/images/blog/audience-affinités-display-310x206.jpg) audience-affinités-display
 
  
 ## **Google shopping **
@@ -102,7 +102,7 @@ Souligons que Google shopping ne s'est jamais aussi bien porté et domine largem
 
 On reste dans la même idée du reciblage sur des visiteurs qui ont déjà parcouru votre site, avec ici, un degré de précision supplémentaire vu que l’on va tenter de recibler sur les mêmes produits consultés par l’internaute.  Un paramétrage spécifique sur la pause des balises est souhaité avec notamment une configuration globale du tag de conversion adwords avec la balise remarketing au sein du [gestionnaire de balise](https://support.google.com/tagmanager/answer/3002580?hl=fr) *(tag manager)*.
 
-[![Image](/images/blog/rmktg-dynamique-265x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/rmktg-dynamique.jpg)
+[![rmktg-dynamique-265x300.jpg](/images/blog/rmktg-dynamique-265x300.jpg)
 
 ## **Reporting **
 
@@ -110,12 +110,12 @@ On reste dans la même idée du reciblage sur des visiteurs qui ont déjà parco
 
 De nouveaux indicateurs sont apparus, qui agrègent les plus** "fortes variations"** sur une campagne en termes de  Couts et clics sur 3 échelons de  période allant de 7 à 28 jours. Disponibles depuis l'**onglet "variables"** de l'interface.
 
-[![Image](/images/blog/topo-mouvements-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/topo-mouvements.jpg) Les plus "Fortes Variations"
+[![topo-mouvements-310x250.jpg](/images/blog/topo-mouvements-310x250.jpg) Les plus "Fortes Variations"
 ### Données de campagnes universelles dans Google analytics
 
 Les remontées des données des nouvelles campagnes peuvent être consultées dans Google analytics, rubrique adwords -> ajustements des enchères. Voilà une façon supplémentaire de contrôler si ces arbitrages sur les enchères atteignent leurs objectifs.
 
-[![Image](/images/blog/adwords-ga-campagne-universelle-310x116.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/adwords-ga-campagne-universelle.jpg) Collecte des données adwords "universelles" dans GA
+[![adwords-ga-campagne-universelle-310x116.jpg](/images/blog/adwords-ga-campagne-universelle-310x116.jpg) Collecte des données adwords "universelles" dans GA
 ## **Centre aide adwords**
 
 Même le **centre d’aide** s’est fait un lifting ! Une nouvelle présentation, plus dynamique, plus claire avec 5 rubriques et 28 sujets traités.
@@ -130,6 +130,6 @@ Même le **centre d’aide** s’est fait un lifting ! Une nouvelle présentati
 
 	- Optimisation
 
-[![Image](/images/blog/centre-aide-adwords-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/centre-aide-adwords.jpg) Nouveau centre d'aide adwords
+[![centre-aide-adwords-310x272.jpg](/images/blog/centre-aide-adwords-310x272.jpg) Nouveau centre d'aide adwords
 
 La rentrée risque donc d’être chaude, ces changements démontrent la volonté de Google faire évoluer sa plateforme qui soutient économiquement  ce géant du web. Google est le garant de sa pérennité en maintenant à la fois la qualité de son **moteur de recherche gratuit**  et l’**efficacité de son programme publicitaire** pour les annonceurs, un travail d’équilibriste !

@@ -21,7 +21,7 @@ L’Icann est une organisation sortie tout droit des états unis,  né en 1998 
 
 	- Les protocoles  : http, ftp, https
 
-[![Image](/images/blog/GOUVERNANCE-INTERNET-310x263.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/GOUVERNANCE-INTERNET.jpg) Acteurs de la gouvernance sur Internet
+[![GOUVERNANCE-INTERNET-310x263.jpg](/images/blog/GOUVERNANCE-INTERNET-310x263.jpg) Acteurs de la gouvernance sur Internet
 
 L’**Icann** est actuellement dépendante du gouvernement américain bien que son rôle de veilleur ne soit que consultatif sans interférence ni  opposition sur les projets de l’organisation. L’affaire Snowden néanmoins relance les débats sur la domination de l’internet par  les américains. Dans ce fait divers, c’est en fait plus l’IETF qui fut visée par la NSA que L’icann (fermons la parenthèse).
 
@@ -31,7 +31,7 @@ L’Icann appelle de ses vœux par la voix de son président actuel  une organi
 
 2008 marque la validation par L’ICANN du projet établit par** le GNSO** (Généric Name Supporting Organisation).
 
-[![Image](/images/blog/timeline-gtlds-310x238.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/timeline-gtlds.jpg) Genèse des nouveaux noms de domaines
+[![timeline-gtlds-310x238.jpg](/images/blog/timeline-gtlds-310x238.jpg) Genèse des nouveaux noms de domaines
 
 Ce projet consiste à accorder un nouvel espace de nommage de « premier niveau » comme ceux que l’on connait aujourd’hui (22 tlds dont : .com, .fr, .biz, .info) et d’en  confier la gestion  à organisations de type institutionnelles, entreprises, hébergeurs  et cela de manière décentralisée en quelque sorte à travers le globe.
 
@@ -49,7 +49,7 @@ A ce jour plus de 300 dossiers ont été validé par l’ICANN dans le monde don
 
 Certains acteurs de la chaîne peuvent y voir un levier de rentabilité, surtout pour les domaines à **forte identité culturelle, linguistique** comme ceux qui représentent  un territoire, une communauté. Pour  une marque, c’est sans doute l’occasion d’affirmer sa présence ou de la protéger.  Un état des lieux sur la provenance géographique des candidats fut évaluée par l'ICANN, les USA sont devant, l'Europe derrière, suivi de l'Asie.
 
-[![Image](/images/blog/repartition-demande-gtlds-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/repartition-demande-gtlds.jpg) Répartition des candidats "gestionnaires"                        de 1er niveau
+[![repartition-demande-gtlds-310x178.jpg](/images/blog/repartition-demande-gtlds-310x178.jpg) Répartition des candidats "gestionnaires"                        de 1er niveau
 
 Les 3 aspects directs restent   la personnalisation d’un **site web**, d’une **adresse mail** et l’adéquation avec des services liés à la mobilité,la  **géolocalisation**  avec par exemple dans le cadre d’une  extension .ville pour un service comme  spotteo.paris.
 
@@ -83,7 +83,7 @@ Aujourd’hui, certaines extensions sont disponibles à l’achat  chez un un h
 
 	- Et d’autres en pré-réservation : .app, .blog, .sport,.web,.taxi, .capital, etc..
 
-[![Image](/images/blog/tld-2eme-niveau-310x121.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/tld-2eme-niveau.jpg) Chiffres clés des dépots de Gtlds selon Ovh
+[![tld-2eme-niveau-310x121.jpg](/images/blog/tld-2eme-niveau-310x121.jpg) Chiffres clés des dépots de Gtlds selon Ovh
 ## **Quelques ressources sur la toile**
 
 ### Liens pouvant être utiles !

@@ -24,14 +24,14 @@ Les  4  grands objectifs poursuivis par GraphyStories :
 
  	- Le suivi des interactions sur ses propres contenus, articles, marques…
 
-[![Image](/images/blog/tendances-1-502x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/tendances-1.jpg) Tendances des recherches sur Google
+[![tendances-1-502x268.jpg](/images/blog/tendances-1-502x268.jpg) Tendances des recherches sur Google
 
 Quotidiennement,  GraphyStories passe en revue  plus de 80 000 000 articles et 5000 sites web et travaille avec avec LeMonde, LeFigaro, Elle, ParisMatch, Europe1, Public, RTBF, TPMP,.... mais aussi avec de nombreuses Marque et agences.
 ### *La lecture des contenus directement depuis la plateforme*
 
  	- Par simple roll over, un aperçu des posts, vidéos, super pratique !
 
-[![Image](/images/blog/vue-des-contenus-par-roll-over-sur-facebook-et-youtub-502x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/vue-des-contenus-par-roll-over-sur-facebook-et-youtub.jpg) Aperçu des contenus par simple roll over
+[![vue-des-contenus-par-roll-over-sur-facebook-et-youtub-502x184.jpg](/images/blog/vue-des-contenus-par-roll-over-sur-facebook-et-youtub-502x184.jpg) Aperçu des contenus par simple roll over
 ## **Des indicateurs de popularité des contenus**
 
 ### ***Facebook sur tous les angles***
@@ -56,7 +56,7 @@ Il est aussi possible de segmenter les contenus par type :
 
  	- Statut
 
-[![Image](/images/blog/mesure-facebook-502x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/mesure-facebook.jpg) Insights sur facebook
+[![mesure-facebook-502x212.jpg](/images/blog/mesure-facebook-502x212.jpg) Insights sur facebook
 ## **Contenus du Web analysés**
 
  	- Vélocité : vitesse de partage sur les réseaux sociaux
@@ -73,7 +73,7 @@ Groupes personnalisés : en dehors des groupes déjà constitués par défaut, 
 
 Il est possible de remonter à 2016 et d’observer la popularité d’un contenu sur cette période.
 
-[![Image](/images/blog/veille-personnelle-web-et-interactions-502x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/veille-personnelle-web-et-interactions.jpg) Veille personnelle Web et Interactions
+[![veille-personnelle-web-et-interactions-502x224.jpg](/images/blog/veille-personnelle-web-et-interactions-502x224.jpg) Veille personnelle Web et Interactions
 
 Un espace personnel permet des alertes  par email, des favoris, des signets pour garder sous le coude des contenus repérés.
 

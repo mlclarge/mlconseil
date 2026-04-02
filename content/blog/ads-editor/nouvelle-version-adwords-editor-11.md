@@ -67,7 +67,7 @@ Enfin, la bibliothèque partagée fait son entrée avec les stratégies d’ench
 
  	- Pas de mise à jour automatique (la dernière est la 11.0.1)
 
-[![Image](/images/blog/indicateurs-editor-adwords-310x168.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/indicateurs-editor-adwords.jpg) Certains fonctionnalités sont pas accessibles facilement
+[![indicateurs-editor-adwords-310x168.jpg](/images/blog/indicateurs-editor-adwords-310x168.jpg) Certains fonctionnalités sont pas accessibles facilement
 ### ***Bugs :***
 
  	- Les modifications sur les annonces vidéo ne fonctionnent pas

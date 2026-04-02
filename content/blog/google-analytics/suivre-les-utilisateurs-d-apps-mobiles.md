@@ -29,7 +29,7 @@ On pourrait se demander effectivement quel choix faire pour son suivi d’audien
 
  	- Structure disposant à la fois d'une application et d'un site Web ->  faire usage de  Firebase Analytics plus Google Analytics L’avantage effectivement pour GA est de tout réunir dans une seule interface avec le suivi d’une application configurée comme une propriété classique, comme l’est un site web.
 
-[![Image](/images/blog/firebase-vs-google-analytics-363x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/firebase-vs-google-analytics.jpg) Firebase Vs Google Analytics
+[![firebase-vs-google-analytics-363x300.jpg](/images/blog/firebase-vs-google-analytics-363x300.jpg) Firebase Vs Google Analytics
 ## **Focus sur "FloodIt" une version pour s’entraîner à firebase analytics**
 
 ### ***Quel type de data cela produit-il ?***
@@ -58,7 +58,7 @@ Ah enfin, Google se bouge pour vulgariser ses plateformes et ouvre une  version
 
  	- Centre d’intérêts
 
-[![Image](/images/blog/menu-firebase-analytics-422x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/menu-firebase-analytics.jpg) Menu firebase Analytics
+[![menu-firebase-analytics-422x300.jpg](/images/blog/menu-firebase-analytics-422x300.jpg) Menu firebase Analytics
 
 Si on rentre dans les détails du menu analytics on peut retrouver :
 
@@ -72,7 +72,7 @@ Si on rentre dans les détails du menu analytics on peut retrouver :
 
  	- F/ Cohortes : Mesure la fidélisation des joueurs par ensembles au travers de 5 semaines ici.
 
-[![Image](/images/blog/cohortes-utilisateurs-application-mobile-310x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/cohortes-utilisateurs-application-mobile.jpg) Cohortes Utilisateurs
+[![cohortes-utilisateurs-application-mobile-310x230.jpg](/images/blog/cohortes-utilisateurs-application-mobile-310x230.jpg) Cohortes Utilisateurs
 ### ***Au delà de l'audience, Firebase est aussi une technologie au service du developpeur.***
 
 Sous le menu de gauche, on peut retrouver des fonctionnalités pures  "dev".

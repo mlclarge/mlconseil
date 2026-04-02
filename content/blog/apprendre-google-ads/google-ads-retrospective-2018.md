@@ -27,14 +27,14 @@ L’arrivée des conversions locales hébergées par Google dont voici les él�
 
  	- Actions locales – Affichages du menu : (spécifique à un secteur) clics effectués sur le lien de menu d'une annonce ou d'un service Google basé sur l'adresse d'un magasin suite à une interaction avec une annonce.
 
-[![Image](/images/blog/actions-de-conversions-502x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/actions-de-conversions.jpg) Actions de conversions locales google
+[![actions-de-conversions-502x233.jpg](/images/blog/actions-de-conversions-502x233.jpg) Actions de conversions locales google
 ### **Audiences personnalisées pour Youtube**
 
  	- **Campagnes display, élargissement d'audiences **
 
 Pour simplifier la gestion des audiences, bon, c’est une blague, Google invente l’audience élargie. Je ne l’ai pas vu encore dans les comptes, mais le principe est de donner des estimations du nombre d'impressions hebdomadaires correspondant à votre sélection. Déplacez simplement le curseur pour savoir combien vous pouvez générer d'impressions en plus pour des performances comparables, puis cliquez sur "Enregistrer".
 
-[![Image](/images/blog/audience-elargie-sur-display-502x148.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/audience-elargie-sur-display.png) Audience elargie sur display
+[![audience-elargie-sur-display-502x148.png](/images/blog/audience-elargie-sur-display-502x148.png) Audience elargie sur display
 
  	- **Créer des segments d'audience personnalisés sur YouTube**
 
@@ -57,7 +57,7 @@ Voici quelques suggestions sur la façon de segmenter vos listes de diffusion po
 
 La stratégie d'enchères intelligentes "Taux d'impressions cible" définit automatiquement les enchères dans le but de diffuser votre annonce en première position absolue, en haut de page ou n'importe où sur la page des résultats de recherche Google. Elle est disponible sous forme de stratégie standard dans une seule campagne ou de [**stratégie de portefeuille**](https://support.google.com/google-ads/answer/6263072) pour plusieurs campagnes. Cet article explique le fonctionnement de la stratégie d'enchères "Taux d'impressions cible" et décrit ses paramètres.
 
-[![Image](/images/blog/taux-impression-cible-416x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/taux-impression-cible.jpg) Taux impression cible
+[![taux-impression-cible-416x300.jpg](/images/blog/taux-impression-cible-416x300.jpg) Taux impression cible
 *Emplacement*
 La stratégie d'enchères "Taux d'impressions cible" propose trois options, selon l'endroit où vous souhaitez diffuser vos annonces : en première position absolue, en haut de page ou ailleurs sur la page des résultats de recherche Google. Google Ads définit automatiquement vos enchères pour diffuser l'annonce en fonction de vos paramètres d'emplacement.
 
@@ -97,7 +97,7 @@ chaussures pour homme
 
 DSA : groupes d'annonces dynamiques et pages de destination des annonces standard. Toutes campagne se voit les possibilités d’avoir des annonces dynamiques mais celles-ci sont placées dans un groupe d’annonces dédiés. Il faudra au préalable éditer les paramètres de campagnes pour activer la fonction dynamique de la campagne
 
-[![Image](/images/blog/dsa-nouveau-groupe-dannonces-dynamiques-474x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/dsa-nouveau-groupe-dannonces-dynamiques.jpg) Création groupe annonces dynamiques
+[![dsa-nouveau-groupe-dannonces-dynamiques-474x300.jpg](/images/blog/dsa-nouveau-groupe-dannonces-dynamiques-474x300.jpg) Création groupe annonces dynamiques
 
 **L’annonce a été faite en janvier 2018 et il aura fallu intervenir sur des campagnes pour se rendre compte du changement  et effectuer des ajustements. Sinon voici la nouvelle façon de lancer :**
 
@@ -123,7 +123,7 @@ DSA : groupes d'annonces dynamiques et pages de destination des annonces standa
 
 Commençons par les annonces textuelles grand format avec cette possibilité de rajouter 1 titre donc 3 au total et 1  description donc 2 au total  de 1x90 caractères. A noter donc que ce format n’est pas responsive.
 
-[![Image](/images/blog/annonce-textuelle-grand-format-447x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/annonce-textuelle-grand-format.jpg) Annonce textuelle grand format
+[![annonce-textuelle-grand-format-447x300.jpg](/images/blog/annonce-textuelle-grand-format-447x300.jpg) Annonce textuelle grand format
 ***Du responsive pour la recherche et le display***
 
 Pour le réseau display, 5 titres avec des images, 1 tire long, et 5 descriptions et des options supplémentaires incitation à l’action et couleurs personnalisées.
@@ -181,7 +181,7 @@ Le planificateur n’est pas encore finalisé, ce qui est une galère pour l’u
 
 Enfin un aspect très utile est la prévisualisation selon les requêtes des audiences qui sont associées à savoir si elles sont soumises aux impressions en temps réel…
 
-[![Image](/images/blog/outil-de-prévisualisation-des-annonces-498x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/outil-de-prévisualisation-des-annonces.jpg) Outil de prévisualisation des annonces
+[![outil-de-prévisualisation-des-annonces-498x300.jpg](/images/blog/outil-de-prévisualisation-des-annonces-498x300.jpg) Outil de prévisualisation des annonces
 ## Marketing
 
  	- Pour terminer, ce récapitulatif, notons le changement de Branding des plateformes publicitaires du grand Google intervenu au début de l’été 2018.

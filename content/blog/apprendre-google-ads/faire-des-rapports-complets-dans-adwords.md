@@ -11,7 +11,7 @@ Cela faisait un moment que l’**[éditeur de rapport adwords](https://support.g
 
 Voici une première impression de cet outil, déployé  en ce moment sur tous les comptes, visible depuis le menu du haut, si vous ne le voyez, c’est que la fonctionnalité n’est pas encore installée…
 
-[![Image](/images/blog/menu-310x24.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/menu.jpg) Menu accès rapport
+[![menu-310x24.jpg](/images/blog/menu-310x24.jpg) Menu accès rapport
 
 **Principales fonctionnalités du nouvel éditeur de rapport Google adwords**
 
@@ -19,17 +19,17 @@ Voici une première impression de cet outil, déployé  en ce moment sur tous l
 
 Quatre types de rapports sont éditables : standards, par heure, par conversion et par ciblage géographique, automatiquement une dizaine de variables (en colonnes : ctr, couts, conversions, etc..)
 
-[![Image](/images/blog/rapports-google-adwords-lignes-et-colonnes-310x157.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/rapports-google-adwords-lignes-et-colonnes.jpg) Répartition Ligne/colonnes
+[![rapports-google-adwords-lignes-et-colonnes-310x157.jpg](/images/blog/rapports-google-adwords-lignes-et-colonnes-310x157.jpg) Répartition Ligne/colonnes
 
 Accès à l'interface...
 
-[![Image](/images/blog/navigation-menu-310x233.gif)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/navigation-menu.gif) Rapports Prédéfinis ou Personnalisés
+[![navigation-menu-310x233.gif](/images/blog/navigation-menu-310x233.gif) Rapports Prédéfinis ou Personnalisés
 
 ***Création de rapports personnalisés***
 
 Une feuille blanche, tout est  à faire par simple  « glisser – déposer »
 
-[![Image](/images/blog/rapports-adwords.gif)](/images/blog/rapports-adwords.gif)
+[![rapports-adwords.gif](/images/blog/rapports-adwords.gif)
 
 **Atouts et faiblesses de l’outil de création de rapports**
 
@@ -53,7 +53,7 @@ Une **Interface intelligente **! On ne retrouve pas de message d’erreur vu qu
 
 	- Une Ventilation par période (jours, semaines, mois, trimestre, année)
 
-[![Image](/images/blog/rapports-presonnalisés-adwords-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/rapports-presonnalisés-adwords.jpg) Intuitivité de l'outil graphique
+[![rapports-presonnalisés-adwords-310x160.jpg](/images/blog/rapports-presonnalisés-adwords-310x160.jpg) Intuitivité de l'outil graphique
 
 **Inconvénients **, il  n’y a pas :
 

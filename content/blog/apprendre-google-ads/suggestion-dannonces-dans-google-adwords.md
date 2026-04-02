@@ -18,7 +18,7 @@ Les suggestions viennent renforcer l’état d’un groupe d’annonces
 
  	- Où le CTR est faible. D’où le fait de se concentrer sur la performance globale d'un groupe d'annonces est la bonne échelle ( pas les individualités de chacune des annonces).
 
-[![Image](/images/blog/ads-suggestioins-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/ads-suggestioins.jpg) Optimisation d'iun groupe d'annonces
+[![ads-suggestioins-310x212.jpg](/images/blog/ads-suggestioins-310x212.jpg) Optimisation d'iun groupe d'annonces
 ## **Que sont les suggestions d’annonces ?**
 
 Je résume ce qui est dit dans l’aide Google ci-dessous….
@@ -27,13 +27,13 @@ Ce sont des variantes de vos annonces textuelles existantes susceptibles d'amél
 
 Dans la plateforme, voilà ce à quoi cela ressemble
 
-[![Image](/images/blog/ads-suggestioins-2-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/ads-suggestioins-2.jpg) Aperçu de la suggestion d'annonces
+[![ads-suggestioins-2-310x143.jpg](/images/blog/ads-suggestioins-2-310x143.jpg) Aperçu de la suggestion d'annonces
 ## **Comment les gérer ?**
 
 Tout d’abord, rien n’est obligatoire, et l’application automatique des suggestions d’annonces peut être désactivée. Elles sont disponibles uniquement si la rotation des annonces est mise sur ‘optimiser', et cela 1 fois tous les 7 jours maxi et 50 en volume.    Elles apparaissent au niveau des** recommandations et dans les annonces et extensions.** Au bout de 14 jours, les recommandations sont appliquées automatiquement. Sinon, une notification par email, sur l’icône "cloche "est aussi prévue.
 
 Elles sont disponibles en 6 langues pour l’instant : Anglais Espagnol Portugais Allemand Français Italien avec des restrictions sur les annonces de type « refusées, produits restreints. Au choix de l’annonceur, du gestionnaire de campagne d’approuver ou non cette recommandation. Une lecture dans les rapports est aussi disponible, colonne « Suggestion d'annonce appliquée automatiquement ». Elles sont modifiables bien sûr avant l’application de la suggestion ou après.
 
-[![Image](/images/blog/ads-suggestioins-3-1-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/ads-suggestioins-3-1.jpg) Processus de génération de recommandations
+[![ads-suggestioins-3-1-310x131.jpg](/images/blog/ads-suggestioins-3-1-310x131.jpg) Processus de génération de recommandations
 
 Aide sur les ados suggestions : [https://support.google.com/adwords/answer/7498488?hl=fr](https://support.google.com/adwords/answer/7498488?hl=fr)

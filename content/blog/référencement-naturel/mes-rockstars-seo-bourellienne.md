@@ -26,7 +26,7 @@ Ce petit historique ne doit pas m'éloigner de mon sujet, et voici en quelques s
 
 ** **
 
-**[![Image](/images/blog/trombinnoUs-300x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/trombinnoUs.jpg)**
+**[![trombinnoUs-300x158.jpg](/images/blog/trombinnoUs-300x158.jpg)**
 
 ** **
 
@@ -34,7 +34,7 @@ Ce petit historique ne doit pas m'éloigner de mon sujet, et voici en quelques s
 
 **-> Litterature US  "papier"**
 
-[![Image](/images/blog/biblesAmericaines-300x204.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/biblesAmericaines.png)
+[![biblesAmericaines-300x204.png](/images/blog/biblesAmericaines-300x204.png)
 
 **-> Litterature "en-ligne" US et d'ailleurs**
 
@@ -59,13 +59,13 @@ http://www.marketingpilgrim.com/:Mise à jour quotidienne avec des sujets sur le
 
  
 
-[![Image](/images/blog/trmbifrancais-300x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/trmbifrancais.jpg)
+[![trmbifrancais-300x163.jpg](/images/blog/trmbifrancais-300x163.jpg)
 
 **-> Litterature Française  "papier"**
 
  
 
-[![Image](/images/blog/refencementWeb-300x198.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/refencementWeb.png)
+[![refencementWeb-300x198.png](/images/blog/refencementWeb-300x198.png)
 
 **-> Litterature "en-ligne": Mes 20 préférés (J'en oublie, bien sûr)
 **

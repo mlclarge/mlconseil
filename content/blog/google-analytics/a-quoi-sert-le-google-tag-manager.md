@@ -31,7 +31,7 @@ Il est temps de revenir sur le Google Tag Manager. Ce dernier fait partie des TM
 
 	- Etre plus précis sur l’**engagement sur les contenus (**ex sur player vidéo)
 
-[![Image](/images/blog/tag-manager-caractéristiques-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/tag-manager-caractéristiques.jpg) tag manager caractéristiques
+[![tag-manager-caractéristiques-310x212.jpg](/images/blog/tag-manager-caractéristiques-310x212.jpg) tag manager caractéristiques
 ## **A quoi le GTM roule t-il ? **
 
 ### **Trois ressources sont nécessaires**
@@ -42,7 +42,7 @@ Il est temps de revenir sur le Google Tag Manager. Ce dernier fait partie des TM
 
 	- Une macro (variable à collecter , ex : les urls des pages du site), ces valeurs d’éxécution sont collectées soit par l’intermédiaire d’une couche de données rajoutée en amont du container sur le site, soit par collecte des éléments de la page (DOM) , soit par par l’ajout de script personnalisés (via Javascript encapsulé dans du html personnalisé) .
 
-[![Image](/images/blog/configuration-tag-manager-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/configuration-tag-manager.jpg) 3 piliers de la plateforme
+[![configuration-tag-manager-310x151.jpg](/images/blog/configuration-tag-manager-310x151.jpg) 3 piliers de la plateforme
 ## **Qui a-t-il de fourni out of the box ?**
 
 ### **Des fonctionnalités de base mais déjà bien utiles **
@@ -59,7 +59,7 @@ J’entends par « out of the box” le fait ne pas toucher à l’élaboration
 
 	- Enregistrer la circulation des pages du navigateur (utile pour les urls dynamiques : ajax..)
 
-[![Image](/images/blog/interface-google-tag-manager-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/interface-google-tag-manager.jpg) Possibilités 'out of the box' du Gestionnaire
+[![interface-google-tag-manager-310x243.jpg](/images/blog/interface-google-tag-manager-310x243.jpg) Possibilités 'out of the box' du Gestionnaire
 ### **Des paramétrages avancés**
 
 16 macros préconfigurées
@@ -76,6 +76,6 @@ J’entends par « out of the box” le fait ne pas toucher à l’élaboration
 
 	- Items d’urls (3) : port, nom d’hôte, tagage d’url (utm par ex) , protocole
 
-[![Image](/images/blog/macros-tag-manager-310x264.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/macros-tag-manager.jpg) Macros livrés avec le GTM
+[![macros-tag-manager-310x264.jpg](/images/blog/macros-tag-manager-310x264.jpg) Macros livrés avec le GTM
 
 Dans un prochain post, je parlerai de l’intégration  du gtm avec  les développements inhérents (plugins) développés pour le GTM.

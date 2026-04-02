@@ -13,24 +13,24 @@ Bon un peu prétentieux de vouloir tout savoir, mais le plus interessant à note
 
 **SEO Local**  Pas de fusion en vue entre Google Adresse et G+Local , au mieux pour l'instant, être partout ! c'est à dire , s'inscrire sur Google Adresse, avoir sa page G+, un profil  (fig. 1)
 
-[![Image](/images/blog/fig.1-310x145.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.1.png) fig. 1 Serp Google Locaux de rentrée
+[![fig.1-310x145.png](/images/blog/fig.1-310x145.png) fig. 1 Serp Google Locaux de rentrée
 
 **SEO Organique** : Quelle** emprise** pour les résultats Google sur la page de recherche  ? Se réduit-elle comme une peau de chagrin ? (fig.2) un article de [Jitbit  pertinent sur le sujet](http://blog.jitbit.com/2012/09/googles-serp-is-only-25-serp.html) ). Sujet d'actualité avec notamment des SERP  à 7 résultats sur certaines requêtes.
 
-[![Image](/images/blog/fig.2-310x226.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.2.png) Fig.2 Emprise Liens Organiques
+[![fig.2-310x226.png](/images/blog/fig.2-310x226.png) Fig.2 Emprise Liens Organiques
 
 **Analytics** : Un balisage supplémentaire pour analyser vos campagnes de suivi de visiteurs (**remarketing**). Plus 1 fonctionnalité complémentaire d**'ajout de raccourcis** pour améliorer sa navigation personnelle (fig.2) .
 
-[![Image](/images/blog/analytics-google-raccourci-310x120.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/analytics-google-raccourci.png) fig.3 Raccourci dans GA
+[![analytics-google-raccourci-310x120.png](/images/blog/analytics-google-raccourci-310x120.png) fig.3 Raccourci dans GA
 
 **SMO** *(social média optimization)* : **Twitter** : Zoom sur les **usages** présents et futurs de** twitter** proposés  par emarketers.com (fig.4). Les micro-bloggers utilisent TW pour partager des supports visuels principalement. [http://www.emarketer.com/Article.aspx?R=1009320](http://www.emarketer.com/Article.aspx?R=1009320)
  
 
-[![Image](/images/blog/usages-twitter1.png)](/images/blog/usages-twitter1.png) Fig. 4 Usage Twitter Usa
+[![usages-twitter1.png](/images/blog/usages-twitter1.png) Fig. 4 Usage Twitter Usa
 
 **FaceBook** : Pour les annonceurs avec des représentants Facebook, l'application **power editor**, qui permet de gérer ses parutions intègre une nouvelle fonctionnalité de ciblage d'audience . Elle permet de cibler par  3 manières : email, uid (pour les développeurs d'applications) et numéro de téléphone (uploader par fichier .csv ou .txt). [Infos en anglais ](http://www.insidefacebook.com/2012/08/30/facebook-may-soon-allow-ad-targeting-by-email-user-id-and-phone-number/)
 
-[![Image](/images/blog/facebook-power-editor-ad-target-310x252.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/facebook-power-editor-ad-target.png) Fig. 4  Trois types de Ciblages
+[![facebook-power-editor-ad-target-310x252.png](/images/blog/facebook-power-editor-ad-target-310x252.png) Fig. 4  Trois types de Ciblages
 
 **Internet :** Connaissez-vous le** WebIndex**, Tim Berners Lee est l'auteur de ce nouvel indicateur de mesure du web par pays ([http://thewebindex.org/](http://thewebindex.org/)) , la France est 14ème !
 # Revue de presse Seo vue par  infographie

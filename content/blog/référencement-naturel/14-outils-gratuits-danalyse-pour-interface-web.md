@@ -27,7 +27,7 @@ Je fais donc faire un inventaire des **principaux facteurs seo** à prendre en c
 
 	- Checking du domaine (Spammy ou pas) ? : présence de multiple** mots clés**, avec ou sans tirets ? Cette technique (insertion keyword) est encore utile aussi bien sur Google que sur les autres moteurs dans la mesure où la requête correspond exactement  au  nom de domaine. Voire fig-1
 
-[![Image](/images/blog/fig-1-mots-cles-domaine-300x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/fig-1-mots-cles-domaine.jpg) Mots clés dans domaine = requête internaute
+[![fig-1-mots-cles-domaine-300x161.jpg](/images/blog/fig-1-mots-cles-domaine-300x161.jpg) Mots clés dans domaine = requête internaute
 
 ## **Hébergement / Serveur **
 
@@ -65,7 +65,7 @@ Je fais donc faire un inventaire des **principaux facteurs seo** à prendre en c
 
 Code **css**, code** Javascript**, scripts divers *(**flash**..)* = vérification de leur optimisation et de leur place dans la page *(code asynchrone oui  ou différé=  ok* ). Requêtes serveur *(le moins possible)*, optimisation des images *(taille ajustée)*, jeu de caractères *(ex :utf-8)*, connexion persistante* (keep-alive : diminution latence)*..
 
-[![Image](/images/blog/fig-2-whois-300x241.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/fig-2-whois.jpg) fig-2-Outil whois
+[![fig-2-whois-300x241.jpg](/images/blog/fig-2-whois-300x241.jpg) fig-2-Outil whois
 ## **Site et ses pages**
 
 -> Intérêt seo : **Indexation, positionnement, contenu** *( screaming frog seo spider , xenu, virante)*
@@ -76,7 +76,7 @@ Code **css**, code** Javascript**, scripts divers *(**flash**..)* = vérificatio
 
 	- **Url rewriting **: Réécriture d’urls, essentiellement pour les urls dynamiques ou il convient d’indiquer à Google de ne pas prendre en compte certains paramètres comme les Ids, session utilisateur. Le but ici est de rendre plus lisible pour les robots mais aussi pour les internautes les adresses des liens contenues dans le  navigateur.
 
-[![Image](/images/blog/fig-4-duplicate-content-300x214.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/fig-4-duplicate-content.jpg) Trouver le contenu dupliqué de son site
+[![fig-4-duplicate-content-300x214.jpg](/images/blog/fig-4-duplicate-content-300x214.jpg) Trouver le contenu dupliqué de son site
 
 -> Intérêt seo : **Contenu, positionnement de page selon 1  stratégie mot clé * (****Outils : Extensions navigateur Seomoz.org ,ObservePoint, Wasp, YSlow, Seo4Firefox,kgen)*****
 
@@ -86,11 +86,11 @@ Titre, Url, Meta Description, H1, H2-H4, Body, B/Gras IMG ALT, Ancre de texte (l
 
 Attention ici  à ne pas **sur-optimiser les pages** avec des mots clés redondants et en sur nombre.
 
-[![Image](/images/blog/fig-5-content-checking-300x225.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/fig-5-content-checking.jpg) fig-5 Vérification du balisage contenu d'une page
+[![fig-5-content-checking-300x225.jpg](/images/blog/fig-5-content-checking-300x225.jpg) fig-5 Vérification du balisage contenu d'une page
 
 	- Recensement d’un formatage standard du contenu à l’aide de **rich snippets** (Méta balisage normé pour indiquer les origines d’une source (auteur, musique, livre..Outil : schema.org) . Peut aider dans la popularité d’une page, car son aspect attrayant peu encourager le lecteur à cliquer sur ce lien.
 
-[![Image](/images/blog/fig-6-schema-org-300x104.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/fig-6-schema-org.jpg) Méta données & Micro-formatage du contenu
+[![fig-6-schema-org-300x104.jpg](/images/blog/fig-6-schema-org-300x104.jpg) Méta données & Micro-formatage du contenu
 
 **Intérêt seo : expérience utilisateur (ergonomie) / Popularité**
 

@@ -9,7 +9,7 @@ slug: "processus-d-affichage-d-une-banniere-sur-reseau-de-site-google"
 
 En tant qu’annonceur adwords, pour son business, faire une publicité sur internet passe forcément par le moteur de recherche Google, n’est-ce pas ? Cela reflète d’ailleurs les chiffres globaux de la communication online avec un investissement pour le search supérieur au display de plus de 40 % en 2012. Au-delà de ces chiffres, le réseau de contenu de Google dit « réseau de sites » reste un canal un peu flou pour ceux qui recherchent justement de la visibilité !
 
-[![Image](/images/blog/proportion-investissement-310x164.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/proportion-investissement.jpg) Place du Display dans la publicite online
+[![proportion-investissement-310x164.jpg](/images/blog/proportion-investissement-310x164.jpg) Place du Display dans la publicite online
 
 Google pour sa part affine son outil de gestion publicitaire de jour en jour, mais pour l’annonceur, la liste des sites où les publicités pourraient s’afficher, par exemple, reste inconnue ou presque ! La maitrise des modèles de transactions, de ces supports, et des outils restent réservés aux professionnels du marketing en ligne. Plus simplement, celui qui souhaite s’annoncer avec précision  doit  déjà connaitre son écosystème web métier dans lequel on gravite pour tenter d’aller cibler les sites où afficher ses annonces et d’en fixer le format et son coup par clic. Mais comment se déroulent les affichages une fois sa campagne effectuée ? Historique,  principes et  définitions, place d’adwords dans le GDN (Google display Network),  et écosystème tenteront d’expliquer le **processus d'affichage des bannières d’une campagne display**.
 
@@ -17,7 +17,7 @@ Google pour sa part affine son outil de gestion publicitaire de jour en jour, ma
 
 La première bannière publicitaire voit le jour en 1994 sur le site hotwired.com de format 468x60 pixels.  Depuis les formats n’ont cessé d’évoluer avec les technologies Java (1995), realPlayer (1997), PopUp  (2000) et peu de temps après le rich Média.  Google trouve son modèle économique dès 2001 et est un précurseur du marché.  La vente d’espace entre éditeurs (site web)  et annonceurs devient complexe à gérer, tous les espaces ne sont pas vendus. Les ad-networks naissent et tirent leur utilité par leur pouvoir d’agrégation et centralisation pour redistribution vers les acheteurs d’espaces.
 
-[![Image](/images/blog/permiere-banniere-310x60.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/permiere-banniere.jpg) Collector! 1994 1re bannière diffusée en ligne
+[![permiere-banniere-310x60.jpg](/images/blog/permiere-banniere-310x60.jpg) Collector! 1994 1re bannière diffusée en ligne
 
 Le milieu des années 2000 voit de nombreuses acquisitions par les poids lourds du secteur. Right Media précurseur du système de l’ad-exchange en 2005 et racheté en 2007 par Yahoo !   Google de son côté, se défend pour rester un acteur majeur achette en 2008  la plateforme d’ad-exchange doubleclick.  Fin de la décennie 2000, Microsoft investit dans une technologie appelée AppNexus.5 [http://www.appnexus.com/fr/%C3%A9tude-de-cas-microsoft-advertising-exchange](http://www.appnexus.com/fr/%C3%A9tude-de-cas-microsoft-advertising-exchange)
 
@@ -25,7 +25,7 @@ Le milieu des années 2000 voit de nombreuses acquisitions par les poids lourds 
 
 Le schéma de base du display peut se représenter ainsi. Un ensemble de format d’annonces (graphiques, illustrées, textuelles) est ciblé sur un site web (vendeur d’espaces), un plan média de campagne peut être réservé. Parmi cet ensemble d’emplacements sur ses pages web, un quota peut être réservé à du RTB (réal time bidding), soit à ces enchères en temps réel. En effet, selon les objectifs de rentabilité, les données visiteurs, certaines impressions de formats publicitaires s’avèrent plus profitables que d’autres selon la période, l’horaire etc..
 
-[![Image](/images/blog/SCEMA-PRINCIPE-2-310x121.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/SCEMA-PRINCIPE-2.jpg) Processus simplifié d'impression Bannière
+[![SCEMA-PRINCIPE-2-310x121.jpg](/images/blog/SCEMA-PRINCIPE-2-310x121.jpg) Processus simplifié d'impression Bannière
 ## Définition acteurs et outils de  la publicité bannière sur réseau de sites
 
 Il faut donc pour résumer, 2 parties au contrat, les acheteur, les vendeurs et des outils.
@@ -63,7 +63,7 @@ Lorsque vous lancez une campagne display, vous avez directement accès à l’in
 
 La société **Improve Digital**, spécialisé dans l’adexchange côté éditeur, dresse des cartes annuelles sur les différents acteurs du marché de la transaction publicitaire online. Celle de 2013 permet d’avoir une vue complète sur les différentes parties prenantes de ce secteur en France.
 
-[![Image](/images/blog/ecosysteme-2-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/ecosysteme-2.jpg) Ecosysteme du réseau display
+[![ecosysteme-2-310x212.jpg](/images/blog/ecosysteme-2-310x212.jpg) Ecosysteme du réseau display
 ## Mise à prix en Temps réel (RTB)
 
 Cette animation, retranscrite ici en extrait vidéo pour facilité son intégration dans l'article, a été produite par CMSummit et battelleMédia sous l'égide D'Adobe et developpé par the office for creative research. J'en ai extrait le contenu principal avec **sous titres en Français** (à activer dans le player YT).
@@ -75,6 +75,6 @@ Lien complet : [http://cmsummit.com/behindthebanner/](http://cmsummit.com/behind
 
 Reste maintenant à définir les différents réseaux de sites, leurs thématiques, les marques que manipulent les acteurs lors de leurs transactions, cela pourra faire  l'objet d'un prochain article ! Cette petite infographie (extrait ci-dessous)  "maison"  en illustre les grands chapitres.
 
-[![Image](/images/blog/infographie-310x249.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/infographie.jpg) Enseignes Google DIsplay
+[![infographie-310x249.jpg](/images/blog/infographie-310x249.jpg) Enseignes Google DIsplay
 
 A  la semaine prochaine...

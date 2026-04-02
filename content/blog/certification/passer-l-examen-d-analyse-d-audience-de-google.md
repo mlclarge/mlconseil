@@ -39,7 +39,7 @@ Pas moins de 9 chapitres vous sont proposés :
 
 C’est très bien fait, mais c’est en anglais, c’est dommage. Toute une série de 6 chapitres sont proposés pour réviser . Plus simple d'approche et intéractif avec  un professeur donc et  des illustrations couplées  de formulaires à compléter comme ci-après :
 
-[![Image](/images/blog/google-academy-analytics-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/google-academy-analytics.jpg) **Apprendre avec la Google Analytics academie**
+[![google-academy-analytics-310x223.jpg](/images/blog/google-academy-analytics-310x223.jpg) **Apprendre avec la Google Analytics academie**
 ### Dans le détail les différentes parties de ce didacticiel
 
 **The importance of digital analytics **
@@ -96,7 +96,7 @@ C’est très bien fait, mais c’est en anglais, c’est dommage. Toute une sé
 
 C’est un QCM de 70 questions, 90 minutes, et 80% de réussite est le minimum requis. Voici résumé les thématiques principales des questions du moment :
 
-[![Image](/images/blog/repartition-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/repartition.jpg) **Thématiques de la certification**
+[![repartition-310x153.jpg](/images/blog/repartition-310x153.jpg) **Thématiques de la certification**
 
 Exemple 1  : **Quelles actions les filtres vous permettent-ils d’effectuer ?**
 

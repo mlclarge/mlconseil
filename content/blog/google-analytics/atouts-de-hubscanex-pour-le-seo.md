@@ -92,11 +92,11 @@ Ce que je trouve vraiment pratique, c’est la nature du relevé pour chaque pag
 
 	- Descriptif de l’objet avec son Statut (ok ou KO)  ainsi que  le détail sur  l’item collecté. Ci dessous par exemple, la page contient une image dont l’élément « alt » n’est pas renseigné, le  code source  concerné est affiché.
 
-[![Image](/images/blog/descriptif-seo-sur-balisage-html-310x109.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/descriptif-seo-sur-balisage-html.jpg) Descriptif Seo sur balisage html
+[![descriptif-seo-sur-balisage-html-310x109.jpg](/images/blog/descriptif-seo-sur-balisage-html-310x109.jpg) Descriptif Seo sur balisage html
 
 Les rapports graphiques sont soignés avec accès par fenêtres glissantes sur les points éventuels à corriger avec le bouton  « comment réparer ».
 
-[![Image](/images/blog/rapport-graphe-batons-seo-hubscan-2015-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/rapport-graphe-batons-seo-hubscan-2015.jpg) Un graphique à Baton pour une vision d'ensemble ..
+[![rapport-graphe-batons-seo-hubscan-2015-310x160.jpg](/images/blog/rapport-graphe-batons-seo-hubscan-2015-310x160.jpg) Un graphique à Baton pour une vision d'ensemble ..
 
 **Quelques liens ressources **
 

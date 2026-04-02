@@ -10,7 +10,7 @@ image: "/images/blog/panorama-des-strategies-d-e.jpg"
 
 Faisons une revue exhaustive de toutes les [**stratégies d’enchères Google ads**](https://support.google.com/google-ads/answer/2472725?hl=fr) pour bien commencer l’année ! Pas moins de **15** stratégies depuis le moteur de recherche  jusqu’aux  applications mobiles jalonnent la plateforme Google ads. J’ai repris pour le côté littérature ce que dit la doc de Google pour l’essentiel avec 4 éléments de cadrage pour chaque type d’enchères : objectif, contexte, format, emplacement.
 
-[![Image](/images/blog/encheres-googles-ads.jpg)](/images/blog/encheres-googles-ads.jpg) 15 stratégies d'enchères sur Google Ads
+[![encheres-googles-ads.jpg](/images/blog/encheres-googles-ads.jpg) 15 stratégies d'enchères sur Google Ads
 ## **Deux Stratégies Manuelles  (+optimisée)**
 
 ### *Enchères au CPC Manuel*
@@ -60,12 +60,12 @@ Imaginons que vous vendiez des chaussures sur votre site, que vous ayez défini 
 
 Lorsque vous optez pour la stratégie d'enchères "Emplacement cible sur la page de recherche", le système Google Ads définit automatiquement vos enchères de sorte que vos annonces aient davantage de chances d'être diffusées en haut de page ou sur la première page des résultats de recherche
 
-[![Image](/images/blog/emplacement-cilble-reseau-de-recherche.png)](/images/blog/emplacement-cilble-reseau-de-recherche.png) Emplacement cilble reseau de recherche
+[![emplacement-cilble-reseau-de-recherche.png](/images/blog/emplacement-cilble-reseau-de-recherche.png) Emplacement cilble reseau de recherche
 ### ***Taux de surclassement cible***
 
 Cette stratégie d'enchères  vous permet de sélectionner un domaine que vous souhaitez surclasser dans les résultats de recherche et d'indiquer à quelle fréquence vous voulez le faire. Le système Google Ads définit ensuite automatiquement vos enchères pour vous aider à atteindre cet objectif.
 
-[![Image](/images/blog/surclassement-cible.jpg)](/images/blog/surclassement-cible.jpg) Surclasser un domaine concurrent sur google ads
+[![surclassement-cible.jpg](/images/blog/surclassement-cible.jpg) Surclasser un domaine concurrent sur google ads
 
 Lorsque votre annonce surclasse une autre annonce, elle est diffusée soit au-dessus de l'annonce de l'autre domaine sur les pages des résultats de recherche Google, soit lorsque l'autre annonce ne s'affiche pas. Il est important de comprendre que cette stratégie n'améliore pas nécessairement le classement général de votre annonce. Elle permet seulement de vous aider à améliorer votre classement par rapport aux annonces d'un autre domaine.
 
@@ -117,14 +117,14 @@ Le système Google Ads définit automatiquement vos enchères pour vous permett
 
  	- Elles définissent automatiquement votre enchère au CPC pour chaque mise aux enchères afin d'augmenter vos chances de générer une conversion.
 
-[![Image](/images/blog/cpa-recherche-google.gif)](/images/blog/cpa-recherche-google.gif)
+[![cpa-recherche-google.gif](/images/blog/cpa-recherche-google.gif)
 ### ***Variante avec le CPA cible moyen***
 
 Le CPA cible moyen correspond au CPA moyen pondéré selon le coût, obtenu par l'optimisation de votre stratégie d'enchères. Il inclut les ajustements des enchères en fonction de l'appareil, les CPA cible des groupes d'annonces, ainsi que toutes les modifications que vous avez apportées à votre CPA cible au fil du temps. En raison de ces variables, votre CPA cible moyen peut différer du CPA cible que vous avez défini.
 
 Cette statistique vous permet de mesurer le CPA ciblé par votre stratégie d'enchères sur des périodes précises. En modifiant la plage de dates, vous pouvez connaître le résultat réel de l'optimisation de vos enchères sur cette période. Sachez que le CPA cible moyen ne peut pas être calculé sur les périodes sans trafic.
 
-[![Image](/images/blog/cpa-display-google.gif)](/images/blog/cpa-display-google.gif) cpa display google
+[![cpa-display-google.gif](/images/blog/cpa-display-google.gif) cpa display google
 
 Vous trouverez cette statistique dans le rapport sur la stratégie d'enchères, à côté du "CPA réel", qui représente le CPA que cette stratégie a réellement permis d'atteindre. Le CPA cible moyen est disponible à la fois pour les stratégies d'enchères standards et les stratégies de portefeuille d'enchères.
 
@@ -140,7 +140,7 @@ Lorsque vous optez pour la stratégie d'enchères "ROAS cible", le système Goog
 
 *Ensuite, Google Ads définit automatiquement vos enchères au CPC max. de façon à maximiser votre valeur de conversion tout en essayant d'atteindre votre ROAS cible de 500 %.*
 
-[![Image](/images/blog/Q4-Google-Shopping-Data-187x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/Q4-Google-Shopping-Data.jpg) Roas Q4-Google-Shopping-Data
+[![Q4-Google-Shopping-Data-187x300.jpg](/images/blog/Q4-Google-Shopping-Data-187x300.jpg) Roas Q4-Google-Shopping-Data
 *Option : Payer pour les conversions*
 
 Avec les campagnes intelligentes sur le Réseau Display utilisant les enchères au CPA ciblent, vous pouvez choisir de payer pour les conversions plutôt que pour les clics. Lorsque vous configurez votre campagne, accédez à la section "Enchères". Repérez l'en-tête "Payer pour" et sélectionnez "Conversions" dans le menu déroulant. En savoir plus sur le paiement pour les conversions.
@@ -175,7 +175,7 @@ La stratégie d'enchères est le coût par engagement (CPE), dans laquelle des e
 
 Avec le système d'enchères au CPM visible, vous définissez une enchère pour 1 000 impressions visibles et payez les impressions estimées visibles. Une annonce est comptabilisée comme "visible" lorsque 50 % du contenu apparaît à l'écran pendant au moins une seconde pour les annonces graphiques et au moins deux secondes pour les annonces vidéo. Le CPM visible vous permet de définir une enchère sur la valeur réelle de votre annonce lorsqu'elle est visible à un emplacement donné. En savoir plus sur le [CPM visible](https://support.google.com/google-ads/answer/6026409). Pour conserver le même niveau de coût et de trafic qu'avec une campagne au CPM, vous devez en général définir une enchère au CPM visible plus élevée que votre enchère au CPM standard. Nous vous conseillons cependant d'effectuer des tests pour trouver une enchère adaptée à vos objectifs publicitaires.
 
-[![Image](/images/blog/youtube-cpm-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/youtube-cpm.jpg) Youtube Cpm
+[![youtube-cpm-421x300.jpg](/images/blog/youtube-cpm-421x300.jpg) Youtube Cpm
 ### ***CPI (cout par installation) et ses variantes ***
 
 Vous définissez une enchère pour les installations d'application. Cette fonctionnalité est appelée "coût par installation cible" (CPI cible). Elle vous permet de sélectionner le montant que vous êtes prêt à payer pour chaque nouvel utilisateur de votre application. Dans d'autres parties de Google Ads, cette fonction est appelée "coût par acquisition cible" (CPA cible). Le fonctionnement est identique, mais, dans votre campagne universelle de promotion d'applications, une acquisition correspond à une installation ou à une première ouverture de votre application.

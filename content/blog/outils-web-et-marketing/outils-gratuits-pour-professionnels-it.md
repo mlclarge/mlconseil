@@ -16,7 +16,7 @@ Cyril Bois, responsable de la plateforme  service  Extendsclass.com  présent
 
 Les travailleurs de l'IT utilisent au quotidien des logiciels, souvent sous forme de clients lourds, à la fois ergonomiques et très pratiques pour une utilisation quotidienne. Mais pour une utilisation épisodique, les outils en ligne peuvent être une alternative intéressante, à la fois rapide d'utilisation (sans installation), et facile d'utilisation (pas de configuration).
 
-[![Image](/images/blog/code-editor-jpeg-502x275.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/code-editor-jpeg.jpg) Code editor
+[![code-editor-jpeg-502x275.jpg](/images/blog/code-editor-jpeg-502x275.jpg) Code editor
 ## L'offre de ExtendsClass
 
 ### ***L’offre en quelques mots***

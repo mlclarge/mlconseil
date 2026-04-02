@@ -26,7 +26,7 @@ L’import de cet enrichissement de data « **user centric** »  peut donc se
 
  	- **Comportemental avec 4 données** : pages consultées, les objectifs réalisés, les données ecommerce (transaction ecommerce)  et les évènements (clics sur pdt, libellé moyen de paiement, lecture vidéo..).
 
-[![Image](/images/blog/explorateur-prospects-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/explorateur-prospects.jpg) La rapport explorateur d'utilisateurs
+[![explorateur-prospects-310x170.jpg](/images/blog/explorateur-prospects-310x170.jpg) La rapport explorateur d'utilisateurs
 ## **Les plus et les moins de ce nouveau rapport ?**
 
 ### ***Les aspects positifs de cette fonctionnalité d'audience***
@@ -37,11 +37,11 @@ L’import de cet enrichissement de data « **user centric** »  peut donc se
 
 -> Segment = Avoir vu ma page « qui suis-je » du blog +  avoir cliqué sur le logo « Google partners »
 
-[![Image](/images/blog/CREATION-SEGMENT-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/CREATION-SEGMENT.jpg) Création de'une segmentation basée sur l'utilisateur
+[![CREATION-SEGMENT-310x300.jpg](/images/blog/CREATION-SEGMENT-310x300.jpg) Création de'une segmentation basée sur l'utilisateur
 
 Ensuite dans Google adwords, si l’audience est suffisante (100 pour le display et 1000 pour le moteur de recherche Google) je pourrai lancer une campagne de reciblage. Bon, ici, avec 3 utilisateurs, je vais pas aller bien loin..
 
-[![Image](/images/blog/tri-sur-segment-google-analytics-310x133.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/tri-sur-segment-google-analytics.jpg) Résultat du filtre après segmentation
+[![tri-sur-segment-google-analytics-310x133.jpg](/images/blog/tri-sur-segment-google-analytics-310x133.jpg) Résultat du filtre après segmentation
 ### ***Les points à améliorer sur ce reporting centré utilisateur***
 
  	- Il n’y a pas de champ de recherche sur le rapport, pas très pratique quand on cherche une référence précise manuellement
@@ -58,6 +58,6 @@ On peut faire du reverse engineering à la papa !  Il suffit pour cela d’all
 
 Pour l’exemple, je me suis auto-traqué, cela fait mal, mais je me suis dévoué :) .
 
-[![Image](/images/blog/client-id-google-analtytics-310x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/client-id-google-analtytics.jpg) Fonctionnement du client Id - cookie de GA
+[![client-id-google-analtytics-310x195.jpg](/images/blog/client-id-google-analtytics-310x195.jpg) Fonctionnement du client Id - cookie de GA
 
 Bon Google analytics a  visiblement des ambitions de conquérir de nouveaux adeptes cette année,  et avec cette nouveauté, cela semble bien parti.

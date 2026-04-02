@@ -22,15 +22,15 @@ Autre cas d’utilisation de l’Api adwords  illustré ci-dessous, le service 
 
 Le process général de mise en place de l’environnement du développeur*.*
 
-[![Image](/images/blog/Mcc-test-adwords-310x260.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/Mcc-test-adwords.jpg) Mise en place "Mcc test " adwords
+[![Mcc-test-adwords-310x260.jpg](/images/blog/Mcc-test-adwords-310x260.jpg) Mise en place "Mcc test " adwords
 
 Pour avoir **accès  à l’api**, il faut demander une autorisation d’accès via un centre multicompte existant.  La fonctionnalité est disponible depuis les paramètres du compte en haut à droite dans l’interface. Dans le cadre d’une utilisation de l’api en mode « test », une clé temporaire fonctionnera,  sans attendre l’approbation de Google  et l’acceptation des conditions d’utilisation et de facturation, exigée dans le cadre d’un usage en mode  production (réel).
 
-[![Image](/images/blog/processus-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/processus.jpg) Process de demande Acces APi
+[![processus-310x123.jpg](/images/blog/processus-310x123.jpg) Process de demande Acces APi
 
 Il faut ensuite créer un centre multicompte de « test » dédié à fournir de la data aux tests de développement. Il suffira ensuite de copier-coller des comptes de campagnes existant depuis adwords éditor par exemple et de les importer dans le centre multicompte test.
 
-[![Image](/images/blog/centre-multicompe-test-310x129.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/centre-multicompe-test.jpg) Centre multicompte test (mcc)
+[![centre-multicompe-test-310x129.jpg](/images/blog/centre-multicompe-test-310x129.jpg) Centre multicompte test (mcc)
 
 Voilà notre environnement de adwords « bac à sable » est terminé.
 
@@ -40,7 +40,7 @@ Voilà notre environnement de adwords « bac à sable » est terminé.
 
 Pour communiquer avec cette plateforme MCC serveur,  il va falloir créer en local (mais pourrait être aussi fait depuis un serveur externe) un contexte « client » qui va dialoguer à l’aide d’un langage web, choisi par le développeur selon ses affinités avec tel ou tel type de syntaxe  (python, php, .net ..)et  basée sur une librairie consacrée pour adwords (api) . Cette dernière sera téléchargée et interfacée sur une plateforme de développement liée au langage de programmation installé sur l’ordinateur du développeur (ici pour illustration c’est du php, plus abordable dès le départ).
 
-[![Image](/images/blog/environnement-developpement-310x132.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/environnement-developpement.jpg) Environnement de développement
+[![environnement-developpement-310x132.jpg](/images/blog/environnement-developpement-310x132.jpg) Environnement de développement
 
 Les tâches du développeur seront principalement :
 
@@ -64,11 +64,11 @@ Le plus simple, sera d’utiliser un serveur Xampp et de passer par la console c
 
  	- Les accès à l’api sont gratuits avec un premier pallier à 10 000 hits/jours
 
-[![Image](/images/blog/fichierConfig-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/fichierConfig.jpg) Paramétrer les fichiers config.                                                            pour communiquer avec le MCC test
+[![fichierConfig-310x147.jpg](/images/blog/fichierConfig-310x147.jpg) Paramétrer les fichiers config.                                                            pour communiquer avec le MCC test
 
 Lancer les script php dans la console : cmd.exe  *(paramétrer les variables système  dans windows voir liens fin d'article)* puis la commande php  + nom du fichier.php que l’on souhaite (ici dans l’illustration, récupérer les mots clés de la campagne). Ici, les fichiers php de la librairie contiennent des exemples d'utilisation, prêt à l'emploi , je prends ici le cas de l'un d'entre eux qui s'intitule "GetKeywords.php" qui va récupérer des mots clés d'une campagne (dans le but de faire un rapport par exemple à insérer dans un Crm).
 
-[![Image](/images/blog/commande-api-adwords-310x254.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/commande-api-adwords.jpg) Communication depuis via l'api avec le MCC
+[![commande-api-adwords-310x254.jpg](/images/blog/commande-api-adwords-310x254.jpg) Communication depuis via l'api avec le MCC
 
 Bon, j’arrête là,  je ne saurais aller plus loin pour l’instant….je beugue sur validation d'Oauth. ...la suite donc dans un prochain article avec la [partie 2](https://www.mauricelargeron.com/les-bases-du-fonctionnement-de-l-api-adwords/)  !
 

@@ -10,12 +10,12 @@ image: "/images/blog/tcsummit2015.jpg"
 
 Cela y est, nous y sommes, c’est la semaine du **[Top contributor Summit à San Francisco](https://support.google.com/groups/topic/2546991?hl=fr&ref_topic=2459488&vid=1-635793956767847791-3100969123)** qui démarre ce matin.  Pendant 3 jours,  rencontres, partages au sein du géant de Montain view à San Francisco. Mes collègues de la communauté Adwords / Analytics Philippe, Valentin, Smaîne, Julien, Jérôme et moi même font partis du voyage…Pour suivre l'event #tcsummit.
 
-[![Image](/images/blog/eqipe-top-contributeurs-france-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/eqipe-top-contributeurs-france.jpg) Equipe de France 2013
+[![eqipe-top-contributeurs-france-310x178.jpg](/images/blog/eqipe-top-contributeurs-france-310x178.jpg) Equipe de France 2013
 ## **Une équipe mondiale qui se retrouve**
 
 Pas moins de 45 pays sont représentés, des centaines de personnes invités à travers le monde.
 
-[![Image](/images/blog/top-summit-en-2013-310x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/top-summit-en-2013.jpg) Ensemble des TC Une rencontre plurielle !
+[![top-summit-en-2013-310x184.jpg](/images/blog/top-summit-en-2013-310x184.jpg) Ensemble des TC Une rencontre plurielle !
 ## **Devenir Top Contributeur**
 
 Il faut donner de son temps, gratuitement. C’est pire que l’ubérisation ;) , non je plaisante…je tiens à revenir entier de chez les ricains J .  C’est du donnant-gagnant . On participe aux discussions du forum, et quand les visiteurs sont satisfaits, il vous colle une étoile. Par système de pallier, vous arrivez au statut de top contributeur.

@@ -9,7 +9,7 @@ slug: "referencer-site-internet-et-apps-mobile"
 
 Cet article intéressera ceux qui possèdent un site standard et qui souhaitent  assurer leur présence sur les **supports mobiles** de type tablettes, Smartphones. Création d’une **version mobile, optimisation et promotion**, et enfin **évaluation** seront les 3 chapitres de ce post.  Je vous propose donc une liste d’outils, sans pour autant entrer dans le détail de chacun d’eux, vu que leurs manipulations peuvent  faire l’objet d’un billet à eux seuls ! La pertinence d'être présent sur les terminaux mobiles n'est plus à démontrer (fig.1), et l'article de [Fred Cavazza](http://http://www.fredcavazza.net/2012/06/18/il-ny-aura-pas-de-revolution-mobile-car-elle-deja-eu-lieue) intéresse aussi ce sujet.
 
-[![Image](/images/blog/0-engagement-mobilité-310x263.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/0-engagement-mobilité.png) engagement-mobilité
+[![0-engagement-mobilité-310x263.png](/images/blog/0-engagement-mobilité-310x263.png) engagement-mobilité
 
 ## Assurer sa présence mobile *(site + app)*
 
@@ -21,7 +21,7 @@ Cet article intéressera ceux qui possèdent un site standard et qui souhaitent 
 
 	- WinDev Mobile : plateforme unique de développement et déclinaison sur des « devices » (tablettes, Smartphones) [http://www.pcsoft.fr/index.html](http://www.pcsoft.fr/index.html)
 
-[![Image](/images/blog/2-developpement-mobile-150x146.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/2-developpement-mobile.png) Fig.2 Logiciels de création contenus mobiles
+[![2-developpement-mobile-150x146.png](/images/blog/2-developpement-mobile-150x146.png) Fig.2 Logiciels de création contenus mobiles
 
 **2/ Utiliser des extensions CMS/BLOGS :** les possesseurs d’un CMS type Joomla ! ou WordPress  peuvent opter pour des plugins ou extensions dédiées à la version mobile. Ici, aucune connaissance de code n’est demandée.
 
@@ -55,7 +55,7 @@ Cet article intéressera ceux qui possèdent un site standard et qui souhaitent 
 
 	- Intégrateur cloud : [convertigo](http://www.convertigo.com/fr.html) , plateforme cloud, agrège les données du SI pour produire des applications mobiles.
 
-[![Image](/images/blog/3-applications-mobiles-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/3-applications-mobiles.png) Fig.3 Plateforme Saas pour Apps
+[![3-applications-mobiles-150x150.png](/images/blog/3-applications-mobiles-150x150.png) Fig.3 Plateforme Saas pour Apps
 
 ## Optimisation et Promotion d’une version mobile
 
@@ -71,9 +71,9 @@ Des idées de thèmes, de modèles (ici adapté à WordPress)
 
 	- Voici les **10 bonnes pratiques** Googleliennes pour optimiser la version mobile
 
-[![Image](/images/blog/4-pratiques-mobilité-310x235.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/4-pratiques-mobilité.png) pratiques-mobilité
+[![4-pratiques-mobilité-310x235.png](/images/blog/4-pratiques-mobilité-310x235.png) pratiques-mobilité
 
-[![Image](/images/blog/5-navigation-mobile-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/5-navigation-mobile.png) Fig.5 Navigation interface mobile
+[![5-navigation-mobile-150x150.png](/images/blog/5-navigation-mobile-150x150.png) Fig.5 Navigation interface mobile
 
 ### **Référencement sur le moteurs de recherche mobile (Google)** : les techniques d'optimisation du contenu restent les mêmes avec quelques spécificités *(titre, h1, mot-clé) : *
 
@@ -110,24 +110,24 @@ http://youtu.be/Ml0CyZPOjB4
 
 	- Adopter le **SO.LO.MO** (social, local et mobile) : présent sur les applications géolocalisées sociales : [Foursquare](https://fr.foursquare.com/business/), [Facebook](http://http://www.facebook.com/pages/create.php), [Google adresse](http://www.google.fr/places/)
 
-[![Image](/images/blog/solomo-150x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/solomo.jpg) Fig.6 Faire du SO.LO.MO !
+[![solomo-150x150.jpg](/images/blog/solomo-150x150.jpg) Fig.6 Faire du SO.LO.MO !
 
 	- Faire du marketing sur le** off-line (print)**
 
 	- Etre présent sur les différentes** plateformes de marché** :
 
-[![Image](/images/blog/6-mobile-stores-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/6-mobile-stores.png) Fig.7 Plateformes de diffusion d'Apps
+[![6-mobile-stores-150x150.png](/images/blog/6-mobile-stores-150x150.png) Fig.7 Plateformes de diffusion d'Apps
 
 **Publicité **
 
 	- **Le programme adwords** permet de pousser le contenu d’un site mobile, avec des extensions d’annonces dédiées (appel automatique, plan-itinéraire, couponing). Donc toujours faire une campagne séparée spécifique pour mobile de sa campagne traditionnelle. [http://adwords-fr.blogspot.fr/2011/03/meilleures-pratiques-en-matiere.html](http://adwords-fr.blogspot.fr/2011/03/meilleures-pratiques-en-matiere.html)
 
-[![Image](/images/blog/7-publicité-mobile-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/7-publicité-mobile.png) Fig.8 Annonces Pub. pour mobiles
+[![7-publicité-mobile-150x150.png](/images/blog/7-publicité-mobile-150x150.png) Fig.8 Annonces Pub. pour mobiles
 
 ## **Mesurer et évaluer son audience**
 
 	- Avec l’application **Google analytics** gratuite, il est possible de connaitre le trafic observé sur son site , cela peut être un point de départ d’un projet mobile.
 
-[![Image](/images/blog/8-mesurer-audience-mobile-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/8-mesurer-audience-mobile.png) Fig.9 Mesurer et évaluer son audience en mobilité
+[![8-mesurer-audience-mobile-150x150.png](/images/blog/8-mesurer-audience-mobile-150x150.png) Fig.9 Mesurer et évaluer son audience en mobilité
 
 	- La solution **AT internet** produit également des services d’analyses d’audience ciblés [http://www.atinternet.fr/produits/mobile-analytics/](http://www.atinternet.fr/produits/mobile-analytics/)

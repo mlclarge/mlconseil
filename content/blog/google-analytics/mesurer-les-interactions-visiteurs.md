@@ -15,10 +15,10 @@ J’ai pu aborder le sujet du paramétrage des **évènements dans Google analyt
 
 Les évènements permettent de suivre des interactions de l’internaute sur des objets tels que des liens, des images, des vidéos, des boutons, des formulaires, des documents (téléchargements), des animations (flash)  aussi bien sur des pages web, que sur des applications mobiles. Donc la pageVue n’est plus le seul objectif d’un suivi, c’est assez révolutionnaire !
 
-[![Image](/images/blog/interactions-avec-site-web-248x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/interactions-avec-site-web.jpg) Types d'intéractions - Merci à son auteur
+[![interactions-avec-site-web-248x300.jpg](/images/blog/interactions-avec-site-web-248x300.jpg) Types d'intéractions - Merci à son auteur
 ### **Syntaxe du code pour google analytics universel**
 
-[![Image](/images/blog/syntaxe-code-310x48.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/syntaxe-code.jpg) syntaxe code
+[![syntaxe-code-310x48.jpg](/images/blog/syntaxe-code-310x48.jpg) syntaxe code
 ### **Historique**
 
 	- C’est en **2007** que fut lancée cette possibilité de traquer les clics en version bêta.  Ce marquage s’effectue en Javascript, donc côté navigateur du client. Le début de ce marquage s’effectuait en 2 étapes pour le codage (création de l’objet, puis tracking des actions sur ce dernier).
@@ -156,32 +156,32 @@ J’ai pu déjà  aborder le [suivi de clics](https://www.mauricelargeron.com/s
 
 	- un  écouteur de « clics sur les liens » qui va faire office de script à l’écoute de tous les clics sur le site
 
-[![Image](/images/blog/pdf-tag-manager-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/pdf-tag-manager.jpg) 2 étapes dans GTM
+[![pdf-tag-manager-310x160.jpg](/images/blog/pdf-tag-manager-310x160.jpg) 2 étapes dans GTM
 
 	- Ensuite , sur l’objet en question, un évènement sera paramétré pour fixer le déclenchement du tracking sur les urls se terminant par « .pdf » (point 5 sur capture écran ci-dessous). Je lui demande dans les attributs qui me fasse remonter le nom du lien afin de distinguer les différents pdfs (point 4 sur l’illustration).
 
-[![Image](/images/blog/clics-sur-les-liens-310x138.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/clics-sur-les-liens.jpg) Etape 1 : Installation de l'écouteur de clics
+[![clics-sur-les-liens-310x138.jpg](/images/blog/clics-sur-les-liens-310x138.jpg) Etape 1 : Installation de l'écouteur de clics
 
-[![Image](/images/blog/evenement-tag-manager-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/evenement-tag-manager.jpg) Etape 2 : Paramétrage de l'évènement
+[![evenement-tag-manager-310x210.jpg](/images/blog/evenement-tag-manager-310x210.jpg) Etape 2 : Paramétrage de l'évènement
 ## **La lecture des Rapports **
 
 ### **Suivis de Pdfs**
 
 Prenons l’exemple des liens sur les pdfs, le rapport standard ci-dessous restitue les libéllés « telechargementDoc » puis les différents intitulés des documents téléchargés (distinction par la remontée de « l’élément url »paramétré au niveau du libellé de l’évènement.
 
-[![Image](/images/blog/gestionnaire-de-balises-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/gestionnaire-de-balises.jpg) Rapport Standard dans GA -Docs Pdfs
+[![gestionnaire-de-balises-310x142.jpg](/images/blog/gestionnaire-de-balises-310x142.jpg) Rapport Standard dans GA -Docs Pdfs
 
 Noter l’indicateur d’évènements uniques qui rapportent sur un ensemble de visites le nombre total d’enregistrement mais aussi rapporté par type.
 ### **Le temps réel bien pratique**
 
 Sinon, il est possible d’avoir aussi une vue en temps réel de toute sorte de tracking comme les liens internes, sortants, les soumissions formulaires, la profondeur du scrolling etc..
 
-[![Image](/images/blog/ga-event-gtm-boutiquier-310x266.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/ga-event-gtm-boutiquier.png) Temps réel - Pratique pour tester ses events
+[![ga-event-gtm-boutiquier-310x266.png](/images/blog/ga-event-gtm-boutiquier-310x266.png) Temps réel - Pratique pour tester ses events
 ### **Les rapports personnalisés**
 
 On peut par exemple segmenter toutes les visites avec celles qui observent des évènements liés aux conversions du site, pour tenter de mesurer l’impact éventuel d’un objet suivi tel qu’une bannière d’auto-promotion par exemple.
 
-[![Image](/images/blog/segmentation-event-objectifs-310x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/segmentation-event-objectifs.jpg) Segments pour contextualiser ses Ev.
+[![segmentation-event-objectifs-310x216.jpg](/images/blog/segmentation-event-objectifs-310x216.jpg) Segments pour contextualiser ses Ev.
 ## **Limites et débogage**
 
 ### **Pas d’illimité chez Google !**
@@ -210,7 +210,7 @@ Ou bien
 
 	- Répérer les scripts liés à l’évènement (voir ci-dessous, sur un lien, le GTM y est lié par un suivi de « CLICK ».
 
-[![Image](/images/blog/debuggage-event-console-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/debuggage-event-console.jpg) Debug - Console Chrome
+[![debuggage-event-console-310x143.jpg](/images/blog/debuggage-event-console-310x143.jpg) Debug - Console Chrome
 ## Webographie
 
 **Merci aux développeurs** pour le partage de leur travail. Voici quelques sources d'informations ..

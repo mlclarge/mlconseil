@@ -45,7 +45,7 @@ Les types de rapports nouveaux viennent compléter la panoplie depuis peu :
 
 Depuis début novembre il possible de savoir à quelle fréquence l’annonce est diffusée tout en haut des résultats peut vous aider à diagnostiquer des fluctuations importantes du taux de clics. Par ailleurs, il est utile de connaître le pourcentage d'impressions de haut de page éligibles que vous enregistrez déjà pour déterminer si vous devez augmenter vos enchères et améliorer la qualité de vos annonces.
 
-[![Image](/images/blog/performances-annonces-google-ads-473x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/performances-annonces-google-ads.jpg)
+[![performances-annonces-google-ads-473x300.jpg](/images/blog/performances-annonces-google-ads-473x300.jpg)
 ## **Rapports  sur les performances des annonces**
 
 ### ***Attention aux fausses interprétations sur la position moyenne !***
@@ -65,7 +65,7 @@ Du coup, quatre nouvelles statistiques qui, contrairement à la position moyenne
 
 Là encore, pouvoir savoir en temps réel si les annonces reliées à des types d'audiences sont diffusées et donnent un droit de regard pour le gestionnaire de campagne sur ce qui se passe ici et maintenant sur la nature du trafic.
 
-[![Image](/images/blog/audience-annonce-previsualisation-380x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/audience-annonce-previsualisation.jpg) Previsualisation Audiences sur annonces en diffusion
+[![audience-annonce-previsualisation-380x300.jpg](/images/blog/audience-annonce-previsualisation-380x300.jpg) Previsualisation Audiences sur annonces en diffusion
 
 Visites en magasins : segmentation visiteurs connus vs nouveaux Selon Google par la voix de Victor Zhu, Product Manager, Online-to-Offline Measurement
 *Les annonceurs qui mesurent les visites en magasins peuvent désormais mieux distinguer le nombre de visites provenant de visiteurs nouveaux ou de visiteurs connus. Ces renseignements peuvent vous être utiles pour adapter vos messages (par exemple, pour promouvoir des offres spécifiques auprès de nouveaux clients) ou pour ajuster votre stratégie marketing en vue de toucher votre segment de clientèle le plus intéressant.*
@@ -75,7 +75,7 @@ Visites en magasins : segmentation visiteurs connus vs nouveaux Selon Google par
 
  	- Il est désormais faisable d'extraire les principaux indicateurs par segments d'audiences.
 
-[![Image](/images/blog/rapports-audiences-426x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/rapports-audiences.jpg) Rapports audiences Google ads
+[![rapports-audiences-426x300.jpg](/images/blog/rapports-audiences-426x300.jpg) Rapports audiences Google ads
 ## ***Deux fonctionnalités Sms sur Google ads***
 
 Plus besoin d'une ligne de téléphone, une simple adresse mail dédiée va faire le reste !
@@ -84,19 +84,19 @@ Plus besoin d'une ligne de téléphone, une simple adresse mail dédiée va fair
 
  	- La fonctionnalité Réponse automatique renvoie un SMS prédéfini aux clients dès qu'ils vous envoient un message. Par exemple, une la réponse automatique "Merci de nous avoir contactés. Nous vous répondrons dans les plus brefs délais".
 
-[![Image](/images/blog/sms-gogole-ads-155x300.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/sms-gogole-ads.gif) sms gogole ads
+[![sms-gogole-ads-155x300.gif](/images/blog/sms-gogole-ads-155x300.gif) sms gogole ads
 ## ***Rapports sur les pages de destination***
 
 Ces deux rapports sont déjà disponibles à la page "Pages de destination" sont présents sous forme graphique dans l'éditeur de rapports, et les ajouter à vos tableaux de bord personnalisés.
 
-[![Image](/images/blog/pages-de-destination-google-ads-rapports-502x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/pages-de-destination-google-ads-rapports.jpg) Pages de destination google ads rapports
+[![pages-de-destination-google-ads-rapports-502x191.jpg](/images/blog/pages-de-destination-google-ads-rapports-502x191.jpg) Pages de destination google ads rapports
 ## **Suivi en parallèle implémenté par défaut**
 
 Rappel ici -> à compter du 30 octobre 2018, le suivi en parallèle est devenu obligatoire pour tous les partenaires tiers de Google Ads. Si un système tiers pour gérer la mesure du nombre de clics sur vos annonces est déployé sur le compte, il faut en vérifier sa compatibilité.
 
 Puisque le suivi en parallèle est conçu pour améliorer l'expérience utilisateur selon google après le clic vers la page de destination, il est possible de constater des gains de performances.
 
-[![Image](/images/blog/Parallel-Tracking.gif)](/images/blog/Parallel-Tracking.gif) Parallel Tracking Google ad
+[![Parallel-Tracking.gif](/images/blog/Parallel-Tracking.gif) Parallel Tracking Google ad
 ## **Attribution des conversions sur Vidéos YouTube**
 
 Période d'engagement devient plus courte,  10 secondes avec une période de suivi des conversions par défaut de 3 jours (plutôt que sur 30 secondes avec une période de suivi des conversions de 30 jours).

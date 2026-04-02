@@ -13,7 +13,7 @@ Je ne parlerai pas des **techniques BlackHat** faites pour Adsense et autres sys
 
 J’aborde simplement ici  le cas d’un propriétaire d’un "site lambda" qui souhaite communiquer une information sur son organisation, à des fins pérennes et effectuer lui-même la noble tâche du référenceur.  Que peut-on faire une fois son site web en ligne ? En fait, cette question devrait déjà se poser bien en amont du projet de présence sur la toile. Car le référencement démarre dès le cahier des charges, mais enfin, rien n’est jamais perdu !
 
-[![Image](/images/blog/facteurs-principaux-referencement-site-300x163.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/facteurs-principaux-referencement-site.png)Facteurs de positionnement
+[![facteurs-principaux-referencement-site-300x163.png](/images/blog/facteurs-principaux-referencement-site-300x163.png)Facteurs de positionnement
 
 Source : [http://www.seomoz.org/article/search-ranking-factors](http://www.seomoz.org/article/search-ranking-factors)
 
@@ -23,7 +23,7 @@ La construction de page doit observer  des standards techniques  de présentat
 
 Ce qui nous intéresse, c’est rendre ce site populaire vu que son contenu peut intéresser des individus,  il s’agit du **netLinking, technique « off page »**. Acquérir des liens (considérés comme des votes pour son site) qui pointent vers votre vitrine mais pas n’importe quel lien !
 
-[![Image](/images/blog/places-liensnetlinking1-300x225.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/places-liensnetlinking1.png)1/ Provenance du lien 2/ Lien image    3/ Liens sites populaires
+[![places-liensnetlinking1-300x225.png](/images/blog/places-liensnetlinking1-300x225.png)1/ Provenance du lien 2/ Lien image    3/ Liens sites populaires
 
 Liens entrants
 
@@ -55,7 +55,7 @@ Pour chaque lien entrant
 
 	- Lien sur image map problématique.
 
-[![Image](/images/blog/places-liens1-300x217.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/places-liens1.png)
+[![places-liens1-300x217.png](/images/blog/places-liens1-300x217.png)
 
 Je ne peux  que vous renvoyer que sur cette excellente page du site seomoz d’où j’ai extrait ces schémas [http://www.seomoz.org/blog/10-illustrations-on-search-engines-valuation-of-links](http://www.seomoz.org/blog/10-illustrations-on-search-engines-valuation-of-links)
 

@@ -12,14 +12,14 @@ Qu’est-ce que ce fameux fichier htaccess ? Après avoir vu les aspect du [cra
 ## **Qu’est-ce qu’un fichier htaccess ?**
 
 C’est un vieux vétéran du monde du web  qui sert à configurer la plupart des serveurs web de l’internet (65%) , les serveurs apache, dont il contrôle l’accès aux données du site pour faire succinct.
-[![Image](/images/blog/repartition-serveurs-web-310x185.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/repartition-serveurs-web.jpg) Part de marché des serveurs dans le monde
+[![repartition-serveurs-web-310x185.jpg](/images/blog/repartition-serveurs-web-310x185.jpg) Part de marché des serveurs dans le monde
 
 Matériellement, c’est tout simplement **un fichier ASCII **(American Standard Code For Information Interchange) , soit un fichier texte lisible par un éditeur de texte comme wordpad dans windows et compréhensible par l’œil humain, au détriment d’un fichier binaire qui lui contient des codes binaires destinés aux machines.
 
 Il peut s’exécuter  uniquement dans un environnement serveur Apache, par windows (nt).
 
 Il n’y a pas **qu’un seul fichier htaccess** par site web, mais souvent plusieurs , ils  peuvent  s’exécuter à la racine de chaque dossier selon les directives assignées.
-[![Image](/images/blog/htaccess-hebergement-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess-hebergement.jpg) Fichier htaccess sur hébergeur
+[![htaccess-hebergement-310x196.jpg](/images/blog/htaccess-hebergement-310x196.jpg) Fichier htaccess sur hébergeur
 ## **Quand faut-il l’utiliser ?**
 
 Bien souvent **le mieux c’est de ne pas l’utilise**r ! Bon alors, il ne sert à rien ? Non tout de même pas ! Quand vous avez la main sur les fichiers principaux  de configuration d’un  serveur apache (httpd.conf entre autre) et uniquement dans ce cas-là, rien ne sert à utiliser les vertus du fichier htaccess et autres directives modulaires.
@@ -47,7 +47,7 @@ Afin d’avoir une vue plus synthétique, j’ai regroupé dans** 5 catégories 
 
 - Expérience Utilisateur (UX)
 
-[![Image](/images/blog/htaccess-310x296.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess.jpg) 5 Domaines pour l'htaccess
+[![htaccess-310x296.jpg](/images/blog/htaccess-310x296.jpg) 5 Domaines pour l'htaccess
 ### **Sécurité avant tout** !
 
 Protéger  le fichier .htaccess lui même

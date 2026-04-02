@@ -15,11 +15,11 @@ Mais pourquoi alors insister sur le paramétrage en particulier de cette page ? 
 **
 La page d'accueil est l'épicentre du flux d'information qui circule sur  un site.
 
-[![Image](/images/blog/modelesites.jpg)](/images/blog/modelesites.jpg)
+[![modelesites.jpg](/images/blog/modelesites.jpg)
 
 Qu'il  s'agisse d'un blog (wordpress, typepad..) ou d'un CMS (joomla!, drupal, typo3...) ou d'un site propriétaire,** la page d'accueil** est le point de passage principal pour la plus grande majorité des sites Internet. Cette page est située à la racine de votre hébergement Web, c'est-elle qui va supporter l'essentiel des liens qui vont pointer sur votre site : ex www.monsite.com/monarticle , observer le plus de trafic, et l'essentiel du page rank (notation par l'algorithme de google) sera porté par cette homepage. Cette dernière va redistribuer les "cartes" au reste du site selon l'architecture choisie. La struture des liens, ou maillage interne trouve son point de départ ici.
 
- [![Image](/images/blog/siloing.jpg)](/images/blog/siloing.jpg) Le siloing au sein d'un site web 
+ [![siloing.jpg](/images/blog/siloing.jpg) Le siloing au sein d'un site web 
 
 La granularité de l'information permet de mettre de l'ordre dans sa présentation.  Elle est permet à l'internaute de se retrouver plus facilement dans le dédale des menus, boutons et clics en tout genre.
 
@@ -27,17 +27,17 @@ La granularité de l'information permet de mettre de l'ordre dans sa présentati
 
 L'information (et sa structure) , la  navigation  (menus/onglets) , son ergonomie  (zones visuellement sensibles de la page) sont les 3 points principaux à prendre en compte.
 
- [![Image](/images/blog/zones-chaudes.jpg)](/images/blog/zones-chaudes.jpg) Les zones sensibles à l'oeil humain 
+ [![zones-chaudes.jpg](/images/blog/zones-chaudes.jpg) Les zones sensibles à l'oeil humain 
 
 **L'ergonomie, les zones "chaudes"** standard situées au dessus de la ligne médiane, sur la partie gauche et allant vers l'axe central sont à privilégier pour y placer les liens importants.
 
 La** structure de l'information** pour les sites Web est constituée généralement d'articles, regroupés par sujets (catégories), puis ranger dans des thématiques (sections).
 
- [![Image](/images/blog/navigation.jpg)](/images/blog/navigation.jpg) Exemple de menu de navigation 
+ [![navigation.jpg](/images/blog/navigation.jpg) Exemple de menu de navigation 
 
 **La navigation** au travers des menus, onglets et autres boutons permettent une circulation de l'internaute dans votre site et selon un parcours que le concepteur de site souhaite voir emprunté par son visiteur (régle des 3 clics). L'importance de la navigation pour un site e-commerce est déterminante.
 
- [![Image](/images/blog/pagination.jpg)](/images/blog/pagination.jpg) Pagination du contenu : a éviter 
+ [![pagination.jpg](/images/blog/pagination.jpg) Pagination du contenu : a éviter 
 
 **La pagination **est à éviter si possible ou du moins à minimiser. Créer liste d'éléments, numérotation, faire défiler des pages sans savoir ce que l'on va trouver n'apporte pas grand intérêt pour l'internaute. Mieux vaut avoir un moteur de recherche interne puissant. Techniquement, une pagination peut être source de duplication de contenu, un piège sans fin pour les spiders (crawlers) qui parcourent le site. Néanmoins, si elle est indispensable, ses liens devront être maîtrisés à l'aide de balises nofollow et noindex, afin de maîtriser le "jus" de lien (link juice) et le crawling des robots.
 Edit: Ces 2 pages de google vous indiquent la marche à suivre technique si vous souhaitez utilisez la pagination sans duplicate content avec les éléments html suivants :  rel=“next” and rel=“prev” .
@@ -45,7 +45,7 @@ Edit: Ces 2 pages de google vous indiquent la marche à suivre technique si vous
 Infos : Pagination
 ## Le rédactionnel : "L'esprit" de la page.
 
-[![Image](/images/blog/redactionWeb1.jpg)](/images/blog/redactionWeb1.jpg)
+[![redactionWeb1.jpg](/images/blog/redactionWeb1.jpg)
 
 Il faudra veiller :
 
@@ -65,7 +65,7 @@ Il faudra veiller :
 
 ## Le codage :"L'arrière boutique" 
 
-[![Image](/images/blog/croquis9.png)](/images/blog/croquis9.png)
+[![croquis9.png](/images/blog/croquis9.png)
 
 **Le type de langage **importe peu pour la qualité d'un site Web (PHP, asp..). En revanche, l'usage de certaines **technologies Web **comme le flash, JavaScript, les frames, les iframes, Ajax, Java ne sont pas crawlés par les robots, donc contenu = inconnu au bataillon !
 Eviter des appels extérieurs trop nombreux lors de chargements de widgets, gadgets, animations, cela pénalise la vitesse de chargement de la page (critère impactant le positionnement de la page).
@@ -75,7 +75,7 @@ Les urls doivent correspondre à un contenu et 1 seul, donc tout exemplaire supp
 
  
 
-[![Image](/images/blog/linkStructure.jpg)](/images/blog/linkStructure.jpg)
+[![linkStructure.jpg](/images/blog/linkStructure.jpg)
 
 Ces fameux **liens hypertexte** qui ont bouleversés notre façon de lire, ils créent des relations selon leurs champs lexicaux et renvoient sur d'autres pages à l'intérieur ou à l'extérieur du site web. Les liens sont donc un moyen de guider le lecteur vers d'autres pages, articles  à connotations similaires. Toute la stratégie de structuration du maillage interne va peser lourd lors de l'indexation par les moteurs de recherche. Elle va faire ressortir la thématique du site.
 Pour sa page d'accueil, on peut décider par la manipulation du contenu via certains mots clés, de ne pas axer sa thématique sur tel ou tel sujet. Au contraire , de créer des passerelles via des menus qui ouvrent sur d'autres articles, eux , beaucoup plus pertinents sur un thème. Attention, à ne pas trop charger cette Homepage par trop liens internes ou externes (100/120 maxi). Ces liens, déjà évoqué au niveau de la pagination, devront être maitrisés par des attributs (noFollow,noIndex) afin de ne pas diluer le link juice de votre Homepage (qui,je vous le rappelle, reçoit la plupart du temps, le plus de popularité). L'ancrage de ces mêmes liens devront porter la bonne parole , exemple : [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) ici , wikipedia est l'ancre , le mot clé pertinent de ce lien.

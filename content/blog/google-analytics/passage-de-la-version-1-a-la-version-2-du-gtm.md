@@ -13,7 +13,7 @@ Après cette avoir évoqué brièvement dans la [revue google analytics de la se
 
 Tout d’abord, sachez que courant janvier 2015, les possesseurs d’un compte tag manager verront leur compte migrer d’office vers le nouvelle version. Pour les plus pressés, le chapitre suivant indique comment migrer un compte v1 vers v2. Notons également que le GTM V2 n’est disponible qu’ en Anglais à ce jour...
 
-[![Image](/images/blog/nouvelle-version-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/nouvelle-version.jpg) Interface GTM V2 épurée..
+[![nouvelle-version-310x205.jpg](/images/blog/nouvelle-version-310x205.jpg) Interface GTM V2 épurée..
 
 	- **Interface intuitive** : ok, facile à dire, mais c’est vraiment le cas. Pour avoir tester la V1, cette dernière apparaît désormais comme vraiment pas pratique pour le non développeur. La V2 adopte le design des workflows que l’on peut retrouver dans google adwords ou analytics, avec ce principe de chemins visuel, marqué par des étapes validées.
 
@@ -21,7 +21,7 @@ Tout d’abord, sachez que courant janvier 2015, les possesseurs d’un compte t
 
 ### *Fonctionnalités*
 
-[![Image](/images/blog/variables-integrees-gtm-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/variables-integrees-gtm.jpg) Variables pré-installées gtm v2
+[![variables-integrees-gtm-310x189.jpg](/images/blog/variables-integrees-gtm-310x189.jpg) Variables pré-installées gtm v2
 
 	- **Déclencheur** : tout  "trigger" est muni d’un “event” (sur page vue ou clic sur un lien par ex.) .Ne pas confondre  cette notion d’évènement,  avec celui du modèle de data  de GA pour installer un évènement sur objet particulier (catégorie, action,libellé, valeur).
 
@@ -35,7 +35,7 @@ Tout d’abord, sachez que courant janvier 2015, les possesseurs d’un compte t
 
 L’objectif ici est de migrer un compte muni d’un container GTM-XXXX v1 vers la nouvelle interface.
 
-[![Image](/images/blog/processus-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/processus.jpg) Migration V1 vers V2
+[![processus-310x210.jpg](/images/blog/processus-310x210.jpg) Migration V1 vers V2
 
 Rien de compliquer ici, il suffit d’utiliser depuis l’ancienne interface le lien du menu de gauche export  :
 
@@ -53,7 +53,7 @@ Rien de compliquer ici, il suffit d’utiliser depuis l’ancienne interface le 
 
 	- Confirmer le choix  précédent (donc on ne peut pas se tromper)
 
-[![Image](/images/blog/migratin-tag-manager-v1-v2-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/migratin-tag-manager-v1-v2.jpg) Processus de Migration
+[![migratin-tag-manager-v1-v2-310x151.jpg](/images/blog/migratin-tag-manager-v1-v2-310x151.jpg) Processus de Migration
 
 ***Avertissements ***
 
@@ -65,7 +65,7 @@ Rien de compliquer ici, il suffit d’utiliser depuis l’ancienne interface le 
 
 L ‘idée ici de faire un petit tour rapide sur un paramétrage lambda comme celui d’une balise de remarketing adwords. Ce qui frappe ici  c’est vraiment la simplicité d’utilisation par le chemin tracé par le didacticiel de configuration
 
-[![Image](/images/blog/marquage-pas-à-pas-goolge-tag-manager-v2-158x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/marquage-pas-à-pas-goolge-tag-manager-v2.jpg) Marquage pas à pas google tag manager v2
+[![marquage-pas-à-pas-goolge-tag-manager-v2-158x300.jpg](/images/blog/marquage-pas-à-pas-goolge-tag-manager-v2-158x300.jpg) Marquage pas à pas google tag manager v2
 
 En 4 clics, ou presque pour créer une balise (illustration : le marquage d’une balise de remarketing  sur un site web)
 

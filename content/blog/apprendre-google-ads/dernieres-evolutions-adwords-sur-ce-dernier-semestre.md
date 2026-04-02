@@ -32,7 +32,7 @@ Suite au billet de la semaine dernière sur la corrélation entre annonces spons
 
 	- Statistiques du taux d’impression à l’échelle du groupe d’annonces
 
-[![Image](/images/blog/ciblage-geographique-300x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/ciblage-geographique.jpg) Nouveau ciblage géographique
+[![ciblage-geographique-300x145.jpg](/images/blog/ciblage-geographique-300x145.jpg) Nouveau ciblage géographique
 
 Cela laisse de la marge ! Bon, si déjà on observe 3 annonces ciblées par groupe avec à l’intérieur de chaque groupe une vingtaine de mots clés, on s’en tire pas trop mal
 ## Nouvel emplacement et formats d’annonces
@@ -41,15 +41,15 @@ Cela laisse de la marge ! Bon, si déjà on observe 3 annonces ciblées par grou
 
 	- Naissance des annonces « offre produit », qui  génère une annonce avec photo d’un produit, issu du catalogue Google Shopping (donc au préalable, avoir uploadé son flux catalogue).
 
-[![Image](/images/blog/annonce-offre-produit.jpg)](/images/blog/annonce-offre-produit.jpg) Extension "offre produit"
+[![annonce-offre-produit.jpg](/images/blog/annonce-offre-produit.jpg) Extension "offre produit"
 
 	- Création d’un emplacement d’annonce situé au bas de la page de recherche, qui cible les internautes qui dépasse la page des premiers résultats.
 
-[![Image](/images/blog/emplacement-adwords.jpg)](/images/blog/emplacement-adwords.jpg) Espace situé au bas de la page Google
+[![emplacement-adwords.jpg](/images/blog/emplacement-adwords.jpg) Espace situé au bas de la page Google
 
 	- Ajout d’une extension « appel direct »  pour les annonces mobiles.
 
-[![Image](/images/blog/appel-Direct.jpg)](/images/blog/appel-Direct.jpg) Extension d'annonce "appel direct"
+[![appel-Direct.jpg](/images/blog/appel-Direct.jpg) Extension d'annonce "appel direct"
 
 	- Visibilité du bouton « + 1» sur les annonces du réseau de contenu (display).
 
@@ -57,7 +57,7 @@ Cela laisse de la marge ! Bon, si déjà on observe 3 annonces ciblées par grou
 
 	- Ah enfin une nouvelle interface plus conviviale que la précédente, plutôt minimaliste, pour le moins que l’on puisse dire ! Maintenant, l’interface utilisateur est doté d’un éditeur de texte comparable à un bon traitement de texte, les fonctionnalités sont tracées par champs de recherche, c’est incontestablement une amélioration.
 
-[![Image](/images/blog/communauteAdwords-300x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/04/communauteAdwords.jpg)
+[![communauteAdwords-300x208.jpg](/images/blog/communauteAdwords-300x208.jpg)
 
 ## A venir côté Display
 

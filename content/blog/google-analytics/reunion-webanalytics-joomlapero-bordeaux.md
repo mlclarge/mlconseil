@@ -37,7 +37,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Evènements personnalisés : suivi précis d’erreurs sur des scripts de pages
 
-[![Image](/images/blog/developpeur-webmaster-310x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/developpeur-webmaster.jpg) Widget de pilotage
+[![developpeur-webmaster-310x191.jpg](/images/blog/developpeur-webmaster-310x191.jpg) Widget de pilotage
 ### **2/ Seo - Rédacteur : « Comment et pourquoi sont-ils arrivés là ? »**
 
  	- Tableaux  de bord: sources référents, temps des visites
@@ -58,7 +58,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Rapports perso : Seo Vs Sea
 
-[![Image](/images/blog/seo-310x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/seo.jpg) Seo Vs Sea
+[![seo-310x195.jpg](/images/blog/seo-310x195.jpg) Seo Vs Sea
 ### **3/ La Marketeuse : « elle veut tout connaitre du trajet de son visiteur ! »**
 
  	- Tab. Bord : Pour où ils arrivent (entrées), temps passe sur le site ?
@@ -77,7 +77,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Analyse des pages (clics sur boutons)
 
-[![Image](/images/blog/marketeuses-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/marketeuses.jpg) Flux de visiteur
+[![marketeuses-310x196.jpg](/images/blog/marketeuses-310x196.jpg) Flux de visiteur
 ### **4/ L’e-commerçante - Détaillant : « Euh, on a fait combien aujourd’hui ? »**
 
  	- Tab. Bord : Aperçu rapide des transactions, Tx de conversion, Quantités
@@ -94,7 +94,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Segmentation du CA par appareils :  sur mobile, tablette ce dernier mois
 
-[![Image](/images/blog/ecommerçant-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/ecommerçant.jpg) ecommerçant
+[![ecommerçant-310x194.jpg](/images/blog/ecommerçant-310x194.jpg) ecommerçant
 ### **5/ La « Community Manager » : "Ma communauté est-elle efficace ?"**
 
  	- Tab. Bord : Valeur visite sociale,  importance du trafic
@@ -111,7 +111,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Rapport perso. : éléments partagés via RS + créneau horaire
 
-[![Image](/images/blog/community-310x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/community.jpg) Partages en Engagement sur les réseaux sociaux
+[![community-310x191.jpg](/images/blog/community-310x191.jpg) Partages en Engagement sur les réseaux sociaux
 ### 6/ KPI du patron ! « Bon, allez les gars, on fait mieux que l’année dernière ou quoi ? »
 
  	- Analyse personnalisée : Les Objectifs / conversions fixés  sont-ils atteints ?
@@ -126,7 +126,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- ROI : Revenu par clic des campagnes ? / Panier Moyen par leviers ?
 
-[![Image](/images/blog/kpi-patron-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/kpi-patron.jpg) Contexte - Comparaison de périodes
+[![kpi-patron-310x196.jpg](/images/blog/kpi-patron-310x196.jpg) Contexte - Comparaison de périodes
 ### **7/ Blogueur : « J’ai passé 5 heures sur le dernier article, ça va buzzer ! »**
 
  	- Tabl.de bord : Comment les personnes ont-elles trouve le blog ?
@@ -145,7 +145,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Taux Abonnements Newsletter / Flux Rss
 
-[![Image](/images/blog/blogueur-310x198.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/blogueur.jpg) Indicateur de lecture sur les contenus
+[![blogueur-310x198.jpg](/images/blog/blogueur-310x198.jpg) Indicateur de lecture sur les contenus
 ### **8/ Data scientist : "A mon avis,  le modèle d’attribution n’est pas corrélé à nos investissements sur nos différents leviers." **
 
  	- Evènements -> Analyse comportementale (analyser les points d’abandons)
@@ -158,7 +158,7 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Analyse Roiste complète avec Intégration d’autres  données internes à l'entreprise ou externes  (importation  : variables, couts..)
 
-[![Image](/images/blog/scientist-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/scientist.jpg) Modèles d'attribution , études des sources de trafic
+[![scientist-310x194.jpg](/images/blog/scientist-310x194.jpg) Modèles d'attribution , études des sources de trafic
 ## Je ne vous parlerai pas de …
 
 Vu le  temps imparti...
@@ -173,9 +173,9 @@ Vu le  temps imparti...
 
  	- Gestionnaire de balises (tag manager)
 
-[![Image](/images/blog/customs-vars-310x198.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/customs-vars.jpg) 5 Fonctionnalités à explorer
+[![customs-vars-310x198.jpg](/images/blog/customs-vars-310x198.jpg) 5 Fonctionnalités à explorer
 ## **NODE espace de coworking numérique Bordelais**
 
 Je remercie **Brigitte Xuereb** d’avoir initié et organisé cette soirée ainsi que le [Node](http://bxno.de/) de nous avoir accueillis et particulièrement Philippe Marty son président !
 
-[![Image](/images/blog/node-coworking-bordeaux-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/node-coworking-bordeaux.jpg)
+[![node-coworking-bordeaux-310x170.jpg](/images/blog/node-coworking-bordeaux-310x170.jpg)

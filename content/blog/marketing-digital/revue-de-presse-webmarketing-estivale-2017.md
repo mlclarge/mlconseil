@@ -32,7 +32,7 @@ L’été a été riche en informations ! Parcourons alors environ 80 articles q
 
  	- Technos Hype de Gartner : [http://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/](http://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/)
 
-[![Image](/images/blog/Emerging-Technology-Hype-Cycle-for-2017_Infographic_R6A-1024x866-355x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/08/Emerging-Technology-Hype-Cycle-for-2017_Infographic_R6A-1024x866.jpg) Hype tendances
+[![Emerging-Technology-Hype-Cycle-for-2017_Infographic_R6A-1024x866-355x300.jpg](/images/blog/Emerging-Technology-Hype-Cycle-for-2017_Infographic_R6A-1024x866-355x300.jpg) Hype tendances
 ### ***Start-Ups***
 
  	- Open innovation chez c-discount : [http://www.usine-digitale.fr/article/cdiscount-lance-un-incubateur-de-start-up-pour-dessiner-l-entrepot-du-futur.N572273#](http://www.usine-digitale.fr/article/cdiscount-lance-un-incubateur-de-start-up-pour-dessiner-l-entrepot-du-futur.N572273#)
@@ -111,7 +111,7 @@ L’été a été riche en informations ! Parcourons alors environ 80 articles q
 
  	- Vidéos prévisualisées dans les serp sur mobile : [https://techcrunch.com/2017/08/18/google-brings-six-second-video-previews-to-mobile-search/](https://techcrunch.com/2017/08/18/google-brings-six-second-video-previews-to-mobile-search/)
 
-[![Image](/images/blog/dg8lmkuo0wdqsqylawnkvuks-d6-1yxjrnfwu5isbockxonjo4nvd5s0e4v4zhcullznuws400-300x300.gif)](https://www.mauricelargeron.com/wp-content/uploads/2017/08/dg8lmkuo0wdqsqylawnkvuks-d6-1yxjrnfwu5isbockxonjo4nvd5s0e4v4zhcullznuws400.gif) aperçu des vidéos
+[![dg8lmkuo0wdqsqylawnkvuks-d6-1yxjrnfwu5isbockxonjo4nvd5s0e4v4zhcullznuws400-300x300.gif](/images/blog/dg8lmkuo0wdqsqylawnkvuks-d6-1yxjrnfwu5isbockxonjo4nvd5s0e4v4zhcullznuws400-300x300.gif) aperçu des vidéos
 
  	- Badges dans Google image : [https://webmasters.googleblog.com/2017/08/badges-on-image-search-help-users-find.html](https://webmasters.googleblog.com/2017/08/badges-on-image-search-help-users-find.html)
 

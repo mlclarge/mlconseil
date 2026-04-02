@@ -14,7 +14,7 @@ L'[**achat programmatique**](https://fr.wikipedia.org/wiki/Marketing_programmati
 
 Selon l'observatoire de l'epub dans sa dernière édition 2019, la programmatique représente plus des 2/3 des espaces vendus, soit 67% des pubs commercialisées. Une progression impressionnante par rapport à 2017, avec +46%.
 
-[![Image](/images/blog/achat-programmatique-1.jpg)](/images/blog/achat-programmatique-1.jpg) Mode achat programmatique
+[![achat-programmatique-1.jpg](/images/blog/achat-programmatique-1.jpg) Mode achat programmatique
 ## **La programmatique,  comment cela marche ?**
 
 ### *Le déroulé d'une enchère programmatique (voir guide)*
@@ -29,7 +29,7 @@ Selon l'observatoire de l'epub dans sa dernière édition 2019, la programmatiqu
 
  	- 5/ Facturation
 
-[![Image](/images/blog/enchère-programmatique.jpg)](/images/blog/enchère-programmatique.jpg) Principes d'une transaction programmatique
+[![enchère-programmatique.jpg](/images/blog/enchère-programmatique.jpg) Principes d'une transaction programmatique
 
 Je vous recommande la lecture de ce guide de l'IAB 2019 sur le [guide_tracabilite_des_flux_programmatiques](https://www.mauricelargeron.com/wp-content/uploads/2019/06/guide_tracabilite_des_flux_programmatiques.pdf).
 ### ***Modes d'achat programmatique***
@@ -37,19 +37,19 @@ Je vous recommande la lecture de ce guide de l'IAB 2019 sur le [guide_tracabilit
 La programmatique se définie comme les Inventaires vendus via une mise en relation automatique entre acheteurs et vendeurs. Y sont inclus tous les modèles de ventes automatisés : garanti / non garanti, prix fixe/RTB, Private Market Places/ enchères ouvertes, self-served plateform/ Trading Desk. Les Réseaux Sociaux sont aussi considérés comme des ventes en Programmatique.
 
 La programmatique n'est pas uniquement un mode d'achat d'espace en temps réel, mais une possibilité variée de servir l'annonceur. Alors Google ads Display , est-ce une Dsp ? Oui et non, **oui** dans la mesure où le ciblage d'audiences devient autant granulaire, que cela passe par une **plateforme tech**, non vu que le reach de l'annonceur sur le marché n'est pas autant ouvert que nativement par les trading desk sur les Dsp du marché ainsi que les modes d'achats (premium deals ).  Le périmètre s'arrête aux serveurs de Google et au delà tout devient** anonymous** ! Parfois, on est d'ailleurs surpris par les conversions qui viennent de ces emplacements non identifiés.
-[![Image](/images/blog/display-programmatique.jpg)](/images/blog/display-programmatique.jpg)
+[![display-programmatique.jpg](/images/blog/display-programmatique.jpg)
 ## **Quelle perspective pour l'avenir de la programmatique ?**
 
 Selon audience.com, en 2019, 65% de l’argent dépensé en publicité dans les médias numériques seront commercialisés selon le mode programmatique. Les annonceurs dépenseront 84 milliards USD par programme l'an prochain, contre 70 milliards USD cette année, ce qui représente 62% des dépenses consacrées aux médias digitaux. Pour 2020, les annonceurs dépenseront 98 milliards USD en publicité programmatique, ce qui représente 68% des dépenses d'acquisition sur medias digitaux. Ces derniers sont constitués par l'achat de contenus en ligne, y compris la vidéo et les médias sociaux, à l'exclusion des liens sponsorisés.
 
-[![Image](/images/blog/programmatique-2020-2022.jpg)](/images/blog/programmatique-2020-2022.jpg) Perspective croissance de la programmatique
+[![programmatique-2020-2022.jpg](/images/blog/programmatique-2020-2022.jpg) Perspective croissance de la programmatique
 ## **La data, le cœur de tout cet écosystème**
 
 Les données les plus précieuses sont les données de première partie (**first party**), fournies explicitement par les consommateurs ou obtenues en suivant leur activité sur des sites Web. Il devient habituel d'utiliser aussi des données de seconde partie (**second party**), en formant des partenariats de partage de données, comme des marques et des détaillants en ligne, qui jouent sur la mutualisation et la complémentarité de la data.
 
 Les données tierces (**third party**) sont largement disponibles mais n'offrent pas d'avantages réellement concurrentiels aux annonceurs, car elles sont  utilisées par tout le monde et pour cibler les mêmes segments.
 
-[![Image](/images/blog/programmatique-ecosysteme.jpg)](/images/blog/programmatique-ecosysteme.jpg) La data : 3 segments de marché
+[![programmatique-ecosysteme.jpg](/images/blog/programmatique-ecosysteme.jpg) La data : 3 segments de marché
 
 Les annonceurs doivent continuellement vérifier et interroger les données de tiers pour s'assurer qu'ils ajoutent réellement une portée incrémentielle.
 
@@ -59,6 +59,6 @@ En combinant toutes ces données avec leurs propres systèmes de gestion de la r
 
 Les données et les **nouvelles technologies publicitaires ** ont explosées passant d'une centaine de plateformes au début de la décennie (2010) à plusieurs milliers *(quasiment 7000 à 2019 , voire ci-dessous selon https://chiefmartec.com/). *Ces technos permettent  aux marques de se passer de plus en plus du **suivi par  cookies** pour parler de plus en plus à **l'utilisateur**. Google analytics le fait transparaître de plus en plus dans son interface au détriment du "visiteur" attaché à une machine cookéifiée obsolète. Facebook se défend sur ce modèle du passé, de pouvoir cibler  depuis toujours , non pas des cookies anonymisés mais de réels individus. Rgpd est passé par là cependant, l'ardeur des vendeurs d'audiences tend à diminuer au fil des scandales, et les cpc du coup ont augmentés sérieusement. L'avenir passera sans doute encore une fois plus que jamais, par les plateformes des GAFAs. Elles misent tout sur la qualité de service et la **rétention de l'utilisateur logué**, seul mode de tracking puissant qui va enterrer les cookies dans un proche avenir.
 
-[![Image](/images/blog/martech_landscape_over_7_years.jpg)](/images/blog/martech_landscape_over_7_years.jpg) Selon https://chiefmartec.com/
+[![martech_landscape_over_7_years.jpg](/images/blog/martech_landscape_over_7_years.jpg) Selon https://chiefmartec.com/
 
 Tout cela pour servir de la pub ciblée, cette belle promesse millénaire !  Mais pas n'importe laquelle, pas n'importe quand, et pas pour n'importe qui, programmatique oblige !

@@ -97,7 +97,7 @@ La collecte les données *(extrait traduit depuis le site : *[*http://code.googl
 
 En général, le code de suivi Google Analytics (GATC) récupère les données page web comme suit
 
-[![Image](/images/blog/collecteDonnées1-246x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/07/collecteDonnées1.jpg) collecte donnees
+[![collecteDonnées1-246x300.jpg](/images/blog/collecteDonnées1-246x300.jpg) collecte donnees
 
 1.  Un navigateur demande une page Web qui contient le code de suivi.
 

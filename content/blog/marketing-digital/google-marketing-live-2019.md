@@ -14,14 +14,14 @@ Mobile, mobile, toujours plus mobile pourrait résumer ce qui s’est passé lor
 
 Vous savez, sur l’application Google incluse nativement sur Android, ou alors en téléchargement classique sur Ios et Google Play, et bientôt sur la recherche classique, ce flux d’informations « «discover »  selon les intérêts de la découverte de l’internaute des contenus regardés, ici une recette en vidéo sur YT, est embarquée une publicité contextuelle. Ce flux est aussi présent sur YouTube et Gmail. Donc sur les supports display de Google.
 
-[![Image](/images/blog/discovery-ads-google.jpg)](/images/blog/discovery-ads-google.jpg) Flux Discover ouvert aux "discovery ads" par google
+[![discovery-ads-google.jpg](/images/blog/discovery-ads-google.jpg) Flux Discover ouvert aux "discovery ads" par google
 ## ***Une galerie d’images sur la recherche Google !***
 
 Ce format est réellement innovant pour Google ! Mais il faut rattraper le temps perdu sur Facebook sur ce style de format.
 
 Comme les annonces Discovery, les annonces de cette Galerie apparaitront au format carrousel et permettront aux internautes de swiper les images. Contrairement aux annonces Discovery, elles se trouvent en haut de la page de résultats de recherche. Cela signifie que les annonceurs ont désormais la possibilité de non seulement montrer des annonces à des prospects au moment précis où ils recherchent des mots-clés liés à leurs produits ou services.
 
-[![Image](/images/blog/google-car-ad-carousel-ads.gif)](/images/blog/google-car-ad-carousel-ads.gif) Carousel ads sur le moteur de recheche
+[![google-car-ad-carousel-ads.gif](/images/blog/google-car-ad-carousel-ads.gif) Carousel ads sur le moteur de recheche
 
 En ce qui concerne les spécifications, les annonces de la Galerie permettent aux annonceurs de présenter:
 
@@ -37,7 +37,7 @@ En moyenne, les campagnes actuellement en  bêta exploitant les publicités de 
 
 Depuis l'interface Google Ads, la Bumper Machine est un nouvel outil pratique qui permet de transformer toute vidéo de moins de 90 secondes en une collection d'annonces exceptionnelles compatibles avec YouTube. Son lancement est prévu plus tard cette année, sans aucun coût supplémentaire pour les annonceurs. De plus, il sera livré avec une suite d’outils d’édition de base qui vous permettent de  produire un format prêt la diffusion.
 
-[![Image](/images/blog/bumper-machine-google-ads-youtube.jpg)](/images/blog/bumper-machine-google-ads-youtube.jpg) Outil "bumper machine" google ads youtube
+[![bumper-machine-google-ads-youtube.jpg](/images/blog/bumper-machine-google-ads-youtube.jpg) Outil "bumper machine" google ads youtube
 ## ***Le ciblage des audiences simplifié***
 
 Affinité et Intention se retrouve regroupé sous le terme d’audience personnalisée
@@ -48,19 +48,19 @@ De plus, un nouvel outil d'extension d'audience
 
 Il va permettre d’atteindre des clients similaires aux personnes de votre public personnalisé. Vous pouvez facilement déplacer le "curseur" vers la droite au sein de votre groupe cible pour élargir votre groupe cible avec un public similaire.
 
-[![Image](/images/blog/outil-extension-daudience.jpg)](/images/blog/outil-extension-daudience.jpg) Outil extension d'audience
+[![outil-extension-daudience.jpg](/images/blog/outil-extension-daudience.jpg) Outil extension d'audience
 ## ***Liens profonds depuis le moteur de recherche vers l’application mobile***
 
 Google déploie Deep Linking à la fin de cette année. Avec Deep Linking, vous envoyez aux utilisateurs qui recherchent votre produit et cliquent sur votre publicité Google vers l'application au lieu du site Web mobile. Le gros avantage est que l'utilisateur de l'application a souvent son profil en ordre et que tous les paramètres d'expédition et de paiement sont déjà en ordre. Cela crée une plus grande connexion avec ceux qui sont déjà entrés en contact avec votre marque et ont déjà téléchargé l'application.
 
-[![Image](/images/blog/Deep-linking.jpg)](/images/blog/Deep-linking.jpg) Deep-linking pour les applications mobiles
+[![Deep-linking.jpg](/images/blog/Deep-linking.jpg) Deep-linking pour les applications mobiles
 ## ***Achats direct  depuis Google Shopping et Annonce  catalogue (showcase ads)***
 
 ### ***Google shopping***
 
 L’annonce n’est pas tellement « neuve » vu que le déploiement de shopping action est déjà en cours. Mais c’est l'un des développements les plus marquants du commerce électronique pour Google Shopping. Il y a quelques mois, Instagram a lancé la possibilité de payer via l'application Instagram. Google se doit encore de suivre et rattraper son retard du pouvoir de l’image sur l’acte d’achat surtout  que les moyens de paiement sur les mobiles sont au point.
 
-[![Image](/images/blog/Google-Shopping-2019-2020-directement-depuis-le-lien.jpg)](/images/blog/Google-Shopping-2019-2020-directement-depuis-le-lien.jpg) Google-Shopping 2019 2020 directement depuis le lien
+[![Google-Shopping-2019-2020-directement-depuis-le-lien.jpg](/images/blog/Google-Shopping-2019-2020-directement-depuis-le-lien.jpg) Google-Shopping 2019 2020 directement depuis le lien
 ### ***Format catalogue***
 
 Google étendra les annonces de showcase » sera élargie  aux résultats de recherche de Google images, à  discovery  et à YouTube.
@@ -70,7 +70,7 @@ Google étendra les annonces de showcase » sera élargie  aux résultats de r
 Les campagnes locales offriront bientôt plus d'options. Par exemple, les annonceurs disposant de "Store Explore" et de "Pins sponsorisés" peuvent atteindre les personnes à proximité et sur Google Maps.
 
 Ces campagnes locales sont un type de campagne semi-automatique qui promeut un magasin à travers le réseau de  recherche, l'affichage display, les cartes et YouTube - auprès de tous les annonceurs. Le processus est quelque peu similaire à celui des annonces responsives. Une fois que vous avez indiqué les emplacements de vos magasins, des copies d’annonces, quelques images, un budget et une enchère, Google Ads optimise la diffusion des annonces sur ses carrefours d’audiences afin de maximiser le trafic du chaland vers le magasin.
-[![Image](/images/blog/googlelocalcampagne.gif)](/images/blog/googlelocalcampagne.gif)
+[![googlelocalcampagne.gif](/images/blog/googlelocalcampagne.gif)
 ## ***Enchères intelligentes plus précises***
 
  	- Objectifs de conversion au niveau de la campagne : Si vous avez une campagne dédiée à un objectif de conversion unique (augmentant le nombre de visites en magasin, par exemple), vous pouvez maintenant optimiser toutes vos enchères de la campagne pour cet objectif.
@@ -81,4 +81,4 @@ Ces campagnes locales sont un type de campagne semi-automatique qui promeut un m
 
 Pour conclure, 2019 est l’année de rattrapage pour Google avec cette volonté de pousser au maximum tous ses lieux de fortes audiences que sont YouTube, Gmail, discovery, Maps, et bien sur son Moteur de recherche sur un parcours d'achat où la mobilité est devenu le point d'entrée numéro 1. La preuve avec la possibilité pour l'application Google ads de faire directement des mobifications d'annonces depuis l'interface..
 
-[![Image](/images/blog/google-ads-apps.gif)](/images/blog/google-ads-apps.gif) Modifier une campagnes avec Google ads app
+[![google-ads-apps.gif](/images/blog/google-ads-apps.gif) Modifier une campagnes avec Google ads app

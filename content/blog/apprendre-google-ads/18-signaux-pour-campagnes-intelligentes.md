@@ -14,7 +14,7 @@ Après avoir vu deux articles sur les **campagnes intelligentes de Google Adword
 
 Selon la position  dans le parcours , il s’agit d’utiliser les outils Smart mis à  disposition dans adwords pour optimiser la conversion, les leviers d'action principaux : budget et Enchères.
 
-[![Image](/images/blog/smart-bidding_1-310x149.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/smart-bidding_1.png) Tout au long du parcours de conversion actionner des outils Smart
+[![smart-bidding_1-310x149.png](/images/blog/smart-bidding_1-310x149.png) Tout au long du parcours de conversion actionner des outils Smart
 
  	- Ouverture et Répartition des budgets
 
@@ -32,12 +32,12 @@ Selon la position  dans le parcours , il s’agit d’utiliser les outils Smart
 
  	- Matching de profil client
 
-[![Image](/images/blog/singaux-smart-bidding-310x130.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/singaux-smart-bidding.jpg) Signaux et Contexte Utilisateur
+[![singaux-smart-bidding-310x130.jpg](/images/blog/singaux-smart-bidding-310x130.jpg) Signaux et Contexte Utilisateur
 ## **Eléments contextuels (7)** 
 
 Chaque recherche d’un utilisateur est quelque part unique par son contexte.  Et la réponse à apporter par le moteur doit contextualisé avec un bon message. Sûrement le leitmotiv de tout bon marketeur. Certains de ces éléments échappent même au contrôle de l’annonceur ou du gestionnaire de campagne. (Os, Browser, appareil…)  . On peut rajouter en plus que Google gère aussi le cross devices mais également cross-browser pour simplifier le tout. On peut retrouver concrètement sous forme d’indicateurs d’ailleurs dans les rapports Adwords des conversions multi plates-formes.
 
-[![Image](/images/blog/CONTEXTE-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/CONTEXTE.jpg) signaux contextuels
+[![CONTEXTE-310x176.jpg](/images/blog/CONTEXTE-310x176.jpg) signaux contextuels
 
  	- Appareil
 
@@ -57,7 +57,7 @@ Chaque recherche d’un utilisateur est quelque part unique par son contexte.  
 
 Parler au bon profil, selon son âge, selon ses centres d’intérêt, selon le comportement du visiteur sur le site, selon le niveau relationnel par rapport à la marque (déjà client ?) Le Smart bidding rentre là aussi en jeu. À venir bientôt la prise en compte des avis sur les applications mobiles.
 
-[![Image](/images/blog/COMPORTEMENTAL-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/COMPORTEMENTAL.jpg) Signaux comportementaux
+[![COMPORTEMENTAL-310x179.jpg](/images/blog/COMPORTEMENTAL-310x179.jpg) Signaux comportementaux
 
  	- Démographie et centre d'intérêt
 
@@ -71,12 +71,12 @@ Parler au bon profil, selon son âge, selon ses centres d’intérêt, selon le 
 
 Là encore selon la rédaction l’annonce avec ou non des** paramètres dynamiques** comme les fonctions if, balise mots-clés, compte à rebours ajoute à la pertinence du message. L’annonce doit faire bonne impression ! :)
 
-[![Image](/images/blog/MESSAGE-310x49.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/MESSAGE.jpg) rédactionnel de l'annonce
+[![MESSAGE-310x49.jpg](/images/blog/MESSAGE-310x49.jpg) rédactionnel de l'annonce
 ## **Spécificités par canal d’acquisition (6)**
 
 Recherche, shopping, Display, Google souligne ici l’idée qu’au-delà du mot clé en lui-même, la concurrence, la performance des produits et services vendus pèsent aussi dans le volume des impressions des annonces ainsi que sur le niveau des  enchères. La concurrence à l’instant « T » , la saisonnalité, les attributs du catalogue produits impactent sur la réussite de la campagne.
 
-[![Image](/images/blog/SPECIFICITE-PAR-CANAL-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/SPECIFICITE-PAR-CANAL.jpg) spécificités par canal
+[![SPECIFICITE-PAR-CANAL-310x166.jpg](/images/blog/SPECIFICITE-PAR-CANAL-310x166.jpg) spécificités par canal
 
  	- Requête de recherche (Recherche)
 

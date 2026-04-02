@@ -116,7 +116,7 @@ Google suite  à une demande de ses clients, pivota  pour le cpc mais avec un 
 
 Pour la mise  à jour, j'ai récupéré cette infographie qui retrace les différents formats d'annonces édité par search engine land
 
-[![Image](/images/blog/histoires-des-annonces-google-ads.png)](/images/blog/histoires-des-annonces-google-ads.png)
+[![histoires-des-annonces-google-ads.png](/images/blog/histoires-des-annonces-google-ads.png)
 
  
 ## **D' autres façons de dérouler la chronologie**
@@ -127,7 +127,7 @@ Attention si vous êtes sur un device mobile, l'animation ci dessous  ne foncti
 
 Au cas où l'animation du paragraphe précédent ne fonctionne pas.
 
-[![Image](/images/blog/historique-et-histoire-adwords-502x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/historique-et-histoire-adwords.jpg) Ma Timeline Google Adwords  !
+[![historique-et-histoire-adwords-502x280.jpg](/images/blog/historique-et-histoire-adwords-502x280.jpg) Ma Timeline Google Adwords  !
 
  
 ### Merci [Colin Docherty de edge](https://edge45.co.uk/blog/google-adwords-evolution-timeline/) 45 pour cette illustration sur l'histoire des 20 ans de Google ads de 2019 à 2000 !

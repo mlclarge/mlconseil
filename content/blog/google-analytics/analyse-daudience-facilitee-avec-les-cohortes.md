@@ -25,7 +25,7 @@ Dans le sens démographique, les cohortes sont assimilées à des échantillonna
 
 C’est le domaine qui nous intéresse ici tout de même ! C’est l’américain Kotler, professeur en stratégie marketing, qui en parle le 1er dans les années 70 dans son best seller « marketing management » (14eme édition en 2012) . Il parle de cohortes générationnelles soit de groupes d’individus nés dans une même période temporelle .
 
-[![Image](/images/blog/definition-kotler-cohortes-310x124.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/definition-kotler-cohortes.jpg) Phillip kotler et ses cohortes générationnelles
+[![definition-kotler-cohortes-310x124.jpg](/images/blog/definition-kotler-cohortes-310x124.jpg) Phillip kotler et ses cohortes générationnelles
 ### ***WebAnalytics ? ***
 
 Peut-on parler de cohortes numériques ? Comment les  qualifier ? Je n’ai pas de définition en particulier. Que pourrait on dire ? Elles représentent  des  groupes de visiteurs constitués par un attribut commun (ici dans Google analytics , item de base  « date acquisition de la 1ere session »), à partir de laquelle  une segmentation plus fine  par  dimensions et statistiques  (rétention, transaction ..) permettra de  mieux cerner certains usages . L’objectif est  de mieux cibler les actions digitales à venir. Bon à voir dans le concret…
@@ -40,7 +40,7 @@ Bon, jusqu’à présent, en restant dans l’application GA, ce genre de cohort
 
 	- par  donnée d’entrée la date de "1ere session". Pour l’exemple ici  : segmentons , suite à une campagne seo, le canal éponyme.. Donc, constitution d’un groupe d’utilisateurs depuis le 1er mars  2015 au 7 mars comme date de 1ere session,  de provenance  du canal d’acquisition « seo ». Il est bien sur possible d’affiner cette cohorte par d’autres dimensions personnalisées et par d’autres périodes, mais pas très pratique ni lisible.
 
-[![Image](/images/blog/segment-cohortes-google-analytics-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/segment-cohortes-google-analytics.jpg) Segment cohortes "maison"
+[![segment-cohortes-google-analytics-310x219.jpg](/images/blog/segment-cohortes-google-analytics-310x219.jpg) Segment cohortes "maison"
 
 [https://www.google.com/analytics/web/template?uid=07QZW6hVQbaQP_37YsvaHQ](https://www.google.com/analytics/web/template?uid=07QZW6hVQbaQP_37YsvaHQ)
 
@@ -50,7 +50,7 @@ Bon, jusqu’à présent, en restant dans l’application GA, ce genre de cohort
 
 Dans GA, le reporting n’est cependant  pas très « parlant » pour lui donner du sens.  Seule  l’ exportation des données pour tableur ou autre  soft de business intelligence fait l’affaire .Sinon,  des solutions  proposent des compléments pratiques pour gagner du temps dans l’export de la data vers son traitement dans un tableur :  La solution du addons d’analystics edge + feuille de calcul fait bien l’affaire
 
-[![Image](/images/blog/analytics-edge-cohort-excel-sheet-310x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/analytics-edge-cohort-excel-sheet.jpg) Analytics edge addons & tab excel
+[![analytics-edge-cohort-excel-sheet-310x233.jpg](/images/blog/analytics-edge-cohort-excel-sheet-310x233.jpg) Analytics edge addons & tab excel
 ## **Cohort analysis en Bêta est arrivée , ouf !**
 
 ### ***Quelles sont les composantes d’une cohorte pour GA ?***
@@ -67,12 +67,12 @@ Cette cohorte se présente sous forme tabulaire .  L’intérêt majeur de ce n
 
 	- **Les colonnes indiquent la progression de chaque groupe par périod*e***
 
-[![Image](/images/blog/details-cohortes-227x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/details-cohortes.jpg) Ingrédients des cohortes
+[![details-cohortes-227x300.jpg](/images/blog/details-cohortes-227x300.jpg) Ingrédients des cohortes
 ### ***Que peut-on faire avec ce genre de reporting ?***
 
 SI  l’on souhaite allez plus loin dans le « qui fait quoi » de l’analyse, on peut par exemple s’amuser à segmenter une cohorte par canal d’acquisition, comme ici pour l’exemple, le levier « seo ». Les visiteurs de ce canal sont-ils plus  fidèles (analyse de la rétention)  ?
 
-[![Image](/images/blog/segmentation-cohortes-par-trafic-organique-276x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/segmentation-cohortes-par-trafic-organique.jpg) Segmentation cohortes par trafic organique
+[![segmentation-cohortes-par-trafic-organique-276x300.jpg](/images/blog/segmentation-cohortes-par-trafic-organique-276x300.jpg) Segmentation cohortes par trafic organique
 ## **Quelques ressources** 
 
 	- Complément WIkipedia : [http://en.wikipedia.org/wiki/Cohort_analysis](http://en.wikipedia.org/wiki/Cohort_analysis)

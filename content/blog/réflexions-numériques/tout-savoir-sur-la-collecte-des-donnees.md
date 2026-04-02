@@ -9,7 +9,7 @@ slug: "tout-savoir-sur-la-collecte-des-donnees"
 
 Moins de 60 minutes pour tout comprendre sur les **modes de tracking sur internet** . Cette web série d’Arte aborde le sujet de la **collecte des données  sur la toile** : sites web,  réseaux sociaux, Smartphones,  big data, objets connectés..Son format de 7 épisodes de 5 à 10 minutes chacun, originellement diffusés entre le 14 avril et le 15 juin 2015 est  depuis en accès libre sur **[Arte](http://www.arte.tv/fr)**. L’originalité du concept de cette série repose sur son interactivité, où le « spectateur » est acteur principal. Les mêmes modes de suivi de l'internaute qu’elle décrit pendant  ces sept rendez-vous *(pose de cookies, personnalisation de la présentation)* sont utilisés pour apporter une illustration concrète du propos. Retour sur ce programme insolite…
 
-[![Image](/images/blog/donotrack1.gif)](/images/blog/donotrack1.gif)
+[![donotrack1.gif](/images/blog/donotrack1.gif)
 
 ## **Origine de la cette série intéractive**
 
@@ -29,16 +29,16 @@ Adam Tanner (Harvard University’s Institute for Quantitative Social Science)
 Sara Watson (Harvard University)
 Ethan Zuckermann (MIT Media Lab)
 
-[![Image](/images/blog/log8-310x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/log8.jpg) Dhana Boyd - Microsoft
+[![log8-310x218.jpg](/images/blog/log8-310x218.jpg) Dhana Boyd - Microsoft
 ## **Le paradoxe volontaire de  cette web série**
 
 L’internaute qui choisit de regarder ce programme va être traqué lui aussi  tout au long de sa lecture ! Le déroulé de l’émission va être parsemé d’interactions qui vont permettre une certaine "empathie" entre le contenu et le lecteur  cookies, tracking email) . Par la force de la preuve *(le profilage  est  restitué au fur et à mesure du visionnage sur l'écran du web spectateur)* , le message de cette web série devient encore plus crédible ! Un exemple lors l’accès demandé par l’application illuminus sur mon compte facebook…
 
-[![Image](/images/blog/profilage-facebook-par-illuminus-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/profilage-facebook-par-illuminus.jpg) Profilage Facebook vu par Illuminus
+[![profilage-facebook-par-illuminus-310x215.jpg](/images/blog/profilage-facebook-par-illuminus-310x215.jpg) Profilage Facebook vu par Illuminus
 
 Des emails, propositions d’articles par thématiques, débats (pendant la série)  poussent et rendent la personnalisation et l’expérience sur la lecture des contenus plus pertinente. Nous approchons le concept d'une narration **transmédia.**
 
-[![Image](/images/blog/l-email-tracking-310x278.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/l-email-tracking.jpg) Intéractivité assumée par email de "donotrack"
+[![l-email-tracking-310x278.jpg](/images/blog/l-email-tracking-310x278.jpg) Intéractivité assumée par email de "donotrack"
 ## **Qu’apprend-on alors dans ce documentaire ?**
 
 ### ***Un peu de techno mais pas trop***
@@ -53,7 +53,7 @@ Historiquement, nous payons le fait de n’avoir pas voulu payer pour accéder a
 
 Véritable **4eme pouvoir**, les médias et la presse en ligne liés aux plateformes sociales  diffusent grâce à l’hyper-personnalisation une information centrée sur les centres d’intérêts de chacun. L’accès à l’information pertinente et objective n’a pas de raison d’être, les objectifs sont orientés sur la **captation la plus longue de l’internaute** afin de lui pousser des **publicités** susceptibles de lui plaire. Selon les centres d’intérêts des utilisateurs, l’actualité n’est pas orientée de la même manière.  Deux  exemples illustrent le propos : le conflit israélien ,avec une polarisation de l'information sur 2 ensembles *(Notons récemment une collusion de plus en plus marquée entre Fbook et certains  grands éditeurs  de presse)* et une campagne politique américaine.  Rien ne change finalement par rapport à la presse traditionnelle, sauf que la nouveauté ici, c’est que **le lecteur ne le sait pas** !
 
-[![Image](/images/blog/polarisation-de-linformation-310x137.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/polarisation-de-linformation.jpg) Polarisation de l'information vue par analyse du graphe social
+[![polarisation-de-linformation-310x137.jpg](/images/blog/polarisation-de-linformation-310x137.jpg) Polarisation de l'information vue par analyse du graphe social
 ### ***Les profils à l’épicentre des choix algorithmiques***
 
 Il ne faudra que **250 likes** pour tirer la personnalité d’un profil social. Les filtres des algos servent à mesurer peuvent servir à mesure le risque financier encouru par les assurances et les banques. L’analyse d’images peut aussi influencer le choix d’une protection sociale *(cas d’une salariée IBM en congés maladie pour  dépression, « dénoncée »  par une attitude considérée comme « non pathologique » à la vue de ses photos Facebook)*.
@@ -70,7 +70,7 @@ Cet épisode aborde le délicat dilemme du téléphone mobile. Doit-on le bannir
 
 Avons-nous le **choix réellement de la déconnection** ? C’est ce que propose ce dernier chapitre. Que veut dire aujourd’hui **vie privée **? La multitude Oscar Mongenstern ferme le bal en **1972** en donnant un avantage et un inconvénient de l’informatique: son pouvoir d’allonger la vie d’un côté,  et de l’autre, son intrusion dans nos vies privées. Que sont devenues nos utopies où un monde hyper connecté pourrait résoudre tous les problèmes sur terre souligne** Dhana Boyd** ?
 
-[![Image](/images/blog/avantages-et-inconvenients-morgenstern-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/avantages-et-inconvenients-morgenstern.jpg) Informatique Avantages/Inconvenients
+[![avantages-et-inconvenients-morgenstern-310x211.jpg](/images/blog/avantages-et-inconvenients-morgenstern-310x211.jpg) Informatique Avantages/Inconvenients
 ## **Un succès d'audience pour "DoNotTrack"**
 
 Je cite : *« La série documentaire interactive Do Not Track, lancée le 14 avril dernier (7 épisodes dont le dernier a été mis en ligne hier ) a déjà réalisé un succès d’audience avec 3,5 millions de pages vues et 700 000 visites dont 137 000 en France, 255 000 en Allemagne, 145 000 aux États-Unis et Canada, 125 000 à l’international. ». *Elle a été récompensée par 2 prix .

@@ -14,7 +14,7 @@ Quel marketeur n’a pas rêvé un jour de recevoir,   suite à la visite de s
 
 Oui, parce que, vous vous doutez bien qu’un visiteur, qui ne fait que « passer » sur un site web, n’a pas l’intention de se faire démarcher à chaque page web qu’il visite non ? Donc j’appelle cela des leads froids, qui ne demandent qu’une seule chose, d’être réchauffé.
 
-[![Image](/images/blog/workflow-502x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/workflow.jpg) workflow web marketing
+[![workflow-502x196.jpg](/images/blog/workflow-502x196.jpg) workflow web marketing
 
 Google analytics donne déjà pas mal d'indicateurs mais d'une manière web centric bien que de plus en plus orienté vers l'utilisateur, mais toujours d'une manière anonymisée. Les créateurs de la solution Leadfeeder nous font une démo. intéressante dans cette vidéo :
 
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=euEoMZW5V9U&t
 
 L’identification d’une l’organisation, de  la société qui se cache derrière une visite est effectuée par l’intermédiaire de son « fingerprinting » soit via le nom du réseau emprunté couplé à l’adresse IP et ensuite matché avec d’autres bases de données comme ici, avec leadfeeder, le réseau LinkedIn. La source de données ici, est fournie par Google analytics, par directement par leadfeeder, cette dernière effectue ensuite la qualification à partir des données d’audience récoltées par GA.
 
-[![Image](/images/blog/leedfeeder-and-google-analytics-502x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/leedfeeder-and-google-analytics.jpg) Interface reporting de LeadFeeder
+[![leedfeeder-and-google-analytics-502x287.jpg](/images/blog/leedfeeder-and-google-analytics-502x287.jpg) Interface reporting de LeadFeeder
 ## **Que contient réellement ce lead ?**
 
 Une notification est ensuite envoyée par messagerie avec  détails sur le lead généré soit :
@@ -36,11 +36,11 @@ Une notification est ensuite envoyée par messagerie avec  détails sur le lead
 
  	- Url et nombre de pages vues
 
-[![Image](/images/blog/acquisition-de-lead-502x252.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/acquisition-de-lead.jpg) Acquisition de lead
+[![acquisition-de-lead-502x252.jpg](/images/blog/acquisition-de-lead-502x252.jpg) Acquisition de lead
 ## **Comment valoriser  cette acquisition de leads ?**
 
 Le plus de cette application lead feeder est de fournir des connecteurs intégrés reliés à des plateformes d’emailing ou de CRM qui vont pouvoir qualifier et enrichir  plus finement cette donnée en donnant un contexte supplémentaire par le système d’information interne de l’entreprise.
 
-[![Image](/images/blog/connecteur-vers-crm-pour-qualification-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/connecteur-vers-crm-pour-qualification.jpg) Connecteur vers crm pour qualification
+[![connecteur-vers-crm-pour-qualification-421x300.jpg](/images/blog/connecteur-vers-crm-pour-qualification-421x300.jpg) Connecteur vers crm pour qualification
 
 Pour résumer, d’une simple visite, ce processus d’enrichissement augmenté par l’interconnexion de bases de données peut s’avérer une source réelle d’acquisition sur laquelle des scénarios de qualification pourront s’enclencher afin de donner un potentiel de vente concret à l’équipe commerciale. Alors vive le **marketing** sur internet !

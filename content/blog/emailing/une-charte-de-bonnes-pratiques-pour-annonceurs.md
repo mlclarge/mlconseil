@@ -36,7 +36,7 @@ Dans cet ebook, vous retrouverez  les articles  de cette charte à savoir
 
  	- Mais aussi un descriptif des actions du CPA : régulation des adhérents 1 à 2 fois par mois par commission paritaire
 
-[![Image](/images/blog/cpa-235x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/cpa.jpg) Action du CPA
+[![cpa-235x300.jpg](/images/blog/cpa-235x300.jpg) Action du CPA
 ## **Un annuaire de 58 sociétés chartées **
 
 Intérêt aussi de ce document, c’est de pouvoir avoir une 1ère idée sur la qualité de la base d’emails des prestataires. Sont présentés chacun des signataires avec le descriptif des bases emails qu’ils utilisent constitué de 4 critères :
@@ -49,6 +49,6 @@ Intérêt aussi de ce document, c’est de pouvoir avoir une 1ère idée sur la 
 
  	- Thématiques : de l’alimentaire  aux ventes privées !
 
-[![Image](/images/blog/fiche-adhérents-cpa-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/fiche-adhérents-cpa.jpg) Exemple de fiche d'informations sur 1 base emails par adhérent signataire
+[![fiche-adhérents-cpa-310x219.jpg](/images/blog/fiche-adhérents-cpa-310x219.jpg) Exemple de fiche d'informations sur 1 base emails par adhérent signataire
 
  	- **Charte du cpa disponible ici : [http://www.cpa-france.org/CPA_BookDesSignaitesCharteEmail_Edition2017.pdf](http://www.cpa-france.org/CPA_BookDesSignaitesCharteEmail_Edition2017.pdf)**

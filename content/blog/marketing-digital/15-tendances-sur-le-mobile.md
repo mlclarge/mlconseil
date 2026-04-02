@@ -11,7 +11,7 @@ image: "/images/blog/15chiffresurlemobile.jpg"
 ## **15 chiffres importants sur le marché mobile**
 
 Les innovations vont bon train, avec  l'image d'intro. de cet article, le smartphone Galaxy "X" de chez Samsung pliable révélé lors d'une conférence développeur voilà 3 semaines en Californie, un marché prometteur où d'autres intégrateurs sont déjà aussi sur les rangs (Oppo,, Huawei).  Selon a dernière étude de **Sensefuel** le mobile occupe une place prépondérante : 67,42% des recherches se font sur mobile. Ce chiffre atteint 74% en Angleterre et 79% en Espagne. La consultation sur mobile représente plus de 55% de la prise de commande ! Dans l'étude webmarketing  du parcours client, et notamment grâce à la mesure cross device de plus en plus poussée que vous propose  Google Analytics depuis peu (voir ici ), l'importance des smartphones et de l'usage  qui en est fait tous les jours est indiscutable  ! Vincent de [Pixipia](https://www.pixypia.com/) m'a proposé à ce sujet les 15 principales tendances du [mobile](https://www.mauricelargeron.com/progressives-web-app-vont-elles-annoncer-le-declin-des-apps-stores/) en cette fin 2018.
-[![Image](/images/blog/mobile-et-parcours-client-avec-google-502x138.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/mobile-et-parcours-client-avec-google.jpg)
+[![mobile-et-parcours-client-avec-google-502x138.jpg](/images/blog/mobile-et-parcours-client-avec-google-502x138.jpg)
 
  	- 
 ### Plus de 50% des consommateurs mobiles disposent d’un smartphone
@@ -33,7 +33,7 @@ En 2017, le nombre d’internautes US qui se servaient exclusivement du desktop 
 
 Saviez-vous à combien sont estimées les dépenses effectuées sur les applications mobiles en 2017 ? Elles sont de 86 milliards de dollars selon blog.econocom.com. D’après le même site, chaque utilisateur mobile se sert au moins de **40 applications.** Et selon servicesmobiles.fr, 197 milliards d’applications ont été téléchargées en 2017.
 
-[![Image](/images/blog/application-utilisées-mensuellement-selon-appannie-353x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/application-utilisées-mensuellement-selon-appannie.png) nombre applications mobiles installées en moyenne
+[![application-utilisées-mensuellement-selon-appannie-353x300.png](/images/blog/application-utilisées-mensuellement-selon-appannie-353x300.png) nombre applications mobiles installées en moyenne
 
  	- 
 ### **Plus de 50% des besoins en industries requièrent l’usage des appareils mobiles**
@@ -87,7 +87,7 @@ L’Asie pacifique est le continent qui, à lui seul, compte actuellement 1 mill
 
 Selon deviceatlas.com, la première, c’est celle qui est liée aux services de reconnaissance vocale. La deuxième, ce sont les applications de réalité virtuelle et la troisième concerne la réalité augmentée.
 
-[![Image](/images/blog/vr-and-mobile-404x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/vr-and-mobile.png) vr and mobile
+[![vr-and-mobile-404x300.png](/images/blog/vr-and-mobile-404x300.png) vr and mobile
 
 En définitive, à l’horizon 2021, vous savez désormais à quoi vous en tenir sur le marché mobile !  Gardons un dernier chiffre en tête : **500 000 000 de chinois** ont payé directement avec leur mobile en 2017 ! Nous en sommes encore loin, pour témoin, ce chiffre de 1% d'un grand retailer Français (Groupe Casino) sur le taux d'usage du mobile comme moyen de paiement en France.
 

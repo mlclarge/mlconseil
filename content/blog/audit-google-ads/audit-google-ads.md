@@ -98,7 +98,7 @@ Loin d’être exhaustif, tant les plateformes regorgent aujourd’hui.
 
 Une des dernières arrivées sur le marché, Français, merci. A destination d’agences ou alors d’annonceurs, l’accès est gratuit et permet en quelques minutes de faire un scan qui agrègent les données d’un compte.
 
-[![Image](/images/blog/seiso-io-476x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/seiso-io.jpg) Seiso io Outil audit Gogoel ads
+[![seiso-io-476x300.jpg](/images/blog/seiso-io-476x300.jpg) Seiso io Outil audit Gogoel ads
 
 Voici les principaux rapports restitués appréciés :
 
@@ -132,7 +132,7 @@ On regrettera
 
 Vieil outil que ce Tool de l’agence Wordstream. Un de ses forces et son indice « Benchmark »
 
-[![Image](/images/blog/wordstream-grader-487x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/wordstream-grader.jpg) Wordstream grader : analyse du QS des mots clés
+[![wordstream-grader-487x300.jpg](/images/blog/wordstream-grader-487x300.jpg) Wordstream grader : analyse du QS des mots clés
 
 Points forts
 
@@ -158,7 +158,7 @@ On regrettera
 
 Très léger à la mise en place, il  donne un petit état des lieux de d'un cempte
 
-[![Image](/images/blog/performance-par-réseau-502x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/performance-par-réseau.jpg) Adwords Robot : Répartition/segmentation des performances
+[![performance-par-réseau-502x205.jpg](/images/blog/performance-par-réseau-502x205.jpg) Adwords Robot : Répartition/segmentation des performances
 
  	- Une vision par tunnel de vente
 
@@ -184,10 +184,10 @@ On regrettera
 
 Est un outil gratuit éditer par une agence sea spécialisé dans les plateformes de gestion de campagnes qui automatisent de bout en bout la création, la gestion et l’optimisation des campagnes.
 
-[![Image](/images/blog/orbiter-smarter-commerce-350x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/orbiter-smarter-commerce.jpg) Orbiter : google shopping et campagne search
+[![orbiter-smarter-commerce-350x300.jpg](/images/blog/orbiter-smarter-commerce-350x300.jpg) Orbiter : google shopping et campagne search
 
 Cet outil de diagnostique est spécialisé sur les campagnes google shopping. Il donne néanmoins, des informations de performances sur les campagnes classique. C’est un parti pris de restituer les données sous forme de modèle treemap, heatmap
 
-[![Image](/images/blog/audit-orbiter-502x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/12/audit-orbiter.jpg) Orbiter : évolution des conversions sur 1 an
+[![audit-orbiter-502x248.jpg](/images/blog/audit-orbiter-502x248.jpg) Orbiter : évolution des conversions sur 1 an
 
 Pour conclure, ces outils peuvent parfois vous faire gagner du temps sur l’analyse de comptes. Sur la manipulation des entités de campagnes à agréger, sur le calcul des ratios d’optimisation. Merci aux agences dans la création de ces Tools. Cependant, ils ne décident pas à votre place. Ils ne remplacent pas l’analyse humaine. Seul le gestionnaire de campagne pourra transcrire les objectifs stratégiques de l’annonceur et son contexte dans la plateforme google ads.

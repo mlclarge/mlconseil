@@ -14,15 +14,15 @@ La **création des audiences** sur la [plateforme google ads](https://support.go
 
 Il suffit de se rendre depuis le menu de gauche, audiences, le crayon bleu, ciblage par exemple, et ensuite d’aller chercher la tabulation « parcourir », et aller sur « types d’audience combinés » puis d’aller sur « nouvelle audience combinée ». Pour en savoir plus sur les audiences en général , voire[ ici](https://www.mauricelargeron.com/guide-des-audiences-google-ads/)
 
-[![Image](/images/blog/etape-1-audience-google-391x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/etape-1-audience-google.jpg) etape 1 audience google
+[![etape-1-audience-google-391x300.jpg](/images/blog/etape-1-audience-google-391x300.jpg) etape 1 audience google
 
 La combinaison d’[audience](https://www.mauricelargeron.com/disparition-des-audiences-similaires-google-ads/) en soit n’est pas nouvelle, elle existe déjà sur les listes de remarketing sur le display, mais concerne pas les audiences sur le marché, ni les audiences démographiques.  Or ici, c’est bien de cette catégorie d’audience sur le marché ET d’une ou plusieurs caractéristiques de cette audience, ou cumulée d’une autre qui constitue la puissance de cette fonctionnalité.
 
-[![Image](/images/blog/etape-2-audiences-502x288.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/etape-2-audiences.jpg) etape 2 construction audiences
+[![etape-2-audiences-502x288.jpg](/images/blog/etape-2-audiences-502x288.jpg) etape 2 construction audiences
 
 Je rappelle ici l’idée des audiences sur le marché. La catégorie d'audience sur le marché réunie les prospects intéressés par des produits ou services proposés par l'annonceur. Google relève les mots clés tapés par les visiteurs sur ces plateformes (de Gmail à YouTube), créé des listes de ces cookies/utilisateurs en les taguant par thématiques métiers, et voilà !
 
-[![Image](/images/blog/audiences-combinée-etape-trois-275x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/audiences-combinée-etape-trois.jpg) Audiences combinée etape trois
+[![audiences-combinée-etape-trois-275x300.jpg](/images/blog/audiences-combinée-etape-trois-275x300.jpg) Audiences combinée etape trois
 
 L’objectif est d’exposer le message publicitaire de l’annonceur qu’à une frange particulière de visiteurs. Avec un ciblage plus granulaire.  Pour le gestionnaire de campagne de Facebook, ce n’est pas vraiment une nouveauté, mais pour les marketeurs google ads, un grand pas est franchi.
 ## **La mort du Sacrosaint mot clé ?**
@@ -37,7 +37,7 @@ Je n’ai pas assez de data et de recul pour indiquer quoique ce soit de représ
 
 Steven Johns, le lanceur d’alerte sur les réseaux, a partagé quelques chiffres de campagnes
 
-[![Image](/images/blog/performances-audiences-google-ads-502x50.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/performances-audiences-google-ads.png) Performances audiences google ads
+[![performances-audiences-google-ads-502x50.png](/images/blog/performances-audiences-google-ads-502x50.png) Performances audiences google ads
 
  	- +6% de taux de conversion sur un ciblage unique « audience sur le marché »
 

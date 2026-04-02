@@ -18,11 +18,11 @@ Toute organisation en interne  ou en externe  est concernée par ce règlement q
 
 Le processus aussi simple que celui décrit dans cette illustration du livre blanc de Kaméleoon, est le principal à retenir dans le cas d’un site web, mais la RGPD va bien au-delà que le cas du visiteur ou client d’un site internet, il concerne l’ensemble des individus relié à son contexte digital, au travail et dans sa vie privée.
 
-[![Image](/images/blog/schema-rgpd-2018-297x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/schema-rgpd-2018.jpg) Source : illustration de l'ebook Kaméléoon
+[![schema-rgpd-2018-297x300.jpg](/images/blog/schema-rgpd-2018-297x300.jpg) Source : illustration de l'ebook Kaméléoon
 
 Un site e-commerce, une organisation faisant une campagne de prospection par e-mailing par exemple, ou procédant à une collecte de données suite à l'ouverture d'un compte où à l'inscription d'une newsletter, la loi s'applique. Sarbacane Software, société spécialisée dans les solutions d'e-mailing a créé une infographie simple qui résume bien la situation.
 
-[![Image](/images/blog/infographie-gdpr-rgpd-2018-49x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/infographie-gdpr-rgpd-2018.jpg)
+[![infographie-gdpr-rgpd-2018-49x300.jpg](/images/blog/infographie-gdpr-rgpd-2018-49x300.jpg)
 
 Infographie de sarbacane : [http://blog.sarbacane.com/2017/12/21/rgpd-emailing/      ](http://blog.sarbacane.com/2017/12/21/rgpd-emailing/%09)
 
@@ -66,7 +66,7 @@ Destinée plutôt aux grandes entreprises,  je vous recommande vivement la lect
 
  	- Des conseils sur les **outils juridiques** de compliance comme le registre des activités, étude d’impact et le DPO, de confiance tels que les codes de conduite, les certifications et les règles d’entreprises contraignantes
 
-[![Image](/images/blog/cigref-gouvernance-et-sécurite-2018-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/cigref-gouvernance-et-sécurite-2018.jpg) cigref gouvernance et sécurite 2018
+[![cigref-gouvernance-et-sécurite-2018-310x206.jpg](/images/blog/cigref-gouvernance-et-sécurite-2018-310x206.jpg) cigref gouvernance et sécurite 2018
 
 **Document du cigref** : [http://www.cigref.fr/entreprise-cle-application-reussie-gdpr-livrable-cigref-afai-tech-in-france](http://www.cigref.fr/entreprise-cle-application-reussie-gdpr-livrable-cigref-afai-tech-in-france)
 
@@ -74,7 +74,7 @@ Destinée plutôt aux grandes entreprises,  je vous recommande vivement la lect
 
 **REVER** (solution technique) et **Actecil** (solution métier) ont mutualisé leurs compétences et proposent une solution logicielle  qui permet à chacun des collaborateurs de l'entreprise (CDO, DPO) de pouvoir collaborer à la mise en place de la conformité à cette règlementation.
 
-[![Image](/images/blog/solution-logicielle-rgpd-gdpr-2018-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/solution-logicielle-rgpd-gdpr-2018.jpg) solution logicielle rgpd gdpr 2018
+[![solution-logicielle-rgpd-gdpr-2018-310x153.jpg](/images/blog/solution-logicielle-rgpd-gdpr-2018-310x153.jpg) solution logicielle rgpd gdpr 2018
 
 Elle permet :
 
@@ -86,7 +86,7 @@ Elle permet :
 
 En Anglais, mais très simple à comprendre et en plus amusant avec des illustrations emojiques !  Le plus , c'est les mesures à prendre selon votre niveau de conformité.
 
-[![Image](/images/blog/quiz-rgpd-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/quiz-rgpd.jpg) Quiz RGDP Mailjet
+[![quiz-rgpd-310x223.jpg](/images/blog/quiz-rgpd-310x223.jpg) Quiz RGDP Mailjet
 
 Passer le Quiz ici : [https://www.ultimategdprquiz.com/](https://www.ultimategdprquiz.com/)
 ## Rgdp/Gdpr , ITP et monde publicitaire même combat ?

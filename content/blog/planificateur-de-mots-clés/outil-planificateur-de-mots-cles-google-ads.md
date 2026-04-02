@@ -16,34 +16,34 @@ Sans parler forcément de nouveautés, certaines possibilités ont été amélio
 
  	- **Plus de mots clés de base** : saisissez jusqu'à 10 mots clés de base lorsque vous recherchez de nouvelles idées : autrefois limité à 3, donc plus de termes pour poser un potentiel de requête. La fonctionnalité à partir d'une url me semble plus performante qu'auparavant avec plus volume.
 
-[![Image](/images/blog/recherche-de-mots-clés-502x67.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/04/recherche-de-mots-clés.jpg) Un éventail plus large sur la base de recherche de mots clés
+[![recherche-de-mots-clés-502x67.jpg](/images/blog/recherche-de-mots-clés-502x67.jpg) Un éventail plus large sur la base de recherche de mots clés
 
  	- **Tendances au niveau des mots clés** : consultez ou téléchargez les tendances concernant des idées de mots clés individuels, là je ne vois pas trop de changement, car le téléchargement n'est pas au mot clé, mais à la liste dans son ensemble.
 
-[![Image](/images/blog/telecharger-les-idées-de-mots-clés-google.jpg)](/images/blog/telecharger-les-idées-de-mots-clés-google.jpg) Telecharger les idées de mots clés google
+[![telecharger-les-idées-de-mots-clés-google.jpg](/images/blog/telecharger-les-idées-de-mots-clés-google.jpg) Telecharger les idées de mots clés google
 
  	- **Idées regroupées** : consultez des mots clés par thème ou ajoutez l'ensemble sous forme de groupe d'annonces, c'est la fonctionnalité pratique de regroupement qu'il faut bien sûr triée, car l'algo n'est pas encore très intelligent parfois ! La liste des groupes d'annonces est tronquée (voir 4  ci-dessous) on peut le regretter, pourquoi ? Pourquoi ?
 
-[![Image](/images/blog/pas-de-listes-d-mots-cles.jpg)](/images/blog/pas-de-listes-d-mots-cles.jpg) Construction de groupes de mots clés
+[![pas-de-listes-d-mots-cles.jpg](/images/blog/pas-de-listes-d-mots-cles.jpg) Construction de groupes de mots clés
 
 En tout cas, il faut aller sur "ajouter des mots clés" car par ailleurs, cela ne marche pas, et notamment "ajouter au plan" (point 2).
 
-[![Image](/images/blog/idees-regroupees-google-ads.jpg)](/images/blog/idees-regroupees-google-ads.jpg) Idees regroupees google ads
+[![idees-regroupees-google-ads.jpg](/images/blog/idees-regroupees-google-ads.jpg) Idees regroupees google ads
 
 C'est le passage obliger depuis "recherche de mots clés". Je ne comprends pas en revanche ce choix binaire au démarrage, entre "recherche de mots clés" et "obtenir le volume de recherche", cela peut créer de la confusion, car au final, cela amène sur la même interface, mais pas au même endroit, l'UX est à revoir .
 
-[![Image](/images/blog/double-entree-de-l-outil-de-mots-cles-google.jpg)](/images/blog/double-entree-de-l-outil-de-mots-cles-google.jpg) Double entree de l outil de mots cles google, bob bof
+[![double-entree-de-l-outil-de-mots-cles-google.jpg](/images/blog/double-entree-de-l-outil-de-mots-cles-google.jpg) Double entree de l outil de mots cles google, bob bof
 
  	- **Enregistrement d'une idée dans une campagne existante** : ajoutez une idée de mot clé à une campagne que vous avez déjà créée. Enfin ! Elle s'est fait attendre celle - ci ! Pratique quand on souhaite enrichir une campagne existante, cela évite des copier-coller inutile.
 
-[![Image](/images/blog/creation-dun-groupe-annonces-a-partir-du-menu-mot-cles.jpg)](/images/blog/creation-dun-groupe-annonces-a-partir-du-menu-mot-cles.jpg) Creation dun groupe annonces a partir du menu mot cles
+[![creation-dun-groupe-annonces-a-partir-du-menu-mot-cles.jpg](/images/blog/creation-dun-groupe-annonces-a-partir-du-menu-mot-cles.jpg) Creation dun groupe annonces a partir du menu mot cles
 
  	- **Budget suggéré** : découvrez une suggestion de budget quotidien en fonction de l'enchère au CPC max. et des coûts prévus , bon, à prendre avec des pincettes, parfois juste, parfois complètement à côté de la plaque !
 
-[![Image](/images/blog/plan-vue-densemble-planificateur-de-mots-clés.jpg)](/images/blog/plan-vue-densemble-planificateur-de-mots-clés.jpg) Plan vue d'ensemble planificateur de mots clés
+[![plan-vue-densemble-planificateur-de-mots-clés.jpg](/images/blog/plan-vue-densemble-planificateur-de-mots-clés.jpg) Plan vue d'ensemble planificateur de mots clés
 
  	- **Colonne sur la valeur des concurrents** : obtenez un classement précis de vos concurrents pour différentes idées de mots clés : n'exagérons pas non, plus, je n’ai pas vu de "concurrents" en dimension, mais des indicateurs. mots clés et positionnement naturels Google. La colonne "Concurrence (valeur indexée)" indique le degré de compétitivité d'un emplacement d'annonce pour un mot clé donné, compte tenu de vos paramètres de ciblage sur le Réseau de Recherche et à vos paramètres de ciblage géographique. Le niveau de compétitivité, exprimé par une valeur entre 0 et 100, correspond au nombre d'emplacements d'annonce remplis divisé par le nombre total d'emplacements d'annonce disponibles. Si le volume de données disponibles est insuffisant, un tiret (-) s'affiche dans la colonne.
 
-[![Image](/images/blog/mots-clés-et-positionnement-naturels-google.jpg)](/images/blog/mots-clés-et-positionnement-naturels-google.jpg) Mots clés et positionnement naturels google
+[![mots-clés-et-positionnement-naturels-google.jpg](/images/blog/mots-clés-et-positionnement-naturels-google.jpg) Mots clés et positionnement naturels google
 
 Au final, reste à récupérer de l'ancien outil de planification de mots clés, la possibilité d'établir un budget personnalisé mais attention google ads annonce que cette ancienne version ne sera bientôt plus disponible, avec ceux qui bossent toujours avec l'ancienne, il est temps de changer ses habitudes !

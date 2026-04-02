@@ -12,7 +12,7 @@ Google enfonce  encore le clou du machine Learning en cette fin d'été avec de
 ## Les RSA Responsive Search Ads 
 
 Lancées en version bêta depuis quelques mois sur certains comptes et les RSA permettent de démultiplier les titres et les descriptions et laisser choisir l'algorithme de Google pour présenter le message d'une part de manière responsive mais également de manière adapté dans le contenu selon le type de requête de l'utilisateur sur le moteur de recherche. Il est toujours possible d'indiquer un ordre dans la combinaison du message.
-[![Image](/images/blog/annonces-responsives-interface-398x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/annonces-responsives-interface.jpg) interface Annonces responsives
+[![annonces-responsives-interface-398x300.jpg](/images/blog/annonces-responsives-interface-398x300.jpg) interface Annonces responsives
 
 Dixit aide de Google :
 
@@ -33,4 +33,4 @@ Dixit aide de Google :
 Cet indicateur apparaîtra dans l'interface de création des RSA ou en septembre. Dans un premier temps l'indicateur sera disponible dans les rapports tabulaires de la campagne et ensuite un petit peu plus tard dans l'interface même de création de l'annonce.
 
 Google propose toujours la création d'une annonce traditionnelle l'annonce responsive venant compléter l'ensemble des annonces du groupe d'annonce. Pour rappel 3 annonces au minimum son conseiller par groupe d'annonces.
-[![Image](/images/blog/ads-strengh-pour-rsa-335x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/ads-strengh-pour-rsa.jpg) Ads strengh pour rsa
+[![ads-strengh-pour-rsa-335x300.jpg](/images/blog/ads-strengh-pour-rsa-335x300.jpg) Ads strengh pour rsa

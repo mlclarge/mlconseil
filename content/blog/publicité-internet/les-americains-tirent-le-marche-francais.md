@@ -16,20 +16,20 @@ Les derniers chiffres de mai révélés par IREP, FRANCE PUB et KANTAR MEDIA ne 
 
 Je cite le rapport : *« Le marché publicitaire, celui des[ liens sponsorisés](https://www.mauricelargeron.com/faire-une-publicite-audio-sur-google/),  compte 31 050 annonceurs sur l’ensemble des médias soit une légère progression a +1%. La presse reste le média traditionnel qui attire le plus d’annonceurs (45%) mais c’est surtout sur les leviers digitaux qu’ils sont plus nombreux puisque le display et le search, ensemble, captent plus de la moitié de ces intervenants (59%). »*
 
-[![Image](/images/blog/hausse-492x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/hausse.jpg)
+[![hausse-492x300.jpg](/images/blog/hausse-492x300.jpg)
 ## **Une fin de semestre uniquement positive pour les médias en ligne !**
 
 Focus cette fois ci  sur ce mois de mai 2017 qui voit seulement du « + » du côté encore des investissements sur la recherche (Google) et la publicité de bannières (display, encore Google !). On comprend donc facilement ces plus de 20% d’augmentation de résultat de Google J .
 
-[![Image](/images/blog/recherche-et-display-357x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/recherche-et-display.jpg) recherche et display tirent le marché
+[![recherche-et-display-357x300.jpg](/images/blog/recherche-et-display-357x300.jpg) recherche et display tirent le marché
 ## **Les Audiences  sur internet, point de mire de ces investissements médias en ligne  **
 
 Ce dernier mois de juin 2017 ne faillit pas à la règle avec sur le Podium les 3 géants du GAFAM : Google, Microsoft et Facebook. Voici un extrait du classement par Groupe (marques comprises dedans) de Médiamétrie.
 
-[![Image](/images/blog/audience-classement-mediametrie-2017-502x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/audience-classement-mediametrie-2017.jpg)
+[![audience-classement-mediametrie-2017-502x202.jpg](/images/blog/audience-classement-mediametrie-2017-502x202.jpg)
 
 Ensuite si on affine par marque (nom de domaine), on remarquera en 5ème position Orange, seul Drapeau français du Top 10.
 
-[![Image](/images/blog/marques-sur-internet-485x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/marques-sur-internet.jpg)
+[![marques-sur-internet-485x300.jpg](/images/blog/marques-sur-internet-485x300.jpg)
 
 L’industrie Publicitaire Américaine tire incontestablement le marché des investissements pub. dans notre pays, les récentes alliances comme gravity des grands médias Français semblent cristalliser cette prise de conscience.

@@ -13,13 +13,13 @@ Depuis 2012,** la publicité vidéo** Youtube est incluse dans la plateforme** 
 
 Deux types de** formats** pour les annonces ‘true view’ :  in-Stream (annonce située en surcouche de la vidéo visionnée, peut être skipable) et in-display située sur la  colonne de  droite lors d’une recherche dans Youtube.
 
-[![Image](/images/blog/c-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/c.jpg) Formats Vidéos True View
+[![c-310x139.jpg](/images/blog/c-310x139.jpg) Formats Vidéos True View
 
 ***Structure des campagnes vidéo***
 
 Les formats sont distincts par groupes d’annonces  désormais et par ciblage (enchères, critères) ce qui va démultiplier les groupes d’annonces lors de la migration, c'est ce qu'il faut retenir ....
 
-[![Image](/images/blog/b-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/b.jpg) Structure campagne vidéos adwords
+[![b-310x131.jpg](/images/blog/b-310x131.jpg) Structure campagne vidéos adwords
 ## **Nouveautés à relever du format true view**
 
 ***Ce qui ne change pas dans les campagnes true view***
@@ -72,7 +72,7 @@ Campagne B :
 
 La migration s’effectue sur le fil de l’eau en 2 clics, ensuite la nouvelle interface apparaît. On retrouve bien les groupes d’annonces qui remplacent les groupes de ciblage. Pas de dépaysement vu que les onglets sont intégrés au reste d'Adwords.
 
-[![Image](/images/blog/nouvelle-interface-campagne-vidéo-310x156.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/nouvelle-interface-campagne-vidéo.jpg) Nouvelle interface campagne vidéo
+[![nouvelle-interface-campagne-vidéo-310x156.jpg](/images/blog/nouvelle-interface-campagne-vidéo-310x156.jpg) Nouvelle interface campagne vidéo
 
 Les campagnes vidéos sont aussi disponibles bien sur  dans le [nouvel outil « rapport ](https://www.mauricelargeron.com/faire-des-rapports-complets-dans-adwords/)» très pratique à utiliser.
 

@@ -13,23 +13,23 @@ Impossible avec **Google Adwords** d’avoir  de faire un reporting  graphique
 
 Certes des graphiques sont disponibles dans Google Adwords, mais rien de sexy n’est exportable, dû moins pas encore, même si très prochainement, une réelle amélioration dans la création de graphiques explicites va voir le jour (mais quid de son exportation ?). Quoiqu’il en soit, à l’heure actuelle, nous avons droit tout de même à cela ..
 
-[![Image](/images/blog/reporting-adwords-310x84.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/reporting-adwords.png) Graphique natif dans adwords
+[![reporting-adwords-310x84.png](/images/blog/reporting-adwords-310x84.png) Graphique natif dans adwords
 
 Remercions donc  les développeurs de nous donner accès à cette  plateforme sunny reports. Comme d’habitude, l’accès aux données du compte Adwords (individuel ou mmc) se fait par simple autorisation. Cette plateforme collecte via l’API Adwords les données principales du compte.
 
 7 Types de rapports sont accessibles : tabulaires, à widgets, à courbes, barres, secteurs et géographiques. Une interface succincte vous donne accès à ces  indicateurs de campagnes traditionnels par un menu déroulant : moyenne cpc, cpm, position, Ctr, clics convertis, taux de conversion, cout par conversion et valeur totale des conversions. Un choix de calendrier (avec comparatif de dates) est aussi disponible. Les rapports sont modifiables à volonté.
 
-[![Image](/images/blog/indicateurs-adwords-310x173.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/indicateurs-adwords.png) Construction du rapport avec SReports
+[![indicateurs-adwords-310x173.png](/images/blog/indicateurs-adwords-310x173.png) Construction du rapport avec SReports
 ## **Exportation  du reporting de campagne**
 
 Pour expédier les rapports obtenus, il suffit de remplir dans le champ situé au bas des graphiques tout juste créés, l’adresse mail du destinataire. Et voilà ! Le compte rendu de la campagne est directement lisible dans la messagerie .
 
-[![Image](/images/blog/rapportGmail1-290x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/rapportGmail1.png) Lecture Directe dans Gmail
+[![rapportGmail1-290x300.png](/images/blog/rapportGmail1-290x300.png) Lecture Directe dans Gmail
 ## **Dashboard de synthèse des envois**
 
 Un tableau de bord récapitulatif indique le nombre de rapports expédiés et le taux de lecture.
 
-[![Image](/images/blog/tableaux-bord-adwords-310x158.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/tableaux-bord-adwords.png) Récap. des envois et Ouverture des rapports
+[![tableaux-bord-adwords-310x158.png](/images/blog/tableaux-bord-adwords-310x158.png) Récap. des envois et Ouverture des rapports
 
 Reprochons lui de n’avoir pas accès à plus d’indicateurs, et d’être en anglais pour l’instant.
 

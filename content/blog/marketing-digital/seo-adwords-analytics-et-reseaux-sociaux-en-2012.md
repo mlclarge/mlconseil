@@ -99,7 +99,7 @@ Des faits, je les ai compté, il y en a** 99** ! Simplement des faits pour rappe
 
 	- Le **référencement naturel** a encore de  l'avenir !  ([lire article de conductor](http://www.conductor.com/blog/2012/12/surprise-only-1-of-domains-drive-over-70-of-referring-traffic-data/))
 
-[![Image](/images/blog/distribution-traffic-310x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/distribution-traffic.jpg) Fig. 1 Le référencement naturel n'est pas mort !
+[![distribution-traffic-310x192.jpg](/images/blog/distribution-traffic-310x192.jpg) Fig. 1 Le référencement naturel n'est pas mort !
 
 Au final,  2012 sera l’année ou Google semble vouloir  tirer  vers le haut la qualité de ses résultats de recherche, mais le pourvoir des liens fait encore autorité pour améliorer le positionnement des liens, tout en considérant en parallèle le contenu d’auteur, non plagié.
 
@@ -129,7 +129,7 @@ Avril
 
 	- **Optimiseur de campagne display** disponible
 
-[![Image](/images/blog/adw-310x241.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/adw.jpg) Fig. 2  2012 Année du rapprochement de YT et ADWORDS
+[![adw-310x241.jpg](/images/blog/adw-310x241.jpg) Fig. 2  2012 Année du rapprochement de YT et ADWORDS
 
 Mai
 
@@ -204,7 +204,7 @@ Juillet
 
 	- **Test A/B** pour comparer des variantes de page web integer à GA
 
-[![Image](/images/blog/rmktg-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/rmktg.jpg) Fig3. Remarketing depuis Google Analytics
+[![rmktg-310x170.jpg](/images/blog/rmktg-310x170.jpg) Fig3. Remarketing depuis Google Analytics
 
 Aout
 
@@ -226,7 +226,7 @@ Analytics se voit doter de fonctionnalités puissantes qui mesurent en temps ré
 
  
 
-[![Image](/images/blog/mobiles-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/mobiles.jpg) Fig. 4  Mobilité en 2012 qui progresse..encore !
+[![mobiles-310x154.jpg](/images/blog/mobiles-310x154.jpg) Fig. 4  Mobilité en 2012 qui progresse..encore !
 
 Janvier
 

@@ -15,24 +15,24 @@ Cette fonctionnalité a été déployée en septembre 2012 afin de combler le «
 
 Disponible sur le menu de gauche et positionné dans la catégorie « **opérations groupées** », l’interface  est intuitive et   alimentée par des exemples. Le lien « modifier en masse » situé en dessous,  est quant à lui vouer à des opérations plus simples, souvent fastidieuses comme des "copier-coller"  *(c’est en quelque sorte une version allégée d’adwords éditor, outil externe de manipulation de campagnes).*
 
-[![Image](/images/blog/interface-310x199.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/interface.jpg) Accessibilité depuis l'iinterface Adw
+[![interface-310x199.jpg](/images/blog/interface-310x199.jpg) Accessibilité depuis l'iinterface Adw
 ## Des scripts prêts à l’emploi
 
 ### **Focus sur le reporting**
 
 Le centre de développement Google propose un ensemble de scripts pour se faire la main. Mise à part une personnalisation sur certaines variables dans les scripts, un simple vernis de  développeur suffit pour en prendre la main. Pour l’anecdote, Google propose même le cas d’une mise en enchère selon les [prévisions météorologiques](https://developers.google.com/adwords/scripts/docs/tutorials/bid-by-weather) !
 
-[![Image](/images/blog/script-tout-faits-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/script-tout-faits.jpg) Menu de scripts à copier-coller
+[![script-tout-faits-310x210.jpg](/images/blog/script-tout-faits-310x210.jpg) Menu de scripts à copier-coller
 Quality score et Mots clés
 
 Cet [extrait de code](https://developers.google.com/adwords/scripts/docs/tutorials/keyword-performance-report) produit une extraction d’indicateurs segmentée par le **score de qualité**  et les **positions moyennes** des annonces (avec mots clés, impressions, clics, conversions..). Il est parfois surprenant au visuel rendu, de s’apercevoir de certaines tendances, qu’un simple tableau avec ligne et colonne rend aveugle.  Ici,  les QS des mots clés situés entre 8 et 9 sont aux abonnés absents. Il faudrait pousser plus loin l’analyse en corrélant  le nombre de conversions qui leur sont liées.
 
-[![Image](/images/blog/perf-annonces-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/perf-annonces.jpg) Extrait Résultat script Perf. Annonces
+[![perf-annonces-310x150.jpg](/images/blog/perf-annonces-310x150.jpg) Extrait Résultat script Perf. Annonces
 Taux de clics selon le titre des annonces
 
 Ce [script](https://developers.google.com/adwords/scripts/docs/tutorials/ad-performance-report)  extrait les statistiques d’annonces selon leurs performances (CTR, Titre, Url de destination) avec un graphique, le tout dans un tableur Google docs, que demander de plus ?
 
-[![Image](/images/blog/script-adwords_1-310x261.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/script-adwords_1.jpg) Etape 1: la table + insersion Url
+[![script-adwords_1-310x261.jpg](/images/blog/script-adwords_1-310x261.jpg) Etape 1: la table + insersion Url
 Extraire des données spécifiques
 Ici, l’objectif est de suivre un ensemble de **mots clés de près selon leur score de qualité.** Pour établir ce genre de rapports il faut donc :
 
@@ -42,7 +42,7 @@ Ici, l’objectif est de suivre un ensemble de **mots clés de près selon leur 
 
 	- Insérer l’url de la feuille de calcul dans ce code
 
-[![Image](/images/blog/qsetMotcles-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/05/qsetMotcles.jpg) Extraction choisie de Mot Clé
+[![qsetMotcles-310x151.jpg](/images/blog/qsetMotcles-310x151.jpg) Extraction choisie de Mot Clé
 
 Il y a possibilité pour ces scripts de les recevoir dans sa boîte mails.
 ### Extraits de scripts divers à tester 

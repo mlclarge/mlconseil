@@ -31,7 +31,7 @@ Exemples de suivis avancés  :
 
 Ce  paramétrage est facultatif et  n’a pas de lien  avec le marquage automatique des urls pour assurer un suivi dans Google analytics des campagnes ads ou adwords.  Il reste cependant des règles à respecter afin d’éviter des conflits de marqueurs.
 
-[![Image](/images/blog/urls-destination-adwords-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/urls-destination-adwords.jpg) urls destination adwords
+[![urls-destination-adwords-310x135.jpg](/images/blog/urls-destination-adwords-310x135.jpg) urls destination adwords
 ## **Comment paramétrer traditionnellement les urls personnalisées  adwords ?**
 
 2 façons permettent de faire un suivi plus poussé des [campagnes ads](https://www.mauricelargeron.com/campagne-display-google-ads-avec-ciblage-optimise/).
@@ -98,7 +98,7 @@ Cela donne :
 
 http://redirection.monsiteweb.fr/redirect ?annonce={creative}&domaine={placement}&{_MonIdCgne}&url={lpurl}
 
-[![Image](/images/blog/url-perso-campagne-sea-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/url-perso-campagne-sea.jpg) Paramétrages de Campagne Modele suivi
+[![url-perso-campagne-sea-310x248.jpg](/images/blog/url-perso-campagne-sea-310x248.jpg) Paramétrages de Campagne Modele suivi
 ## **Liens ressources à ne pas manquer **
 
 Toutes ces ressources sont celles de la documentation Google.

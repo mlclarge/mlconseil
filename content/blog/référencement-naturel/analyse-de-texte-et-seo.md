@@ -29,7 +29,7 @@ Je me garderai bien de jouer l’expert en la matière, vu sa complexité, mais 
 
 D’un point de vue **Search Engine Optimisation**, on peut dire que l’on est servi ! Toutes les techniques touchent de près ou de loin le métier du référenceur, et pour cause, sa matière première, son pétrole, ce sont les mots !
 
-[![Image](/images/blog/definition-text-mining-310x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/definition-text-mining.jpg) Univers du Text Mining
+[![definition-text-mining-310x268.jpg](/images/blog/definition-text-mining-310x268.jpg) Univers du Text Mining
 
 Plus généralement, on par le Text mining intéresse les disciplines de la statistique, de la  gestion, de l’informatique, de l’intelligence artificielle, du machine learning, mais aussi a le vent en poupe en **sciences sociales**, linguistiques, journalisme, médias…
 
@@ -41,7 +41,7 @@ Dans le domaine des **moteurs de recherche**, Google Now par le recueil et l’a
 
 La recommandation algorithmique dans l'écosystème publicitaire du web social, est ce que le text mining peut produire de plus flagrant. Par  étude des profils sociaux, par leur croisement, leur similarité, une extrapolation peut être déduite, pour enfin conseiller et pousser à un internaute une  information pertinente dans son  fil d’actualités.
 
-[![Image](/images/blog/usages-text-mining-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/usages-text-mining.jpg) Usages text mining
+[![usages-text-mining-310x300.jpg](/images/blog/usages-text-mining-310x300.jpg) Usages text mining
 
 ## **Outils : Algorithmes illustrés de text Mining**
 
@@ -53,32 +53,32 @@ C’est un des socles de la machinerie algorithmique de Google pour  classer et
 
 Illustration : cette page web (voir lien fin article)  matérialise via une matrice, un ensemble de site web, avec des cases à cocher qui constituent les liens que peuvent faire un site A vers un site B. Après validation de son netlinking, le **PR** de la page linkée augmente ou diminue selon la  direction des liens.
 
-[![Image](/images/blog/pages-Rank-demo-284x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/pages-Rank-demo.jpg) PageRank demo
+[![pages-Rank-demo-284x300.jpg](/images/blog/pages-Rank-demo-284x300.jpg) PageRank demo
 ### ***N’Gram : Densité, association et tendance ***
 
 L’idée  cette opération mathématique est de déceler à l’intérieur d’un texte ou corpus  des** associations de termes,** on parle de relations de  co-occurrence. En seo, c’est utile de savoir pourquoi Google trouve pertinent  tel ou tel document,  vis-à-vis d’une requête,  afin d’établir son ranking,
 
 **N’Gram Analyser** rend le concept concret. Vous avez une liste de mots clés sur laquelle vous souhaitez faire ressortir le terme dominant (par 1, 2 ou 3 termes associés), cela pourrait être aussi un texte (ou comparatif de textes). Copiez coller cette liste est établie avec un indice de fréquence. Cela peut être utilisé  aussi en SEA  pour segmenter un ensemble de mots clés.
 
-[![Image](/images/blog/ngram-analyzer-310x137.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/ngram-analyzer.jpg) Ngram analyzer
+[![ngram-analyzer-310x137.jpg](/images/blog/ngram-analyzer-310x137.jpg) Ngram analyzer
 
 En seo, c’est utile aussi de **sentir les tendances** sur la fréquence  et l'usage d'un  mot clé. Cet outil proposé par Google "nGram viewer" permet connaître au travers tout un corpus de livres numérisés, les tendances d’apparition de termes. Il est possible aussi d’utiliser le « * » avant ou après le terme,  pour connaître le type d'association . Pour /* marketing/, on s'aperçoit qu'entre 2000 et 2008 "stratégie marketing" se situe en bas de tableau quant à son usage...
 
-[![Image](/images/blog/ngram-viewer-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/ngram-viewer.jpg) Tendance d' Association avec un mot clé
+[![ngram-viewer-310x171.jpg](/images/blog/ngram-viewer-310x171.jpg) Tendance d' Association avec un mot clé
 ### ***Tf/IDF : Du sens enfin !***
 
 Sert à comprendre ce dont parle un texte *(fréquence d’un terme sur la fréquence du document)* et de juger surtout de sa pertinence par rapport à un ensemble d’autres documents sur le même sujet.  Les moteurs ne comprennent pas ce qu’ils lisent, mais par comparaison d’une variable (mot clé)  dans un ensemble référent, la pertinence peut en être déduite.
 
 Le site **Wolfram** propose une application desktop à télécharger et **illustre tout un ensemble d’algos** dont celui-ci et en fournit le code source. Ici, le texte anglais choisit parle d’un jugement judiciaire et la démonstration  propose 4 fonctionnalités pour faire ressortir le poids de chacun des termes. Par simple activation sur la fréquence, et la mise en grisé des stops words, le sens global du texte est perçu sans avoir eu à le lire dans son ensemble.
 
-[![Image](/images/blog/tf-idf-demo-310x257.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/tf-idf-demo.jpg) Tf IDF
+[![tf-idf-demo-310x257.jpg](/images/blog/tf-idf-demo-310x257.jpg) Tf IDF
 ### ***Similarité : Pas de duplicate !***
 
 Comparer pour mieux régner.  Vieil outil, mais qui  fonctionne,  pour mettre le doigt sur certaines analyses textuelles :
 
 Proximité, matrice de comparaison.  Pour l’exmple, les textes comparés  définissent  le terme de **webmarketing** issus de 2 sites web différents. Objectif : savoir s’ils se ressemblent ou pas selon un corpus basique de langue française. Lors de la création d’un contenu, se comparer vis-à-vis d’un contenu similaire au sein  d’un corpus thématique peut aider dans le positionnement sur un moteur.
 
-[![Image](/images/blog/similarité-matrice-229x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/similarité-matrice.jpg) Matrice de Similarité
+[![similarité-matrice-229x300.jpg](/images/blog/similarité-matrice-229x300.jpg) Matrice de Similarité
 ## **Site d’outils Analyse Textuelle**
 
 	- PageRank : [http://www.webworkshop.net/pagerank_calculator.php](http://www.webworkshop.net/pagerank_calculator.php)

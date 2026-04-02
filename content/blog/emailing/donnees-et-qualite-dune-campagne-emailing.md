@@ -10,7 +10,7 @@ image: "/images/blog/reussir-campagne-emailing.jpg"
 
 La fiabilité des données de sa base de contacts, c’est  deuxième grand pilier d’une stratégie de levier par l’emailing.  Les  plateformes comme mailjet, Dolist  et leurs ressources documentaires via des enquêtes de terrain, sont d’une aide précieuse pour y voir plus clair, merci à eux.   Après avoir pu passer en revue les [critères principaux de la délivrabilité,](https://www.mauricelargeron.com/fondamentaux-techniques-de-lemailing/) zoom sur la **bonne qualité de la base de données d’emails**.
 
-[![Image](/images/blog/les-3-piliers-de-lemailing-310x206.png)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/les-3-piliers-de-lemailing.png) les 3 piliers de l'emailing
+[![les-3-piliers-de-lemailing-310x206.png](/images/blog/les-3-piliers-de-lemailing-310x206.png) les 3 piliers de l'emailing
 ## **Le long parcours du combattant pour le marketeur**
 
 Il faut vraiment s’armer de patience, quand on voit que certains fournisseurs de messagerie comme Gmail s’auto-spamment pourrait-on dire tout seul ! Gardons espoir, mais le chemin est semé d’embûches. Le message avant sa délivrabilité  sera passé au bon vouloir de filtres :
@@ -25,7 +25,7 @@ Il faut vraiment s’armer de patience, quand on voit que certains fournisseurs 
 
  	- **Filtres entreprise** : les proxy qui filtres la provenance de certaines plateformes vi une liste noire.
 
-[![Image](/images/blog/filtrage-emailing-235x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/filtrage-emailing.jpg) Le parcours d'un message email
+[![filtrage-emailing-235x300.jpg](/images/blog/filtrage-emailing-235x300.jpg) Le parcours d'un message email
 ## **14 bonnes pratiques dans l’emailing dans le traitement des contacts**
 
  	- Réagissez aux plaintes pour spam, grâce aux boucles de rétroaction (feedback loops)
@@ -56,7 +56,7 @@ Il faut vraiment s’armer de patience, quand on voit que certains fournisseurs 
 
  	- Respecter le bon timing selon votre audience : btob ou btoc, usages du métier, saisonnalités etc..
 
-[![Image](/images/blog/usage-email-310x249.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/usage-email.jpg) Usages emailing
+[![usage-email-310x249.jpg](/images/blog/usage-email-310x249.jpg) Usages emailing
 ## **3 règles pour l’optimisation au clic d’un message mail **
 
 Les conseils sont bons à donner, mais ensuite il faut les appliquer …Alors 3
@@ -67,6 +67,6 @@ Les conseils sont bons à donner, mais ensuite il faut les appliquer …Alors 3
 
  	- **Respect** : sous-entendu du destinataire par rapport au fichier CNIL (information et liberté d’ailleurs !)
 
-[![Image](/images/blog/illustration-mail-310x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/illustration-mail.jpg) Illustration d'un message mail optimisé
+[![illustration-mail-310x191.jpg](/images/blog/illustration-mail-310x191.jpg) Illustration d'un message mail optimisé
 
 Bonne chance pour votre prochaine campagne email ! :)

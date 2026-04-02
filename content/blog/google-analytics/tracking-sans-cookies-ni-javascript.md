@@ -21,7 +21,7 @@ Je tire cette information entre autre  de la documentation officielle de Google
 
 ### *JavaScript et  cookies *
 
-[![Image](/images/blog/principes-collecte-cookie-ga-1-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/principes-collecte-cookie-ga-1.jpg) Processus de collecte Javascript Classique GA
+[![principes-collecte-cookie-ga-1-310x159.jpg](/images/blog/principes-collecte-cookie-ga-1-310x159.jpg) Processus de collecte Javascript Classique GA
 
 Ces petits fichiers texte qui contiennent les données visiteurs, sont créés par l’appel de la page web **(1)** qui contient le GATC (script JavaScript (js) ) qui va déclencher des appels sur les serveurs de Google** (2)** analytics.  Un mécanisme de collecte **(3) ** va ensuite être pérennisé au fur et à mesure des visites grâce à  l’appel du GIF-image posé par le GATC (mise à jour des cookies).  Une fois sur les serveurs de GA un processus de parsing (tri)  sera effectué **(6 à 9)** sur le fichiers journaux des serveurs google , une mise en base de données effectuée **(10)** et enfin, une présentation via navigateur des données aggrégées et échantillonnées selon les volumes traités.
 
@@ -43,7 +43,7 @@ J’ai pu recenser 5 raisons principales pour penser un autre suivi GATC (Google
 
 ### *Principe et usage du modèle Client / serveur *
 
-[![Image](/images/blog/principes-environnement-php-ga-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/principes-environnement-php-ga.jpg) Contexte triangulaire du suivi côté serveur
+[![principes-environnement-php-ga-310x131.jpg](/images/blog/principes-environnement-php-ga-310x131.jpg) Contexte triangulaire du suivi côté serveur
 
 Ce modèle classique d’architecture web peut être utilisé aussi pour collecter les données visiteurs sans pose de cookies  ni JavaScript. Donc, on quitte un code qui s’exécute sur le poste de l’internaute dans son navigateur, pour une syntaxe qui s’opère sur le **serveur web du site.**  Par quel moyen démarrer ? Il suffit d’utiliser une des 2 classes php SSGA ou PHP-GA  exitantes (le travail a déjà été effectué ou presque donc)  qui vont  s’interfacer avec les serveurs de Google analytics.  A noter que celle qu’il est préférable d’employer est PHP-GA (entretenue et mise à jour).  Pour certains objets à tracer, ce moyen client-serveur peut avoir recourt aussi aux cookies.
 
@@ -61,7 +61,7 @@ Ce modèle classique d’architecture web peut être utilisé aussi pour collect
 
 	- Suivi de pages
 
-[![Image](/images/blog/example-code-10-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/example-code-10.jpg) Extrait code de base Source Google
+[![example-code-10-310x205.jpg](/images/blog/example-code-10-310x205.jpg) Extrait code de base Source Google
 
 	- Evènements
 

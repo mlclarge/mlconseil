@@ -10,7 +10,7 @@ image: "/images/blog/linkedin-changement-algorithme.jpg"
 
 [LinkedIn](https://engineering.linkedin.com/blog/2019/06/community-focused-feed-optimization) dans un entretien avec l’agence média [Axios](https://www.axios.com/linkedin-algorithm-feed-notifications-88f2f1f4-24c7-49d7-ac36-a363a2886efe.html) a révélé les modifications qui se sont déroulé sur ces 12/18 mois derniers. L’axe central de ces changements ont pour objectif la mise en avant des discussions professionnelles utiles aux entreprises, au détriment des contenus qui peuvent faire objet de buzz sur son flux d’actualités.*
 
-[![Image](/images/blog/flux-linkedin-502x223.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/flux-linkedin.png) Représentation du flux d'actualités LinkedIn
+[![flux-linkedin-502x223.png](/images/blog/flux-linkedin-502x223.png) Représentation du flux d'actualités LinkedIn
 ## Constat : un réseau social déséquilibré 
 
 L’idée en fait est de remettre à leur place ces flux d’actualités bâti au final pour communiquer en mode « un pour tous », one to many en anglais, et délivrer une valeur utile au moment où les conversations tendent à devenir éphémères et personnelles.
@@ -23,7 +23,7 @@ LinkedIn et son bureau d’intelligence artificielle, dirigé par Tim Jurka, obs
 
 **LinkedIn Précise selon socialmediatoday **
 ***« Pour faciliter les conversations professionnelles dans le fil LinkedIn, nous avons introduit la «contribution» comme objectif supplémentaire dans notre modèle. La probabilité de contribution traduit l’intention des membres de partager, commenter ou réagir à une mise à jour de flux en particulier. Le modèle prend également en compte le retour d'information en temps voulu aux créateurs de contenus, ce qui constitue un signal clair pour cultiver et fidéliser les auditeurs sur LinkedIn. "***
-[![Image](/images/blog/linkedin-fonctionnement-algo.jpg)](/images/blog/linkedin-fonctionnement-algo.jpg) linkedin fonctionnement algo
+[![linkedin-fonctionnement-algo.jpg](/images/blog/linkedin-fonctionnement-algo.jpg) linkedin fonctionnement algo
 
  	- **Donner plus de poids** sur les contenus susceptible d’intéresser directement un profil dans son fil d’actualité pour en susciter des commentaires et réactions, ou mise en avant des partages, basés sur le profil d’un utilisateur
 

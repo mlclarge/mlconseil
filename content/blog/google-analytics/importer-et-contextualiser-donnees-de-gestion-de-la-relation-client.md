@@ -28,7 +28,7 @@ Un petit schéma d'ensemble pour se situer le contexte de la **collecte orienté
 
  	- Création des rapports personnalisés
 
-[![Image](/images/blog/schema-processus-de-collecte-userId-310x33.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/schema-processus-de-collecte-userId.jpg) Processus de collecte data client
+[![schema-processus-de-collecte-userId-310x33.jpg](/images/blog/schema-processus-de-collecte-userId-310x33.jpg) Processus de collecte data client
 ## **Eliminer les biais du marquage natif de GA sur la notion de  « visiteur »**
 
 ### *Représentation d’un utilisateur unique (au lieu d’un device)*
@@ -37,7 +37,7 @@ Notez que nativement, le script analytics.js dépose  lors d’une visite un  
 
 Alors comment avoir une vue plus proche de la réalité ? L’intégration d’une variable transversale attachée au visiteur , puis portée au moment de son authentification.
 
-[![Image](/images/blog/userId-et-cid-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/userId-et-cid.jpg) UserId (uid ) et cid
+[![userId-et-cid-310x201.jpg](/images/blog/userId-et-cid-310x201.jpg) UserId (uid ) et cid
 
 Google  a donc tout prévu même s’il interdit la collecte de donnée personnalisée au sein de son application avec la fonctionnalité Uid autrement dénommée d’userId. Cette dernière  a pour finalité  de faire du suivi cross devices,  au lieu d’un tracking unique par appareil, malin  :) .
 
@@ -53,11 +53,11 @@ En termes de développement, plusieurs choix sont envisageables pour créer cett
 
 Le résultat de cette collecte s’effectue  dans une vue dédiée « userId »  prévue à cet effet. Les chemins de conversion d’un utilisateur qui utiliserait plusieurs appareils pour enfin convertir deviennent lisibles mais agrégés et anonymes.
 
-[![Image](/images/blog/chevauchement-vue-userId-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/chevauchement-vue-userId.jpg) Chemin conversion et Chevauchement Devices
+[![chevauchement-vue-userId-289x300.jpg](/images/blog/chevauchement-vue-userId-289x300.jpg) Chemin conversion et Chevauchement Devices
 
 Si une partie de la connexion se passe hors authentification, **l’unification de session** définit par défaut lors de l’élaboration de la vue UserId permettra d’intégrer le suivi d’audience précédent le login visiteur.
 
-[![Image](/images/blog/session-unifiée-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/session-unifiée.jpg) Session unifiée dans vue UserId
+[![session-unifiée-310x154.jpg](/images/blog/session-unifiée-310x154.jpg) Session unifiée dans vue UserId
 ## **Optimiser un suivi visiteur par la personnalisation sur un ensemble de session sur un même appareil.**
 
 Associer Cid  de GA et UserId afin d’avoir un suivi plus précis de l’utilisateur (client),  tout au long de ses sessions , qu’il soit authentifié ou pas,  est  le but de la manœuvre.
@@ -70,14 +70,14 @@ Les limites de cette manipulation sont celles du bon sens , en sachant qu’un s
 
 Une fois la collecte effectuée, ces **2 dimensions personnalisées** sont disponibles au sein des rapports personnalisés , mais aussi dans la segmentation. Le référentiel de cet userId est propre à chaque entreprise et devra être signifiant pour donner un sens plus prononcé aux rapports. Sinon, pour qualifier plus avant la **connaissance visiteur**, reste de nouer autour ces dimensions personnalisées des métadonnées réservées à la qualification client. Le site e-nor.com explicite cela très bien au travers de ce schéma …
 
-[![Image](/images/blog/cid-et-userid-285x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/cid-et-userid.jpg) Cid et userid sur une session
+[![cid-et-userid-285x300.jpg](/images/blog/cid-et-userid-285x300.jpg) Cid et userid sur une session
 ## **Suivi avancé :  multi-devices, mono-utilisateur, logué ou non ! **
 
 Je reprends le scénario  de l’**agence e-nor*** (super articles en passant) .*
 
 **Scénario :** le visiteur procède à une série de session dont les 2 premières proviennent de 2 appareils différents sans authentification. La troisième visite est authentifiée sur l’un des deux devices. L’userId généré va suivre l’utilisateur lors des sessions suivantes (sert ici de liant) où le cid existant sur le device précédent va rencontrer l’userId généré lors de cette 3ème visite…Simple non ?
 
-[![Image](/images/blog/stitiching-avancé-239x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/stitiching-avancé.jpg) Stitching avancé pour unifier suivi utilisateur logué ou non
+[![stitiching-avancé-239x300.jpg](/images/blog/stitiching-avancé-239x300.jpg) Stitching avancé pour unifier suivi utilisateur logué ou non
 
 Techniquement,  la création de 2 dimensions personnalisées  va récupérer le cid du cookie de analytics.js  et le stocker dans un cookie et l’userId ,  cela dynamiquement sur l’ensemble des  sessions d’un même utilisateur. Ce principe-là s’intitule dans le jargon d’expert **session « stitching ».**  Ne pas confondre ce cette manipulation avec l’**unification de session** bien que très proche néanmoins, qui , comme son nom l’indique, permet d’associer pendant une même session, les hits avant login /userId.   Code "officiel" pour la collecte  (à  adapter selon le cas) :
 
@@ -93,7 +93,7 @@ Afin de donner un **contexte «profil client » plus étendu** à sa collecte d
 
 Ce processus s’effectue au niveau de la propriété via la définition d’un « **schéma de données** ». Chaque métadonnée fera l’objet d’un ajout d’une nouvelle dimension en plus de celle pivot UserId. Ces métadonnées peuvent être relatives aux personas, à la valeur client,  à un référentiel spécifique de la relation client lié au **SI de l’organisation**.
 
-[![Image](/images/blog/importation-dans-ga-310x273.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/importation-dans-ga.jpg) Schema Importation dans ga
+[![importation-dans-ga-310x273.jpg](/images/blog/importation-dans-ga-310x273.jpg) Schema Importation dans ga
 
  	- Etape 1 : Choisir la dimension UserId
 
@@ -111,7 +111,7 @@ Exemple de Meta Donnée  Crm :
 
  	- -> Valeur Client : Basse, Moyenne, Haute
 
-[![Image](/images/blog/extrait-data-a-importer-dans-ga-310x124.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/extrait-data-a-importer-dans-ga.jpg) Extrait data csv a importer dans ga
+[![extrait-data-a-importer-dans-ga-310x124.jpg](/images/blog/extrait-data-a-importer-dans-ga-310x124.jpg) Extrait data csv a importer dans ga
 
  	- Etape 6 : Attendre la validation
 
@@ -119,7 +119,7 @@ Exemple de Meta Donnée  Crm :
 
 Sur l’étape 7, il faudra donc croiser les dimensions apportées avec d’autres éventuellement (events…) avec des statistiques classiques natives google analytics (sessions..).
 
-[![Image](/images/blog/rapport-crm-dans-ga-310x106.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rapport-crm-dans-ga.jpg) Rapport Meta crm et Data GA
+[![rapport-crm-dans-ga-310x106.jpg](/images/blog/rapport-crm-dans-ga-310x106.jpg) Rapport Meta crm et Data GA
 
 Comprenons les réticences des propriétaires de sites  à divulguer des données clientèles même anonymisées. Mais on est sur un marché du gagnant-gagnant , où les 2 parties y trouvent leur compte dans la valeur ajoutée apportée au final à la data.
 ***Des articles utiles pour comprendre la donnée client ***

@@ -27,7 +27,7 @@ Des quadras, commerciaux de profession, licenciés de leur job, tente leur chanc
 
 La critique Française *(monde, figaro, 20 minutes, première..)* et Anglosaxone (NYT, CNN, NYorker..)   de la presse  et rubrique spécialisée est unanime, c’est **un film de propagande**  (tous ensemble, tous ensemble, ouais !) conçu pour Google. Le film a été tourné en partie *(certainement les scènes d’extérieurs)* chez Google pendant 5 jours, sans aucune rétribution de la part des producteurs. Les dirigeants de la firme de Google  auraient donné l’esprit du film à son réalisateur au départ du projet en 2011, mais sans aucune directive spéciale par la suite.  L'essentiel du film a été tourné dans des studios à Atlanta (géorgie).   En tout cas, Google ne rechigne pas d’en faire de la publicité sur ses propres supports !
 
-[![Image](/images/blog/29-06-2013-14-33-06-258x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/29-06-2013-14-33-06.jpg) Site Google Student ou est présenté le film
+[![29-06-2013-14-33-06-258x300.jpg](/images/blog/29-06-2013-14-33-06-258x300.jpg) Site Google Student ou est présenté le film
 ### **Le vrai du faux de cette comédie**
 
 Presque tout est vrai... diront les plus optimistes. Sont purement fictifs : la scène de jeu du Qidditch, les questions incongrues d’entretiens d’embauche  (ce n’est plus mais cela a été semble t-il), les compétitions entre équipes de stagiaires, la possibilité entre 40 et 45 ans d’être recruté pour ce type d’expérience (ça c'est mon opinion).

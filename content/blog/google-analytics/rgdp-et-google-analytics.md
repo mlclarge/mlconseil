@@ -26,7 +26,7 @@ It is available from the central column, the property management level, in the '
 
  	- No automatic expiration
 
-[![Image](/images/blog/rgdp-25-mai-2018-502x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/rgdp-25-mai-2018.jpg) Functionality in Google Analytics
+[![rgdp-25-mai-2018-502x216.jpg](/images/blog/rgdp-25-mai-2018-502x216.jpg) Functionality in Google Analytics
 ### ***With an option on the retention mode***
 
 An option is provided on the automatic restart of data retention in case of a new session. In other words, if the user is stuck on a retention period of 26 months, each new monthly visit, the duration is relaunched in a slippery manner. So the period is automatically extended unable to reach the 26 th month.

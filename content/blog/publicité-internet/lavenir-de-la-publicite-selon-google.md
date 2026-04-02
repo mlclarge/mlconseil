@@ -16,7 +16,7 @@ Google est la victime à abattre ! Il faut démanteler le géant numérique ! Ap
 
 Les autorités de réglementation et les consommateurs incitent de plus en plus Google à protéger de plus en plus la vie privée des utilisateurs, mais le contenu Web gratuit nécessite souvent des publicités bien ciblées pour sa survie. Google a tout intérêt à préserver cet écosystème vue sa position de leader sur la publicité numérique dans le monde, mais le cadre plus large que propose Google modifierait fondamentalement le fonctionnement du ciblage des annonces en ligne.
 
-[![Image](/images/blog/information-et-control-de-la-part-des-utilisateurs.jpg)](/images/blog/information-et-control-de-la-part-des-utilisateurs.jpg) Information et controle de la part des utilisateurs sur le contenu publicitaire
+[![information-et-control-de-la-part-des-utilisateurs.jpg](/images/blog/information-et-control-de-la-part-des-utilisateurs.jpg) Information et controle de la part des utilisateurs sur le contenu publicitaire
 
 *La proposition s'articule autour de trois principes*
 
@@ -26,7 +26,7 @@ Les autorités de réglementation et les consommateurs incitent de plus en plus 
 
  	- **Le contrôle **où les utilisateurs peuvent modifier les processus de collecte de données et d’application, y compris en ce qui concerne la personnalisation des annonces. Le document critique spécifiquement le blocage à grande échelle des cookies, une approche adoptée par des concurrents comme Apple, qui, selon Google, constituerait un obstacle pour les revenus des éditeurs.
 
-[![Image](/images/blog/maquette-de-consentement-google.jpg)](/images/blog/maquette-de-consentement-google.jpg)
+[![maquette-de-consentement-google.jpg](/images/blog/maquette-de-consentement-google.jpg)
 
  	- De nouvelles normes concerneraient
 

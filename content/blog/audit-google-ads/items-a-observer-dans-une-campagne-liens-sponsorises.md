@@ -43,15 +43,15 @@ Ce chapitre aborde  l’exploitation même de l’interface adwords. J’y  so
 
  	- **Structure campagne** (Fig.1)  : Combien de campagnes (thématiques, géographiques, produits), de groupes d’annonces, d’annonces, ont été crée ?
 
-[![Image](/images/blog/fig1-structure-campagne-adwords-300x297.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig1-structure-campagne-adwords.png) Fig1.Structure de campagne
+[![fig1-structure-campagne-adwords-300x297.png](/images/blog/fig1-structure-campagne-adwords-300x297.png) Fig1.Structure de campagne
 
  	- **Score de qualité** (Fig.2) : est composé de 3 paramètres dont le CTR *(j’y reviens plus tard dans l’article)*, la pertinence, la page de destination et autres facteurs.
 
-[![Image](/images/blog/fig2-scoreQté-310x195.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig2-scoreQté.png) Score qualité
+[![fig2-scoreQté-310x195.png](/images/blog/fig2-scoreQté-310x195.png) Score qualité
 
 Cet indicateur est à scruter minutieusement, une partie en  est dévoilé dans l’interface adwords. Depuis mi- avril 2012, des données supplémentaires (Fig3) comme le *taux de clic attendu*, l’expérience des **visiteurs sur la page de destination** sont proposées.
 
-[![Image](/images/blog/fig3-score-qualite-mots-cles-300x161.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig3-score-qualite-mots-cles.png) Fig3. Diagnostic qualité mot clé Adwords
+[![fig3-score-qualite-mots-cles-300x161.png](/images/blog/fig3-score-qualite-mots-cles-300x161.png) Fig3. Diagnostic qualité mot clé Adwords
 
  	- **Activité du compte** : Cette donnée n’est pas un indicateur stricto-sensu, mais peut être jaugée par l’**historique du compte**, il indique les différents ajustements ou modifications apportés tout au long de la campagne, le temps consacré au suivi est en effet important, en somme, il ne faut pas que lancer une campagne mais aussi s’en occuper !
 
@@ -71,7 +71,7 @@ La rédaction est un paramètre transversal (Fig4), car il implique toute la cha
 
  	- **Page de destination** *(cohérence entre thématique annonce et sujet de la page)*
 
-[![Image](/images/blog/fig4-redactionnel-300x90.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig4-redactionnel.png) Fig4. Mot clé : Coeur de la chaîne production
+[![fig4-redactionnel-300x90.png](/images/blog/fig4-redactionnel-300x90.png) Fig4. Mot clé : Coeur de la chaîne production
 
 Le **CTR  est une statistique** surtout  sur le **réseau de recherche** qui peut donner un scoring sur un rédactionnel de qualité. Ce taux  est composé du nombre de clics divisés par le nombre d’impressions (affichages).  En effet,  plus une annonce est cliquée, plus elle est considérée  par Google comme pertinente vis-à-vis de l’internaute. Attention cependant, cet indicateur est moins pertinent sur le réseau de contenu (display), l’intention de recherche n’est pas le même vu qu’ici l’internaute ne tape pas de requête et donc n’attend pas de résultat direct.
 

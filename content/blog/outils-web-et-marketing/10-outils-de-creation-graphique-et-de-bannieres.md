@@ -23,7 +23,7 @@ Une plateforme de créations adaptées aux contenus pour réseaux sociaux
 
 On ne présente plus Canva , la plateforme d’origine australienne, je cite « l'aventure Canva a débuté en 2007 lorsque Melanie Perkins étudiait à la University of Western Australia. Mélanie enseignait aux étudiants comment utiliser des programmes comme InDesign et Photoshop, des programmes que certains trouvaient difficiles à apprendre et encore plus difficiles à utiliser. » Depuis c’est plus 10 Millions d’utilisateurs, 12 pays, 3 sites dans le monde. Super pratique, avec une formule gratuite de base et ensuite des fonctionnalités plus avancées en mode premium.
 
-[![Image](/images/blog/canvas.jpg)](/images/blog/canvas.jpg) Canva outil créa sans codage
+[![canvas.jpg](/images/blog/canvas.jpg) Canva outil créa sans codage
 
  
 
@@ -59,7 +59,7 @@ Le mode Code de Google Web Designer permet à l'utilisateur de créer des fichie
 
 Cet outil offre aux professionnels des médias sociaux un moyen efficace de produire plusieurs tailles d’images optimisées pour les profils, les messages et les campagnes des médias sociaux, et laisse plus de temps pour se concentrer sur le message à faire passer…Ce qui est bien avec cet outil c’est son processus logique de création , selon votre cible de plateforme (linkedin, Insta..), il vous indique si la résolution de votre asset est au minimum voulu et ensuite produit autant de fois que de nombre de plateformes désirées, les différents formats d’images à télécharger au format zip directement.
 
-[![Image](/images/blog/landscape-de-sprout-social.jpg)](/images/blog/landscape-de-sprout-social.jpg) landscape de sprout social
+[![landscape-de-sprout-social.jpg](/images/blog/landscape-de-sprout-social.jpg) landscape de sprout social
 ### ***Responsive ad checker***
 
 (https://matthewjamestaylor.com/responsive-ad-checker)

@@ -9,7 +9,7 @@ slug: "bing-innove-avec-la-recherche-adaptee-de-son-moteur"
 
 Bing indiquait déjà, une quinzaine de jours, la recherche sociale comme facteur plus important que le Netlinking. Le moteur de recherche de MSN et Yahoo innove encore aujourd'hui. Bing tente d’améliorer l’expérience utilisateur lors d’une recherche sur son moteur grâce une amélioration de son algorithme axée sur une personnalisation dosée finement selon un ensemble de critères issus des recherches enregistrées par l'internaute.
 
-[![Image](/images/blog/bing_adaptative-search-300x234.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/bing_adaptative-search.png) Interface Bing
+[![bing_adaptative-search-300x234.png](/images/blog/bing_adaptative-search-300x234.png) Interface Bing
 
 Stefan Weitz directeur de Bing  interviewé par la chaîne [WebproNews](http://www.webpronews.com/) au sujet du lancement de la recherche adaptée du moteur de recherchen, définit la « recherche ajustée » comme étant une fonctionnalité puissante qui permet d'apporter plus de personnalisation lors de réponse à la recherche des internautes. Mais ce n'est pas nouveau ! Google a déjà initié depuis quelque temps la recherche personnalisée et contextualisée mais BING semble vouloir aller plus loin..
 

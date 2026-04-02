@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=2Y9jeCFlU7A
 
 Quand lors de [formation webmarketing](https://www.mauricelargeron.com/programmes-formations-webmarketing/), je demande à l’auditoire de millenials ou autre , au fait, connaissez vous un moteur de recherche Français ? Je suis toujours surpris par la **non-popularité de Qwant**. Aucune notoriété spontanée, il faut aiguiller , puis enfin faire un pendu Q---T pour enfin démasquer…cet intrus ! .
 
-[![Image](/images/blog/seznam-homepage-642x428.jpg)](/images/blog/seznam-homepage-642x428.jpg) **Seznam** le challenger de Google en République Tchèque
+[![seznam-homepage-642x428.jpg](/images/blog/seznam-homepage-642x428.jpg) **Seznam** le challenger de Google en République Tchèque
 
 Selon un des ses cofondateurs , Eric Léandri, interrogé récemment sur une antenne de radio france, précise que seulement **8 moteurs de recherche **existent dans le monde et nous les connaissons tous désormais , ou presque : **Google, Baidu, Yandex,Bing (Msn), Naver (Corée du sud), Yahoo! japan, Seznam et  Qwant** ! En effet, un moteur, c’est avant tout une technologie basée sur des robots qui crawlent le web, un index, des algorithmes sur fond de datacenters. Les autres, duck-duck go, dogpile, sont des serveurs proxys qui utilisent les différentes technos des vrais moteurs de recherche ,  et y rajoutent des filtres et présentations utilisateurs (snippets) afin de singulariser leurs résultats.
 
@@ -25,7 +25,7 @@ Selon un des ses cofondateurs , Eric Léandri, interrogé récemment sur une ant
 
 Après des débuts modestes basés sur une idée d’innover sur le domaine de la recherche, d’entrepreneurs où, pour résumer il a fallu faire éclore ce moteur des deniers issus de business angels à hauteur de 3 millions,  2 années de développement et le dépöt  de brevet  .   puis une première levée de fond  de 25 millions d’euros , puis par une toute dernière en ce début 2017 de 18  millions où axel springer continue à croire au projet et un nouvel arrivant la caisse des dépots de consignation, une valeur sûre sans doute.
 
-[![Image](/images/blog/eric-léandri-co-fondateur-de-qwant-438x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/eric-léandri-co-fondateur-de-qwant.jpg) Eric Léandri et Jean-Manuel Rozan Co-fondateur du Qwant - Source Lacroix.com
+[![eric-léandri-co-fondateur-de-qwant-438x300.jpg](/images/blog/eric-léandri-co-fondateur-de-qwant-438x300.jpg) Eric Léandri et Jean-Manuel Rozan Co-fondateur du Qwant - Source Lacroix.com
 ### ***Une image éthique à vendre***
 
 Mais on se doit de parler de ce qui fait la spécificité du moteur, sa neutralité. C’est du moins l’image de fabrique de ces pères fondateurs. Pas besoin de dresser un profil de visiteur  basé sur un historique, ou une identification pour lui adresser un résultat. Pas de cookie sniffeur donc, pas de résultat induits selon son passé, ou une extrapolation de son profil. De plus, Qwant essaie de devenir le moteur de référence auprès de l'éducation nationale en proposant l'installation d'un moteur dédié au jeune public : Qwant Junior.
@@ -39,12 +39,12 @@ Qwant selon donc E Landri, gagnerait de l’argent avec un modèle économique s
 ### ***Qwant et ses nouveaux produits***
 
 Application mobile avec recherche privée et shopping sécurisé
-[![Image](/images/blog/nouvelle-application-qwant-502x298.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/nouvelle-application-qwant.jpg) Nouvelle application Qwant
+[![nouvelle-application-qwant-502x298.jpg](/images/blog/nouvelle-application-qwant-502x298.jpg) Nouvelle application Qwant
 
 Première application mobile du genre, avec un navigateur intégré « liberty » qui respectent l’anonymat et les données privées issues du parcours du visiteur. Comment cela est possible ? Avec un peu de techno. qui créée un coffre fort sécurisé à l’intérieur de l’application.
 
 Firefox pour Qwant
-[![Image](/images/blog/qwant-pour-firefox.png)](/images/blog/qwant-pour-firefox.png) Qwant pour Firefox
+[![qwant-pour-firefox.png](/images/blog/qwant-pour-firefox.png) Qwant pour Firefox
 
 Qwant a aussi pensé aussi au desktop avec ce cœur open source Mozilla/firefox customisé pour qwant, cela permet de retrouver ces favoris et autres carnets directement dans le navigateur et d’avoir vraiment une navigation qui prévilégie la neutralité et le respect de la vie privée. Ce navigateur est disponible pour windows, osx, et même linux.
 
@@ -58,7 +58,7 @@ Une des tâches les plus rude , c’est la construction de l’index d’un mote
 
 C’est du pur jus Qwant, tant sur l’indexation que pour le classement
 
-[![Image](/images/blog/extrait-social-467x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/extrait-social.png) Extrait des serp social de qwant
+[![extrait-social-467x300.png](/images/blog/extrait-social-467x300.png) Extrait des serp social de qwant
 
 Réservons un bel avenir à ce projet qui souhaite atteindre et dépasser les 10% du marché de la recherche en europe, alors bon vent à Qwant !
 

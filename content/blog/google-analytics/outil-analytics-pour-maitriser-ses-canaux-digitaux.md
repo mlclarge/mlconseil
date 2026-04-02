@@ -17,7 +17,7 @@ Un des responsables de cette solution de web analyse, M Fabien DUTRIEUX,  m’a
 
 Mazeberry Express a été créé pour répondre aux besoins des annonceurs de mesurer et optimiser leurs investissements e-marketing. La particularité de Mazeberry Express est d’attribuer les performances e-marketing à tous les canaux précédant les conversions. Notre technologie propose 7 modèles d’attribution ainsi que la possibilité de personnaliser les règles d’attribution.
 
-[![Image](/images/blog/attribution-01-310x161.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/attribution-01.gif) Attribution des Conversions / CA
+[![attribution-01-310x161.gif](/images/blog/attribution-01-310x161.gif) Attribution des Conversions / CA
 ### **Votre service a-t-il évolué depuis ?  Comment ?**
 
 Une première version de la solution a été éditée en 2011. Cette version fonctionnait par import de fichiers CSV issus de Google Analytics.
@@ -48,7 +48,7 @@ De plus, nous permettons aux annonceurs d’avoir une vision complète des perfo
 
 Enfin, les reporting de Mazeberry Express ont été réalisé avec une charte graphique moderne et épurée. Nous avons même développé un tableau de bord sous forme d’infographie.
 
-[![Image](/images/blog/screenshot-1-310x168.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/screenshot-1.gif) Synthèse analyse globale
+[![screenshot-1-310x168.gif](/images/blog/screenshot-1-310x168.gif) Synthèse analyse globale
 ### **Il est aujourd’hui aussi possible d’importer dans GA des données de cout de campagnes tierces via l’API via les « définitions personnalisées » (la bêta d’Universal Analytics étend même cette fonctionnalité). ****Quelle  est votre position face à ces améliorations de GA***** ?***
 
 L’intégration des données de coûts sur Google Analytics se fait de manière journalière car il s’agit d’un outil de pilotage. Vous ne pouvez donc pas indiquer à Google Analytics vos investissements hebdomadaires ou mensuels. Cet aspect est particulièrement contraignant si vous souhaitez mesurer votre ROI. De plus, la liaison par API entre Google Analytics et les données de coûts est assez fastidieuse, même avec une solution adaptée.

@@ -27,13 +27,13 @@ J’illustre ci-dessous par des captures d’écrans, 3 requêtes dans le moteur
 
 Parmi les premiers résultats, on observe une gradation dans les dates selon les évènements : pour la "crise de l’euro", Google fait remonter un article d’il y a 2 heures, pour le "rugby", 6 jours, et pour les "élections présidentielles 2012", 7 semaines…
 
-[![Image](/images/blog/crise-euro-serp-300x166.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/crise-euro-serp.png)
+[![crise-euro-serp-300x166.png](/images/blog/crise-euro-serp-300x166.png)
 
-[![Image](/images/blog/rugby_serp_google-300x232.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/rugby_serp_google.png)
+[![rugby_serp_google-300x232.png](/images/blog/rugby_serp_google-300x232.png)
 
  
 
-[![Image](/images/blog/2012_presidentielle_serp-300x268.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/2012_presidentielle_serp.png)
+[![2012_presidentielle_serp-300x268.png](/images/blog/2012_presidentielle_serp-300x268.png)
 
 Parmi les **premiers résultats**, on observe une gradation dans les dates selon les évènements : pour la crise de l’euro, Google fait remonter un article d’il y a 2 heures, pour le rugby, 6 jours, et pour les élections, 7 semaines…
 

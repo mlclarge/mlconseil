@@ -11,41 +11,41 @@ Je propose cette semaine un rapide petit tour sur les outils qui aident à  me
 
 Google analytics s’est amélioré depuis l’année dernière déjà, et peut faire remonter les données sur les pages de destination, à savoir** les évènements** qui ont eu lieu  (+1, favoris et conversations)  sur son réseau social et ailleurs.
 
-[![Image](/images/blog/evenements-social-310x140.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/evenements-social.jpg) Fig.1 Evènements sur contenu dans GA
+[![evenements-social-310x140.jpg](/images/blog/evenements-social-310x140.jpg) Fig.1 Evènements sur contenu dans GA
 
-[![Image](/images/blog/conversations-310x130.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/conversations.jpg) Fig. 2 GA Mesure les conversations dans Google +
+[![conversations-310x130.jpg](/images/blog/conversations-310x130.jpg) Fig. 2 GA Mesure les conversations dans Google +
 
 Une interaction peut être aussi mesurée par **un backink** par exemple (lien venant d’un site externe) qui amènent du trafic.
 
-[![Image](/images/blog/google2-310x115.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/google2.jpg) Fig. 3 Mesure du partage par un site référent dans GA
+[![google2-310x115.jpg](/images/blog/google2-310x115.jpg) Fig. 3 Mesure du partage par un site référent dans GA
 
 Restons sur Google, **une commande simple (allinurl)** peut faire aussi remontée la présence de liens externes pointant vers le blog.
 
-[![Image](/images/blog/commandes-google-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/commandes-google.jpg) Fig. 4 Commande Allinurl dans le moteur Google
+[![commandes-google-310x147.jpg](/images/blog/commandes-google-310x147.jpg) Fig. 4 Commande Allinurl dans le moteur Google
 
 Certains plugins, ici addthis pour Wordpress *(dont les données sont aussi accessibles depuis Google analytics)* en dehors de l’écosystème Google, peuvent aussi aider à tracker les partages d’urls.
 
-[![Image](/images/blog/addthis-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/addthis.jpg) Fig.5 Statistiques du Plugin Addthis
+[![addthis-310x189.jpg](/images/blog/addthis-310x189.jpg) Fig.5 Statistiques du Plugin Addthis
 
 Les clics sur les urls sont aussi mesurables à l’aide d’applications comme **[bitly](http://bitly.com/).**
 
-[![Image](/images/blog/bitly-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/bitly.jpg) Fig. 6 Statistiques de clics sur Urls raccourcies (bitly)
+[![bitly-310x143.jpg](/images/blog/bitly-310x143.jpg) Fig. 6 Statistiques de clics sur Urls raccourcies (bitly)
 
 L'engagement depuis les plateformes de microblogging comme Twitter sont identifiés avec les **RT, VIA et autres mentions @** . Ils sont accessibles depuis son profil twitter ou alors en passant par des apps comme [**Backtweets**](http://backtweets.com/).
 
-[![Image](/images/blog/backTweets-310x132.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/backTweets.jpg) Fig. 7 Reporting sur les partages d'1 Tweet sur Backtweets
+[![backTweets-310x132.jpg](/images/blog/backTweets-310x132.jpg) Fig. 7 Reporting sur les partages d'1 Tweet sur Backtweets
 
 La **mesure des liens** qui partagent un contenu est également identifiable à l’aide du moteur[** open site explorer**](http://www.opensiteexplorer.org/).
 
-[![Image](/images/blog/opensiteexplorer-310x254.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/opensiteexplorer.jpg) Fig. 8 Repérer par les urls les partages extérieurs
+[![opensiteexplorer-310x254.jpg](/images/blog/opensiteexplorer-310x254.jpg) Fig. 8 Repérer par les urls les partages extérieurs
 
 Un outil comme social crawlytics agrègent les contenus les plus partagés sur les réseaux sociaux.
 
-[![Image](/images/blog/socialCrawltracks-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/socialCrawltracks.jpg) Fig. 9 Les partages par réseaux sociaux dans SocialCrawlytics
+[![socialCrawltracks-310x204.jpg](/images/blog/socialCrawltracks-310x204.jpg) Fig. 9 Les partages par réseaux sociaux dans SocialCrawlytics
 
 Essayez aussi [Crowdbooster](https://crowdbooster.com/), il donne en 1 coup d'oeil un rapport sur votre présence sur Twitter, avec des alertes et recommandations très utiles.
 
-[![Image](/images/blog/crouwdbooster-310x129.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/crouwdbooster.gif) Fig. 10 Tableau de bord (RT,Mentions..) sur CrowdBooster
+[![crouwdbooster-310x129.gif](/images/blog/crouwdbooster-310x129.gif) Fig. 10 Tableau de bord (RT,Mentions..) sur CrowdBooster
 
 Au-delà de ces outils adhoc , des outils orientés « veille » peuvent donner des statistiques sur un plus long terme :
 

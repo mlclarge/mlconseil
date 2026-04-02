@@ -13,15 +13,15 @@ L’utilité de **Google analytics** comme outil de mesure de retour sur investi
 
 En ce qui concerne les **objectifs**, Il faut indiquer à Google analytics les nœuds de **valeur d’un site** et y affecter un montant, c’est facultatif mais conseillé, sinon, comment valoriser ses résultats ? Ces objectifs, ou **micro - conversions** sont de trois ordres : une page de destination (après abonnement à une lettre newsletter), la durée de visite, le nombre de pages consultées par visite, ok.
 
-[![Image](/images/blog/parametrages-objectifs-dans-google-2-310x217.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/parametrages-objectifs-dans-google-2.gif) Parametrages objectifs dans google
+[![parametrages-objectifs-dans-google-2-310x217.gif](/images/blog/parametrages-objectifs-dans-google-2-310x217.gif) Parametrages objectifs dans google
 
 Au-delà de ces 3 aspects liés à la **fréquentation d’une page**, il est possible de mesurer ce qui se passe sur cette page, les **différentes interactions** de l’internaute avec le contenu par exemple : clics sur boutons, taux de remplissage d’un formulaire, téléchargements de documents, liens sortants, internes etc. On y peut y affecter également une valeur.
 
-[![Image](/images/blog/evenements-analytics-310x75.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/evenements-analytics.gif) Evenements et valeurs dans GA
+[![evenements-analytics-310x75.gif](/images/blog/evenements-analytics-310x75.gif) Evenements et valeurs dans GA
 
 Pour les **valeurs de l’e-commerce**, il faut rajouter un code supplémentaire spécifique qui va récupérer les différentes valeurs du panier et les restituer sur une page de redirection (remerciement par exemple, une fois la transaction terminée). Bon, je ne m’appesantis pas sur le sujet ici. Une fois le code implémenté, notez les 2 valeurs que communique GA : le panier moyen, bon, rien à rajouter ici de particulier, tout bon commerçant connait son panier moyen (;)), la deuxième valeur indique **la valeur par visite**, un indicateur qui peut être pertinent pour l’élaboration de budget de campagnes (enchères liens sponsorisés) par exemple. Elle est calculée selon le montant des **transactions e-commerce** (CA) divisé par le nombre de visites, je préfèrerais le nombre de visiteurs uniques, plus pragmatique à mon goût. Même si un internaute ne laisse pas une valeur monétaire, cet indicateur en le segmentant (par source d'origine de  trafic)  aide à positionner ses objectifs marketing et commerciaux. Ce Kpi est aussi délivré pour les objectifs hors e-commerce pur. Quel levier apporte une valeur par visite la plus profitable finalement à mon business  ? Cette valeur répond à cette intérogation.
 
-[![Image](/images/blog/ecommerce-et-valeurs-310x111.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/ecommerce-et-valeurs.gif) Valeurs :transactions et visite
+[![ecommerce-et-valeurs-310x111.gif](/images/blog/ecommerce-et-valeurs-310x111.gif) Valeurs :transactions et visite
 
 **Ajout du 25/02 :** Il existe aussi une statistique intitulée **"valeur de la page**" . Cet indicateur donne la valeur d'une page  ou d'un ensemble de pages . Elle est égal à la valeur de la transaction de la page (si site ecommerce) plus la valeur totale des objectifs assignés à cette page , divisé par les nombre de page vues uniques.
 
@@ -48,18 +48,18 @@ Généralement, par défaut, les **leviers  standards** sont :
 
 GA donne ensuite, tous les chemins et leurs points de contacts respectifs qui ont amené à la conversion. On observera des points de contact, ou conversions indirectes, celles qui ne sont pas situées les dernières dans l’attribution, mais qui « ont contribué à ». Elles sont matérialisées par des rectangles en forme de flèches. Les attributions de la valeur de la transaction sont matérialisées par des formes rectangulaires.
 
-[![Image](/images/blog/entonnoirs-Multicanaux-310x47.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/entonnoirs-Multicanaux.gif) Les chemins multicanaux
+[![entonnoirs-Multicanaux-310x47.gif](/images/blog/entonnoirs-Multicanaux-310x47.gif) Les chemins multicanaux
 
 L’outil de modélisation de l’attribution, fonctionnalité autrefois payante dans Google analytics, est désormais accessible sur demande. Cet outil permet justement de jouer sur l’attribution de la valeur affectée aux différents canaux. Selon sa stratégie marketing, par exemple, il est peut être utile de pondérer l’importance que chaque canal joue dans la répartition de la valeur générée par la conversion. Voici un modèle «passe partout » utilisé, celui qui donne une valeur au plus proche de la conversion.
 
-[![Image](/images/blog/modele-attribution-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/modele-attribution.jpg) Un des modèles d'attribution
+[![modele-attribution-310x135.jpg](/images/blog/modele-attribution-310x135.jpg) Un des modèles d'attribution
 
 Sinon, trois modèles comparés sont utilisables simultanément, dans l’illustration ci-dessous, les modèles « 1ere interaction », « Dépréciation dans le temps » et « Dernière interaction » passe la valeur des conversions de chaque canal au tamis.
 
-[![Image](/images/blog/modeles-attributions-analytics-310x136.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/modeles-attributions-analytics.gif) Outil de modélisation
+[![modeles-attributions-analytics-310x136.gif](/images/blog/modeles-attributions-analytics-310x136.gif) Outil de modélisation
 
 Voici un dernier exemple ‘imagé’ avec le chemin original ou la réflexion se fait sur une campagne de mots clés (Marque « brand » et générique « g ») , puis son affectation d’un modèle « linéaire » qui répartit uniformément le chiffre d’affaires, ou alors un modèle personnalisé ou la marque « B » est affectée d’une pondération minimale au profit des mots clés génériques ‘G’.
 
-[![Image](/images/blog/attribution-analytics-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/attribution-analytics.jpg) Attribtuion: Pondération de la marque
+[![attribution-analytics-310x158.jpg](/images/blog/attribution-analytics-310x158.jpg) Attribtuion: Pondération de la marque
 
 Pour résumer notre propos, nous avons pu donc appréhender les **différents niveaux de valeurs** possibles pour analyser un flot de clics, ceux pour les objectifs, les interactions, les transactions (of course) et enfin,  les canaux d’acquisition.

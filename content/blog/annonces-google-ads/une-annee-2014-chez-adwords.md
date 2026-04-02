@@ -52,7 +52,7 @@ L’année s’achève sur l’annonce que  Google pourrait  se [lancer dans l
 
  	- Fonctionnalité **web to store **: [https://support.google.com/merchants/answer/3057972](https://support.google.com/merchants/answer/3057972)
 
-[![Image](/images/blog/annonces-shopping-usa-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/annonces-shopping-usa.jpg) Annonces Avis Shopping Usa (étoilées)
+[![annonces-shopping-usa-310x169.jpg](/images/blog/annonces-shopping-usa-310x169.jpg) Annonces Avis Shopping Usa (étoilées)
 ## **Campagnes Vidéos  sur Youtube **
 
  	- 9 changements principaux pour les **campagnes pour les vidéos** avec la disparition du format d’annonces « insearch » : https://www.mauricelargeron.com/google-pousse-la-recherche-youtube-pour-ces-annonceurs-videos/
@@ -73,7 +73,7 @@ Voici les principaux changements sur ce réseau :
 
  	- Une application mobile dédiée au Tpe pour la gestion de campagne : [https://www.mauricelargeron.com/une-application-pour-google-adwords/](https://www.mauricelargeron.com/une-application-pour-google-adwords/)
 
-[![Image](/images/blog/listen-to-ads-310x274.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/listen-to-ads.jpg) Extensions automatiques (avis) et annonces "écoute"
+[![listen-to-ads-310x274.jpg](/images/blog/listen-to-ads-310x274.jpg) Extensions automatiques (avis) et annonces "écoute"
 ## **Plateforme adwords**
 
 ### **Gestion des campagnes***
@@ -103,7 +103,7 @@ Variante de mots clés
 
  	- Rapports : Belle arlésienne que l’arrivée du drag and drop pour les **rapports croisés dynamiques et graphique** dans l’interface, peut être pour le nouvel an ?
 
-[![Image](/images/blog/biblio-partagee-310x253.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/biblio-partagee.jpg) La bibliotheque partagee
+[![biblio-partagee-310x253.jpg](/images/blog/biblio-partagee-310x253.jpg) La bibliotheque partagee
 ## **Outils  Annexes **
 
  	- Editer des rapports simples et pratiques : https://www.mauricelargeron.com/un-reporting-graphique-en-2-clics-pour-adwords/

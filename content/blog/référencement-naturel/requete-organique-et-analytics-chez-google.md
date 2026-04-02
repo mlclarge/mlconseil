@@ -9,7 +9,7 @@ slug: "requete-organique-et-analytics-chez-google"
 
 Je reviens ici sur un podcast de Rand Fishkin du site Seomoz au sujet de l'annonce de Google : les statistiques de recherche des internautes identifiés (logués)  sur le moteur de recherche ne seront plus remontées dans les outils d'analyse de clics *(webtrends, omniture, Google analytics)*. Elles pourront néanmoins être quantifiées puisqu'elles porteront le Tag « **not provided** » *(voir image ci-dessous)*.
 
-[![Image](/images/blog/24-10-2011-10-58-05-150x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/24-10-2011-10-58-05.jpg)
+[![24-10-2011-10-58-05-150x150.jpg](/images/blog/24-10-2011-10-58-05-150x150.jpg)
 
 Google justifie cette décision et indique vouloir protéger les données privées des utilisateurs de compte Google.
 

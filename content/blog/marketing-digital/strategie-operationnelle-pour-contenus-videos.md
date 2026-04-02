@@ -18,7 +18,7 @@ Après avoir vu l’essentiel sur la nécessité d’[auditer et de benchmarker 
 
 Ensuite, quelle est la stratégie de ciblage sur l’audience trouvée ? Voici une idée de segmentation connue préconisée et utilisée par les plus grandes marques avec ce Framework made by Google : Héro, Hub, Hygiène.
 
-[![Image](/images/blog/3H-hero-hu-hygiene-502x167.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/3H-hero-hu-hygiene.jpg) Hero Hub et Hygiène Framework
+[![3H-hero-hu-hygiene-502x167.jpg](/images/blog/3H-hero-hu-hygiene-502x167.jpg) Hero Hub et Hygiène Framework
 
  	- Héro : c’est du contenu top ! Le contenu est travaillé et porté par des relais d’opinion connus dans la thématique, c’est du contenu insolite dont l’objectif est d’attirer le plus grand nombre de vues. (Samsung)
 
@@ -38,7 +38,7 @@ Ensuite, quelle est la stratégie de ciblage sur l’audience trouvée ? Voici 
 
  	- Mettre des annotations sur les vidéos
 
-[![Image](/images/blog/pitchy-502x239.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/pitchy.jpg) Pitchy : la création facile
+[![pitchy-502x239.jpg](/images/blog/pitchy-502x239.jpg) Pitchy : la création facile
 
  	- Poser des liens cliquables pendant le visionnage.
 
@@ -78,7 +78,7 @@ Ensuite, quelle est la stratégie de ciblage sur l’audience trouvée ? Voici 
 
 Noter donc que le temps de  rétention, facteur majeur : le nombre de vues n’est pas l’essentiel, l’algorithme « watch time » , le temps passé, est l’élément déterminant.
 
-[![Image](/images/blog/youtube-cards-502x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/youtube-cards.jpg) Favoriser l'abonnement en fin de vidéo
+[![youtube-cards-502x230.jpg](/images/blog/youtube-cards-502x230.jpg) Favoriser l'abonnement en fin de vidéo
 
  	- Favoriser l’abonnement suite visionnage avec des cards par exemple, c'est ajout de liens externes.
 
@@ -94,7 +94,7 @@ Noter donc que le temps de  rétention, facteur majeur : le nombre de vues n�
 
  	- Dénicher une chaine communautaire
 
-[![Image](/images/blog/chaines-communautaires.jpg)](/images/blog/chaines-communautaires.jpg) Chaines communautaires
+[![chaines-communautaires.jpg](/images/blog/chaines-communautaires.jpg) Chaines communautaires
 ### ***Ensuite à envisager la création d’une  « chaîne »***
 
  	- Pourquoi créer une chaîne finalement ? C'est un peu l'équivalent d'une page facebook pour un profil, cela professionnalise et apporte des statistiques qui qualifie une audience donc permet au final de :
@@ -131,11 +131,11 @@ https://www.youtube.com/watch?v=QEiCCe8L-zA
 
 Ensuite utiliser les leviers des chaînes vidéo et des agences de communication spécialisée dans l'accompagnement des artistes.
 
-[![Image](/images/blog/acteurs-et-roles-écosysteme-vidéo-498x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/acteurs-et-roles-écosysteme-vidéo.jpg) Accompagnements et services pour les Youtubers et autres daily, viméo makers
+[![acteurs-et-roles-écosysteme-vidéo-498x300.jpg](/images/blog/acteurs-et-roles-écosysteme-vidéo-498x300.jpg) Accompagnements et services pour les Youtubers et autres daily, viméo makers
 
 Faire usage d’acteurs tel que les MCN avec des acteurs comme webedia et leur agence et régie publicitaire talent web qui vont porter les créateurs de contenus comme les stars françaises du moment : norman, cyprien, squeezie.
 
-[![Image](/images/blog/acteurs-videos-francais-502x245.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/01/acteurs-videos-francais.jpg) Acteurs Ecosystème videos francais
+[![acteurs-videos-francais-502x245.jpg](/images/blog/acteurs-videos-francais-502x245.jpg) Acteurs Ecosystème videos francais
 
 Ce marché très convoité s'est concentré en 2015, par des achats successifs comme celui de **webedia** sur mixicom (agence de production pour les YT)
 https://www.youtube.com/watch?v=L34e8UwmsEA

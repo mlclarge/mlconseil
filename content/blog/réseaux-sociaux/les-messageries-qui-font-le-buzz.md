@@ -12,7 +12,7 @@ La dernière conférence [F8 de Facebook ](https://developers.facebook.com/video
 
 ## **Domination de la côte est avec la Galaxie Facebook en tête !**
 
-[![Image](/images/blog/planete-facebook.jpg)](/images/blog/planete-facebook.jpg)
+[![planete-facebook.jpg](/images/blog/planete-facebook.jpg)
 
 Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliards de messages entre ces 2 canaux : Messenger et WhatsApp. Soit bien plus que tous les sms envoyés dans le monde par jour. Les vidéos live multiplient par 3 le temps passé devant le contenu. les utilisateurs de Facebook aurait visionné 1 million d'heures avec le casque Samsung vr géra, arme de marc Zuckerberg qui croit et mise à fond sur la réalité virtuelle. Le nombre de vidéos postées sur Facebook a augmenté de 75% en 2015 ! L'edge rank, l’algorithme du réseau social, par la priorité donnée  à la viralité, favorise l'exposition organique à des posts vidéo plutôt que photo, 135% de plus en moyenne. Comme les éditeurs de contenus souhaitent en savoir plus sur comment Facebook calcule ses statistiques, les nouveaux métriques de visionnage ont changé passant de 3 secondes à 10 secondes, avec un décompte sur les vues avec ou sans son, avec le nombre total de minutes visionné. Mais revenons ces apps par ordre chronologique.
 
@@ -34,7 +34,7 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
 
  	- Divers : Facebook est récemment rentré en conflit avec l’état brésilien qui par 2 fois à coupé l’accès pendant plusieurs dizaines d’heures à l’application. Le réseau ne souhaitant pas collaborer avec le gouvernement concernant la traque de réseau maffieux.
 
-[![Image](/images/blog/wahtsapps-310x172.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/wahtsapps.jpg) Campagne Whatsapp au brésil
+[![wahtsapps-310x172.jpg](/images/blog/wahtsapps-310x172.jpg) Campagne Whatsapp au brésil
 ### ***Instagram***
 
  	- Histoire : Issus des cerveaux de Kevin Systrom et Mike Kriege en 2009 ,  Une semaine après le lancement, l’application compte 200 000 utilisateurs, en décembre 2010  un million de mobinautesse servent d’ Instagram. L’application ne propose pas de live mais utilise la vidéo dans son usage depuis juin 2013.
@@ -49,7 +49,7 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
 
  	- France : 5,5 millions avec liens avec utilisateurs de Facebook
 
-[![Image](/images/blog/instagram-310x238.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/instagram.jpg) Instagram Un média pas live mais qui le devient..
+[![instagram-310x238.jpg](/images/blog/instagram-310x238.jpg) Instagram Un média pas live mais qui le devient..
 ### ***Facebook Messsenger***
 
  	- Histoire : Aout 2011, lancement du chat et messagerie mobile de facebook. qui préfigure le modèle économique du réseau social mondial qui prépare son entrée en bourse 8 mois plus tard.
@@ -64,7 +64,7 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
 
  	- L’application s’insère de plus en plus dans les usages quotidien non seulement avec ces bots dit intelligents mais aussi via l’api qui permet de relier des services comme ceux de transports , de supports…
 
-[![Image](/images/blog/messenger-310x274.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/messenger.jpg) Messenger à la sauce Sncf
+[![messenger-310x274.jpg](/images/blog/messenger-310x274.jpg) Messenger à la sauce Sncf
 ### *Facebook live pour les pages*
 
  	- Naissance  : Dernière née  en ce début aout 2015 sur des pages de personnes célèbres aux US cette application vient contrecarrer celles déjà présentes de la vidéo instantanée  comme périscope (voir plus bas) et meerkat. Elle est disponible depuis quelques mois sur l'ensemble des propriétaires de pages sur facebook
@@ -83,10 +83,10 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
 
  	- Buzz : une vidéo live sur l’éclatement d’une pastèque, élaborée par 2 journalistes de buzzfeed, avec une audience de 800 000 personnes, et ensuite 10 millions de vues en différé.
 
-[![Image](/images/blog/facebook-live-video-310x225.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/facebook-live-video.jpg) Les chiffres du live Facebook
+[![facebook-live-video-310x225.jpg](/images/blog/facebook-live-video-310x225.jpg) Les chiffres du live Facebook
 ## **Un second  #GAFA qui arrive à la bourre**
 
-### ***YouTube #live Connect [![Image](/images/blog/yt-connect.png)](/images/blog/yt-connect.png)***
+### ***YouTube #live Connect [![yt-connect.png](/images/blog/yt-connect.png)***
 
  	- Historique : Arrivée prévue pour fin Mai 2016, dernière arrivée dans les applications live vidéo mais avec beaucoup d’ambition
 
@@ -100,10 +100,10 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
 
  	- Utilisateurs actifs France : 23 millions
 
-[![Image](/images/blog/type-de-contenus-268x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/type-de-contenus.jpg) Place du live et de la vidéo en général
+[![type-de-contenus-268x300.jpg](/images/blog/type-de-contenus-268x300.jpg) Place du live et de la vidéo en général
 ## **Les outsiders de la vidéo live éphémère ou pas **
 
-### ***Snapchat #live [![Image](/images/blog/snapchat.png)](/images/blog/snapchat.png)***
+### ***Snapchat #live [![snapchat.png](/images/blog/snapchat.png)***
 
  	- Story : Septembre 2011, similarité avec histoire de Facebook, 2 étudiants université standford Spiegel et Murphy etc..résoudre la viralité de contenus sensibles, par une présence éphémère.
 
@@ -126,7 +126,7 @@ Avec sa galaxie de **messageries**, Facebook aurait cumulé plus de  60 milliar
  	- Faits divers : refus consécutifs de rachat par Facebook, Google. L’équipe Snapchat exigerait une équipe d’une dizaine de rédacteurs pour alimenter les discoveries, aucun média Français n’a encore été tenté par l’aventure, dont les contenus sont essentiellement alimentés par des médias américains.
 
 https://www.youtube.com/watch?v=6ROxiYTVJyI
-### ***Périscope [![Image](/images/blog/periscopte.png)](/images/blog/periscopte.png)***
+### ***Périscope [![periscopte.png](/images/blog/periscopte.png)***
 
  	- Histoire : création le 28 mars 2015. Pour faire face à Facebook live, Periscope amorce un enlève le délai de 24 heures pour les contenus. Vient ensuite s’ajouter un moteur de recherche  puis une intégration du service dans les modèles de drones de la marque DJI.
 
@@ -142,6 +142,6 @@ https://www.youtube.com/watch?v=6ROxiYTVJyI
 
  	- Faits divers : le joueur du psg, Serge aurier, le live du compte de l’Elysée où F hollande en déplacement dans une start up parisienne a été insulté lors du streaming, l’affaire SAV de SFR
 
-[![Image](/images/blog/periscope-nuit-debout-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/periscope-nuit-debout.jpg) Le périscopeur un média à part entière
+[![periscope-nuit-debout-310x178.jpg](/images/blog/periscope-nuit-debout-310x178.jpg) Le périscopeur un média à part entière
 
 Tout reste à faire sur ces nouveaux modèles ou chaque mobinautes devient média d’une marque, d’une cause, d’un évènement éphémère, d’un moment privilégié. Les chats bots et certainement les futures bots stores préfigurent ce que sera demain la consommation en mobilité. Les GAFA sont déjà sur les rangs , et les rattraper depuis notre europe semble bien compromis. La chine avec wechat et tencent sont déjà bien à maturité sur ces messageries où  les américains n’hésitent pas à trouver des inspirations pour leur propre développement d’applications.

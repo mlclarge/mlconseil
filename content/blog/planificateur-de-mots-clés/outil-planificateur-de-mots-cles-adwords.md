@@ -41,7 +41,7 @@ Une des fonctionnalités que les gestionnaires de campagnes attendaient avec imp
 
 ### ***Des mots clés pour avoir des idées de terme*s**
 
-[![Image](/images/blog/champ-de-recherche-outil-mot-cle-adwords-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/champ-de-recherche-outil-mot-cle-adwords.jpg) 
+[![champ-de-recherche-outil-mot-cle-adwords-310x173.jpg](/images/blog/champ-de-recherche-outil-mot-cle-adwords-310x173.jpg) 
 Champ de recherche multiple pour outil mot cle adwords
 
 L’approche se veut en terme d’user interface très simple avec 1 champ de recherche. A partir du moment où l’on rentre jusqu’à 3 mots clés successifs ou une url, la recherche peut démarrer.
@@ -54,21 +54,21 @@ Ensuite on est basculé, voire menu de gauche, sur un tableau de bord assez four
 
  	- 3 : Le seo s’invite, menu de gauche  et c’est sans doute le plus de cette nouvelle interface de l’outil, avec le taux d’impression naturelle et la position naturelle observée. Bon il ne faut pas trop rêver  ici, 6.4 c’est un peu aléatoire, car même recoupée avec les données SEO/SEA, ce compte est loin de posséder une telle visibilité. Donc à prendre avec des pincettes, je dirai comme toujours quand il s’agit de délivrer des données sur son moteur et cela depuis 2011, date de l’instauration du « not provided ».
 
-[![Image](/images/blog/2018-03-16_09-14-08-502x242.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/2018-03-16_09-14-08-e1521198523746.jpg) Nouvelle interface planificateur de mots clés adwords
+[![2018-03-16_09-14-08-502x242.jpg](/images/blog/2018-03-16_09-14-08-502x242.jpg) Nouvelle interface planificateur de mots clés adwords
 
 Le plan d’ensemble  sur le menu de gauche  donne des prévisions sur les Kpis principaux : clics, impressions, couts, ctr, cpc moyen.
 
-[![Image](/images/blog/plan-mot-cles-adwords-502x238.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/plan-mot-cles-adwords.jpg) Plan de mot cles
+[![plan-mot-cles-adwords-502x238.jpg](/images/blog/plan-mot-cles-adwords-502x238.jpg) Plan de mot cles
 
 A noter qu’il est possible  en plus d’un cpc par défaut, d’en définir un personnalisé en cliquant sur le montant du cpc max (pas forcément évident à voir). Vient ensuite la possibilité de placer ces mots dans un groupe d’annonces
 
-[![Image](/images/blog/groupe-annonce-mots-cles-adwords-502x257.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/groupe-annonce-mots-cles-adwords.jpg) Création Groupe d'annonces
+[![groupe-annonce-mots-cles-adwords-502x257.jpg](/images/blog/groupe-annonce-mots-cles-adwords-502x257.jpg) Création Groupe d'annonces
 
 Le dernier rapport de l’outil récapitule par mots clés à la fois les prévisions et statistiques historiques
 ### ***Avoir des Statistiques et prévisions sur des termes choisis***
 
 La différence s’est que la recherche se concentre uniquement sur le terme entré dans le champ. Et la vue d’ensemble du plan tient compte du cpc max du compte ou des groupes d’annonces avec la même devise.
 
-[![Image](/images/blog/recherche-par-mots-cles-489x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/recherche-par-mots-cles.jpg) Vue rapport recherche par mots cles
+[![recherche-par-mots-cles-489x300.jpg](/images/blog/recherche-par-mots-cles-489x300.jpg) Vue rapport recherche par mots cles
 
 Voilà pour aujourd'hui !

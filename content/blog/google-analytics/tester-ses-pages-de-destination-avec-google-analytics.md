@@ -9,26 +9,26 @@ slug: "tester-ses-pages-de-destination-avec-google-analytics"
 
 Google abandonne son application de test A/B pour un nouvel outil natif, appelé "Tests" A/B/N, et accessible depuis **Google Analytics **. L'optimiseur de site ancienne version sera disponible jusqu'au 1 aout prochain. Je rappelle que cet outil sert à tester des mises en page * (titres, images, textes, incitation, variantes de disposition d'éléments d'une  page)* afin de définir lesquelles sont les plus susceptibles d'atteindre les objectifs de conversions * (achat, remplir un formulaire, visiter une page..).* Pour y accéder,  c'est par ici !
 
-[![Image](/images/blog/menu-Ga-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/menu-Ga.png)
+[![menu-Ga-150x150.png](/images/blog/menu-Ga-150x150.png)
 ## 5 étapes pour la mise en place de l’outil "Tests" Google Analytics.
 
 	- Avoir ouvert un compte Google analytics (gratuit) et définir des objectifs quantifiables
 
 	- Définir les pages à tester
 
-[![Image](/images/blog/optimiseur-site-pages-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/optimiseur-site-pages.png)
+[![optimiseur-site-pages-150x150.png](/images/blog/optimiseur-site-pages-150x150.png)
 
 	- Choisir ses objectifs de conversion associés au test (url de destination ou évènements)
 
-[![Image](/images/blog/optimiseur-options-de-test-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/optimiseur-options-de-test.png)
+[![optimiseur-options-de-test-150x150.png](/images/blog/optimiseur-options-de-test-150x150.png)
 
 	- Ajouter une portion de code de suivi sur la page originale à tester
 
-[![Image](/images/blog/codeAinserer-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/codeAinserer.png)
+[![codeAinserer-150x150.png](/images/blog/codeAinserer-150x150.png)
 
 	- Vérifier la bonne configuration. L'outil est très intuitif (prévisualisation), et facile à mettre en place.
 
-[![Image](/images/blog/testeur-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/testeur.png)
+[![testeur-150x150.png](/images/blog/testeur-150x150.png)
 
 ## Les caractéristiques principales de cet optimiseur de pages html.
 
@@ -42,7 +42,7 @@ Google abandonne son application de test A/B pour un nouvel outil natif, appelé
 
 	- Suivre les performances de ces pages par rapport à la page originale.
 
-[![Image](/images/blog/rapport_suivi_optimiseur_site-150x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/06/rapport_suivi_optimiseur_site.png)
+[![rapport_suivi_optimiseur_site-150x150.png](/images/blog/rapport_suivi_optimiseur_site-150x150.png)
 
 Ce rapport donne le nombre de visites, le temps depuis l'initialisation du test, l'échantillonnage des visiteurs. Une **segmentation** est possible par visites, conversions, taux de conversions.En revanche, je n'ai pas vu de possibilité de mettre en pause *(le précédent outil le proposait)* mais seulement l'arrêt de l'expérience. Un indicateur donne aussi la position gagnante en cours de test.
 

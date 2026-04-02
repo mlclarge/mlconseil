@@ -12,7 +12,7 @@ Ce n’est pas le sujet dont les marketeurs raffolent, mais pourtant, parfois il
 
 **Petit schéma pour rappeler le principe de la syntaxe**
 
-[![Image](/images/blog/fig.61-Reg-ex-Mots-cles-3-mots-310x146.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/fig.61-Reg-ex-Mots-cles-3-mots.png) Schéma de principe : significations des RegEx
+[![fig.61-Reg-ex-Mots-cles-3-mots-310x146.png](/images/blog/fig.61-Reg-ex-Mots-cles-3-mots-310x146.png) Schéma de principe : significations des RegEx
 
 Pour les débutants, pour **débuter avec à les expressions régulières** , allez  [ ici ](https://www.mauricelargeron.com/regex-pour-analyser-son-audience/)
 ## **Outil  pour tester les regex et Google analytics**
@@ -21,11 +21,11 @@ Les expressions régulières sont présentes dans tous les langages de programma
 
 Ils existent bon nombre d’outils en ligne pour tester les regex, j’en citerai 1: http://regexr.com/  il est vraiment pratique, anglophone, mais bien fait. Sur une interface en 3 parties dont : le filtre regex, les correspondances par rapport aux chaines de caractères et ensuite les explications en dernière partie de tableau. Par simple « roll over » il est possible de comprendre l’utilité de chacun des signes d’une expression, son étendue.
 
-[![Image](/images/blog/regexr.com_-480x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/regexr.com_.jpg) Outil **regexp**
+[![regexr.com_-480x300.jpg](/images/blog/regexr.com_-480x300.jpg) Outil **regexp**
 
 Alors une petite réserve, les outils en ligne sont bien pour apprendre à faire la syntaxe, mais ensuite il faut tester dans Google analytics directement, au niveau des filtres de tables qui donnent directement le résultat du tri. Le moteur de regex de GA est spécifique à GA et il peut y avoir des décalages de résultats.
 
-[![Image](/images/blog/GOOGLE-ANALYTICS-EXPRESSIONS-REGULIERES-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/GOOGLE-ANALYTICS-EXPRESSIONS-REGULIERES.jpg) Tester dans GA
+[![GOOGLE-ANALYTICS-EXPRESSIONS-REGULIERES-310x135.jpg](/images/blog/GOOGLE-ANALYTICS-EXPRESSIONS-REGULIERES-310x135.jpg) Tester dans GA
 ## **8 expressions pour y voir plus clair dans ses urls**
 
  	- 
@@ -56,7 +56,7 @@ Alors une petite réserve, les outils en ligne sont bien pour apprendre à faire
 
  	- Résultat du tri : /evolution-du-marketing/amp/
 
-[![Image](/images/blog/amp-filtre-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/03/amp-filtre.jpg) Champ dont le dernier chemin est constitué par 3 caracteres
+[![amp-filtre-310x212.jpg](/images/blog/amp-filtre-310x212.jpg) Champ dont le dernier chemin est constitué par 3 caracteres
 
  	- 
 ### ***Objectif :  urls avec des pages profondes***

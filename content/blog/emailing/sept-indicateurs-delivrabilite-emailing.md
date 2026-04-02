@@ -10,7 +10,7 @@ image: "/images/blog/delivrabilite-emailing.jpg"
 
 Pourquoi s’intéresser à certains signaux méconnus de ce vieux canal d’acquisition qu’est l’**emailing** ? Parce ce que l’E-mail est encore loin d’avoir fini sa carrière !  L’arrivée des e-mails au format AMP dans gmail en est la preuve. Les réseaux sociaux d’entreprises (RSE, facebook At Work , Yammer), les messageries collaboratives  (Slack), les messageries instantanées (Fbook Messenger) n’ont pas mis au placard ce dinosaure (**@**) de la communication numérique. Les derniers chiffres sont éloquents, et les projections ne montrent pas une diminution mais plutôt une croissance des emails envoyés chaque jour d’ici les 5 prochaines années jusqu’en 2022.
 
-[![Image](/images/blog/2018-03-30_12-02-23-310x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/2018-03-30_12-02-23.jpg) Tendances de l'emailing
+[![2018-03-30_12-02-23-310x280.jpg](/images/blog/2018-03-30_12-02-23-310x280.jpg) Tendances de l'emailing
 ## **7  indicateurs méconnus de la délivrabilité en 2018**
 
 Alors pourquoi parle-t-on d’indicateurs cachés ? Car peut vulgarisés et souvent maîtrisés au niveau des opérateurs de messagerie, pas au niveau de la machinerie d’envoi.
@@ -45,7 +45,7 @@ Je m’appuie sur le document édité par la société Return Path, spécialiste
 
 *« Le taux de signalement comme non-spam correspond au nombre de fois qu'un abonné marque un message comme n'étant pas du spam par rapport au nombre d'emails remis dans le dossier Courriers indésirables. Le taux de signalement comme non-spam global s'élevait à 1,77 % en 2017»*
 
-[![Image](/images/blog/indicateurs-emails-310x227.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/indicateurs-emails.jpg) Moyenne des indicateurs méconnus de déliivrabilité
+[![indicateurs-emails-310x227.jpg](/images/blog/indicateurs-emails-310x227.jpg) Moyenne des indicateurs méconnus de déliivrabilité
 
 *Legende tableau Il en ressort selon le tableau récapitulatif que la distribution et la fabrication est la thématique gagnante *
 
@@ -55,7 +55,7 @@ Selon la dernière enquête Dolist/Adetem , cinq indicateurs sont suivis princip
 
 On notera dans cette enquête que plus de la moitié des professionnels ne font pas attention au retour sur investissement de ce canal.
 
-[![Image](/images/blog/kpis-emailing-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/kpis-emailing.jpg) kpis emailing standards
+[![kpis-emailing-310x211.jpg](/images/blog/kpis-emailing-310x211.jpg) kpis emailing standards
 ### ***Pour se procurer l’étude complète Return Path***
 
  	- [*https://returnpath.com/fr/ressources/*](https://returnpath.com/fr/ressources/)

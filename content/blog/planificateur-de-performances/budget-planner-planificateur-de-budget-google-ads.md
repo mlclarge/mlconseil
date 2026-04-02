@@ -48,15 +48,15 @@ Pour  fournir des prévisions les plus précises possibles, ce planificateur de
 
 Je souhaite savoir la prédiction des conversions pour une période trimestrielle ici du 1er mai au 31 juillet 2019, ce 12/04/2019, pour une dépense stable prévue de 695 euros  en fonction d'un historique des dépenses enregistrées sur une période similaire ici de janvier /mars 2019 (695 eur/mois). Au niveau de « créer un plan de budget » il vous propose arbitrairement une période similaire mais qui n’est pas forcément la vôtre (point « 5 » dans l’illustration), vous pouvez vous en servir pour avoir une idée des dépenses si c’est l’objectif visé, et ensuite une fois le plan calculé, modifier cet élément plus tard.
 
-[![Image](/images/blog/tuto-budget-planner.jpg)](/images/blog/tuto-budget-planner.jpg) Configuration d'un plan budgétaire
+[![tuto-budget-planner.jpg](/images/blog/tuto-budget-planner.jpg) Configuration d'un plan budgétaire
 
 Il vous sort une « prévision du plan » . Je constate que par rapport à mes dépenses actuelle du moment, avec une dépenses de 695 euros sur la période, j’aurais +26 de conversion pour un coût supplémentaire de 1,18 euros/conversion.
 
-[![Image](/images/blog/prévision-du-plan.jpg)](/images/blog/prévision-du-plan.jpg) Prévisions du plan
+[![prévision-du-plan.jpg](/images/blog/prévision-du-plan.jpg) Prévisions du plan
 
 Je peux aussi intervenir dans les suggestions, au niveau du volume de conversions, dépenses souhaitées, etc...On peut aussi moduler son historique des taux de conversions, pour calmer ses ardeurs toujours optimistes. Du coup , cela changer le cpa moyen, le volume en conséquence des conversions.
 
-[![Image](/images/blog/comparaison-du-planificateur-de-budget.jpg)](/images/blog/comparaison-du-planificateur-de-budget.jpg) Comparaison du planificateur de budget
+[![comparaison-du-planificateur-de-budget.jpg](/images/blog/comparaison-du-planificateur-de-budget.jpg) Comparaison du planificateur de budget
 ## **Comment bénéficier du planificateur de budget ?**
 
 ### ***Campagnes google ads compatibles avec les prévisions***

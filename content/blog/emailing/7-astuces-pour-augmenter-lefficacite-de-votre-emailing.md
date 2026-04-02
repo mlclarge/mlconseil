@@ -24,7 +24,7 @@ De plus, il faut toujours avoir à l’esprit que la première impression est la
 ## **Insérer une image**
 
 En règle générale il vaut mieux insérer une image dans votre email plutôt que pas. C’est un peu comme la couleur, elle apporte une valeur ajoutée à votre communication.
-[![Image](/images/blog/outil-canvas-502x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/outil-canvas.jpg) Outil canvas
+[![outil-canvas-502x192.jpg](/images/blog/outil-canvas-502x192.jpg) Outil canvas
 
 Il est important de respecter certaines règles afin que vos images s’affichent correctement sur toutes les messageries.
 
@@ -40,7 +40,7 @@ Afin que vos emails puissent s’ouvrir et être lu à la fois sur un ordinateur
 Ce paramètre est essentiel à prendre en compte lorsque l’on sait qu’environ 61% des emails sont consultés à partir d’un smartphone. Et sans doute, ce pourcentage continuera à augmenter dans les années à venir. 
 
 Il devient donc essentiel de faire en sorte que les emails envoyés soient design responsive afin de pouvoir être ouvert et lus sur n’importe quel support.
-[![Image](/images/blog/design-emailing-502x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/design-emailing.jpg) design emailing
+[![design-emailing-502x244.jpg](/images/blog/design-emailing-502x244.jpg) design emailing
 
 Pour créer un email compatible il n’est pas nécessaire d’être un expert en Html/Css. Sur le marché, vous trouverez des logiciels d’email marketing qui offrent des modèles d’emailing responsive que vous pouvez modifier et qui feront tout à fait l’affaire pour votre campagne.
 

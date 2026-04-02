@@ -9,7 +9,7 @@ slug: "analyse-avancee-du-suivi-internaute-de-son-site"
 
 Intéressons-nous cette semaine aux variables personnalisées du visiteur, une façon plus approfondie de considérer l'analyse visiteur évoquée dans l'article précédent. Le visiteur constitue une donnée que Google analytics nous restitue par défaut  avec des rapports comme ceux portant sur « l' Audience  (voir fig. 1) ».  Les  informations  dîtes « standard » du visiteur sont  ces **visites**, son type (nouveau ou non) , ses** pages vues** , sa provenance (ville, langue, région). D'autre rapports dans GA font aussi découvrir ** le canal**  par lequel il provient *(Google, un favoris, ailleurs ?)*, son cheminement dans le site* (flux , entonnoir de conversion)* . Google analytics  est  incapable cependant de faire une segmentation plus fine d’entrée de jeu, il faudra l’y aider.. Vous allez me dire, quoi savoir de plus ? Eh bien, une multitude d’autres données liées directement de ce que vous proposez dans votre site !
 
-[![Image](/images/blog/fig1-audience-google-analytics-300x182.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig1-audience-google-analytics.png)
+[![fig1-audience-google-analytics-300x182.png](/images/blog/fig1-audience-google-analytics-300x182.png)
 ## **Quels peuvent être les données plus avancées que celles rapportées déjà en  « standard » dans GA ?**
 
 Par exemple, dans le cadre d’un site e-commerce, il peut être utile de connaître sur cette population de visiteurs acheteurs, ceux qui :
@@ -36,14 +36,14 @@ Vous l’avez donc compris, ces variables personnalisées sont donc un **moyen d
 
 Selon donc nos souhaits de personnalisation, il conviendra de rajouter un bout de code dans l’élément suivi  *(qui qualifie le segment  « visiteur » perso. à rajouter)* par exemple : une page, un lien, un champ de formulaire, une section d’un  site *(correspondant à un répertoire de l’arborescence d‘un site).  *Ces  variables devront être paramétrées selon les 3 champs d’application (fig.2)  imposés par Google qui sont le visiteur, la session (ou visite) ou la page.
 
-[![Image](/images/blog/Fig2-variablesPersonnalisees-300x181.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/Fig2-variablesPersonnalisees.png)
+[![Fig2-variablesPersonnalisees-300x181.png](/images/blog/Fig2-variablesPersonnalisees-300x181.png)
 **Installation du code de suivi**
 
 Théorie
 
 Le code devra être placé avant** la fonction trackPageView** dans la partie   (voir fig.3)
 
-[![Image](/images/blog/fig3-codeSuiVariablePerso-300x23.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig3-codeSuiVariablePerso.png)
+[![fig3-codeSuiVariablePerso-300x23.png](/images/blog/fig3-codeSuiVariablePerso-300x23.png)
 
 **Définition d’une variable personnalisée**
 
@@ -87,7 +87,7 @@ Pratique 
 
 Les variables personnalisées sont orientées segmentations *(profils)*  alors que les évènements jaugent plus les actions ou agissements ponctuels des visiteurs *(motivations)*. Le tableau réalisé ci-dessous par Daniel Roch, de [Seomix](http://www.seomix.fr/guide-customs-variables/),  dans son excellent article à sur ce sujet,  est très utile pour comprendre cette distinction (fig.4).
 
-[![Image](/images/blog/fig.4-variablesPerComparatif-239x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig.4-variablesPerComparatif.png)
+[![fig.4-variablesPerComparatif-239x300.png](/images/blog/fig.4-variablesPerComparatif-239x300.png)
 
 Plus d’infos :
 

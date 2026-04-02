@@ -13,7 +13,7 @@ Un semestre s’est déjà écoulé depuis le dernier article sur le référence
 
 	- Liaison entre **auteur et local** (balise auteur lisible en requête locale) (fig.1)
 
-[![Image](/images/blog/1-auteur-local-292x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/1-auteur-local.jpg) Fig. 1 Auteur + Cercle G+ dans recheche locale
+[![1-auteur-local-292x300.jpg](/images/blog/1-auteur-local-292x300.jpg) Fig. 1 Auteur + Cercle G+ dans recheche locale
 
 	- Mise à jour « **Venice Update** » : adéquation plus fine entre la requête locale et le document local indexé (plus d’infos sur [Venice Update sur seomoz.org](http://www.seomoz.org/blog/understand-and-rock-the-google-venice-update)).
 
@@ -25,11 +25,11 @@ Un semestre s’est déjà écoulé depuis le dernier article sur le référence
 
 	- Actualisation des données « **Onebox** », recherche locale comprise (Fig.2)
 
-[![Image](/images/blog/2-onebox-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/2-onebox.jpg) Fig. 2 Résultat "OneBox" en local
+[![2-onebox-310x169.jpg](/images/blog/2-onebox-310x169.jpg) Fig. 2 Résultat "OneBox" en local
 
 	- Les résultats restent à ce début 2013 très "**packagés**." L' ordre  d'apparition des résultats depuis le haut de la page  google est souvent :  Publicité +  Liens vers annuaires + Bloc de liens vers fiches Google plus  & Google map  +  lien sémantique  *(définition wikipédia par exemple)* + résultats organiques. A titre d’exemple, ci dessous, une recherche très locale pour Google, sur une activité bien catégorisée avec,  en plus , une intention locale axée sur l’arrondissement (15eme), pas de pub ici, ni sémantique "métier" en revanche (fig. 3) .
 
-[![Image](/images/blog/serp-paris-310x232.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/serp-paris.gif) Fig. 3 Descriptif résultats locaux 2013
+[![serp-paris-310x232.gif](/images/blog/serp-paris-310x232.gif) Fig. 3 Descriptif résultats locaux 2013
 ## **Facteurs  pour un référencement local sur Google en 2013**
 
 ### **3 parties dans sa stratégie locale**
@@ -40,7 +40,7 @@ Un semestre s’est déjà écoulé depuis le dernier article sur le référence
 - Etre sur **G Map ou sur Google + local,**  automatiquement vous y serez, mais l’important ici est de **personnaliser sa présence**. Ceux qui sont déjà sur Google adresses  pourront lors de leur 1ere interaction sur Google+ local, importer images et avis ([infos](http://support.google.com/plus/bin/answer.py?hl=fr&answer=2622939&topic=2624949&ctx=topic)).  Ceux qui n’ont jamais eu de compte Adresses, passeront par cette plateforme  pour remplir leurs informations afin d'**être plus visible** sur G+Local et Map. Google adresses,  en fait, n’est qu’une passerelle, un formulaire, qui enregistre  vos infos affichées sur Google Map et Google plus Local. *(Attention ne pas confondre avec la** page « pro » de Google+** qui est l’équivalent des pages Pro sur Facebook.)*
 - Bien choisir sa  ou ses **catégories locales** *(5 max conseillées)*  métier du formulaire Google adresses et  indiquer la home page. Pour les multisites géolocalisés, faire des pages de destination dédiées.
 
-[![Image](/images/blog/4-formulaire-google-adresse-167x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/4-formulaire-google-adresse.jpg) Fig. 4 Formulaire Google Adresses
+[![4-formulaire-google-adresse-167x300.jpg](/images/blog/4-formulaire-google-adresse-167x300.jpg) Fig. 4 Formulaire Google Adresses
 ### **2/ Optimiser sa  visibilité **
 
 - Ancrer les **coordonnées locales** sur toutes les pages (NAT)
@@ -49,7 +49,7 @@ Un semestre s’est déjà écoulé depuis le dernier article sur le référence
 
 - Etre présent sur les** réseaux sociaux** car un signal est donné par Google pour les requetes localisées (fig. 5 ).
 
-[![Image](/images/blog/social-251x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/01/social.jpg) FIg. 5 Liens des réseaux sociaux sur les résultats ultra localisés de Google
+[![social-251x300.jpg](/images/blog/social-251x300.jpg) FIg. 5 Liens des réseaux sociaux sur les résultats ultra localisés de Google
 
 - Inciter **sur son site** à laisser des** avis** sur G+ ou sur d’autres **annuaires**.
 ### **3/ Booster  par des  liens son ancrage local  (si on a le temps !)**

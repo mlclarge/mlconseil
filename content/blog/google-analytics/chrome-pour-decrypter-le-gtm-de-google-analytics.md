@@ -21,7 +21,7 @@ Je rappelle les 4 opérations, dans l’ordre il faut, pour réaliser un suivi v
 
 	- Enfin, vérifier dans le navigateur sa présence, on peut utiliser un plugin dédié «le  Tag assistant » . Ce dernier ne vous montrera  pas les rouages de son exécution, pour cela il faut utiliser des outils dit de "débogage"  nativement embarqués dans un navigateur .
 
-[![Image](/images/blog/tag-assitant-310x273.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/tag-assitant.jpg) Tag assistant = Vérif. basique mais pratique !
+[![tag-assitant-310x273.jpg](/images/blog/tag-assitant-310x273.jpg) Tag assistant = Vérif. basique mais pratique !
 ## Chrome comme outil de vérification de son tracking
 
 ### Lancement de la console et première remontée d’erreur
@@ -30,31 +30,31 @@ J’ai utilisé  **Chrome** comme browser, avec ses outils de debugage natifs, 
 
 Dans un premier temps, la seule chose à faire pour vérifier s’il n’y a pas d’erreur suite à l’insertion dans le code source de la page du container, c’est d’**activer la console JavaScript** et observer ce qui s’y passe, ce qu’elle vous raconte en quelque sorte. Ici, à priori, un seul avertissement, sans grande importance, et pas de signe de Google tag manager, donc cela se présente bien (sous entendu pas d'erreur dans l'intégration)  !
 
-[![Image](/images/blog/console-javascipt-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/console-javascipt.jpg) Test dans Console native Js de Chrome
+[![console-javascipt-310x248.jpg](/images/blog/console-javascipt-310x248.jpg) Test dans Console native Js de Chrome
 ### La localisation sur la page et les balises assignées
 
 Revenons à l’onglet « Eléments » qui affiche, sur la partie gauche, le code html de la page. Bingo ! **Le Google tag manager **est bien là ! Ouf ! Sur la droite, différents sous onglets décrivent les différents attributs de cette page. Je m’arrête sur « event listeners » . A 2 endroits dans le script GTM je retrouve bien mes écouteurs de clics.
 
-[![Image](/images/blog/elements1-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/elements1.jpg) Localisation du script dans la page
+[![elements1-310x228.jpg](/images/blog/elements1-310x228.jpg) Localisation du script dans la page
 ### L’importance de l’appel du container sur le réseau
 
 Cet onglet « **Network **» m’indique que l’objet gtm communique bien avec le serveur lors de l’appel par le navigateur (200 OK) , le poids total est de 24,2 KB  dont 9.7 KB a été appelé et son temps de latence 82 ms.  Bien, pas bien ? Je dirais que c’est le plus important des appels (kbs)  mais situé dans la moyenne en temps de latence par rapport à l’environnement total de la page.
 
-[![Image](/images/blog/network2-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/network2.jpg) Le Réseau = Appel serveur du GTM
+[![network2-310x154.jpg](/images/blog/network2-310x154.jpg) Le Réseau = Appel serveur du GTM
 ### Le code source du container
 
 Sur le « tab : Sources » on retrouve, sous forme d’arborescence, les éléments que peut interpréter le  navigateur, à savoir le **code css, javascript, html** . Donc bien sûr, nous retrouvons dans son ensemble, le code du GTM.
 
-[![Image](/images/blog/sourceCodePage-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/sourceCodePage.jpg) Code source complet du Container
+[![sourceCodePage-310x217.jpg](/images/blog/sourceCodePage-310x217.jpg) Code source complet du Container
 
 Si je souhaite aller plus loin, dans la lecture de ce code, je peux au travers du moteur de recherche inclus  dans l’outil de débogage, rechercher des éléments qui me parlent comme ceux que j’ai définis lors de la configuration dans les évènements pour mes écouteurs de clics. Je peux ainsi faire **un rapprochement concret entre la plateforme tag manager et ce qui se passe réellement dans ma page**.
 
-[![Image](/images/blog/tag-manager-et-chrome-debuger-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/tag-manager-et-chrome-debuger.jpg) Quand Tag Manager et Navigateur se rejoignent
+[![tag-manager-et-chrome-debuger-310x170.jpg](/images/blog/tag-manager-et-chrome-debuger-310x170.jpg) Quand Tag Manager et Navigateur se rejoignent
 ### La « timeline » déroulement du scénario
 
 L’onglet « ligne de temps » (restons Frenchis !),  et le sous chapitre « **events **»  reste la fonctionnalité la  plus parlante. J’ai en temps réel ce qui se passe, les appels de fonctions, le temps qui passe,  avec un code couleur selon qu’il s’agisse d’un chargement, d’une exécution, d’un rendu ou d’un affichage. Sur l’illustration ici, uniquement sont enregistrés les paramètres qui affectent 2 clics sur liens.
 
-[![Image](/images/blog/timeline4-2-clics-liens-referencement-evenement-produit-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/timeline4-2-clics-liens-referencement-evenement-produit.jpg) La Timeline souligne les clics en temps réel
+[![timeline4-2-clics-liens-referencement-evenement-produit-310x202.jpg](/images/blog/timeline4-2-clics-liens-referencement-evenement-produit-310x202.jpg) La Timeline souligne les clics en temps réel
 ### Profiles, Resources, Audit…
 
 Je passe sur ces fonctionnalités, elles n’apportent rien à l’objet GTM qui est analysé aujourd’hui.
@@ -63,7 +63,7 @@ Je passe sur ces fonctionnalités, elles n’apportent rien à l’objet GTM qui
 
 Pour finir, la « console » permet à tout bon développeur, que je ne suis pas, aïe cela fait mal !, de retrouver ces petits en les appelant par leur nom. Donc je tape «** dataLayer** » , qui est la couche native de données  du gestionnaire de balises , et qui englobe tous les objets (évènements par exemple). Sur l’image, 3 objets sont bien chargés : gtm.js/gtm.dom/gtm.load en revanche, je désespère de faire apparaître les gtm.click et gtm.linkClick que j’ai installé pour configurer mon suivi de clics.  Ils sont bien là vu qu’ils enregistrent bien les évènements dans analytics ! Donc, si vous avez un tuyau, je suis preneur.
 
-[![Image](/images/blog/console-javascipt-chrome-310x232.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/console-javascipt-chrome.jpg) Usage de la console avec focus sur DataLayer
+[![console-javascipt-chrome-310x232.jpg](/images/blog/console-javascipt-chrome-310x232.jpg) Usage de la console avec focus sur DataLayer
 
 Au final, ces observations via le browser permettent sans moyen particulier, d'avoir un oeil sur ce qui se passe, et parfois, de découvrir par hasard, d'autres problèmes (ralentissements, bugs) insoupçonnés.
 ## Petites ressources sur le web

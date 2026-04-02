@@ -10,12 +10,12 @@ image: "/images/blog/google-locale.jpg"
 
 Alors que, d’une part, les **résultats de recherche locaux** représenteraient aux alentours de 15% des Serps Google selon le vieux benchmark dynamique de "Mozcast" , et que d’autre part, les [Serp locales](https://support.google.com/business/answer/7091?hl=fr) sur smartphones annoncent une probable mutation , faisons un focus sur la construction d’**une campagne adwords** focalisée sur la proximité avec pour cibles :  **1ère page,  pack local et Google maps**.
 
-[![Image](/images/blog/google-maps-publicité-2017-207x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/google-maps-publicité-2017.jpg) Google maps future publicité 2017
+[![google-maps-publicité-2017-207x300.jpg](/images/blog/google-maps-publicité-2017-207x300.jpg) Google maps future publicité 2017
 ## **Cibler une campagne locale oui mais sur quel appareil ? Desktop ou Smartphone ?**
 
 Local ou pas, sur une position premium hors pack local, faire du local ne change pas aux annonces ciblées plus génériques traditionnelles.  Seul Google adwords express, en dehors de la plateforme classique,  peut simplifier la donne pour créer une campagne de proximité.
 
-[![Image](/images/blog/google-adwords-express-2017-463x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/google-adwords-express-2017.jpg) Ciblage Google Adwords Express
+[![google-adwords-express-2017-463x300.jpg](/images/blog/google-adwords-express-2017-463x300.jpg) Ciblage Google Adwords Express
 
 Ensuite, Google n’offre pas à toutes les requêtes une carte avec un pack 3 local sur sa 1ère page, il faut donc regarder à 2 fois si la catégorie visée est sensible au déclenchement d’un snippet géographique lié à Google maps. Il existerait aujourd’hui 1200 catégories environ dont voici la liste :
 
@@ -23,19 +23,19 @@ Ensuite, Google n’offre pas à toutes les requêtes une carte avec un pack 3 l
 
 Prenons la requête  « fleuriste Bordeaux », sur desktop 2 présences peuvent être générées : 1ère page snippet textuel standard .
 
-[![Image](/images/blog/annonces-locales-244x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/annonces-locales.jpg) Serp Sea classique localisée
+[![annonces-locales-244x300.jpg](/images/blog/annonces-locales-244x300.jpg) Serp Sea classique localisée
 
 Ensuite si clic sur Pack local, annonce en tête de liste avec étiquette violette.
 
-[![Image](/images/blog/présence-du-ordinateur-de-bureau-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/présence-du-ordinateur-de-bureau.jpg) Présence sur **ordinateur de bureau** suite clic sur pack local
+[![présence-du-ordinateur-de-bureau-310x226.jpg](/images/blog/présence-du-ordinateur-de-bureau-310x226.jpg) Présence sur **ordinateur de bureau** suite clic sur pack local
 
 Sur Smartphone, la même présence est raccourcie d’un clic, et l’annonce « tête de liste » sur Maps est visible directement sur le premier écran du smartphone.
 
-[![Image](/images/blog/parution-adwords-locale-168x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/parution-adwords-locale.jpg) Parution adwords locale sur **smartphone**
+[![parution-adwords-locale-168x300.jpg](/images/blog/parution-adwords-locale-168x300.jpg) Parution adwords locale sur **smartphone**
 
 Enfin, toujours sur smartphone, une recherche directe sur maps laisse apparaître aussi ce type de parution publicitaire ciblée selon la position du mobinaute.
 
-[![Image](/images/blog/annonces-recherche-sur-google-maps-directe.jpg)](/images/blog/annonces-recherche-sur-google-maps-directe.jpg) Annonces recherche sur google maps directe
+[![annonces-recherche-sur-google-maps-directe.jpg](/images/blog/annonces-recherche-sur-google-maps-directe.jpg) Annonces recherche sur google maps directe
 
 ***Les déclencheurs de [publicité payante](https://www.mauricelargeron.com/faire-une-publicite-audio-sur-google/) en local pour résumer***
 
@@ -53,7 +53,7 @@ Enfin, toujours sur smartphone, une recherche directe sur maps laisse apparaîtr
 
  	- *Display ->  cherchez des audiences locales sur des plateformes liées aux recherches locales comme des recherche d’itinéraires par via Michelin, ou des sites web « régionaux » par exemple.*
 
-[![Image](/images/blog/emplacements-display-locaux-310x182.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/emplacements-display-locaux.jpg) Emplacements possible pour display local
+[![emplacements-display-locaux-310x182.jpg](/images/blog/emplacements-display-locaux-310x182.jpg) Emplacements possible pour display local
 ### ***Ciblage géographique**** *
 
  	- *optez pour une zone ciblée ou une liste de zones segme ntées par villes, communes (cela peut faciliter des ajustements d’enchères par territoires).*

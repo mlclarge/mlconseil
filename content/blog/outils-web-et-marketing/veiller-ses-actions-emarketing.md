@@ -42,7 +42,7 @@ Un autre outil qui me semble nouveau de chez **aHref alert**, plus connu pour sa
 
  	- Une possibilité d’exclusion
 
-[![Image](/images/blog/mot-cle-alert-310x265.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/mot-cle-alert.jpg) Monitoring poussé mot clé Ahref
+[![mot-cle-alert-310x265.jpg](/images/blog/mot-cle-alert-310x265.jpg) Monitoring poussé mot clé Ahref
 ### **Veille sur une page***
 
 C’est un vieil instrument celui-ci, l’inferface n’est pas extraordinaire. L’intérêt ici avec cet outil est de s’assurer d’être informé quand un changement arrive sur une page et notamment un mot clé sur toute la page ou sur  un paragraphe :
@@ -60,7 +60,7 @@ C’est un vieil instrument celui-ci, l’inferface n’est pas extraordinaire. 
 
 Un premier outil qui se dénomme **embedded analytics**,  dont la vocation première est d’encapsuler des données de Google analytics pour en faire des graphiques à insérer,  avertit automatiquement dès qu’un backlink est effectué sur un domaine avec le type de lien, son ancre, la plateforme éventuellement, et le classement Alexa et la page concernée. Un historique des liens est envoyé également avec la date  plus d’autres indicateurs dont certains me sont inconnus (BR ?) . Cet outil est gratuit jusqu’à un certain volume de visites (2500 par mois).
 
-[![Image](/images/blog/alerte-auto-backlink-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/alerte-auto-backlink.jpg) Alerte auto backlink
+[![alerte-auto-backlink-310x270.jpg](/images/blog/alerte-auto-backlink-310x270.jpg) Alerte auto backlink
 
 Linkody est quant à lui récent, plus puissant que son précédent, avec une version d’essai sur 30 jours, payant ensuite selon le volume de liens, les formules vont de 9.90 euros  (500) à 69 eur.  (50000). Sa vocation est aussi d’aller trouver et monitorer des liens précis (monitored links)  qui pointent vers une page  ou alors de lui spécifier un domaine à scanner. Les indicateurs délivrés sont  pour les principaux :
 
@@ -74,16 +74,16 @@ Linkody est quant à lui récent, plus puissant que son précédent, avec une ve
 
  	- Nombre de liens total sortant et entrant selon leur « follow statut »
 
-[![Image](/images/blog/linkody-310x260.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/linkody.jpg) Linkody du monitoring sur mesure
+[![linkody-310x260.jpg](/images/blog/linkody-310x260.jpg) Linkody du monitoring sur mesure
 
 4 grands rapports sont fournis : liens, tags (pratique) analytics et disavow (SI certain liens paraissent douteux, une fonctionnalité « disavow » permet d’exporter les liens vers Google Webmaster tool.)
 
-[![Image](/images/blog/linkody-analytics-310x238.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/linkody-analytics.jpg) Linkody rapports Analytics
+[![linkody-analytics-310x238.jpg](/images/blog/linkody-analytics-310x238.jpg) Linkody rapports Analytics
 ### ***Automatiser le reporting de ses positions***
 
 **VIsualping** comme son nom l’indique, est une techno qui fait un screenshot des serp selon une requête précise que l’on lui assigne. 500 crédits sont offerts, ce qui est pas mal, vu qu’une vérification (job) compte pour 1 crédit seulement, ensuite par tranche de 5000 crédits le prix est de 10 euros.  Une alerte est déclenchée selon les variations de pixels, étalonnées de 1%  à 50%.  Un des atouts de cette application c’est qu’elle permet de requêter par géolocalisation, pratique pour du seo local (5 crédits ) !
 
-[![Image](/images/blog/serp-google-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/serp-google.jpg) Suivre les positons locales automatiquement
+[![serp-google-310x196.jpg](/images/blog/serp-google-310x196.jpg) Suivre les positons locales automatiquement
 
 Voilà pour le terrain de jeu du Seo..
 
@@ -91,14 +91,14 @@ Voilà pour le terrain de jeu du Seo..
 
 Bon, ok, ce n’est pas un super scoop, mais souvent en formation, lorsque je présente cette option, elle est souvent noter comme étant super pratique. Le champ couvert des alertes est très large, ici pour l’exemple, je souhaite être prévenu dès que mes clics convertis sont inférieurs ou égaux à 5 dans le créneau d’une journée. Les possibilités sont sans limite, elles peuvent porter sur toutes les entités possibles et imaginables ! A tester donc selon ses besoins.
 
-[![Image](/images/blog/adwords-alertesb-email-310x85.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/adwords-alertesb-email.jpg) Alertes mail Adwords
+[![adwords-alertesb-email-310x85.jpg](/images/blog/adwords-alertesb-email-310x85.jpg) Alertes mail Adwords
 ## **Web Analyse : Google analytics pas en reste**
 
 Google analytics peut envoyer selon des cadences journalières, semaine ou mois des alertes personnalisées.
 
 Exemple : Averti moi dès que le nombre de pages vues depuis les visites, dont la provenance est Paris,  dépassent  3 pages (un record pour un blog ;) ) .
 
-[![Image](/images/blog/alert-ga-310x266.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/alert-ga.jpg) Google Analytics & Veille personnaliisée
+[![alert-ga-310x266.jpg](/images/blog/alert-ga-310x266.jpg) Google Analytics & Veille personnaliisée
 
 **Bon, voilà..qui a dit que l’email était mort ? :)**
 

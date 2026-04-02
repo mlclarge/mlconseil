@@ -10,29 +10,29 @@ image: "/images/blog/smart-adwords.jpg"
 
 Accelerated mobile page reste la technologie de pointe pour mettre en avant des contenus rapidement chargés sur les appareils mobiles. Mais je profite de partager une petite expérience avec l’AMP sur mon  site WordPress, sans prétention technique mais destiné au non dev.  par excellence  !  Installé avec le plugin classique de Wordpress.com, mes pages se sont mises tout d’un coup à ne plus fonctionner d’après la search console. Comme c’est elle qui fait foi pour son indexation dans Google il a fallu donc trouver la parade.
 
-[![Image](/images/blog/search-console-google-310x119.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/search-console-google.jpg) search console googlee et amp
+[![search-console-google-310x119.jpg](/images/blog/search-console-google-310x119.jpg) search console googlee et amp
 ## **La solution changez de plugin !**
 
 Bon ok  pas très originale la combine,  mais sans connaître la cause réelle, c’est vrai, j’ai pu réparer à court terme ce bug, c’est après tout l’essentiel. J’ai avant de désactivé, vérifié aussi les mises à jour, ré-activé, sans succès.
 
-[![Image](/images/blog/desactivee-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/desactivee.jpg) Désactivation de l'AMP de Wordpress.com
+[![desactivee-310x171.jpg](/images/blog/desactivee-310x171.jpg) Désactivation de l'AMP de Wordpress.com
 
 J’ai donc eu recourt à ce plugin, dont l’installation est simplissime et fonctionne sans réfléchir. De plus, la customisation des  pages offertes par ce plugin est sans commune mesure plus complète que celle de la maison mère de WordPress !
 
-[![Image](/images/blog/plugin-amp-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/plugin-amp.jpg) Plugin amp de remplacement
+[![plugin-amp-310x177.jpg](/images/blog/plugin-amp-310x177.jpg) Plugin amp de remplacement
 
 La validation si on veut être rassuré peut se faire à l’aide d’une extension AMP validator.
 
-[![Image](/images/blog/amp-plugin-183x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/amp-plugin.jpg) Validation à l'aide d'une extension navigateur
+[![amp-plugin-183x300.jpg](/images/blog/amp-plugin-183x300.jpg) Validation à l'aide d'une extension navigateur
 ## **Reconfigurer le tracking des pages AMP**
 
 Là aussi, avec ce nouveau  plugin, il faut repenser au mode de tracking. J'utilisais  celui de Yoast (amp glue) mais j'en ai profité pour en changer du coup.   Ainsi je centralise dans un seul plugin, génération et suivi de pages AMP. Il suffit d’avoir une propriété Google analytics dédiée et renseigner l’Id dans les paramètres du plugin. Encore, cela fonctionne sans attendre, sans bug.
 
-[![Image](/images/blog/amp-google-analytics-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/amp-google-analytics.jpg) amp google analytics
+[![amp-google-analytics-310x175.jpg](/images/blog/amp-google-analytics-310x175.jpg) amp google analytics
 
 Il existe aussi d’autres solutions, sans passer par une autre propriété GA, comme celle de passer par l’ajout en dur de bout de code, ou par Google tag manager.
 
-[![Image](/images/blog/amp-julien-coquet-310x241.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/amp-julien-coquet.jpg) Autres solutions : code et GTM
+[![amp-julien-coquet-310x241.jpg](/images/blog/amp-julien-coquet-310x241.jpg) Autres solutions : code et GTM
 
 L’avantage ici, est d’avoir tout regroupé dans une même propriété, restera ensuite à filtrer ou segmenter selon son choix au niveau des vues, pour avoir des rapports dédiés d’audience de ses pages AMP.
 

@@ -16,14 +16,14 @@ Elaborer des stratégies de structuration de campagnes nouvelles peut donner du 
 
 Non, au final cette méthode n'invente rien mais rappelle qu'elle exige une réflexion sur le tunnel de vente, la problématique du ou des persona. Quelle sémantique propre à chaque situation peut être envisagée ? Autrement dit, suis-je en haut du tunnel de vente dans le choix des mots clés, au milieu, proche de l'acte d'achat ? Puis-je me représenter le contexte (lieu, période, urgence, niveau d'exigence), le niveau de connaissance sur le Service/produit : référence, modèle, marque, caractéristiques, bénéfices…
 
-[![Image](/images/blog/CAMPAGNE-THEMATIQUE-GOOGLE-ADS.jpg)](/images/blog/CAMPAGNE-THEMATIQUE-GOOGLE-ADS.jpg) Principes d'une campagne par thématique
+[![CAMPAGNE-THEMATIQUE-GOOGLE-ADS.jpg](/images/blog/CAMPAGNE-THEMATIQUE-GOOGLE-ADS.jpg) Principes d'une campagne par thématique
 ### *Organiser un compte avec des campagnes munies de groupes d'annonces thématiques, c'est Google qui le dit !*
 
 Eh oui, on revient au final sur du basique, car si l'on s'en réfère à la doc google, ils le disent les bougres, il faut penser "thématique" ! Et dans cette idée, ne pas trop être restreint dans le choix et les correspondances des mots clés. Je cite ci-dessous google
 
 *"Choisissez un thème précis pour chaque groupe d'annonces et créez des groupes d'annonces autour de ce thème. Utilisez des mots clés associés à ce thème pour chaque groupe d'annonces. Vous devez également envisager de mentionner au moins un de vos mots clés dans le titre de vos annonces. En effet, lorsqu'une personne effectue une recherche sur un terme correspondant à votre mot clé, elle voit une annonce qui mentionne le mot clé et une autre qui ne le mentionne pas. Elle est donc susceptible de penser que la première annonce est plus pertinente par rapport à l'objet de sa recherche."*
 
-[![Image](/images/blog/CAMPAGNE-THEMATISEE-GOOGLE-ADS.jpg)](/images/blog/CAMPAGNE-THEMATISEE-GOOGLE-ADS.jpg) Campagne Thématique pour un produit
+[![CAMPAGNE-THEMATISEE-GOOGLE-ADS.jpg](/images/blog/CAMPAGNE-THEMATISEE-GOOGLE-ADS.jpg) Campagne Thématique pour un produit
 
 voir ici : [https://support.google.com/google-ads/answer/6372655?hl=fr](https://support.google.com/google-ads/answer/6372655?hl=fr)
 
@@ -31,7 +31,7 @@ voir ici : [https://support.google.com/google-ads/answer/6372655?hl=fr](https://
 
 Depuis plusieurs d’années, google réduit l'étendue sémantique sur chaque correspondance. On ne peut plus maitriser une expression exacte car l'algorithme peut aller chercher un terme hyper approchant si le contexte sémantique s'y prête.  Exemple, si je cible un terme comme  sur une stratégie automatique où une impression sur  semble utile à l'algo. Alors la correspondance stricte ne sera pas respectée car le contexte prend l'ascendant sur la formulation stricte.
 
-[![Image](/images/blog/CAMPAGNE-GOOLE-ADS-SKAGS.jpg)](/images/blog/CAMPAGNE-GOOLE-ADS-SKAGS.jpg) campagne SKAG single keyword per ad group
+[![CAMPAGNE-GOOLE-ADS-SKAGS.jpg](/images/blog/CAMPAGNE-GOOLE-ADS-SKAGS.jpg) campagne SKAG single keyword per ad group
 
 Rappelons ce que sont les SKAG. Cette méthode consiste à attribuer un mot clé par groupe d'annonces, optimiser le rédactionnel de l'annonce selon ce mot clé, et ensuite avoir une page de destination dédiée. Le souci est leur mise en place, souvent des scripts car attribué à la volée 1 mot clé pas groupe est réellement chronophage. Leur avenir est donc compromis, mais il reste un avantage certain, c'est leur efficacité pour travailler des campagnes de longue traîne.
 

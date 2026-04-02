@@ -22,13 +22,13 @@ Ce système va venir au secours des sites où les points de conversions ne sont 
 
 Donc pas de code ou autre script ou quoique ce soit à rajouter sur le site, **Google analytics**  propose nativement dans l’interface la disponibilité de ce trafic essentiel sur lequel se concentrer.  Pour son lancement, un reporting est disponible d’office dans l’interface. Sinon, il faudra l’activer comme un objectif habituel de GA.
 
-[![Image](/images/blog/objectifs-intelligents-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/objectifs-intelligents.jpg) Création des objectifs intelligents dans GA
+[![objectifs-intelligents-310x135.jpg](/images/blog/objectifs-intelligents-310x135.jpg) Création des objectifs intelligents dans GA
 
  	- **L’importation dans Google Adwords**
 
 Petite manip à faire au niveau d’adwords, comme d’habitude quoi !
 
-[![Image](/images/blog/ADWORDS-ET-OBJECTIFS-INTELLIGENT-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/ADWORDS-ET-OBJECTIFS-INTELLIGENT.jpg) Importation dans Adwords
+[![ADWORDS-ET-OBJECTIFS-INTELLIGENT-310x145.jpg](/images/blog/ADWORDS-ET-OBJECTIFS-INTELLIGENT-310x145.jpg) Importation dans Adwords
 
 Laissez agir quelques jours et voir ce que cela donne. Cela marche ? Personnellement, je n’ai pas assez de recul et de retours d’expériences pour en juger :( .
 ***-> Prérequis ***
@@ -53,7 +53,7 @@ Laissez agir quelques jours et voir ce que cela donne. Cela marche ? Personnell
 
 Avant tout, une campagne sans conversion, c’est comme un carry sans épices ou naviguer sans cap !
 
-[![Image](/images/blog/cbiler-310x91.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/cbiler.jpg) Stratégie Online de la cible vers la conversion
+[![cbiler-310x91.jpg](/images/blog/cbiler-310x91.jpg) Stratégie Online de la cible vers la conversion
 
 ***Deux grandes catégories de conversions, purement arbitraires, le cloisonnement entre micro et macro est lié à la nature du site web et à la stratégie webmarketing menée.***
 

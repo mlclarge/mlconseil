@@ -10,7 +10,7 @@ image: "/images/blog/JEU-MARKETING.jpg"
 
 Le [**gaming**](http://www.nrj-games.fr/gaming) est un marché en croissance constante .  L’arrivée du cloud gaming, avec la plateforme stadia de google témoigne de cet engouement.  bien ancré sur tous les appareils mobiles ou desktop,   alors pourquoi ne pas utiliser ce format comme porte voix pour passer **un message publicitaire** ? En voilà une idée ! Et pourtant, voilà déjà une petite année que ce format de **playables ads **a été popularisé par Facebook pour les développeurs de jeux et  existe depuis 2016. Elles sont bien  adaptées pour commercialiser des applications de jeux mais ce format va beaucoup plus loin…que l’image animée , que la vidéo de chats…et dopent les actions de **webmarketing**.
 
-[![Image](/images/blog/playable-ads-for-brands-6-1024x644-477x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/playable-ads-for-brands-6-1024x644.png) importance du gaming
+[![playable-ads-for-brands-6-1024x644-477x300.png](/images/blog/playable-ads-for-brands-6-1024x644-477x300.png) importance du gaming
 ## ***Que sont les jeux marketing ( playable ads)  ?***
 
 Les consommateurs consacrent plus de 3,5 heures par jour à leurs appareils mobiles. Pourtant, les mobiles représentent un défi pour les annonceurs de marque en raison des problèmes de données et de mesure, de capter l’attention des consommateurs et de la sécurité des marques.
@@ -34,7 +34,7 @@ Selon l’IAB , les playables Ads sont composés de 3 éléments créatifs :
 
  	- la Carte de fin
 
-[![Image](/images/blog/playables-ads-étude-de-cas-440x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/playables-ads-étude-de-cas.jpg) les 3 grandes parties d'une playable ad
+[![playables-ads-étude-de-cas-440x300.jpg](/images/blog/playables-ads-étude-de-cas-440x300.jpg) les 3 grandes parties d'une playable ad
 
 Suivez ce webinar sur le jeu marketing par le fondateur de la société Adictiz (webedia)
 
@@ -55,12 +55,12 @@ Les Playables combine à la fois gamification et interactivité - tous les geste
 
  	- Content Rich: en plus de l'expérience interactive, les jouables construits en HTML5 peuvent inclure des éléments de contenu supplémentaires tels que des bandes-annonces vidéo, des coupons, des tirages au sort, des tickets, etc.
 
-[![Image](/images/blog/ezgif.com-resize-1.gif)](/images/blog/ezgif.com-resize-1.gif)
+[![ezgif.com-resize-1.gif](/images/blog/ezgif.com-resize-1.gif)
 ## ***Exemples de playables ads***
 
 Rendez vous ici, avec votre souris et jouez ! Cette galerie est proposé par adictiz
 
-[![Image](/images/blog/adictiz-jeu-2-428x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/adictiz-jeu-2.jpg) exemple de publicités jouables
+[![adictiz-jeu-2-428x300.jpg](/images/blog/adictiz-jeu-2-428x300.jpg) exemple de publicités jouables
 
  	- Coupez le plus de légumes possible en 30 secondes [https://play.adictiz.com/page_habillage.html](https://play.adictiz.com/page_habillage.html)
 

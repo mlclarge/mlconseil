@@ -18,7 +18,7 @@ Freelances, indépendants en tout genre, porteurs de projet sont les premiers  
 Oui,  en effet, parmi les social event de networking, ceux dédiés à la **web analyse** sont peu nombreux. Quoique ? Un des premiers du genre fut celui initié dès 2007 dénommé Web Analytics Wednesday (#waws) crée par Eric T Peterson , CEO de [webanalyticsdemystified.com](http://www.webanalyticsdemystified.com/)
 En France, c’est Nicolas Malo , en 2009, qui lança le premier WaWs, à Lille.
 
-[![Image](/images/blog/lille-measure-bowling-2009-310x286.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/lille-measure-bowling-2009.jpg) Lille Waws Event 2012
+[![lille-measure-bowling-2009-310x286.jpg](/images/blog/lille-measure-bowling-2009-310x286.jpg) Lille Waws Event 2012
 
 Il y a aussi de #**Waparis** les #afterworks une sorte de réunion de style BarCamp qui réunit les afficionados de la mesure web.
 
@@ -26,11 +26,11 @@ Il y a aussi de #**Waparis** les #afterworks une sorte de réunion de style Bar
 
 J’y viens ..A l’origine, c’est Emer Kirrane,  Irlandaise mais travaillant en Hongrie pour Prezi, bien qualifiée et investit dans la communauté du web analytics, qui, lors de sa venue à Londres en  cette fin d’été 2011, aurait lancé collégialement le concept sur Twitter sur des contacts locaux (dont Peter oneil de l3analytcis aidé pour la logistique par Cyberdees).  Combler un manque d’évent entre 2 Waws ? Pourquoi pas ! L’idée était lancée ! Comme Sponsor, devinez ?? Atinternet ! Un Français…Bordelais qui plus est ! ..Cocorico
 
-[![Image](/images/blog/genese-measureBowling-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/genese-measureBowling.jpg) Genese du Measure Bowling
+[![genese-measureBowling-310x228.jpg](/images/blog/genese-measureBowling-310x228.jpg) Genese du Measure Bowling
 
 Depuis, **Peter et Nicolas** se sont fait les portes drapeaux de cet event partout en Europe !  Quatre ans après, plus d’une vingtaine de ville sont partantes pour la cinquième édition 2015 dont Bordeaux , pour une 1ère !
 
-[![Image](/images/blog/nicolas-et-peter-de-measurebowling-268x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/nicolas-et-peter-de-measurebowling.jpg) Initiateurs de l'Event MB : P Oneill & N Malo
+[![nicolas-et-peter-de-measurebowling-268x300.jpg](/images/blog/nicolas-et-peter-de-measurebowling-268x300.jpg) Initiateurs de l'Event MB : P Oneill & N Malo
 ### ***ParisMeasureCamp vous connaissez ?***
 
 Parmi le réseautage sur cette thématique,  n’oublions pas le type « Non-conférence » avec MeasureCamp   qui réunit les professionnels du Digital analytics. Le prochain aura lieu le 27 Juin 2015 dans les locaux de l’HETIC. Ce type de rassemblement a été initié là encore par P Oneil en septembre 2012.
@@ -39,7 +39,7 @@ Parmi le réseautage sur cette thématique,  n’oublions pas le type « Non-c
 
 C’est la faute à Ronan, qui m’a encouragé à m’y coller J  . Donc, vous l’avez compris, vous êtes les bienvenus, débutant, amateur, curieux, pro, geek ..de l’analyse web ou du bowling (perso, je touche pas une quille !) . C’est pas gratuit, c’est  facile d’accès , et pour s’y inscrire,  c’est par ici : [https://www.eventbrite.com/e/billets-billets-measure-bowling-bordeaux-1ere-edition-16464110598](https://www.eventbrite.com/e/billets-billets-measure-bowling-bordeaux-1ere-edition-16464110598)
 
-[![Image](/images/blog/annonce-measurebowling-213x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/annonce-measurebowling.jpg) Mesure Bowling à Bordeaux en 2015
+[![annonce-measurebowling-213x300.jpg](/images/blog/annonce-measurebowling-213x300.jpg) Mesure Bowling à Bordeaux en 2015
 
 Chaque ville concourent en même temps et se font concurrence. Un palmarès est diffusé sur le site de l’évènement. L’année 2014 a vu sur le podium Bruxelles, Prague et Munich.
 

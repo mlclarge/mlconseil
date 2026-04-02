@@ -13,6 +13,6 @@ A l’occasion des 10 ans de sa plateforme française, idealo, le 1er comparate
 
 A la création de la plateforme française d’idealo en 2007 , le top 10 des produits les plus recherchés de l’année se composait dans son intégralité de produits high-tech . 10 ans plus tard , sur les 10 produits les plus recherchés de l’année 2017 , 8 d’entre eux ...lire le cp plus bas
 
-[![Image](/images/blog/170d7299-7d07-4e3c-a59d-08dc39bc66c0-241x300.jpeg)](https://www.mauricelargeron.com/wp-content/uploads/2017/10/170d7299-7d07-4e3c-a59d-08dc39bc66c0.jpeg) Top 10 des produits depuis 10 ans
+[![170d7299-7d07-4e3c-a59d-08dc39bc66c0-241x300.jpeg](/images/blog/170d7299-7d07-4e3c-a59d-08dc39bc66c0-241x300.jpeg) Top 10 des produits depuis 10 ans
 
 [Communiqué de presse ici : CP_Idealo_10_ans_d_e_commerce](https://www.mauricelargeron.com/wp-content/uploads/2017/10/CP_Idealo_10_ans_d_e_commerce.pdf)

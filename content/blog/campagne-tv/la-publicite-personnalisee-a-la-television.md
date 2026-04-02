@@ -10,14 +10,14 @@ image: "/images/blog/PUBLICITE-CIBLEE-A-LA-TELEV.jpg"
 
 Tout converge, monde digital, chaines médias nationales classiques , visionnage en différé (catch up tv), synchronisation multi-écrans pour unifier toutes les actions webmarketing. Intéressons nous aujourd’hui au phénomène de   la **publicité ciblée et personnalisée**. Hors hexagone,   la publicité segmentée souligne ce forme de communication , elle est une réalité aux Etats-Unis et dans de nombreux pays européens.  En France, la publicité ultra ciblée ce [référencement payant](https://www.mauricelargeron.com/faire-une-publicite-audio-sur-google/) sur la TV, ne a fait ses début  en 2015. A ce moment là, Tf1 lançait son offre "one data" dont l'objectif était d'apporter aux marques des données de panels Nielsen recueillies sur les lieux de vente, ici la grande distribution, afin de les croiser avec celle de Médiamétrie. Niveau analyse de performances, on sortait  du traditionnel GRP standard classique (pour gross rating point qui correspond au nombre moyen de contacts publicitaires obtenus sur 100 individus de la cible visée) à un GRP "produit" nettement plus précis. Ce qui faisait dire à l'époque à Brabeck-Letmathe, président du conseil d’administration de Nestlé : « L’important, c’est de toucher les gens qui comptent et non de compter les gens que l’on touche. ».  N'oublions pas la puissance de ce média, 42 millions de Français regardent la télévision chaque jour ! Voyons **les différentes techniques pour personnaliser la publicité en télévision.**
 
-[![Image](/images/blog/TF1-publicite-offre.jpg)](/images/blog/TF1-publicite-offre.jpg) Offre de TF1 publicité
+[![TF1-publicite-offre.jpg](/images/blog/TF1-publicite-offre.jpg) Offre de TF1 publicité
 ## L'IPTV, replay et autres programmes de vidéos à la demande (vod)
 
 Dès 2017, la régie du groupe TF1  lançait avec Universal Pictures sa toute première campagne DMP diffusée en 4 écrans : PC, mobile, tablette et IPTV.
 
 Après avoir posé les premiers pas de la publicité adressée en TV, TF1 Publicité inaugurait la data sur IPTV, le plus premium des écrans avec plus de 20 millions d'utilisateurs chaque mois.  Cette campagne fut menée à l’occasion de la sortie du film « Barry Seal », Tf1  a défini pour Universal Pictures un ciblage sur-mesure "fans de séries américaines et de thrillers". Un niveau de ciblage rendu possible grâce à la data collectée via la consommation de films sur MYTF1VOD et du replay sur MYTF1 en PC, mobile, tablette, et nouveauté, en IPTV.
 
-[![Image](/images/blog/shemaiptv.jpeg)](/images/blog/shemaiptv.jpeg) Principes de l'IPTV
+[![shemaiptv.jpeg](/images/blog/shemaiptv.jpeg) Principes de l'IPTV
 
 Ce spot de 60 secondes fut diffusé uniquement auprès de cette cible sur MYTF1, permettant à Universal Pictures de bénéficier d'une campagne 100% affinitaire. Tf1 est un des leaders de l'IPTV avec plus de 10 millions de visiteurs uniques chaque mois, MYTF1 est l'interface idéale pour optimiser la visibilité des campagnes vidéos et favoriser l'engagement des consommateurs. Les négociations vont bon train entre les diffuseurs de contenus (chaînes) et les  telco (free, SFR, Bouygues), fournisseurs de box par lesquels nos foyers se connectent au monde digital.
 
@@ -25,7 +25,7 @@ Ce spot de 60 secondes fut diffusé uniquement auprès de cette cible sur MYTF1,
 
 La technologie et l’utilisation de la data leur permet d’adresser, de manière personnalisée, chaque communauté gravitant autour d’un contenu. Loin du modèle publicitaire traditionnel « one-to-many » (une communication de masse sans contenu différencié), une nouvelle forme de communication « many-to-many » (des communications différenciées adressées à des audiences différenciées) permet d’engager les communautés sur le média télé.
 
-[![Image](/images/blog/sygma-data.jpg)](/images/blog/sygma-data.jpg) Sygma vidéo access
+[![sygma-data.jpg](/images/blog/sygma-data.jpg) Sygma vidéo access
 
 Les alliances sur la collecte mutualisée de data internautes dans le monde de la presse, plus connue sous les noms de Gravity, Skyline. Les médias télé s'y mettent à leur tour pour contrer les offensives des GAFA sans cesse croissantes dans le domaine publicitaire. Sygma, une plateforme garantissant un accès standardisé et sécurisé à la donnée loguée de TF1, M6 et France Télévisions en programmatique est un pilier de la publicité segmentée. Cet ensemble d’inventaires avant cette entente étaient commercialisés exclusivement en gré à gré et sans qu’aucune coordination n’existe entre les régies de ces chaînes. D'abord accessible uniquement aux demandes side platform d'abobe et tubemogul, elle s'ouvre désormais progressivement à d'autres acteurs de l'écosystème de l'achat programmatique display. Des premières campagnes ont été opérées par les trading desks des agences Carat/Dentsu Aegis Network, Havas Media/Havas Group, Mediacom/GroupM et Publicis Media pour une dizaine d’annonceurs parmi lesquels Carte Noire, Crédit Agricole, Flunch, Kiabi et Bose.
 
@@ -47,7 +47,7 @@ Cette expérimentation a été rendue possible par la combinaison de 3 élément
 
  	-  L’analyse des données de consommation des programmes du Groupe M6, qui permet de créer des segments d’audience affinitaires.
 
-[![Image](/images/blog/flux-avec-substitution.jpg)](/images/blog/flux-avec-substitution.jpg)
+[![flux-avec-substitution.jpg](/images/blog/flux-avec-substitution.jpg)
 
 Vous pouvez voir cette vidéo [ici](https://m6pub.fr/publicite-tv-adressee-m6-publicite-lance-le-1er-test-sur-des-segments-daudience/) En direct sur M6, les 7 et 10 mai 2019,La Poste a diffusé 2 messages publicitaires distincts auprès de 2 segments de téléspectateurs équipés de TV connectées :
 
@@ -61,7 +61,7 @@ En parallèle, la diffusion classique sur les TV non connectées s’est effectu
 
 Le CSA a donné son accord en date du 17 juillet dernier  les Groupes TF1, M6 et France Télévisions annoncent que le projet Salto va pouvoir démarrer son activité. Le lancement de l’offre commerciale est prévu au premier trimestre 2020. L'objectif est d'enrayer la fuite des audiences vers les plateformes vidéo en streaming américaines comme Netflix, Disney, Amazon, Apple qui sont en train de grignoter les audiences françaises, et d'égrener les investissements publicitaires.
 
-[![Image](/images/blog/SAlto-ou-Netflix-à-la-Française.jpg)](/images/blog/SAlto-ou-Netflix-à-la-Française.jpg) Salto un Netflix à la française
+[![SAlto-ou-Netflix-à-la-Française.jpg](/images/blog/SAlto-ou-Netflix-à-la-Française.jpg) Salto un Netflix à la française
 ## **La publicité ciblée télévisée, un marché prometteur **
 
 *"A 3,4 milliards d’EUR os en 2018, le marché de la publicité télévisée en France est 5 % au-dessous de son niveau d'avant la crise de 2008, et en dessous de ses voisins allemands et anglais. Le marché de la publicité digitale, quant à lui, a doublé à 4,6 milliards d'euros en quatre ans. "* selon David Larramendy, le président du Syndicat national de la publicité télévisée. Le potentiel de croissance est donc prometteur.  Comment vont réagir les médias , presse locaux face à cette nouvelle concurrence ? Alors, à quant votre campagne ultra ciblée en tv ?

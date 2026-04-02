@@ -27,7 +27,7 @@ Origines et remèdes à la duplication de contenu
 
 Un contenu unique doit avoir pour destination une url et pas plus ! Si, plusieurs url aboutissent à un même texte pour l’exemple, alors il y aura duplication, c’est purement technique, mais c’est comme cela. On le verra plus loin, des dérivés existent aussi, liés au balisage html des pages.
 
-[![Image](/images/blog/1-url-pour-un-contenu-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/1-url-pour-un-contenu.jpg) 1 url = 1 contenu
+[![1-url-pour-un-contenu-310x208.jpg](/images/blog/1-url-pour-un-contenu-310x208.jpg) 1 url = 1 contenu
 ## **Le duplicate content lié au site**
 
 ### La faute aux serveurs web
@@ -39,7 +39,7 @@ Le  script qui génère le site , produit des urls différentes qui , si elles 
 
 Une bonne redirection 301 résout le problème.
 
-[![Image](/images/blog/site-duplique-300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/site-duplique.jpg) 4 sources de duplication site
+[![site-duplique-300x300.jpg](/images/blog/site-duplique-300x300.jpg) 4 sources de duplication site
 ### Les paramètres « ids » l’url
 
 le « / » oublié à la fin des urls, à l’origine, les moteurs ne savaient pas gérer ce soucis, maintenant oui, ouf !
@@ -60,12 +60,12 @@ Une version imprimée d’une page, à la fin de l’url, un paramètre tel que�
 
 Ici le balisage des titres des pages (meta  ou ) est  redondant, dommage pour l’indexation de google qui préfèrera à contenu identique, un titre et une description uniques pour chaque page. l'outil google webmaster tool indique les erreurs , il suffit de les corriger par une re-écriture.
 
-[![Image](/images/blog/doublons-balise-Meta-310x111.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/doublons-balise-Meta.jpg) Doublon des balises Meta
+[![doublons-balise-Meta-310x111.jpg](/images/blog/doublons-balise-Meta-310x111.jpg) Doublon des balises Meta
 ### De faire des filtres et tris divers sur du contenu
 
 pieces-informatique/carte-memoire/c4700/+fb-C000001009,C000001080+fv41-2825.html , le mieux sera de bloquer les paramètres dans gwt
 
-[![Image](/images/blog/parametres-urls-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/parametres-urls.jpg) Correction des paramètres dans l'url
+[![parametres-urls-310x212.jpg](/images/blog/parametres-urls-310x212.jpg) Correction des paramètres dans l'url
 ### Pagination et commentaires (ugc)
 
 Lorsqu’un article est découpé en plusieurs parties distinctes avec des urls qui ressemblent  à
@@ -84,7 +84,7 @@ A priori Google reconnait désormais le canevas général, ou alors , il suffit 
 
 Si une url est valide pour plusieurs variantes selon les pays comme la France, canada, Belgique, il conviendra de baliser chaque page avec cet ajout : rel="alternate" hreflang="x" , le « x » renvoyant vers la norme qui représente le pays (fr-ch par exemple pour la suisse).
 
-[![Image](/images/blog/duplication-contenus-276x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/duplication-contenus.jpg) DC lié plus aux contenus meme
+[![duplication-contenus-276x300.jpg](/images/blog/duplication-contenus-276x300.jpg) DC lié plus aux contenus meme
 
 Autre exemple : http://www.example.com/ avec http://en-gb.monsite.fr/page.html et http://en-us.monsite.fr/page.html , il conviendra de baliser avec rel="alternate" hreflang="x" au niveau de chacune des pages qui redirigera le navigateur vers le bon répertoire ou sous domaine du site traduit.
 

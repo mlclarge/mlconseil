@@ -9,7 +9,7 @@ slug: "rediriger-ses-urls-pour-garder-son-referencement"
 
 Les types de changements sur un site en dehors  des aménagements d'ergonomie web et les raisons pour occasionner un déménagement   peuvent être diverses.  Changer d’hébergement, de nom de domaine, de structure d’URLs  *(nouvelle taxonomie, catégorisation, organisation-arborescence)*, de migration de plateformes* (blog, ecommerce, cms)*  sont les raisons les plus fréquentes.  Ces modifications vont impacter sur **le référencement et **peuvent occasionner une chute de trafic brutale.
 
-[![Image](/images/blog/schema-310x241.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/schema.jpg) Déménagement site : Objets, techniques et outils
+[![schema-310x241.jpg](/images/blog/schema-310x241.jpg) Déménagement site : Objets, techniques et outils
 ## Hébergement & domaine à changement de toit , changement de loi !
 
 ### Préparer ses DNS, son adresse IP
@@ -28,7 +28,7 @@ SI le nom de domaine est différent *(choix domaine : attention de ne pas opter
 
 Il est possible de tout changer et de passer d'un blog à un CMs, ou d'un panier vers une autre solution ecommerce. Je m'étends pas sur le sujet , mais donne comme illustration cette solution cloud de migration Add2CartMigration, ou alors des prestations sur mesure chez l'éditeur** Prestashop**.
 
-[![Image](/images/blog/migrerunecommerce-310x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/migrerunecommerce.jpg) 2 Solutions de migration facile
+[![migrerunecommerce-310x244.jpg](/images/blog/migrerunecommerce-310x244.jpg) 2 Solutions de migration facile
 ## Lister les Urls vedettes pour le référencement organique
 
 Concentrons-nous quelques instants sur ce qui intéresse  le référencement à proprement parlé. Un site qui possède un certain **historique chez google** , a accumulé des positions dans les moteurs de recherche en fonction des requêtes. Ses urls ont été indexées , puis classées selon un positionnement lié à la popularité des contenus qu’elles (les urls) révèlent.  Donc  au moment où l’on décide de changer quoi que ce soit dans son site, la question première que l’on doit se poser est : « **Mais que vont devenir mes urls** ? »  C’est-à-dire les adresses qui mènent à mes pages catégories, produits, articles. Le processus pour s’attacher à le moins nuire à son référencement est de faire un audit des urls indexées par Google , Bing , selon la quantité, définir des priorités, et les rediriger au bon port, soit vers leur nouvelle adresse, une par une.
@@ -37,22 +37,22 @@ Concentrons-nous quelques instants sur ce qui intéresse  le référencement à
 
 Rien d’exceptionnel, par la commande site :monsite.com, récupérer les pages de résultats du moteur,  profitez pour vérifier les pages d’erreur 404. Selon l’importance du site, des outils de scraping seront conseillés à utiliser comme RDDZ scraper.
 
-[![Image](/images/blog/scraper-310x223.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/scraper.png) Extension firefox scraper
+[![scraper-310x223.png](/images/blog/scraper-310x223.png) Extension firefox scraper
 ### Les adresses de pages populaires
 
 Utiliser un outil de veille de positionnement selon les requêtes métier où l’on souhaite ne pas perdre ou du moins le moins perdre de positions.  Les urls les mieux placées devront être chouchoutées !
 
-[![Image](/images/blog/positionnement-seo-url-310x119.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/positionnement-seo-url.png) Les urls les mieux positionnées sur requêtes
+[![positionnement-seo-url-310x119.png](/images/blog/positionnement-seo-url-310x119.png) Les urls les mieux positionnées sur requêtes
 ### Avec Google Analytics aussi
 
 Les urls qui sont le plus qualitatives en terme de fréquentation , de durée de visites. Contenu , urls de destination, nombre de visites.
 
-[![Image](/images/blog/google-analytics-310x185.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/google-analytics.png) Urls de destination les + fréquentées
+[![google-analytics-310x185.png](/images/blog/google-analytics-310x185.png) Urls de destination les + fréquentées
 ### Les liens entrants (backlinks)
 
 Récupérer les Urls les plus populaires, celles qui amènent du trafic récurrent. Faire un diagnostic sur plusieurs mois (un semestre donne déjà une bonne idée).
 
-[![Image](/images/blog/majestic-seo-310x130.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/majestic-seo.png) Les urls avec le + de backlinks
+[![majestic-seo-310x130.png](/images/blog/majestic-seo-310x130.png) Les urls avec le + de backlinks
 
 Une fois ces urls recensées  rassemblées dans une feuille de calcul , il conviendra  :
 
@@ -70,7 +70,7 @@ Une fois ces urls recensées  rassemblées dans une feuille de calcul , il conv
 
 Matt Cutts l’a dit , donc il faut suivre..Le principe est simple, à la racine du serveur, il faudra indiquer au moyen d’une syntaxe spécifique  à chaque serveur le chemin des nouvelles urls. Pas moins de 10 méthodes ont été rassemblées ci-dessous  par un développeur, bien pratique !
 
-[![Image](/images/blog/301-syntax-310x245.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/301-syntax.png) Syntaxes redirection 301
+[![301-syntax-310x245.png](/images/blog/301-syntax-310x245.png) Syntaxes redirection 301
 
 Je souligne ici la syntaxe la plus utilisée, spécifique au serveur apache :
 
@@ -78,16 +78,16 @@ Redirection 301 /connaitre-le-vocabulaire-seo/  http://www.monnouveausite.fr/vo
 
 Si l’on ne veut pas toucher au code, des petits outils existent, limité, mais pratique si l’on sait manier le « copier-coller ». Ici, cet [outil](http://www.htaccessredirect.net/), pas dédié à la redirection 301 , mais au fichier .htaccess , qui permet de rentrer l’ancienne url et d’indiquer la nouvelle.
 
-[![Image](/images/blog/htaccess-outil-1-310x283.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/htaccess-outil-1.png) Outil en ligne sur 301
+[![htaccess-outil-1-310x283.png](/images/blog/htaccess-outil-1-310x283.png) Outil en ligne sur 301
 ### Changement dans la structure interne au site
 
 Ou alors, [celui-ci](http://seo-website-designer.com/HtAccess-301-Redirect-Generator#heading-ToolResult) , plus dédié à la redirection interne, suite par exemple à une modification de structure du site *(catégorisation, renommage des urls)*. Il génère plusieurs redirections à la fois.
 
-[![Image](/images/blog/301-bulk-297x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/301-bulk.png) Outil pour plusieurs redirections
+[![301-bulk-297x300.png](/images/blog/301-bulk-297x300.png) Outil pour plusieurs redirections
 
 Sinon, l’autre solution, lorsque  l’on a plusieurs dizaines de redirections, valable pour les  sites modestes, est de se servir d’une feuille de calcul , avec d’un côté les anciennes urls, de l’autre les nouvelles et de bricoler une concaténation afin de  n’avoir plus qu’à copier-coller la ligne dans le fichier htaccess. Pour des 301 plus lourdes, l'idéal est d'utiliser les expressions régulières afin de minimiser les lignes de code, et ménager ses ressources  serveur ou alors de faire développer un petit script de redirections automatiques. En outre, éviter de tout rédiriger sur la page d'accueil,  faire des regroupements thématiques.
 
-[![Image](/images/blog/bulk-301-310x73.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/04/bulk-301.png) Table Excel pour traitement multiple
+[![bulk-301-310x73.png](/images/blog/bulk-301-310x73.png) Table Excel pour traitement multiple
 
 Il faudra être patient et observer le **crawling du Google-bot** , mais une dizaine de jours  à  1 gros mois selon l’importance de redirections  seront nécessaires pour une re indexation, et  avant que le trafic retrouve son niveau de départ, un semestre sera pas de trop. Mais si l’accueil des nouvelles urls est fin  prêt avec un **sitemap à jour*** (xml ou html)*  des urls canoniques revues et adaptées *(attention à ne pas faire du canonical sur des redirections qu’elles soient 301 ou 302, à un moment donné il faut choisir)* ,soutenu par du contenu actualisé sur ces mêmes urls + du contenu frais, la transition devrait bien se passer. **Bon déménagement** !
 

@@ -10,12 +10,12 @@ image: "/images/blog/hubspot.jpg"
 
 Présentation de la [plateforme Hubspot](https://www.hubspot.fr), couteau Suisse du marketing automatisé, que j’ai pu tester pendant quelques temps. HS est un entreprise américaine créée en 2006 créée par Brian Halligan et dont l’effectif avoisine 800 personnes aujourd’hui. Cette société a inventé le concept d’**inbound marketing**, qui commence à être utilisé dans les formations webmarketing dans toutes bonnes business schools. Alors comment faire une synthèse de ce qu’offre cette application ?  Bon, j’ai décidé de faire une liste à la Prévert sur plus de 60 fonctionnalités offertes en démarrant de la Stratégie, en passant par la communication, le content marketing, le Seo,  les scénarios, les réseaux sociaux..pour terminer sur l'intégration.
 
-[![Image](/images/blog/hubspot-automation-502x169.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/hubspot-automation.png) Principales caractéristiques de l'application
+[![hubspot-automation-502x169.png](/images/blog/hubspot-automation-502x169.png) Principales caractéristiques de l'application
 ## **Stratégie marketing : poser les bons jalons**
 
 HS  propose différents outils de gestion d’aide à l’organisation des  actions marketing d’un projet spécifique (ex : lancement d’un scénario automatisé, offre d’un livre blanc), au ciblage de prospects (éditeur de persona), sans oublier les actions quotidiennes de création de campagnes d’acquisition ou la planification des actions.
 
-[![Image](/images/blog/strategie-seo-214x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/strategie-seo.png) Pense-bête dynamique à intégrer dans une campagne (anglais un iquement)
+[![strategie-seo-214x300.png](/images/blog/strategie-seo-214x300.png) Pense-bête dynamique à intégrer dans une campagne (anglais un iquement)
 
  	- Aide à la gestion des tâches d’un projet : canevas prêt à l’emploi ou personnalisées des différentes étapes à accomplir selon un type d’action webmarketing (seo, emailing, scénarios)
 
@@ -27,7 +27,7 @@ HS  propose différents outils de gestion d’aide à l’organisation des  ac
 
 Hs est une plateforme transversale user centrique, ou toutes les informations accomplies depuis une offre de contenus marketing sont enregistrées dans un module  CRM où chaque individu au sein d’un flux chronologique  est qualifié selon :
 
-[![Image](/images/blog/fiche-contact-et-flux-chronologique-402x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/fiche-contact-et-flux-chronologique.png)
+[![fiche-contact-et-flux-chronologique-402x300.png](/images/blog/fiche-contact-et-flux-chronologique-402x300.png)
 
  	- Ses attributs classiques d’identification : nom, prénom, email, son organisation, entreprise, documents envoyés
 
@@ -48,7 +48,7 @@ A partir de chaque fiche contact, sont reliées des actions comme l’envoi de m
 
 HS se connecte avec Gmail ou Outlook par l’intermédiaire d’une extension, qui permet une synchronisation parfaitement maitrisée et sert principalement à :
 
-[![Image](/images/blog/extension-hubspot-357x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/extension-hubspot.jpg)
+[![extension-hubspot-357x300.jpg](/images/blog/extension-hubspot-357x300.jpg)
 
  	- Loguer les messages ou non avec le CRM intégré d’HS
 
@@ -68,7 +68,7 @@ HS se connecte avec Gmail ou Outlook par l’intermédiaire d’une extension, q
 
 Grande surprise quand utiliser Husbpot, c’est l’offre d’une plateforme de contenu intégrée, un cms truffé de fonctionnalités et parfaitement personnalisable : css, html. Les possibilités sont nombreuses.
 
-[![Image](/images/blog/calendrier-productivite-hubspot-410x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/calendrier-productivite-hubspot.png) Calendrier de publication automatisé
+[![calendrier-productivite-hubspot-410x300.png](/images/blog/calendrier-productivite-hubspot-410x300.png) Calendrier de publication automatisé
 
  	- Plateforme intégrée de création de contenus : blog, page de destination avec des modèles prêts à l’emploi
 
@@ -96,7 +96,7 @@ Grande surprise quand utiliser Husbpot, c’est l’offre d’une plateforme de 
 
 C’est sans doute sa grande force, un studio intégré de création  de workflows, d’ordonnancement des envois, tâches diverses (marketing/ventes). L’envoi conditionnel d’email devient un jeu d’enfants selon des objectifs où  le lead nurtering prend tout son sens.
 
-[![Image](/images/blog/3-acquisition-workflow-pour-lead-nurtering-marketing-0-387x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/3-acquisition-workflow-pour-lead-nurtering-marketing-0.png) Un studio de création de workflow qui programme les enchainements des contenus
+[![3-acquisition-workflow-pour-lead-nurtering-marketing-0-387x300.png](/images/blog/3-acquisition-workflow-pour-lead-nurtering-marketing-0-387x300.png) Un studio de création de workflow qui programme les enchainements des contenus
 
 Modèles de Workflows selon le type d’objectifs d’acquisition sont déjà fournis :
 
@@ -128,7 +128,7 @@ Création de workflow personnalisables : seule votre imagination peut être à 
 
 Des gadgets mais peuvent aussi s’avérer utiles pour qualifier et retenir une audience inconnue.
 
-[![Image](/images/blog/5-Conversion-304x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/5-Conversion.png) Des petits outils de rétention visiteurs
+[![5-Conversion-304x300.png](/images/blog/5-Conversion-304x300.png) Des petits outils de rétention visiteurs
 
  	- Rétention : création de pop-up d’assistance à la vente, de widgets d’abonnement à une newsletter pour le marketing.
 
@@ -138,7 +138,7 @@ Des gadgets mais peuvent aussi s’avérer utiles pour qualifier et retenir une 
 
 Des outils d’aide à la promotion des ventes, au suivi de campagnes de liens sponsorisés
 
-[![Image](/images/blog/sequence-pour-les-ventes-ans-hubspot-185x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/sequence-pour-les-ventes-ans-hubspot.jpg) Automatisation des envois classiques de routines aux propects
+[![sequence-pour-les-ventes-ans-hubspot-185x300.jpg](/images/blog/sequence-pour-les-ventes-ans-hubspot-185x300.jpg) Automatisation des envois classiques de routines aux propects
 
  	- Publicitaire : connecteurs sur les plateformes Google adwords, LinkedIn, Facebook
 
@@ -154,7 +154,7 @@ Des outils d’aide à la promotion des ventes, au suivi de campagnes de liens s
 
 ### ***Dashboard***
 
-[![Image](/images/blog/tableau-de-bord-425x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/tableau-de-bord.png) Tableau de Bord Marketing
+[![tableau-de-bord-425x300.png](/images/blog/tableau-de-bord-425x300.png) Tableau de Bord Marketing
 
 En fonction des actions marketing entreprises un tableau de bord rassemble les performances marketing et des ventes
 
@@ -182,7 +182,7 @@ Ventes
 
 Au-delà des tableaux de bord, il est possible d’avoir des statistiques sur :
 
-[![Image](/images/blog/rapport-hubspot-source-de-trafic-358x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/rapport-hubspot-source-de-trafic.png) Rapport sur sources de trafic
+[![rapport-hubspot-source-de-trafic-358x300.png](/images/blog/rapport-hubspot-source-de-trafic-358x300.png) Rapport sur sources de trafic
 
  	- Sources d’acquisition : organique, recommandations (référents), réseaux sociaux, emailing, référencement payant, trafic direct, Performances des pages (comme Google analytics quoi.)
 
@@ -200,7 +200,7 @@ Au-delà des tableaux de bord, il est possible d’avoir des statistiques sur :
 
 Là encore, c’est un mini hootsuite, avec un suivi des fils d’actualités provenant de twitter, Google, Facebook, LinkedIn, xing.
 
-[![Image](/images/blog/monitoring-hubspot-social-310x173.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/monitoring-hubspot-social.png) Monitoring social
+[![monitoring-hubspot-social-310x173.png](/images/blog/monitoring-hubspot-social-310x173.png) Monitoring social
 
  	- Boite de réception sur tout ce qui s’est passé avec des notifications journalières dans sa boite mail
 
@@ -212,7 +212,7 @@ Là encore, c’est un mini hootsuite, avec un suivi des fils d’actualités pr
 
 HS écoute tout ce qui se passe, non seulement sur ce que produit sa plateforme, mais aussi est compatible avec des CMS du marché, des solutions d’analyse d’audience, des connecteurs d’APIS. Au total plus de 54 possibilités d’intégrations !
 
-[![Image](/images/blog/intégration-multiple-244x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/intégration-multiple.png) Intégration multiples via apis
+[![intégration-multiple-244x300.png](/images/blog/intégration-multiple-244x300.png) Intégration multiples via apis
 
 Sur WordPress par exemple, une fois le plugin installé HS, il écoute tout ce qui se passe aussi bien sur les formulaires de type contact form 7, que sur des plugins sociaux de partage comme addthis. Rien ne lui échappe !
 

@@ -41,7 +41,7 @@ Rien ne sert de refaire, ce qui est très bien fait, donc, je reprends le travai
 
  	- Depuis 2008 : Beaucoup d’améliorations dans les possibilités Html 5 (rendu dynamique), le CSS 3, Applications Web, API
 
-[![Image](/images/blog/timeline-310x100.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/timeline.jpg) Chronologie des navigateurs 1991 à nos jours
+[![timeline-310x100.jpg](/images/blog/timeline-310x100.jpg) Chronologie des navigateurs 1991 à nos jours
 
 Cette **Timeline "live"** de la navigation web est visible ici :  [http://www.evolutionoftheweb.com/?hl=fr#/evolution/day](http://www.evolutionoftheweb.com/?hl=fr#/evolution/day)
 ### **Parts de Marché du surfing ...**
@@ -54,7 +54,7 @@ Le petit dernier se taille la part du lion, son secret ? Certainement sa rapidit
 
 Le navigateur fait le lien entre la machine de l’internaute et celle du site web (serveur). C'est un "client" du protocole   "**http:// client-serveur". **D'autres protocoles peuvent passer par un navigateur comme le **FTP** (plus ancien), ou le **WEBDAV** (extension du http) ou **Gopher** *(via Firefox, mais confidentiel)*.** ** En fait, c’est en quelque sorte l’interprète entre le sreveur du site web et le visiteur ! Pour que le serveur du site et la page demandée puisse s’afficher, des **variables d’environnements**, puisées dans les **couches réseaux du modèle OSI**, doivent être déclarées et transmises et cela avant toute discussion (envoi d’images, pages etc..). Le Modèle réseau OSI (**7 couches**) représente les différentes strates de ce qui est nécessaire pour établir connexion et communication entre machines sur un réseau.
 
-[![Image](/images/blog/osi-et-html-310x156.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/osi-et-html.jpg) Le navigateur : application intégrée du modèle OSI
+[![osi-et-html-310x156.jpg](/images/blog/osi-et-html-310x156.jpg) Le navigateur : application intégrée du modèle OSI
 ### **Les discussions entre un Browser et un Serveur web**
 
 Diverses applications, conçues pour tracer les différents appels entre le navigateur et le serveur, permettent de mieux comprendre les allers et venues de l’information. Fidler fait partie d’un de ses outils bien utiles pour voir et mesurer les différents appels de part et d’autre :
@@ -71,7 +71,7 @@ Diverses applications, conçues pour tracer les différents appels entre le navi
 
  	- Img fidler
 
-[![Image](/images/blog/fiddler-debug-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/fiddler-debug.jpg) Les appels de fichiers intercepté par Fiddler
+[![fiddler-debug-310x250.jpg](/images/blog/fiddler-debug-310x250.jpg) Les appels de fichiers intercepté par Fiddler
 
 **Comment le navigateur traduit et affiche-t-il  le contenu envoyé par le serveur web ?**
 
@@ -91,14 +91,14 @@ Sans rentrer dans les détails techniques, je donne ici brièvement les grandes 
 
  	- **Données stockées par le Browser : cookies** ..
 
-[![Image](/images/blog/composants-navigateurs-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/composants-navigateurs.jpg) Composants d'un navigateur
+[![composants-navigateurs-310x212.jpg](/images/blog/composants-navigateurs-310x212.jpg) Composants d'un navigateur
 ### **Focus sur le moteur de rendu : analyse Html**
 
 Le moteur de rendu analyse les données du serveur via un process élaboré selon le type de language et de documents qu’il doit afficher pour l’utilisateur.  Principalement de l’Html, xml, images, css, doc pdf ou autres (animations flash etc..).
 
 Voici schématisé ci-dessous ce que le** moteur webkit** (safari, chrome)  utilise comme  flux de traitement.
 
-[![Image](/images/blog/moteur-webkit-310x226.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/moteur-webkit.png) Etapes du traitement d'un document web
+[![moteur-webkit-310x226.png](/images/blog/moteur-webkit-310x226.png) Etapes du traitement d'un document web
 
 Un des aspects de ce processus est l’utilisation du Document Object Model, qui utilise **2 types d’analyses : lexicale** (vocabulaire, string)  et s**yntaxique** (règles du langage).
 
@@ -106,7 +106,7 @@ Un des aspects de ce processus est l’utilisation du Document Object Model, qui
 
 Le Dom est une API embarquée sur les navigateurs qui est utile aux langages  web de scripts (Js) afin de  manipuler dynamiquement les contenus html et xml plus communément appelé documents. Son architecture est structurée et orientée objet.  Le développeur peut ainsi faire appel à cette hiérarchie pour élaborer des pages web.
 
-[![Image](/images/blog/dom-et-analytics-310x190.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/dom-et-analytics.jpg) Hierarchie d'un document traité par un navigateur
+[![dom-et-analytics-310x190.jpg](/images/blog/dom-et-analytics-310x190.jpg) Hierarchie d'un document traité par un navigateur
 ## **Usages spécifiques  du navigateur**
 
 ### **Chrome et ses attributs**
@@ -127,14 +127,14 @@ Le Dom est une API embarquée sur les navigateurs qui est utile aux langages  w
 
  	- chrome://memory : Affiche les processus de navigateurs, et l’utilisation de la mémoire de tous les navigateurs web ouvert sur ​​l'ordinateur
 
-[![Image](/images/blog/dialoguer-avec-chrome-250x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/dialoguer-avec-chrome.jpg) Attributs de Chrome
+[![dialoguer-avec-chrome-250x300.jpg](/images/blog/dialoguer-avec-chrome-250x300.jpg) Attributs de Chrome
 
 **Bonus** : Si vous souhaitez manipuler votre **historique navigateur** avec doigté suivre un des liens en fin de page !
 ### **Chrome comme explorateur de votre OS**
 
 Il suffit de taper :**file:///C://** et cela ouvre l’accès aux dossiers et autres fichiers du disque dur. Utile
 
-[![Image](/images/blog/navigateur-disque-dur-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/navigateur-disque-dur.jpg) Explorateur Chrome
+[![navigateur-disque-dur-310x209.jpg](/images/blog/navigateur-disque-dur-310x209.jpg) Explorateur Chrome
 ### **Navigateur et Seo : Cloaking **
 
 Exemple d'entête navigateur :
@@ -161,7 +161,7 @@ Le navigateur est une plateforme de prédilection pour accueillir des scripts ma
 
 En tapant Ctrl+Maj+J , on accède à la console à l’**api Javascript de Chrome** qui permet de discuter avec ce qui se passe sur la page (scripts, objets du DOM). Un exemple de commande Xpath (langage utilisé pour interroger des éléments, mais aussi pour scraper des données) : $x(« //p « ) qui permet de rechercher dans les différents paragraphes, la présence de lien muni d’ une balise « a ». Lors de débuggage sur des marqueurs Js pour google analytics, les fonctionnalités sont aussi utilisées.
 
-[![Image](/images/blog/console_js-api-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/console_js-api.jpg) Console Js pour dialoguer avec la page
+[![console_js-api-310x162.jpg](/images/blog/console_js-api-310x162.jpg) Console Js pour dialoguer avec la page
 ## **Liens sur le sujet des navigateurs web**
 
  	- Document technique sur l'analyse et l'interprétation des N.: [developpez.com](http://web.developpez.com/tutoriels/web/how-browsers-work/)

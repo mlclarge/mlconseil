@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=VCo3zZ0P4vU
 
 Le problème peut-il se poser ainsi ? Pas sûr, car si l’on souhaite retrouver dans inbox, ce que l’on possède dans Gmail, c’est peine perdue. Si l’on se sert de Gmail comme **outil de veille** en plus d’une simple **messagerie**, alors gardez Gmail, sa richesse de tri, son mode de recherche, restent inégalées. En revanche, si l’on utilise Gmail sans paramétrage avancé, alors **foncez pour Inbox**. Rappelons que l’on peut essayer inbox sans risque et passer d’une boîte à l’autre autant de fois que l’on veut. Le graal étant de réussir à obtenir une boite….vide !
 
-[![Image](/images/blog/graal-inbox-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/graal-inbox.jpg) Le graal, une boite mail vide !
+[![graal-inbox-421x300.jpg](/images/blog/graal-inbox-421x300.jpg) Le graal, une boite mail vide !
 ### ***Nombre utilisateurs Gmail ou Inbox***
 
 Difficile d'avoir de la data sur le sujet. On peut se faire une idée en consultant les téléchargements d'applications depuis les possesseurs de smartphones. J'ai trouvé cette statistiques d'utilisation des 2 apps. sur la plateforme survey monkey. A priori gmail reste encore une valeur sûre.
 
-[![Image](/images/blog/telechargement-dapplication-inox-vs-gmail-310x181.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/telechargement-dapplication-inox-vs-gmail.jpg) Téléchargements Gmail Vs Inbox
+[![telechargement-dapplication-inox-vs-gmail-310x181.jpg](/images/blog/telechargement-dapplication-inox-vs-gmail-310x181.jpg) Téléchargements Gmail Vs Inbox
 
  
 ## **Inbox : les plus**
@@ -35,7 +35,7 @@ Difficile d'avoir de la data sur le sujet. On peut se faire une idée en consult
 
  	- Classement automatique par thématique (achat, promotions, newsletter..)
 
-[![Image](/images/blog/classement-par-groupe-inbox-310x105.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/classement-par-groupe-inbox.jpg) Un rangement automatique par catégorie
+[![classement-par-groupe-inbox-310x105.jpg](/images/blog/classement-par-groupe-inbox-310x105.jpg) Un rangement automatique par catégorie
 
  	- Rapidité de l’outil sur desktop et mobile
 
@@ -47,13 +47,13 @@ Difficile d'avoir de la data sur le sujet. On peut se faire une idée en consult
 
  	- Fonctionnalité enregistrer : grâce une extension, inbox peut servir d’espace de stockage accessible depuis une catégorisation dédiée
 
-[![Image](/images/blog/enregistrer-des-contenus-dans-inbox-491x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/enregistrer-des-contenus-dans-inbox.jpg) Fonctionnalité enregistrement inbox
+[![enregistrer-des-contenus-dans-inbox-491x300.jpg](/images/blog/enregistrer-des-contenus-dans-inbox-491x300.jpg) Fonctionnalité enregistrement inbox
 ## **Les moins d'Inbox**
 
  	- Non intégration des addons avec la technologie inbox, les développeurs n’ont pas encore développé beaucoup pour Inbox.
 
  	- La Catégorisation des libellés est limitée à un degré, alors que dans Gmail, la sous catégorisation est possible.
 
-[![Image](/images/blog/categorisation-310x108.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/09/categorisation.jpg) Categorisation maillon faible d'inbox
+[![categorisation-310x108.jpg](/images/blog/categorisation-310x108.jpg) Categorisation maillon faible d'inbox
 
 Bon, maintenant , à vous de faire votre propre opinion, mais ce n'est pas fortuit si inbox offre moins de possibilité de rangement, son **interface est persuasive** pour justement alléger les serveurs de google et préserver indirectement la planète par une consommation plus juste des ressources énergétiques (vision écolo ;) ).

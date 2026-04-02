@@ -20,7 +20,7 @@ Après en avoir discuté avec des gestionnaires de campagnes aguerris, nous éti
 
 L’agence **wordstream** a communiqué à ce sujet récemment en donnant son ressenti sur son portefeuille de 400 clients.  Les chiffres ne trompent pas. Pas plus de 3 % en moyenne ont vu leur budget augmenté,  soit,  en fait,  aucune différence voire même une baisse  de ce même du taux !
 
-[![Image](/images/blog/adwords-budget-evolution-502x75.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/02/adwords-budget-evolution.png) Impact du +100% de lattitude budgétaire sur Comptes AdW
+[![adwords-budget-evolution-502x75.png](/images/blog/adwords-budget-evolution-502x75.png) Impact du +100% de lattitude budgétaire sur Comptes AdW
 ## Quelle solution éventuelle alors pour contre carrer cette mesure  en cas de dépassement abusif ?
 
 Mais bien sur ! les **scripts adwords** ! Ils sont une belle parade pour jouer les arbitres et ramener un pilotage moins smart  mais plus raisonné et déterministe dans la stratégie de l’annonceur.

@@ -36,7 +36,7 @@ Ou alors d’une manière transversale pour une campagne vu que les paramètres 
 
  	- A la localisation (à venir)
 
-[![Image](/images/blog/ads-customizer-310x197.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/ads-customizer.jpg) Transversalité annonces à l'aide du flux
+[![ads-customizer-310x197.jpg](/images/blog/ads-customizer-310x197.jpg) Transversalité annonces à l'aide du flux
 
 Avec un choix de combinaisons entre ces  entités avec une condition « ET » et ainsi  permettre ainsi un ciblage équivalent à une structure hiérarchisée traditionnelle.
 
@@ -50,7 +50,7 @@ Un flux n’est ni plus ni moins qu’une feuille de calcul. Il faut construire 
 
 Pour l’instant, l’annonce peut être circonscrite uniquement dans un groupe d’annonces existant. Il est fortement conseillé d’avoir donc une annonce textuelle standard en cas de non déclenchement de l’annonce dynamique.
 
-[![Image](/images/blog/construction-flux-adwords-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/construction-flux-adwords.jpg) Construction d'une annonce
+[![construction-flux-adwords-310x154.jpg](/images/blog/construction-flux-adwords-310x154.jpg) Construction d'une annonce
 
 Les mises à jours sont possibles directement depuis l’interface adwords ou par update du flux dans sa totalité ou alors par mise à jour partielle avec adjonction d’un attribut « ad or remove » au niveau du feed (sans doute plus favorable à la conservation de l’historique des performances).
 
@@ -92,7 +92,7 @@ Les mises à jours sont possibles directement depuis l’interface adwords ou pa
 
 Le déclenchement de l’annonce se fait ensuite sur la requête vis-à-vis du flux, pour illustration…
 
-[![Image](/images/blog/annonce-personnalisee-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/annonce-personnalisee.jpg) Impression dans Google
+[![annonce-personnalisee-310x142.jpg](/images/blog/annonce-personnalisee-310x142.jpg) Impression dans Google
 ## **Ressources - Liens **
 
  	- Webinar en français : https://www.youtube.com/watch?v=GgJ2H5FrUqE

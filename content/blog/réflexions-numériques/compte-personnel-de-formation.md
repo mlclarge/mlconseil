@@ -15,7 +15,7 @@ Comment **financer sa formation webmarketing**  *(ou  revers de la médaille :
 
 Le bilan de l’étude commanditée par la Dares et le document d’étude de janvier 2015*  pour fêter la décennie du système dont il est issu, dresse un bilan mitigé de cette usine à gaz en quelque sorte, qui n’a pas modifié finalement le rapport à l’autoformation des salariés. Seulement 6.5 % au global auront  pu bénéficier chaque année de ce droit et à peine 5% pour les entreprises de moins de 10 salariés. Un droit ? que nenni ! le DIF était opposable par l’employeur . Cela veut dire que des salariés se sont vus refusés ce dit droit   sous prétexte qu’il ne cadrait pas dans le plan de formation de l’entreprise.  Pour les salariés  au bout de 5 ans, bye bye  le capital des 120 heures ! Néanmoins, ces heures cumulées restent mobilisables via le cpf jusqu’en..2020 ! Ne l'oublions pas, le secteur de la formation  prof. constitue une belle cagnotte (plus de 32 milliards d'euros) financés par de gros acteurs !
 
-[![Image](/images/blog/financement-de-la-formation-310x174.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/financement-de-la-formation.jpg) Financement de la formation
+[![financement-de-la-formation-310x174.jpg](/images/blog/financement-de-la-formation-310x174.jpg) Financement de la formation
 ### ***L’arrivée du CPF, une obligation de qualification **?*
 
 Comme le  précise Xavier Royer, co-animateur du comité observatoires  et certifications (Coc), la nouvelle loi gênent les acteurs du secteur, entreprises et organismes de formation car elle transforme, je cite de  « l’obligation de former en obligation de qualifier».
@@ -32,7 +32,7 @@ Une des grandes nouveautés du CPF tient dans le fait que :
 
 	- ..Et pour simplifier, du côté employeur la partie contributive au fond du cpf (0.2% sur les 1%) peut être gérée par l’employeur, sans passer par l’OPCA (Organisme paritaire collecteur agrée).
 
-[![Image](/images/blog/dif-et-cpf-310x188.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/dif-et-cpf.jpg) Dif et Cpf
+[![dif-et-cpf-310x188.jpg](/images/blog/dif-et-cpf-310x188.jpg) Dif et Cpf
 ### ***Cannibalisme du CPF vers le plan de formation entreprise ?***
 
 Comme cela a pu être le cas avec le DIF, La tentation de l’employeur de faire passer des formations destinées aux projets  personnels  (cpf)  , au profit du PFE est palpable constatent certains responsables syndicaux de la profession. La politique de l’autruche peut aussi être une stratégie, pas de communication, pas de réclamation..
@@ -61,11 +61,11 @@ Alors quid des formations courtes ? Essayons d’y voir plus clair selon le sta
 
 	- Acquisition d’un socle de connaissances et de compétences (http://vosdroits.service-public.fr/particuliers/F10705.xhtml)
 
-[![Image](/images/blog/formatiin-eligibles-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/formatiin-eligibles.jpg) Formations eligibles au cpf
+[![formatiin-eligibles-310x217.jpg](/images/blog/formatiin-eligibles-310x217.jpg) Formations eligibles au cpf
 
 ***Savoir formuler sa demande  !  comment trouver "[une formation  sur le « webmarketing ](https://www.mauricelargeron.com/ateliers-referencement-bordeaux/)»***
 
-[![Image](/images/blog/recherche-formation-webmarketing-cpf-154x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/recherche-formation-webmarketing-cpf.jpg) Recherche formation webmarketing cpf dans listing RNCP
+[![recherche-formation-webmarketing-cpf-154x300.jpg](/images/blog/recherche-formation-webmarketing-cpf-154x300.jpg) Recherche formation webmarketing cpf dans listing RNCP
 
 Changer de mot clé et **élargir le champ lexical** ! le Webmarketing n’ai pas encore reconnue comme tel, le sera-t-il un jour d’ailleurs ? Idem pour les termes de  "Seo", "réf. Nat" , ou "référencement organique", "sea" ou "web analytics"   ! Le mot clé contextuel est **webmaster**, cela  marche ! Le listing offre 2 résultats ! L’embarras du choix ;).
 ***Constitution du dossier***
@@ -141,7 +141,7 @@ Bien que le niveau académique ne soit pas jugé dans l’obtention d’uen cert
 
 	- Fiche répertoire
 
-[![Image](/images/blog/liste-formation-eligibles-cpf-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/liste-formation-eligibles-cpf.jpg) Formations eligible cpf
+[![liste-formation-eligibles-cpf-310x226.jpg](/images/blog/liste-formation-eligibles-cpf-310x226.jpg) Formations eligible cpf
 ***Quatre critères sont particulièrement importants et constituent le crédit qu’apportera la commission à l’éligibilité ***
 
 	- La formation est elle en adéquation avec les compétences du champ professionnel

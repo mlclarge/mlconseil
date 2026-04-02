@@ -14,7 +14,7 @@ Google a pensé à tout lors de son déploiement de sa plateforme d’optimisati
 
 Avant de rentrer dans l’outil Google optimize il convient de définir l’environnement global qui va entourer ce projet d’[optimisation des conversions.](https://www.mauricelargeron.com/formation-google-ads/google-ads-et-le-suivi-avance-des-conversions/)  Ici il s’agira de tester une page avec 1 variante (une image) personnalisée sur la zone géographique, bon ok, pas top en design mais on fait avec ses moyens !
 
-[![Image](/images/blog/test-ab-google-optimize-310x231.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/test-ab-google-optimize.jpg) Test ab google optimize
+[![test-ab-google-optimize-310x231.jpg](/images/blog/test-ab-google-optimize-310x231.jpg) Test ab google optimize
 
  	- Quelle cible Adwords tester : campagne adwords, groupes d’annonces, mots clés ? Je prendrai ici le niveau campagne. Précision que ce n’est possible que sur des campagnes évoluant sur le moteur Google donc : shopping, recherche (et display sélectif mais Gdn sera ignoré). Noter une réserve du système sur un impact sur le score de qualité, si les landing observent des temps de changements avec des redirections mal maitrisées suite aux clics. (Voir plus bas sur le chapitre technique)
 
@@ -42,17 +42,17 @@ Il va falloir vers discuter plusieurs plateformes dont la  majorité bien sûr 
 
  	- **Créer un compte Google optimize**, plusieurs choix possible : installer le plugin dans le code GA existant (analytics.js ou gtag.js selon l’ancienneté de votre code de suivi), mais en tout cas il est conseillé pour éviter des mauvais effets UX visiteurs, d’installer en dur  dans le head un snippet qui stabilise l’affichage aléatoire selon les visiteurs. Pour ma part je passe par Google Tag Manager, il faudra , si vous utiliser un champ « allow linker » dans votre tracking traditionnel GA de faire ce même choix dans le paramétrage d’optimize pour utiliser à son plein potentiel l’outil de création de variante en mode GUI.
 
-[![Image](/images/blog/zllow-linker-310x231.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/zllow-linker.jpg) Bug éventuel sur paramètre Allow Linker
+[![zllow-linker-310x231.jpg](/images/blog/zllow-linker-310x231.jpg) Bug éventuel sur paramètre Allow Linker
 
  	- Insérer le plugin  dans via Google Tag manager (si vous n’avez pas fait le choix précédent en dur dans le Template header.php de votre site). J’ai fait ce choix car je trouve très pratique le choix des déclencheurs, ici, ce test ne sera enclenché que sur la landing précisément. Vérifiez tout de même sur la page en question, si tout est en place correctement avec l’extension navigateur Tag assistant.
 
-[![Image](/images/blog/tag-assistant-google-optimize-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/tag-assistant-google-optimize.jpg) Tag assistant et Google optimize
+[![tag-assistant-google-optimize-310x155.jpg](/images/blog/tag-assistant-google-optimize-310x155.jpg) Tag assistant et Google optimize
 
  	- Associer le compte  Google optimize définit dans la phase marketing depuis le compte adwords, le marquage du suivi automatique est obligatoire.
 
  	- Relier Google analytics pour avoir  les rapports des tests obtenus avec l’intégration de Google tag manager et d’optimize  (association).
 
-[![Image](/images/blog/optimize-278x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/optimize.jpg) Association des comptes GA et ADW
+[![optimize-278x300.jpg](/images/blog/optimize-278x300.jpg) Association des comptes GA et ADW
 ## **Mise en Œuvre depuis Google Optimize**
 
 Si la phase marketing est complète, l’étape opérationnelle est un jeu d’enfants :) ,  **3 volets** à compléter : objectifs, ciblage et création variante de page.
@@ -64,7 +64,7 @@ Les étapes à suivre ….suivre le wizard !
 
  	- La plateforme Optimize vous amène sur les **objectifs** dans le contexte de Google analytics : 2 items à remplir ->  Sur quelle vue vue de la propriété, avec quel but, ici je pointe  la page de remerciement une fois le formulaire soumis, elle est proposé automatiquement dans l’interface. L’intérêt aussi est d’ajouter en temps que faire se peut des objectifs supplémentaires au-delà de la simple conversion comme les nombres de pages vues.
 
-[![Image](/images/blog/objectifs-supplémentaires-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/objectifs-supplémentaires.jpg) Objectifs du test
+[![objectifs-supplémentaires-310x158.jpg](/images/blog/objectifs-supplémentaires-310x158.jpg) Objectifs du test
 
  	- Second volet du paramétrage avec 3 parties dans **le ciblage** pour ce test
 
@@ -72,21 +72,21 @@ Les étapes à suivre ….suivre le wizard !
 
  	- Quoi : avec les « Règles »  qui pointent sur le compte, campagne, groupe d’annonces, mots clés, pas moins d’une dizaine d’ajustements sont possibles. Je choisis 3 filtres une campagne search  sur une ville : Bordeaux et sur l’url de la landing page.
 
-[![Image](/images/blog/regles-google-optimmize-310x242.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/regles-google-optimmize.jpg) Regles Google Optimize
+[![regles-google-optimmize-310x242.jpg](/images/blog/regles-google-optimmize-310x242.jpg) Regles Google Optimize
 
 https://www.youtube.com/watch?v=BlLmOk9q9IU
 
-[![Image](/images/blog/ciblage-optimize-310x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/ciblage-optimize.jpg) Ciblages Google optimize
+[![ciblage-optimize-310x218.jpg](/images/blog/ciblage-optimize-310x218.jpg) Ciblages Google optimize
 
  	- Troisième volet : **Création des variantes** depuis le navigateur à l'aide du plugin Chrome à l'aide de la souris et des éléments définis dans la phase marketing, par  survol des objets html de la page. Pour des changements simples comme les couleurs, les dimensions des blocs, les textes (titre, rédactionnel), les images pas besoin de savoir coder. Pour des élements plus dynamiques , des alternatives basées sur l'utilisateur par exemple , il faudra faire appel à un developpeur Javascript.
 
-[![Image](/images/blog/vairante-optimize-bordeaux-310x214.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/vairante-optimize-bordeaux.jpg) Interface editeur variante depuis chrome
+[![vairante-optimize-bordeaux-310x214.jpg](/images/blog/vairante-optimize-bordeaux-310x214.jpg) Interface editeur variante depuis chrome
 ### **Aperçu des résultats sur un petit test « atelier »**
 
 J'illustre ici ce cas pour démontrer que même sur un volume de conversions restreint, Optimize apporte de la donnée.  Ce reporting concerne un test sur une **redirection de page** avec des blocs inversés de contenus. La variante observe 84% en probabilité d’être la meilleure mais à prendre avec des pincettes vu que cette dernière a observé néanmoins quasiment plus du double de sessions.
 
-[![Image](/images/blog/reporting-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/reporting.jpg) Petit reporting dans Optimize
+[![reporting-310x277.jpg](/images/blog/reporting-310x277.jpg) Petit reporting dans Optimize
 
-[![Image](/images/blog/reporting-optimize-ga-310x188.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/reporting-optimize-ga.jpg) Reporting optimize dans ga
+[![reporting-optimize-ga-310x188.jpg](/images/blog/reporting-optimize-ga-310x188.jpg) Reporting optimize dans ga
 
 J’ai arrêté cette expérience où aucune variante optimale ne s’est détachée, sur le **test A/B** sur l'objet image, je ferai un compte rendu prochainement !

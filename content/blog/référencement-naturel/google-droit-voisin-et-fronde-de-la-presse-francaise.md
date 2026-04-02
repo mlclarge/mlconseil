@@ -14,41 +14,41 @@ Dès fin septembre, **Google** annoncait  la couleur vis à vis de cette nouvel
 
 [Heroiks](https://www.heroiks.com/), groupe de com. indépendant, a mis en place un indice, le "Search Indépendant Index" qui mesure la dépendance des sites d'informations français vis à vis de google. Il existe un top 100 des sites, plus global. Pour la presse, cet indice est segmenté selon ses audiences de la Presse Quotidienne Nationale, P. Magazine, PQR et à la télévision d'information. La collecte d'infos pour établir ce SDI s'effectue à partir des données de Médiamétrie/netratings, de similarweb et de semrush, outils de veille de trafic sur les noms de domaines référencés pour l'étude.
 
-[![Image](/images/blog/SDI-INDEX-HEROIKS-502x275.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/SDI-INDEX-HEROIKS.jpg) SDI INDEX HEROIKS
+[![SDI-INDEX-HEROIKS-502x275.jpg](/images/blog/SDI-INDEX-HEROIKS-502x275.jpg) SDI INDEX HEROIKS
 ### ***Presse Quotidienne Nationale et Google***
 
 42 de SDI au global, donc 10 points environ de plus que le top 100. Corrélation forte sur des termes génériques de l'actualité et l'équipe tire son épingle du jeu par sa notoriété qui minimise cette dépendance. Plus la marque média est connue, plus cette dépendance diminue, c'est bien vrai pour n'importe quel type de site web.
 
-[![Image](/images/blog/presse-et-search-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/presse-et-search.jpg) presse nationale et search google
+[![presse-et-search-502x221.jpg](/images/blog/presse-et-search-502x221.jpg) presse nationale et search google
 ### ***Presse magazine, comme la PQN !***
 
 Les généralistes de la presse magazine sont plus reliés au trafic ramené de google, et courrier international est le 1er de la classe de ce segment. Là encore, google est un moteur de recherche "grand public », généraliste, qui colle au modèle de ce type de presse.
 
-[![Image](/images/blog/presse-magazine-et-search-502x262.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/presse-magazine-et-search.jpg) Presse magazine et Search
+[![presse-magazine-et-search-502x262.jpg](/images/blog/presse-magazine-et-search-502x262.jpg) Presse magazine et Search
 ### ***Les pureplayers sont-ils moins dépendants de Google ?***
 
 Les Médiapart et autres Slate par leur personnalité forte et leur modèle économique à la souscription, dépendent aussi moins du Géant de Montain View.
 
-[![Image](/images/blog/pureplayers-502x127.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/pureplayers.jpg) Pureplayers de la presse Française
+[![pureplayers-502x127.jpg](/images/blog/pureplayers-502x127.jpg) Pureplayers de la presse Française
 ### ***Radios généralistes Françaises  face au moteur de recherche***
 
 Curieux l'écart entre un radioclassique.fr à 7.14 et un europe1.fr à 51.91 ! La spécificité du média radio classique augmente son indépendance, mais personnellement radio classique n'est pas comparable non plus en ligne éditoriale d'un europe1, mais bon, encore, le fait d'être généraliste augmente le levier seo.
 
-[![Image](/images/blog/radios-généralistes-502x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/radios-généralistes.jpg) Radios généralistes et Moteur de recherche
+[![radios-généralistes-502x154.jpg](/images/blog/radios-généralistes-502x154.jpg) Radios généralistes et Moteur de recherche
 ### ***TV d'Information continue***
 
 La prime à l'actualité de google lors d'une news sur son onglet "search" explique sans doute l'importance de google en apport de trafic sur ces médias (SDI à 52). En effet, lors d'une actualité qui fait le buzz, les internautes se rendent sur Google direct et cliquent sur les premiers liens des chaînes médias.
 
-[![Image](/images/blog/tv-informations-502x144.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/tv-informations.jpg) Chaines d'information Française
+[![tv-informations-502x144.jpg](/images/blog/tv-informations-502x144.jpg) Chaines d'information Française
 ### ***Quelle répercussion immédiate sur le web ?***
 
 Concrètement, Google n’affiche plus d’extraits d’articles et plus d'illustrations (images, photos, vidéos), dans son moteur de recherche et dans Google actualités, sauf si les éditeurs l’autorisent à le faire gratuitement.
 
-[![Image](/images/blog/droit-voisin-et-google-334x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/droit-voisin-et-google.jpg) Insertion google des actualités
+[![droit-voisin-et-google-334x300.jpg](/images/blog/droit-voisin-et-google-334x300.jpg) Insertion google des actualités
 
 A cette heure et malgré le tôlé sur Bruxelles, rien ne change, et les médias acceptent gratuitement l'offre de Google, donc rien à déclarer pour l'instant, si l'on compare par rapport à google news aux US.
 
-[![Image](/images/blog/GOOGLE-NEWS-VS-GOOGLE-ACTUALITES-502x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/GOOGLE-NEWS-VS-GOOGLE-ACTUALITES.jpg) GOOGLE NEWS VS GOOGLE ACTUALITES
+[![GOOGLE-NEWS-VS-GOOGLE-ACTUALITES-502x160.jpg](/images/blog/GOOGLE-NEWS-VS-GOOGLE-ACTUALITES-502x160.jpg) GOOGLE NEWS VS GOOGLE ACTUALITES
 ## **Définition du droit voisin**
 
 Pour rappel :  Le droit d’auteur est un droit de propriété intellectuelle sur une œuvre de l’esprit, les « droits voisins du droit d’auteur » sont accordés à des personnes physiques ou morales qui ont participé à la création de cette œuvre, mais n’en sont pas les auteurs premiers. La presse est concernée, car elle accompagne le journaliste dans la diffusion des articles sans en être directement auteur. Ce droit voisin a été élaborer pour se faire rémunérer par les plateformes numériques qui utilisent les contenus des éditeurs de presse. Jeudi dernier, la France est le premier pays de l’Union européenne à appliquer cette loi en Europe.

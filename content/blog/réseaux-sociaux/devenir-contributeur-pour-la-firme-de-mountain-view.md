@@ -21,7 +21,7 @@ http://youtu.be/_H8xQg-nPUk
 
 Il faut aimer grimper  les différents échelons ! Cela peut prendre du temps ou être fulgurant ! Tout dépend de l’investissement personnel de chacun. Officiellement, le minimum est déjà d’intervenir d’une manière régulière pendant 4 mois sur un forum, être donc actif mais aussi démontrer sa compétence et sa pertinence lors d’intervention sur des sujets posés. Les membres du forum,  du community manager au simple novice, une fois logué, peut attribuer **une étoile** (compliments) , signe de reconnaissance,  afin d’approuver et ou de remercier la nouvelle contribution apportée par l’un des contributeurs.   Puis il y a **les niveaux** (de 1 à 17)  qui, je pense, sont là pour qualifier plus la degré de pertinence des messages.  Une fois  par trimestre un bilan est fait par l’équipe  community manager. Pour notre paroisse,  c'est [** Natalia Kopec** ](https://plus.google.com/106873279949377926816/posts), pour la communauté Adwords, qui est notre correspondante dédiée et dévouée :) , merci pour son travail . Elle est chargée d'évaluer chacun des engagements et de faire évoluer le contributeur, et surtout  entretenir sa motivation !
 
-[![Image](/images/blog/devenir-top-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/devenir-top.jpg) Tableau de bord du contributeur
+[![devenir-top-310x171.jpg](/images/blog/devenir-top-310x171.jpg) Tableau de bord du contributeur
 
 Un règlement stipule les règles de bonnes conduites.  La positive attitude est bien sûr demandée mais pour devenir **Top contributeur** il faut apprécier le produit bien sûr à la base, bien le maitriser, savoir chercher parfois pour autrui donc être généreux de son temps,  être en veille pour pouvoir transmettre  des informations importantes, reconnaître les contributions de ses homologues contributeurs.
 
@@ -30,7 +30,7 @@ Un règlement stipule les règles de bonnes conduites.  La positive attitude es
 Voici, au travers d’un bref interview, le portrait de 2 top contributeurs.
 ### Philippe de Strasbourg
 
-[![Image](/images/blog/agence-mcir.jpg)](/images/blog/agence-mcir.jpg)
+[![agence-mcir.jpg](/images/blog/agence-mcir.jpg)
 
 Commençons par **Philippe MAECHLER**, de l’agence Mcir à Strasbourg, le plus gradé et plus ancien de nous tous, encore actif, 3 fois top contributeur , unique  ! Au-delà de ces compétences indispensables au forum, c’est sa personne que je salue.  Je profite de l’occasion  pour le remercier infiniment  pour son coaching, sa vision du métier, au-delà du forum Adwords.  Sa motivation m’a permis d’aller au-delà de ce que je pensais pouvoir produire sur la plateforme. Merci, merci Philippe.
 
@@ -46,7 +46,7 @@ De toutes les manières de partout et à toute heure (mais en majorité les jour
 Dans l'ensemble elle fonctionne bien les repères sont arrivés rapidement elle est bien plus web 2.0 que celle d'avant.
 ### Valentin de Belgique
 
-[![Image](/images/blog/valentin.jpg)](/images/blog/valentin.jpg)
+[![valentin.jpg](/images/blog/valentin.jpg)
 
  
 
@@ -80,7 +80,7 @@ Outre ce point, j'aimerais bien pouvoir échanger au plus souvent avec d'autres 
 
 Quelques statistiques issus de ma contribution depuis plus d'un an :
 
-[![Image](/images/blog/maurice-largeron.jpg)](/images/blog/maurice-largeron.jpg)
+[![maurice-largeron.jpg](/images/blog/maurice-largeron.jpg)
 
 	- Réponses effectuées : 1335
 
@@ -102,7 +102,7 @@ Ouf, je m'en suis pas rendu compte ..
 
 Sans rentrer dans les détails, que d’ailleurs je n’ai pas, le programme sera chargé ! Le sommet se passe au palais des congrès de San José, ville situé non loin de **San Francisco**. Des réunions auront lieux dans le GooglePlex également.
 
-[![Image](/images/blog/palais-congres-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/palais-congres.jpg) Palais des congrès de San José
+[![palais-congres-310x150.jpg](/images/blog/palais-congres-310x150.jpg) Palais des congrès de San José
 
 Les 2 premières journées  accueilleront un discours d’ouverture, un speech sur les projets Google, une session  internationale, des thématiques.
 

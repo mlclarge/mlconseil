@@ -15,7 +15,7 @@ Observons la** publicité native** aujourd’hui ! Ce terme n’est pas nouveau
 
 Comme toujours dans le domaine de l’innovation numérique, ou dans la naissance de nouveaux concepts, le vent souffle depuis l’amérique. C’est Fred Wilson, co fondateur d’Union Square Ventures, orateur lors d’une conférence *(voir lien vidéo bas de page)*  à NY en septembre 2011 qui a lancé le terme de « native monetization système ». Pour résumer les propos énoncés : La publicité à papa a vécue, elle doit être immersive, fluide, contextuelle ..Il viendra à citer des exemples avec des cas concrets comme les Sponsored Stories de Facebook ..
 
-[![Image](/images/blog/natiive-hsitory-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/natiive-hsitory.jpg) Origine du terme Native..
+[![natiive-hsitory-310x208.jpg](/images/blog/natiive-hsitory-310x208.jpg) Origine du terme Native..
 
 Il faudra cependant attendre début 2015 pour commencer à voir une standardisation des formats dédiés « Native Advertising » par l’IAB afin de mettre un ordre technique destiné à leur diffusion en RTB (real time bidding). Les acteurs technologiques du display , comme les Supply side Platform (SSP) étoffent désormais leur offre d’inventaire avec ce genre de support sponsorisés natif à une page. Bref, tout le monde s’y colle !
 
@@ -23,7 +23,7 @@ Il faudra cependant attendre début 2015 pour commencer à voir une standardisat
 
 « Le native advertising regroupe une série de formats publicitaires protéiformes qui adoptent ou approchent au plus près le désign et l’ergonomie du site sur lequel ils se trouvent » . 4 formats se distinguent : dans les flux d’actualités, sur les pages articles ou produits , les recommandations, et format sur mesure (qu’entendent –ils par formats sur mesure tiens tiens..). Et enfin , 2 types de contenus sont concernés : promotionnel (axé sur l’usage d’un produit) ou éditorial (sur une information, un service).
 
-[![Image](/images/blog/formats-native-310x238.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/formats-native.jpg) Typologie de formats Natifs
+[![formats-native-310x238.jpg](/images/blog/formats-native-310x238.jpg) Typologie de formats Natifs
 
 En tous cas, un standard de transparence doit primer dans une « native ad » vis-à-vis du consommateur : la mention (« sponsorisé par », « recommandé »), la désignation (logo de l’annonceur, nom..) et différenciation (couleur, call to action). C’est là où certains acteurs du secteur montent au créneau..
 
@@ -32,7 +32,7 @@ En tous cas, un standard de transparence doit primer dans une « native ad » vi
 Finalement rien de nouveau, la publicité en ligne reprend les usages de la presse papier (print) alors ? **Oui mais non**.
 **Oui** dans le fait que cela ne date pas d’hier que les éditeurs de contenus (médias traditionnels) comme la Presse quotidienne , créent des articles, autres dossiers thématiques et invitent les annonceurs à y figurer. Et en ligne, c’est aussi le cas, avec dès le début des années 2000, des sites comme AOL créant des pages pour des marques
 
-[![Image](/images/blog/page-sponsorisés-aol-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/page-sponsorisés-aol.jpg) Page Sponso. Aol début 200
+[![page-sponsorisés-aol-310x243.jpg](/images/blog/page-sponsorisés-aol-310x243.jpg) Page Sponso. Aol début 200
 
 **Non**, dans la mesure où les liens qui nouent le site éditeur et la marque ont changés. L’annonceur peut dans sa stratégie de visibilité devenir force de proposition et fournir un contenu immersif qu’attend le lectorat. Mais principalement, le grand chamboulement, vient des technos. L’achat programmatique (dont le 1er salon se tiendra à paris le 9 juin) qui permet d’acheter en temps réels via les adexchanges changent la donne où non seulement le contenu peut s’adapter au site mais aussi à son visiteur ! Les algorithmes de recommandations deviennent influant sur le bon affichage du contenu publicitaire en temps réel.
 
@@ -42,7 +42,7 @@ Finalement rien de nouveau, la publicité en ligne reprend les usages de la pres
 
 Contenu éditorial ou contenu publicitaire ? Plusieurs camps semblent s’affronter. Ceux de vendeurs de bannières comme les nomme Emmanuel Parody réagissant à une publication de l’IAB (annonceurs) sur le sujet ou la publicité native est plus vu comme un support « de plus » dans la panoplie des campagnes SEA.
 
-[![Image](/images/blog/cup-iinteractive-310x88.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/cup-iinteractive.jpg) Polémique sur le terme
+[![cup-iinteractive-310x88.jpg](/images/blog/cup-iinteractive-310x88.jpg) Polémique sur le terme
 
 Alors que d’autres mettent en avant une réelle innovation et un potentiel nouveau dans le domaine publicitaire . En effet, la technologie sous jacente aux impressions, apporte une intelligence au support même et au contexte de la page. De plus, pour les conceptions les plus abouties, de réels efforts sont mis en avant pour assurer une parfaite intégration infographique, couronnée parfois dans une trame qui fait appel au « **storytelling** », concept chouchouté par les webmarketeurs !
 
@@ -56,23 +56,23 @@ Finalement, la différence entre une **Publicité Native axée sur du contenu é
 
 On a pu le voir donc, du billet sponsorisé affiché (presse-citron, rédactionnel pur) , à la publicité de marque vidéo parfaitement intégrée (voir channel) l’amplitude est large .
 
-[![Image](/images/blog/comparatif-native-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/comparatif-native.jpg) Styles de Native Ads
+[![comparatif-native-310x194.jpg](/images/blog/comparatif-native-310x194.jpg) Styles de Native Ads
 
 Ce genre de pub est bien intégré aux applications mobiles, en témoigne celle animée de Wolfwagen sur Allociné, qui ne s'affiche que quelques secondes après l'affichage de la fiche d'un film.
 
-[![Image](/images/blog/native-ads-pub-180x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/native-ads-pub.jpg) Nat Ads dans Appli. AlloCiné
+[![native-ads-pub-180x300.jpg](/images/blog/native-ads-pub-180x300.jpg) Nat Ads dans Appli. AlloCiné
 
 **"*Nous vous recommandons"***
 
 Les **formats de recommandation** de pieds de pages (voir sud-ouest) font certainement partie d’un sous genre de publicité native . Cependant, si l’on veut coller réellement à la définition, souvent cette forme d’encarts amène du clic par son intégration dans la page web mais l’empathie n’est pas forcément au rendez-vous avec le visiteur. Vendeurs de cette gamme : Outbrain, Taboola, Ligatus.
 
-[![Image](/images/blog/sudouest-215x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/sudouest.jpg) Pub. Reco.
+[![sudouest-215x300.jpg](/images/blog/sudouest-215x300.jpg) Pub. Reco.
 
 ***Et Adwords dans tout cela ?***
 
 Bien que la régie Adwords vend du ciblage contextuel dans son réseau de site display depuis fort longtemps, les formats restent ceux de la bannières bien que certains efforts d’éditeurs pour encourager le clic soit fait en terme de design.
 
-[![Image](/images/blog/adwords-vs-native-ads-310x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/adwords-vs-native-ads.jpg) Jdn Versus Viadéo
+[![adwords-vs-native-ads-310x184.jpg](/images/blog/adwords-vs-native-ads-310x184.jpg) Jdn Versus Viadéo
 ## ***Les acteurs du secteur***
 
 Je prends ces infos d’une infographie éditée par l’ANA (association of national advertisers) suite à un rapport établit cette année en 2015. Elle représente les 2/3 des annonceurs aux US. Retenons de cette étude :
@@ -83,14 +83,14 @@ Pub Orientée légèrement plus vers du BtoC (67%) que du Btob (54%)
 Format encore méconnu (55%)
 Principalement utilisé par les Agences Médias et Grosses régies
 
-[![Image](/images/blog/acteurs-native-pub-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/acteurs-native-pub.jpg) Les acteurs...
+[![acteurs-native-pub-310x159.jpg](/images/blog/acteurs-native-pub-310x159.jpg) Les acteurs...
 
 ***Impact sur les consommacteurs !***
 
 J’ai récupéré une illustration du site sharethrough.com qui relate des enquêtes de l’interprofession.
 A priori, cela reste à détailler, les taux de captation au message est bon auprès du public, avec un format bien adapté au mobile, incitateur à l’acte d’achat et vu comme du contenu éditorial.
 
-[![Image](/images/blog/sondage-native-ads-310x257.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/sondage-native-ads.jpg) ...et les consommateurs
+[![sondage-native-ads-310x257.jpg](/images/blog/sondage-native-ads-310x257.jpg) ...et les consommateurs
 ## ***Liens** *
 
 	- Exemples de campagnes par FrenchWeb : [http://frenchweb.fr/7-campagnes-de-native-advertising-plutot-reussies/186504](http://frenchweb.fr/7-campagnes-de-native-advertising-plutot-reussies/186504)

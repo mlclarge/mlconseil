@@ -14,7 +14,7 @@ C’est à mon tour de jouer les grands marabouts du **W[ebmarketing](https://po
 
 Que ce soit dans des modèles BtoB plus orienté Inbound marketing avec du lead nurtering que BtoC plus obnubilé par la conversion, des nouvelles tendances vont naitre et certaines se confirmer.
 
-[![Image](/images/blog/marketing-a-la-performance-502x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/marketing-a-la-performance.jpg) Apogée du Marketng à la performance
+[![marketing-a-la-performance-502x209.jpg](/images/blog/marketing-a-la-performance-502x209.jpg) Apogée du Marketng à la performance
 
  	- Retour du **Print**, du support papier pour la communication (img)
 
@@ -26,12 +26,12 @@ Que ce soit dans des modèles BtoB plus orienté Inbound marketing avec du lead 
 
  	- Politique Data-Driven que peut soutenir tous les points précédents mais avec une vision plus client centrique avec des nettes améliorations sur le suivi multi appareils,  avec un regard plusexpert sur l’attribution et la déduplication des conversions, sans oublié une présence plus forte du temps réel pour promouvoir l’acte d’achat.
 
-[![Image](/images/blog/contenu-dynamique-502x265.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/contenu-dynamique.jpg) Contenu-dynamique pour les illustrations
+[![contenu-dynamique-502x265.jpg](/images/blog/contenu-dynamique-502x265.jpg) Contenu-dynamique pour les illustrations
 ## **Référencement naturel sur les moteurs de recherche**
 
 Je suis le perroquet de service, et relaie ce qui s’est dit lors du dernier SMX de NYC par des gourous du seo avec pour commencer une préférence pour la French Seo Tech.
 
-[![Image](/images/blog/amp-and-ctr-502x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/amp-and-ctr.jpg) amp-and-ctr dans les serps
+[![amp-and-ctr-502x165.jpg](/images/blog/amp-and-ctr-502x165.jpg) amp-and-ctr dans les serps
 
  	- **Sémantique et Data Visualisation** dans les campagnes Seo : oui bien sûr, les plateformes et les initiatives qui gravitent autour du ciblage sémantique de contenus comme 1.fr, text guru,  visiblis, cocon.se et autres plugin bombx sont là pour en témoigner.  Merci à la communauté seo française et à leurs développeurs et autres penseurs du référencement organique ! img cocon, metamots
 
@@ -49,7 +49,7 @@ Je suis le perroquet de service, et relaie ce qui s’est dit lors du dernier SM
 
 Le fait majeur sera sans doute une stabilisation des adblockers, les acteurs de la publicité se tourneront sur des formats innovants plus immersifs et distrayants.
 
-[![Image](/images/blog/GlobalNativeAdvertising_SpendGrowth_ADYOULIKE-47x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/GlobalNativeAdvertising_SpendGrowth_ADYOULIKE.png)
+[![GlobalNativeAdvertising_SpendGrowth_ADYOULIKE-47x300.png](/images/blog/GlobalNativeAdvertising_SpendGrowth_ADYOULIKE-47x300.png)
 
  	- Explosion de la **publicité native**
 
@@ -63,7 +63,7 @@ Le fait majeur sera sans doute une stabilisation des adblockers, les acteurs de 
 
 Et non, ce n’est pas encore pour l’année prochaine, l’email n’est pas mort, il se transforme.
 
-[![Image](/images/blog/personnalisation-de-la-relation-client-382x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/personnalisation-de-la-relation-client.jpg) Personnalisation de la relation client
+[![personnalisation-de-la-relation-client-382x300.jpg](/images/blog/personnalisation-de-la-relation-client-382x300.jpg) Personnalisation de la relation client
 
  	- La **longueur de contenu va continuer à diminuer :** de 50 à 125 mots étant le volume constaté en 2016 et présence d’images plus optimisé, la cible étant l’ouverture par les smartphones.
 
@@ -93,7 +93,7 @@ La guerre est déclarée entre Facebook et Snapchat, les enchères montent pour 
 
 Je résume le livre blanc de l’éditeur de BI Tableau ou la connaissance des données devient une compétence indispensable.
 
-[![Image](/images/blog/datadriven-marketing-469x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/datadriven-marketing.jpg) Data Driven Marketing
+[![datadriven-marketing-469x300.jpg](/images/blog/datadriven-marketing-469x300.jpg) Data Driven Marketing
 
  	- Stimulation des** investissements dans la BI** grâce à la simplification des outils de visualisation de la data.
 

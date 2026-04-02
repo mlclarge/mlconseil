@@ -9,7 +9,7 @@ slug: "faire-sa-publicite-avec-le-bon-coin"
 
 **MAJ du 26/04/23.** Qui ne connaît pas [le bon coin ](http://www.leboncoin.fr/)? Les derniers résultats financiers du deuxième trimestre 2015 ont explosé les chiffres de la même période une année auparavant (27 millions d’euros contre 6M en 2014).  En effet, qui refuserait d’être présent sur le 8eme site Français en terme d’audience avec bientôt 18 million de visiteurs uniques par mois ? Les recettes publicitaires en berne dans la presse traditionnelle font le bonheur de pure player comme **leboncoin.fr**, rien ne se créé tout se transforme. Le **Groupe schibsted **qui possède depuis 2010 cette marque se positionne désormais à l’international avec un développement dans plus de 24 pays et se désolidarise de la presse gratuite (20 minutes) pour se concentrer sur son cœur métier. L’annonceur trouvera dans sa stratégie locale de visibilité en ligne tout ce qu’il lui faut, et même un axe d’optimisation de positionnement sur le moteur de recherche  Google !
 
-[![Image](/images/blog/classement-audience-Marque-et-groupe-243x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/classement-audience-Marque-et-groupe.jpg) Classement audience Marque et Groupe
+[![classement-audience-Marque-et-groupe-243x300.jpg](/images/blog/classement-audience-Marque-et-groupe-243x300.jpg) Classement audience Marque et Groupe
 ## **Leboncoin : une success story ..Suédoise !**
 
 ### *Leboncoin un succès qui nous vient du nord  !*
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?t=11&v=3K7VDDWCEvc
 
 Sinon, que diriez-vous, pour votre stratégie web marketing d’une **optimisation sur un mot clé** sur lequel bien sûr vous êtes absent sur la recherche Google ? Avec le bon coin, c’est possible ! Il suffit de prendre une page dédiée à votre enseigne, accessible depuis l’interface du leboncoin.fr mais aussi, et c’est là l’astuce, indexée par Google et positionnée sur la première page. Bon ok, peut-être pas à tous les coups, un audit sur la requête s’impose avant, mais bon, cela marche, la preuve..ici, pour un annonceur nullement présent avec son site  sur le terme : « chariots télescopiques lunel »  (nom de la commune département de l’hérault)  l’entreprise se retrouve sur la 1ere page. Sur une recherche départementale cela fonctionne aussi..Visibilité moyenne : 336 visites par mois, tarif : 2000 euros/an, ROI à calculer selon son « client moyen ».
 
-[![Image](/images/blog/serp-google-bon-coin-274x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/serp-google-bon-coin.jpg) Positon Boutique du bon coin
+[![serp-google-bon-coin-274x300.jpg](/images/blog/serp-google-bon-coin-274x300.jpg) Positon Boutique du bon coin
 ## **Les Offres « Bannières »  de la régie du bon coin **
 
 Le modèle principal reste celui des impressions (affichages et non du cout par clic) , ou alors celui de la réservation pour des formats à grande couverture avec des impressions minimum garantie pour toutes les parutions.
@@ -35,11 +35,11 @@ Pour les TPE, PME dont la couverture reste principalement locale, les formats de
 
  	- **La Box** située entre les **champs de recherche et la liste de réponse** sous forme de 4 pavés individuels. 50% de part de voix est assuré avec 2300  impressions/jour assurée pour 69 euros/ht sur un ciblage d’une catégorie sur un département. Les impressions se font au fil des pics d’audience se situant entre 12h et 14h et 17h/22H .
 
-[![Image](/images/blog/box-boncoin-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/box-boncoin.jpg) Format "Boxes" du bon coin
+[![box-boncoin-310x123.jpg](/images/blog/box-boncoin-310x123.jpg) Format "Boxes" du bon coin
 
  	- **L’annonce sponsorisée : **sa nature est "**immersive**", elle se place dans le listing de consultation du choix du visiteur. Ce format est nouveau, depuis le 1er juin 2015 et accorde 20% de part de voix, 26500 affichages/mois pour environ 53 euros /ht/mois.
 
-[![Image](/images/blog/auboncoin-annonce-sponsorisee-310x128.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/auboncoin-annonce-sponsorisee.jpg) Auboncoin annonce sponsorisee
+[![auboncoin-annonce-sponsorisee-310x128.jpg](/images/blog/auboncoin-annonce-sponsorisee-310x128.jpg) Auboncoin annonce sponsorisee
 
 Les contrats de parution vont de 3 mois à un an, selon les formats. La création publicitaire n’est pas incluse, un forfait de 600 euros pour création de bannière peut être proposé à l’annonceur, avec un délai de créa pouvant aller jusqu’à 30 jours. Bien évidemment, les annonces sont cliquables et les pages de destination entièrement libres (il ne manquerait plus que çà !).
 
@@ -47,11 +47,11 @@ Les contrats de parution vont de 3 mois à un an, selon les formats. La créatio
 
  	- **Pavé :** 4500 impressions/jours avec un ciblage d’une catégorie et un département avec un minimum de 30 jours de diffusion que l’on peut scinder en 15 week end par exemple, comptez 1000 euros pour ce genre d’encarts.
 
-[![Image](/images/blog/bannier-et-pave-auboncoin-310x146.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/bannier-et-pave-auboncoin.jpg) Formats banniere et pavé
+[![bannier-et-pave-auboncoin-310x146.jpg](/images/blog/bannier-et-pave-auboncoin-310x146.jpg) Formats banniere et pavé
 
 **Packs :** offres métiers  (immo, auto, moto) : l’idée ici est de diffuser automatiquement les offres sur le site du bon coin via des logiciels métiers comme celui de l’immobilier : péricles, ac3, laboiteimmo. Pas de données chiffrées ici vu que chaque cas est particulier selon les volumes , formats. Je ne suis pas sûr que cette offre soit finalement commercialisée par la régie locale,mais peut importe..
 
-[![Image](/images/blog/offre-pack-immo-leboncoin-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/offre-pack-immo-leboncoin.jpg) Pack Immo Upload Annnonces Automatique
+[![offre-pack-immo-leboncoin-310x145.jpg](/images/blog/offre-pack-immo-leboncoin-310x145.jpg) Pack Immo Upload Annnonces Automatique
 ### ***Régie Nationale et divers : Pour les Grosses marques !***
 
  	- **Branding :*** Les habillages sur la page d’accueil, compté 8 Millions d’impressions / jours pour 45 000 euros.  *

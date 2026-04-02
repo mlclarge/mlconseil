@@ -9,7 +9,7 @@ slug: "analyser-resultat-d-une-requete-locale"
 
 L’été approche à grand pas maintenant, il est temps de **bien se localiser** lors d’une balade de fin de soirée ! Faire le point sur ce qui se passe sur **le référencement local** devient donc nécessaire *(laborieuse entrée en matière mais bon.. ;) )* . Je vais donc revenir sur quelques fondamentaux, puis sans aucune méthode scientifique, analyserai **une requête** **locale dans les serp de Google **(qui s'affiche et comment). Maais avant tout, 1** info de dernière minute** comme dirait l'autre, pour certaines catégories l'apparition de Serp Locaux pour les Hotels et restaurants sous forme de **carousel** sur les serveurs Us de google ! Apparemment  lisibles uniquement sur les Pc desktop, et selon certains navigateurs. Donc en test..
 
-[![Image](/images/blog/carousel-local-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/carousel-local.jpg) Nouveau format test : le carousel
+[![carousel-local-310x102.jpg](/images/blog/carousel-local-310x102.jpg) Nouveau format test : le carousel
 ## Rappel  sur le référencement naturel local
 
 Je ne reprendrai pas ce que j’ai pu énumérer antérieurement dans le détail et notamment les critères de positionnement pour être vu localement . Non, seulement, quelques rappels.
@@ -52,7 +52,7 @@ Bon, une fois que l’on a dit cela, est-ce que l’on a tout résolu ? Ce n’
 
 Quoiqu’il en soit, résumons par le fait que Google adresse alimente les **fiches Cartes Maps**, mais aussi les pages** Google plus** (pro) et incite fortement tout professionnel à figurer sur son réseau social.  L’écosystème local chez Google pourrait se dresser ainsi.
 
-[![Image](/images/blog/ecosyteme-local-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/ecosyteme-local.jpg) Ecosystème local chez google
+[![ecosyteme-local-310x215.jpg](/images/blog/ecosyteme-local-310x215.jpg) Ecosystème local chez google
 ## Analyse d’une requête SERP Google locale selon type d’appareils
 
 Aucune véracité scientifique mise à part une connexion non loguée, cache et paramètres de filtres retirés.  De toute façon, peu importe ici, l’objet est de faire une « image » à 1 instant « T » des serp de Google selon 3 types d’appareils pc de bureau, smartphone et tablette.
@@ -60,7 +60,7 @@ Aucune véracité scientifique mise à part une connexion non loguée, cache et 
 
 Tout d’abord une supériorité numéraire sur le nombre de liens par rapport à 1 type de requête non locale, pas moins de 21 liens (29 avec colonne de droite réservée aux formats adwords). En fait, c’est la présence du bloc local qui se rajoute.  Nous sommes en présence de SERP hybrides issus de la mise à jour de Google Venice en 2012, il y a 1 an, jour pour jour quasiment. L’apport de Google Vénice est de collecter, en plus des résultats issus de Google maps Google plus, des résultats organiques localisés eux aussi.
 
-[![Image](/images/blog/comparatif-serp-locaux-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/comparatif-serp-locaux.jpg) Résultats sur 1ere page google selon devices
+[![comparatif-serp-locaux-310x183.jpg](/images/blog/comparatif-serp-locaux-310x183.jpg) Résultats sur 1ere page google selon devices
 
 Sur cette requête « dépannage à domicile » adwords s’octroie 11 annonces textuelles sur 23, soit environ la moitié mais pas tout à fait, avec une forte présence du format Google adwords express.
 
@@ -82,11 +82,11 @@ On retrouve la même trame de résultat, présenté de manière différente et p
 
 Pour avoir un apercu des serps (pas très lisible, c'est sûr, certains liens ne sont visibles, les captures d'écran ont été tronqué pour pouvoir rentrer dans un format pas trop grand).
 
-[![Image](/images/blog/serp-informatique-google-228x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/serp-informatique-google.jpg) Aperçu des serp par appareils
+[![serp-informatique-google-228x300.jpg](/images/blog/serp-informatique-google-228x300.jpg) Aperçu des serp par appareils
 ## Que peut on retenir sur ce constat ?
 
 On peut donc résumer que la **diversité est présente** dans les résultats. Soulignons  la présence du programme publicitaire Adwords,  n’oublions pas que les Pack locaux (pictos rouges) amènent sur Google maps où figurent aussi des annonces.
 
-[![Image](/images/blog/repartition-serp-156x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/repartition-serp.jpg) Répartition du type de liens
+[![repartition-serp-156x300.jpg](/images/blog/repartition-serp-156x300.jpg) Répartition du type de liens
 
 Les résultats organiques sont marqués par l’entrée récurrente des PagesJaunes *(dans les serp et au niveau des avis supplémentaires sur la carte en roll-over)* et de Wikipédia (1 pointe de knowledge graph !) et par la quasi-disparition des avis étoilés (faisant double emploi avec ceux de Google plus).  Aucune fiabilité statistique n'est donc à tirer de ce constat fait ici bien sûr, juste une attention ou une réflexion.

@@ -17,7 +17,7 @@ Quoi de plus logique de pousser à **construire des pages [AMP pour ses pages de
 
  	- Les **taux de rebond** étaient les plus élevés pour les acheteurs de téléphones mobiles, tandis que les consommateurs de tablettes avaient le taux de rebond le plus bas.
 
-[![Image](/images/blog/google-amp-ads-landing-pages-sequence-502x262.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/google-amp-ads-landing-pages-sequence.png) temps de chargement AMP
+[![google-amp-ads-landing-pages-sequence-502x262.png](/images/blog/google-amp-ads-landing-pages-sequence-502x262.png) temps de chargement AMP
 
 Que faut-il comme outils pour créer sa landing depuis le CMS WordPress ?
 ## **Eléments pour créer sa page de destination sous format AMP**
@@ -56,7 +56,7 @@ Les concepteurs ont prévu toutes les intégrations possibles dans l'interface d
 
 Vraiment bluffant comme c’est simple !
 
-[![Image](/images/blog/wizard-394x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/wizard.jpg) Wizard de mise en oeuvre amp
+[![wizard-394x300.jpg](/images/blog/wizard-394x300.jpg) Wizard de mise en oeuvre amp
 
  	- Installer et Activer le plugin pour avoir une version AMP des pages, articles, catégories, page accueil.
 
@@ -66,7 +66,7 @@ Vraiment bluffant comme c’est simple !
 
  	- Faire un rappel sur le template-amp
 
-[![Image](/images/blog/plugin-amp-pour-wordpress-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/plugin-amp-pour-wordpress.jpg) Interface Plugin Amp
+[![plugin-amp-pour-wordpress-310x180.jpg](/images/blog/plugin-amp-pour-wordpress-310x180.jpg) Interface Plugin Amp
 
 ## **Qu’est-ce que cela donne au final ?**
 
@@ -74,9 +74,9 @@ Vraiment bluffant comme c’est simple !
 
 Ok rien d’extraordinaire dans le rendu ici, je n’ai fait que copier-coller la [version non AMP](https://www.mauricelargeron.com/comment-mesurer-les-pages-amp-pour-mobiles/).
 
-[![Image](/images/blog/page-de-destination-189x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/page-de-destination.jpg) Page de destination normale
+[![page-de-destination-189x300.jpg](/images/blog/page-de-destination-189x300.jpg) Page de destination normale
 
-[![Image](/images/blog/amp-adwords-optimize.gif)](/images/blog/amp-adwords-optimize.gif) Amp adwords optimize
+[![amp-adwords-optimize.gif](/images/blog/amp-adwords-optimize.gif) Amp adwords optimize
 
 J’ai vérifié dans l’outil de test, bon cela semble correct.
 ### ***Consultez cette Démonstration de pages AMP***

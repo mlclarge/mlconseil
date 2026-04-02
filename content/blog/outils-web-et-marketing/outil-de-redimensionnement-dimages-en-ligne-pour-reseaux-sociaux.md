@@ -14,7 +14,7 @@ Cet outil est proposé par [**Sprout Social**](https://sproutsocial.com/), une s
 
 Notons au passage cette petite technique de GrowthHacking, car sur la  requête « outil de retouche pour instagram » par exemple sur Google, Landscape, le nom de ce tool,  est très bien placé parmi les premiers résultats.
 
-[![Image](/images/blog/Landscape-Launch-Animation-Blog-Alt-Loop.gif)](/images/blog/Landscape-Launch-Animation-Blog-Alt-Loop.gif) logiciel de retouche d'image en ligne
+[![Landscape-Launch-Animation-Blog-Alt-Loop.gif](/images/blog/Landscape-Launch-Animation-Blog-Alt-Loop.gif) logiciel de retouche d'image en ligne
 
 Pas de prise d’adresse mail, l’outil est en accès libre, sans aucune inscription.
 ## ***Conditions requises pour le redimensionnement***
@@ -44,7 +44,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Event Image: 1920 x 1080 (Recommandé)
 
-[![Image](/images/blog/0-482x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/0.jpg) Etape 1 reconnaissance de l'image et choix du réseau social
+[![0-482x300.jpg](/images/blog/0-482x300.jpg) Etape 1 reconnaissance de l'image et choix du réseau social
 ### ***Twitter***
 
  	- Profil Photo: 400 x 400 (Displays 200 x 200)
@@ -63,7 +63,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Instagram Stories: 1080 x 1920
 
-[![Image](/images/blog/1-502x285.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/1.jpg) Etape 2 choix du type de  redimension sur le ou les images précédentes selon son choix ici 2 images
+[![1-502x285.jpg](/images/blog/1-502x285.jpg) Etape 2 choix du type de  redimension sur le ou les images précédentes selon son choix ici 2 images
 ### ***LinkedIn***
 
  	- Personnel Profile Image: 400 x 400 (Recommandé)
@@ -78,7 +78,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Hero Image: 1128 x 376
 
-[![Image](/images/blog/4-433x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/4.jpg) Etape 3 Retailler l'image ou cropping 
+[![4-433x300.jpg](/images/blog/4-433x300.jpg) Etape 3 Retailler l'image ou cropping 
 ### ***Pinterest***
 
  	- Image profil: 165 x 165
@@ -107,7 +107,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Video téléchargements: 1280 x 720 (Minimum HD)
 
-[![Image](/images/blog/5-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/5.jpg) Etape 4 : Reste à downloader l'image retaillée en local pour publication 
+[![5-409x300.jpg](/images/blog/5-409x300.jpg) Etape 4 : Reste à downloader l'image retaillée en local pour publication 
 ### **Tumblr**
 
  	- Profil Photo: 128 x 128

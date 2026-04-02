@@ -25,7 +25,7 @@ Eléments favorisant l’usage de **mots clés** :
 
 La répartition du nombre de mots clés par requêtes  ces dernières années tente à la raréfaction , j'ai extrait 2008, 2010, 2013 par exemple pour la France, plus de la moitié des requêtes seraient composées d'un seul terme (52,46%) ! Diminution également sur le nombre de requêtes à 2 et 3 mots, le reste se tient à peu près plus on évolue dans le  nombre de mots par recherche.
 
-[![Image](/images/blog/mots-cles-288x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/mots-cles.jpg) DIminution du nombre de termes par requête
+[![mots-cles-288x300.jpg](/images/blog/mots-cles-288x300.jpg) DIminution du nombre de termes par requête
 
 Pour les référenceurs, l’époque du web unique, fut un âge d’or. Que l’on soit à Bordeaux, Paris ou ailleurs, les résultats étaient semblables  pour des recherches internautes. Depuis la géolocalisation la recherche universelle, l’identification des  navigateurs et le reste, bouleverse la donne..alors si en plus, on rajoute la tendance de requêtes plus courtes , ou va t-on ?
 
@@ -59,7 +59,7 @@ Ces facteurs plus ou moins intégrés dans la vie de tous les jours, incitent à
 
 Je prends  cet exemple basique d’un seul mot clé « cinéma », Google me propose les derniers films sortis sur ma zone géographique.
 
-[![Image](/images/blog/1-mot-clé-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/1-mot-clé.jpg) 1-mot-clé
+[![1-mot-clé-310x204.jpg](/images/blog/1-mot-clé-310x204.jpg) 1-mot-clé
 
 Un autre type de recherche sur un mot comme « pizza » amène 3 types de réponses :
 
@@ -69,7 +69,7 @@ Un autre type de recherche sur un mot comme « pizza » amène 3 types de rép
 
 	- Une recette : au cas où je souhaiterais me lancer dans la cuisine !
 
-[![Image](/images/blog/knowledge-2-310x241.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/knowledge-2.jpg) Réponse hybride Google
+[![knowledge-2-310x241.jpg](/images/blog/knowledge-2-310x241.jpg) Réponse hybride Google
 
 Autrefois peut être j’aurai été amené à préciser plus de mots dans mon intention. Ici le travail du référenceur ne change pas sur le fond, sur la forme, oui, selon le type de requête.  Il va s’agir de présenter à Google des informations susceptibles  de plaire à l’internaute et qui donne plus de sens à la réponse.
 
@@ -79,7 +79,7 @@ Autrefois peut être j’aurai été amené à préciser plus de mots dans mon i
 
 Moins de suggestions, plus de réponses ! Le sacro-saint schéma « mots clés -> listes de résultats »  serait-il en train de basculer ? Et par-delà faire vaciller par la même occasion le métier de référenceur ?  En d’autres termes, Google sait il répondre à ma question directement ?   Bon, en France, Google la firme,  fait moins de tests que sur son territoire (aux US), mais de plus en plus de « réponses directes » sont apportées par le moteur tout de même, avec toujours  une liste de liens en support, donc pas d’inquiétude à avoir sur le socle du métier Seo.
 
-[![Image](/images/blog/reponse-google-310x186.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/reponse-google.jpg) Réponse Image temps réel G.
+[![reponse-google-310x186.jpg](/images/blog/reponse-google-310x186.jpg) Réponse Image temps réel G.
 
 **Des  données structurées plus « signifiantes »**
 
@@ -103,20 +103,20 @@ Comment optimiser là encore sa page web ? Google ménage ses arrières de tout
 
 Au-delà des microdata  d’autres languages de métadatas (balises de description des contenus de pages)  existent comme les microformats, RDFa, eRDF etc. « Sémantiser  les documents» permet de comprendre mieux les informations situées dans une page http://  mais pour des machines !  Les données deviennent « plus»  que des chaines de caractères, elles constituent elles même des relations pour constituer un **graphe universellement compréhensible par les appareils**. Bon, au niveau **référencement naturel** pur et dur (html) , pas d’ouverture pour l’instant de ce côté-là , google n’a pas encore envie de s’y coller.  En revanche en matière de Speech recognition , la firme de mountain View avance, et la voix prend le pas sur le clavier..
 
-[![Image](/images/blog/webetsqemantic1-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/webetsqemantic1.jpg) Web et sémantique 2 mondes qui se rapprochent
+[![webetsqemantic1-310x219.jpg](/images/blog/webetsqemantic1-310x219.jpg) Web et sémantique 2 mondes qui se rapprochent
 
 Pour l’e-commerce par exemple, une plateforme « goodRelations  s’est  même spécialisée dans ce codage sémantique des données.  Elle propose des outils de marquage comme des convertisseurs, et autres lecteurs qui rendent lisibles ces « entités  nommées» comme certains initiés les appellent.
 
-[![Image](/images/blog/ecommerce-semantic-310x152.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/ecommerce-semantic.jpg) Sémantiser ses contenus Web
+[![ecommerce-semantic-310x152.jpg](/images/blog/ecommerce-semantic-310x152.jpg) Sémantiser ses contenus Web
 
 Autrement,  Google se débrouille aussi très bien tout seul, en agrégeant ses propres données issues de Google plus pour les avis,  ou parfois en extrayant  de lui-même des données non structurées mais lui paraissant pertinentes.
 
-[![Image](/images/blog/extrait-donnees-serp-locales-310x58.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/extrait-donnees-serp-locales.jpg) Données extraites dans Snippets
+[![extrait-donnees-serp-locales-310x58.jpg](/images/blog/extrait-donnees-serp-locales-310x58.jpg) Données extraites dans Snippets
 ## **Une question = 1 réponse, fini le clavier, pas les mots clés !**
 
 Google répond désormais à un ensemble de questions liées à la météo, circulation, personnalités, dates importantes, tourisme, littérature etc… sans mettre la main sur le clavier. La reconnaissance vocale est de plus en plus performante et comprend des phrases entières.
 
-[![Image](/images/blog/boite-resultat-google-310x186.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/boite-resultat-google.jpg) Réponse directe Google
+[![boite-resultat-google-310x186.jpg](/images/blog/boite-resultat-google-310x186.jpg) Réponse directe Google
 
 C’est sans doute que le début du web intelligent, notons donc  que les techniques de netlinking ne sont pas mortes, en témoigne la dernière obtention d’un brevet par Google sur l’analyse du contexte des backinks. Le Seo a encore de beaux jours devant lui ;) .
 

@@ -34,12 +34,12 @@ Avec les service payant google apps for work baptisé depuis une semaine «** G
 
 une G Suite Sync for Microsoft Outlook. Dans la version « premium » de G suite, l’ajout de Vault, permet un archivage de toutes les communication mail et chat avec une fonctionnalité de recherche intelligente « e-discovery » sur l’ensemble des emails.
 
-[![Image](/images/blog/google-gsuite-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/google-gsuite.jpg) Amplifier ses envois mails
+[![google-gsuite-310x102.jpg](/images/blog/google-gsuite-310x102.jpg) Amplifier ses envois mails
 ## **Utilisation d’extension pour organiser sa base de contacts**
 
 Il est conseillé de créer  bien sûr une **liste ou un un groupe de contacts** simple pour un envoi groupé.
 
-[![Image](/images/blog/creation-de-liste-de-contacts-310x128.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/creation-de-liste-de-contacts.jpg) Creation-de-liste-de-contacts dans gmail basique
+[![creation-de-liste-de-contacts-310x128.jpg](/images/blog/creation-de-liste-de-contacts-310x128.jpg) Creation-de-liste-de-contacts dans gmail basique
 
 Ou de les importer depuis avec une extension  comme **mail merge** (pour firefox seulement) qui permet d’enrichir sa base de contact au-delà de celle native de gmail.  Il est possible aussi de joindre :
 
@@ -57,11 +57,11 @@ https://www.youtube.com/watch?v=F07Py7sraDg
 
 **Postmaster Tools**  était un outil attendu par les marketeurs, c’est un outil de paramétrages et de feedback. Côté configuration, il va permettre d'assurer une bonne délivrabilité des messages et surtout un reporting sur la qualité des envois.
 
-[![Image](/images/blog/postmaster-430x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/postmaster.jpg) Installation de son propre domaine dans gmail
+[![postmaster-430x300.jpg](/images/blog/postmaster-430x300.jpg) Installation de son propre domaine dans gmail
 
 il ne rendra pas de fonctionnalités aussi fine sur chaque réceptionnaire mais va donner de bonnes indications sur la délivrabilité des envois : taux de spam, réputation de l’ip, du domaine, des erreurs de livraison, authentification . C’est plus un outil de monitoring qu’un outil marketing.
 
-[![Image](/images/blog/postmaster-tableaux-de-bord-310x136.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/postmaster-tableaux-de-bord.jpg) postmaster Tools : tableaux-de-bord
+[![postmaster-tableaux-de-bord-310x136.jpg](/images/blog/postmaster-tableaux-de-bord-310x136.jpg) postmaster Tools : tableaux-de-bord
 ### **Ressources sur emaling avec Gmail **
 
  	- MailMerge : [https://ctrlq.org/dev/mail-merge](https://ctrlq.org/dev/mail-merge)
