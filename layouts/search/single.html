@@ -1,0 +1,43 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+    </h1>
+  </header>
+
+  <div class="post-content">
+    <p>{{ .Content }}</p>
+    
+    <!-- Algolia Site Search Widget -->
+    <div id="search"></div>
+    
+    <link rel="stylesheet" href="https://unpkg.com/@algolia/sitesearch@latest/dist/search.min.css" />
+    <script src="https://unpkg.com/@algolia/sitesearch@latest/dist/search.min.js"></script>
+    
+    <script>
+      SiteSearch.init({
+        container: "#search",
+        applicationId: "T3FKQ5L3WK",
+        apiKey: "2c1ca098da360b7ac0378cc100014d3b",
+        indexName: "algolia-index",
+        attributes: {
+          primaryText: "title",
+          secondaryText: "content",
+          tertiaryText: "category",
+          url: "url",
+          image: ""
+        },
+        darkMode: false,
+      });
+    </script>
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+
+{{- end }}

@@ -35,3 +35,8 @@ pagerSize = 10
     name = "Archives"
     url = "/archives/"
     weight = 3
+
+[[menu.main]]
+    name = "Recherche"
+    url = "/search/"
+    weight = 4
