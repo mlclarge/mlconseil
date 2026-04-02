@@ -46,7 +46,7 @@ Le  balisage de la structure de contenu en html 4.1
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/11/hmlt-actuel-300x176.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/hmlt-actuel.png) Le balisage html 4.1
+[![Image](/images/blog/hmlt-actuel-300x176.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/hmlt-actuel.png) Le balisage html 4.1
 
  
 
@@ -58,7 +58,7 @@ Le balisage en html 5 : 6  balises importantes
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/11/html_5-300x171.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/html_5.png) Illustration du balisage Html5
+[![Image](/images/blog/html_5-300x171.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/html_5.png) Illustration du balisage Html5
 
  
 
@@ -66,7 +66,7 @@ Cela peut donner une page codée comme cela..
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/11/pageHtml5-260x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/pageHtml5.png) Code source page Html5
+[![Image](/images/blog/pageHtml5-260x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/pageHtml5.png) Code source page Html5
 
  
 
@@ -108,7 +108,7 @@ Ces micros données servent à décrire spécifiquement un film, un lieu, une re
 
 Donc, ici, on  standardise la présentation de certaines données, mais pas l’optimisation d’un  positionnement d’une page.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/11/richSnippets-185x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/richSnippets.png) Microformat - RDFa
+[![Image](/images/blog/richSnippets-185x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/11/richSnippets.png) Microformat - RDFa
 
 Source : [http://www.google.com/webmasters/tools/richsnippets](http://www.google.com/webmasters/tools/richsnippets)
 

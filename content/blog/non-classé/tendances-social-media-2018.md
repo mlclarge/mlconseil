@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "tendances-social-media-2018"
+image: "/images/blog/2017-12-19_16-39-22.jpg"
 ---
 
 Kanter publie les dernières **tendances du social média**, une vidéo et un [livre blanc](https://www.kantarmedia.com/fr/blog-et-ressources/downloads/tendances-social-media-2018) à ne pas manquer !

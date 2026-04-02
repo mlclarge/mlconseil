@@ -15,32 +15,32 @@ Qu’est il possible d’automatiser dans adwords ? Un sujet donc **transversal
 
 Une lapalissade, les combinaisons manuelles du cerveau humain sont  infinies, donc attention de ne pas trop rentrer dans le détail sinon le temps passe vite à toucher les variables d'une campagne. Préférons les **modifications par lots, **avec cases à cocher sur les onglets campagnes, groupes, annonces, mots clés  : **activation, mis  en veille, suppression  d’entités** en y appliquant des** filtres, ou des segments,** selon les données que l’on souhaite analyser *(performances, conversions, caractéristiques, concurrence)*.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/liste-actifouNon-310x224.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/liste-actifouNon.png) Fig. 1 Liste à cocher et filtres
+[![Image](/images/blog/liste-actifouNon-310x224.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/liste-actifouNon.png) Fig. 1 Liste à cocher et filtres
 ### *Générateur de mots clés*
 
 Cet outil a subi une net amélioration cette année avec la possibilité de créer automatiquement des groupes d'annonces, avec l'estimation de trafic sur les mots clés etc..Attention tout de même à ne pas prendre à la lettre ces données statistiques de prévision et notamment  les prévisions de coûts (cpc). Il recherche selon 3 façons : mot clé, url d'un site, et catégorie. C'est vraiment un bel outil dorénavant, intégré dans le compte.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/motscles-310x179.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/motscles.png) Fig. 2 Générateur mots clés
+[![Image](/images/blog/motscles-310x179.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/motscles.png) Fig. 2 Générateur mots clés
 ### *Rotation des annonces*
 
 Cette fonctionnalité mise à jour récemment par Google, a créé la polémique chez les marketers, en effet, Google souhaitait incorporer de manière automatique une optimisation pour les clics sur les annonces les plus performantes, ce qui n’est pas forcément une stratégie pour les annonceurs. Heureusement,  un ajustement est intervenu qui permet dorénavant de pouvoir arbitrer ce que l’on désire.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/rotation-annonces-310x146.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/rotation-annonces.png) Fig. 3 Rotation des annonces
+[![Image](/images/blog/rotation-annonces-310x146.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/rotation-annonces.png) Fig. 3 Rotation des annonces
 ### *Règles automatiques *
 
 Il est possible d’arbitrer par cette fonctionnalité disponible aux différents étages de la campagne (campagne elle-même, groupe d’annonces, annonces, mots clés) d’activer ou désactiver à partir d’une quantité de données,  ses entités selon des variables conditionnelles, et selon une durée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/reglesAutimatiques-310x133.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/reglesAutimatiques.png) Fig .4 Règles automatiques
+[![Image](/images/blog/reglesAutimatiques-310x133.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/reglesAutimatiques.png) Fig .4 Règles automatiques
 ### *Optimiseur d’enchères et de conversions*
 
 C’est le **pilote automatique d’adwords**, la main est laissée à l’algorithme d’adwords pour lui laisser gérer les campagnes. Les optimiseurs de conversions sont disponibles pour le réseau de recherche mais aussi de contenus Google. Attention quant à leurs maniements  !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/cpa1-310x143.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/cpa1.png) Fig.5 Optimiseurs d'enchères
+[![Image](/images/blog/cpa1-310x143.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/cpa1.png) Fig.5 Optimiseurs d'enchères
 ### *Scripts adwords*
 
 On rentre ici, dans le code natif d’adwords, c’est un outil qui peut accomplir tout ce que l’on peut faire manuellement et avec les règles automatiques, mais avec plus de latitudes, et avec en plus la possibilité d' incorporer des données extérieures . Par exemple, faire des reporting ultra-personnalisés,  l'usage des scripts  conviennent bien à des campagnes d’envergure qui nécessitent une assistance automatique.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/scripting-310x190.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/scripting.png) Fig. 6 Scripting avancés adwords
+[![Image](/images/blog/scripting-310x190.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/scripting.png) Fig. 6 Scripting avancés adwords
 ### *Rapports de performances*
 
 Fonctionnalité simple, mais parfois oublié, la possibilité de se faire envoyer automatiquement et à des périodes fixes, les rapports  par email par exemple.
@@ -51,15 +51,15 @@ Fonctionnalité simple, mais parfois oublié, la possibilité de se faire envoye
 
 **Editor** est une application offline qui permet d’importer une campagne sur son ordinateur et donc de travailler off-line, de partager son travail en équipe, de faire des campagnes fictives. L’interface  de cet outil change de la plateforme en ligne,  et le **copier-coller** devient la règle !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-excel-310x232.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-excel.png) Fig. 7 Adwords et Editor
+[![Image](/images/blog/editor-excel-310x232.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-excel.png) Fig. 7 Adwords et Editor
 
 Il devient possible de **rechercher ou de remplacer du texte  **dans les champs de mots clés, annonces, groupes d’annonces et ainsi de modifier en quelques minutes une campagne. Sur des campagnes similaires, un simple copier-coller d’une campagne entière est possible et créer une campagne en quelques clics parfaitement réalisable !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace1-310x158.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace1.png) Fig.8 Editor fonction remplacer
+[![Image](/images/blog/editor-rempace1-310x158.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace1.png) Fig.8 Editor fonction remplacer
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace-310x158.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace.png) Fig. 9 Editor fonction tri
+[![Image](/images/blog/editor-rempace-310x158.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/editor-rempace.png) Fig. 9 Editor fonction tri
 ### *Adwords api*
 
 Cet outil est disponible depuis un **centre multicompte adwords**, c’est une fonctionnalité très intéressante pour gérer les comptes avec de nombreuses campagnes, mots clés etc. . Cet api sert à la création d’outils internes pour gérer les campagnes en dehors de la plateforme. L’intégration des données adwords au sein d’un CRM, ERP permet par exemple de parfaire des outils d’aide à la décision . Sinon l’api  est  également utile pour créer des applications ,  revendues ensuite en mode saas ou sous forme de logiciels de bureau.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/11/api-310x177.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/api.png) Fig. 10 Adwords API
+[![Image](/images/blog/api-310x177.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/11/api.png) Fig. 10 Adwords API

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "le-choix-dune-solution-dhebergement-pour-wordpress"
+image: "/images/blog/server-1235959_640.jpeg"
 ---
 
 **Découvrez Raschel, blogueuse Bordelaise depuis des lustres, au travers de ce retour d'expérience et sur son ressenti sur le choix d'une solution d'hébergement Wordpress. Profitons de son expérience et de ses recommandations. @RashelMedia** merci !

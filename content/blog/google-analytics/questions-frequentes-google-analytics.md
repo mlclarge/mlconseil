@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "questions-frequentes-google-analytics"
+image: "/images/blog/2025-02-05_08-14-38.jpg"
 ---
 
 L’idée ici est de reporter les **questions fréquentes de [google analytics ](http://www.google.com/intl/fr_fr/analytics/)**et d'ébaucher les principales solutions avec des liens ressources. J’ai retenu 5 thèmes pour démarrer cette série, qui je pense, se verra agrémentée  au fur et à mesure par d'autres thématiques,  le sujet est vaste ! Au menu cette semaine : luttre contre le spam de référents, configuration de compte, sources de trafic , techniques de tracking , taux de rebond et conversion.
@@ -46,7 +47,7 @@ SINON, **retenez 2 types de SPAM**, celui qui ne passe pas par votre site le Spa
 Cette méthode n’est bien sûr pas infaillible si le spammeur identifie la source du filtre …mais bon, c’est tout de même un bon début de lutte couplée à la méthode 1/ , on peut commencer à y voir plus clair..
 6/ --> **Les Spam de referrer** , une seule méthode décrite ci dessous en 2 étapes : vous reperez la présence ou non de spam fantômes et ensuite faire un filtre sur votre nom de domaine.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/09/anti-spam-ga-2-310x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/anti-spam-ga-2.jpg) anti spam ga fantomes
+[![Image](/images/blog/anti-spam-ga-2-310x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/anti-spam-ga-2.jpg) anti spam ga fantomes
 ## ***Configuration de compte Google analytics***
 
 ### ***Au secours j’ai effacé mon compte Google analytics !***
@@ -81,7 +82,7 @@ Analytics.js gère cela très bien maintenant avec Google tag manager.  Le but 
 
 Le principe est d’importer ces données via un fichier csv dans Ga, c’est possible !  La  configuration, consiste  à déclarer les items à importer : PA, Bl, DA, citation flow, trust flow  (sous forme de dimensions personnalisées de type ga :dimension1, etc)  dans l’admin de GA et à télécharger le fichier .csv templaté par GA. Thasos all folks .Bon , voici un excellent tuto pour l’occasion : [http://www.tatvic.com/blog/dimension-widening-use-case-integrate-page-seo-data-universal-analytics/](http://www.tatvic.com/blog/dimension-widening-use-case-integrate-page-seo-data-universal-analytics/)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/09/seo-et-google-analytics-310x97.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/seo-et-google-analytics.jpg) seo et google analytics
+[![Image](/images/blog/seo-et-google-analytics-310x97.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/seo-et-google-analytics.jpg) seo et google analytics
 ## **Identification des sources de trafic **
 
 ### ***Comment GA interprète les redirections d’url ?***
@@ -140,7 +141,7 @@ Causes possibles :
 
 Pour faire court, il faut 2 consultations   de pages à Google pour calculer le temps passé lors d’une visite. Le timestamp page 2 - timestamp page 1 = temps total. Mais que se passe-t-il dans le cadre d’une page vue….pendant longtemps ? On peut supposer que le lecteur ne consulte que cette page, il est satisfait et arrête sa visite (souvent le cas de blogs), ou alors une page de destination avec un numéro de téléphone, une adresse, un formulaire (qui ne déclenche rien)  où l’utilisateur est conquis, rien ne sert d’aller plus loin, il possède l’information recherchée. C’est du 100% taux de rebond et 0 seconde en temps passé. On peut déclencher dans GA un évènement basé sur un compteur en secondes qui pourra souligner qu’au-delà d’une timeframe, l’utilisateur a été intéressé.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/09/impact-taux-de-rebond-228x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/impact-taux-de-rebond.jpg) Calcul taux de rebond. Merci à son auteur
+[![Image](/images/blog/impact-taux-de-rebond-228x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/impact-taux-de-rebond.jpg) Calcul taux de rebond. Merci à son auteur
 
 ***Bon j’ai récupérer ces chiffres sur le site de Blastam.com (toujours de bons conseils) ***
 
@@ -189,7 +190,7 @@ ga('send', 'pageview', location.pathname + match);
 
 L’idée ici est  d’écouter le scrolling de la page à l’aide d’un script dédié, à chaque étape du glissement de sourie sur l’ascenseur (scindé en 25, 50, 75, 100%) un event est envoyé à GA et voilà…la démo sur cette page (faire F12 muni du plugin GA debug ou le tag assistant).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/09/tag-assistant-scroll-depth-245x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/tag-assistant-scroll-depth.jpg) Rendu par le Tag assistant du scroll depth tracking dans Chrome
+[![Image](/images/blog/tag-assistant-scroll-depth-245x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/tag-assistant-scroll-depth.jpg) Rendu par le Tag assistant du scroll depth tracking dans Chrome
 
 ***Et le scroll infini alors ?***
 
@@ -205,7 +206,7 @@ Oui bien sûr, c’est même plus simple avec Google analytics d’ailleurs, sou
 
 Vrai ! Pour faire court,  Adwords a souvent la part belle dans l’attribution de la conversion, s’il intervient dans le chemin d’acquisition, mais pas toujours, Ga lui, fonctionne au dernier clic indirect (soit le dernier canal est direct, nada, c’est l’indirect avant qui décroche le pompon) dans sa représentation des chemins de conversion (catégorie conversions -> chemins de conversion)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/09/attribution-des-conversions-298x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/attribution-des-conversions.jpg) Comparatifs Attribution des conversions Ga et Adw
+[![Image](/images/blog/attribution-des-conversions-298x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/09/attribution-des-conversions.jpg) Comparatifs Attribution des conversions Ga et Adw
 ### ***Est-il possible d’annuler une transaction dans ga ?***
 
 Oui, 2 façons :

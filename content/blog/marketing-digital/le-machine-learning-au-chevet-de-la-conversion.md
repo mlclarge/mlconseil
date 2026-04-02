@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "le-machine-learning-au-chevet-de-la-conversion"
+image: "/images/blog/smart-conversions.jpg"
 ---
 
 Les campagnes d’acquisition [webmarketing ](https://fr.wikipedia.org/wiki/Webmarketing) s’appuient sur des techniques innovantes. **Google** n’est pas en reste sur le sujet  et fournit toujours plus d’outils pour aider l’annonceur à atteindre ses objectifs de ventes.  La création algorithmique  d’objectifs intelligents comme véritables points de **conversions** est une dernière illustration du progrès dans une une stratégie « **data driven** » où l’intuition laisse place aux techniques plus rationnelles du marketing prédictif. Focus aujourd’hui  sur la dernière trouvaille de Google analytics suivi d'un  bref rappel sur  la notion de conversion…
@@ -21,13 +22,13 @@ Ce système va venir au secours des sites où les points de conversions ne sont 
 
 Donc pas de code ou autre script ou quoique ce soit à rajouter sur le site, **Google analytics**  propose nativement dans l’interface la disponibilité de ce trafic essentiel sur lequel se concentrer.  Pour son lancement, un reporting est disponible d’office dans l’interface. Sinon, il faudra l’activer comme un objectif habituel de GA.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/12/objectifs-intelligents-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/objectifs-intelligents.jpg) Création des objectifs intelligents dans GA
+[![Image](/images/blog/objectifs-intelligents-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/objectifs-intelligents.jpg) Création des objectifs intelligents dans GA
 
  	- **L’importation dans Google Adwords**
 
 Petite manip à faire au niveau d’adwords, comme d’habitude quoi !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/12/ADWORDS-ET-OBJECTIFS-INTELLIGENT-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/ADWORDS-ET-OBJECTIFS-INTELLIGENT.jpg) Importation dans Adwords
+[![Image](/images/blog/ADWORDS-ET-OBJECTIFS-INTELLIGENT-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/ADWORDS-ET-OBJECTIFS-INTELLIGENT.jpg) Importation dans Adwords
 
 Laissez agir quelques jours et voir ce que cela donne. Cela marche ? Personnellement, je n’ai pas assez de recul et de retours d’expériences pour en juger :( .
 ***-> Prérequis ***
@@ -52,7 +53,7 @@ Laissez agir quelques jours et voir ce que cela donne. Cela marche ? Personnell
 
 Avant tout, une campagne sans conversion, c’est comme un carry sans épices ou naviguer sans cap !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/12/cbiler-310x91.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/cbiler.jpg) Stratégie Online de la cible vers la conversion
+[![Image](/images/blog/cbiler-310x91.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/12/cbiler.jpg) Stratégie Online de la cible vers la conversion
 
 ***Deux grandes catégories de conversions, purement arbitraires, le cloisonnement entre micro et macro est lié à la nature du site web et à la stratégie webmarketing menée.***
 

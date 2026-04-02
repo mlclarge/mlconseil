@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "etre-retrouve-localement-sur-les-annuaires-de-geolocalisation"
+image: "/images/blog/seo-local.jpg"
 ---
 
 Les annuaires de localisation ou les bases de données GPS sont de plus en plus nombreux. Avoir un outil de productivité pour se simplifier les inscriptions sur ces plateformes de proximité peut s'avérer utile. Les commerçants et autres services locaux sont les 1er concernés.
@@ -14,7 +15,7 @@ Hébergeurs, opérateurs télécom, Presse régionale tous, proposent des packs 
 
 La plateforme est en mode self service. L'entreprise procède à son inscription une seule fois, et ensuite la solution diffuse les données sur l'ensemble de son portefeuille : 36 entités partagés entre annuaires de localisation et services GPS. Une offre d'essai d'un mois est proposée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/05/seo-inscription-annuaires.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/05/seo-inscription-annuaires.jpg) Liste des annuaires et gps en ligne
+[![Image](/images/blog/seo-inscription-annuaires.jpg)](/images/blog/seo-inscription-annuaires.jpg) Liste des annuaires et gps en ligne
 
 Cette indexation Locale prend en charge des portails tels qu'Instagram, Uber, WhereTo?, Brownbook, ABC Local, factual, iGlobal, Navmii, jelloo, Yellbo ou Shopping Time Network qui vous permettront de capter un plus grand nombre d'utilisateurs. De plus, vous pourrez ajouter votre profil sur des applications de géolocalisations sociales telles que guideLocal, Tupalo, infobel, pages24, Justacoté, 118000.fr, ABC Local, Yalwa, Hotfrog ou encore Opendi.
 
@@ -34,7 +35,7 @@ Ensuite une vérification peut se faire , comme ici sur infobel
 
 Les liens posés par le flux ionos peuvent s'avérer d'un intérêt "Seo" comme par exemple ici sur infobel ou le lien vers le domaine est un **do-follow**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/lien-do-follow-vers-nom-de-domaine-464x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/lien-do-follow-vers-nom-de-domaine.jpg) lien retour des annuaires ici infobel
+[![Image](/images/blog/lien-do-follow-vers-nom-de-domaine-464x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/lien-do-follow-vers-nom-de-domaine.jpg) lien retour des annuaires ici infobel
 
 Sinon, en formule de base il est possible de **publier des posts** par exemple sur une fiche Google my business. Les conversations suite à l'engagement des visiteurs, la pose d'avis, les conversations sont possibles mais dans la solution à 15 euros/Ht. Vérifiez néanmoins ensuite directement sur GMB ou Facebook qui votre publication a bien été diffusée.
 

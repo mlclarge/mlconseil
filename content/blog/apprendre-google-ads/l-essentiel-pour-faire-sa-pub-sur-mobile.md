@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "l-essentiel-pour-faire-sa-pub-sur-mobile"
+image: "/images/blog/mobile-week-adwordsj.jpg"
 ---
 
 La **mobile attitude** a tenu le pavé toute la semaine dernière avec 2 events dédiés. Citons d’abord la **[communauté Google adwords](https://www.fr.adwords-community.com/)** qui a proposé différents moments autour du smartphone  pour rappeler sa place de choix comme levier webmarketing déterminant vers à la conversion.  Tout le staff était sur le pont : Community manager (**coucou Marion** :) ), Googlers, contributeurs pour animer cette mobile week **#AdWordsMoWe**.
@@ -15,7 +16,7 @@ Un autre event, orienté business, a été celui du **mobile world congress de B
 
  	- Le début de la réalité virtuelle avec le show de marc Zuckerberg autour du casque occulus
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-worl-congress-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-worl-congress.jpg) Show du Créateur de Faebook lors du MWC 2016
+[![Image](/images/blog/mobile-worl-congress-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-worl-congress.jpg) Show du Créateur de Faebook lors du MWC 2016
 
  	- Le début des discussions autour de la 5G ou Nokia se place comme avant gardiste (prévu pour 2020).
 
@@ -31,7 +32,7 @@ Un autre event, orienté business, a été celui du **mobile world congress de B
 
  	- 40% abandonnent le site sous les 3 s de chargement
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/infographie-mobile-231x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/infographie-mobile.jpg) Chiffres du mobile à connaître !
+[![Image](/images/blog/infographie-mobile-231x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/infographie-mobile.jpg) Chiffres du mobile à connaître !
 ## **Optimisation de sa présence numérique sur device mobile**
 
  	- CTA dès la page d’accueil
@@ -44,7 +45,7 @@ Un autre event, orienté business, a été celui du **mobile world congress de B
 
  	- Avoir un fil d’ariane clair
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-friendly-responsive-242x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-friendly-responsive.jpg) Critères à suivre pour être mobile friendly
+[![Image](/images/blog/mobile-friendly-responsive-242x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/mobile-friendly-responsive.jpg) Critères à suivre pour être mobile friendly
 ## **Utiliser Google adwords pour les mobiles**
 
 Merci à Gilles (contributeur de la communauté) qui nous distille en quelques minutes l’essentiel avec 6 fonctionnalités à activer pour une campagne adwords
@@ -68,7 +69,7 @@ https://www.youtube.com/watch?v=C_9o05u5ALA
 
  	- Outre les techniques de Sea, display, il existe aussi celles liées à l’[ASO](https://www.mauricelargeron.com/webmarketing-pour-apps-stores/), le réf. Nat pour les applications pour résumer, mais ce n’était pas le thème ici.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/etude-2016-app-annie-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/etude-2016-app-annie.jpg) Etude 2016 d'App annie
+[![Image](/images/blog/etude-2016-app-annie-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/etude-2016-app-annie.jpg) Etude 2016 d'App annie
 ## **Mesurer ses actions sur le mobile : le graal de la conversion**
 
 C’est bien de faire de la publicité, savoir analyser ses performances, c’est mieux ! Cette HOA détaille les grandes lignes de ce qu’il faut savoir sur le sujet mais retenons qu’il faut :

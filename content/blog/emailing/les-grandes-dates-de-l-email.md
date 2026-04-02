@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Emailing"]
 tags: []
 slug: "les-grandes-dates-de-l-email"
+image: "/images/blog/histoire-email.jpg"
 ---
 
 L’**email** ou autrement appelé [courrier électronique,](https://fr.wikipedia.org/wiki/E-mailing) fête ses 45 ans cette année, occasion d'ouvrir d'inaugurer une rubrique sur cette thématique !  Un âge de raison et de grande maturité  pour ce **levier webmarketing** très avantageux (roi) ! Cette technologie de communication et d’acquisition est sans doute la seule qui peut prétendre être la plus simple et la plus efficace pour échanger électroniquement aujourd’hui. C’est son standard ouvert et distribué , issue des utopies des [penseurs du début de l’internet](https://www.mauricelargeron.com/historique-de-la-toile-depuis-les-annees-90/), qui l’a rendu si populaire. Remontons l’histoire pour connaitre ce qui a fait son succès.
@@ -27,7 +28,7 @@ L’**email** ou autrement appelé [courrier électronique,](https://fr.wikiped
 
  	- **1982** : Scott Fahlman, chercheur américain, invente le smiley
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/2008-barrack-obama.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/2008-barrack-obama.jpg) Le politique à la conquête de l'email
+[![Image](/images/blog/2008-barrack-obama.jpg)](/images/blog/2008-barrack-obama.jpg) Le politique à la conquête de l'email
 
  	- **1985** : L’usage de l’email devient commun dans les institutions (états, universités, armées)
 
@@ -69,4 +70,4 @@ L’**email** ou autrement appelé [courrier électronique,](https://fr.wikiped
 
 ## **Infographie email **
 
-[](https://www.mauricelargeron.com/wp-content/uploads/2016/02/histoire-de-lemail.jpeg)[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/histoire-de-lemail.jpeg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/histoire-de-lemail.jpeg)
+[](/images/blog/histoire-de-lemail.jpeg)[![Image](/images/blog/histoire-de-lemail.jpeg)](/images/blog/histoire-de-lemail.jpeg)

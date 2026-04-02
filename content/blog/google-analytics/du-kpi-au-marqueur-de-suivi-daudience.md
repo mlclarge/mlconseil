@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "du-kpi-au-marqueur-de-suivi-daudience"
+image: "/images/blog/PLAN-DE-MARQUAGE-TECHNIQUE.jpg"
 ---
 
 Passons au **[plan de taguage "technique](https://www.1min30.com/dictionnaire-du-web/plan-de-marquage-taggage)"** consacré au marquage des différents kpis que l’on souhaite mesurer sur un site web après avoir vu le plan de [**marquage marketing**](https://www.mauricelargeron.com/pre-requis-avant-le-marquage-technique-dun-site-web/) .  J'ai scindé en 2 posts afin de marquer les 2 approches possibles. Nous prendrons en toile de fond ici, un plan qui utilise les outils de Google, soit Google analytics Universal à l'aide éventuellement de son gestionnaire de balises.
@@ -23,7 +24,7 @@ Comme indiqué dans le choix d’une solution comme celle de **Google analytics*
 
 Selon le plan de marquage d’audience marketing, et le niveau de personnalisation de la mesure d’audience, une segmentation claire des besoins est toujours la bienvenue. Au-delà de Google analytics et  selon les souhaits de l’équipe marketing, de ventes, il sera nécessaire de sortir de la solution et d’utiliser des marqueurs tiers mais qui ne seront pas directement traités et collectés par GA. Exemple : les pixels de e-marketing, les collecteurs intelligents de visiteurs non logués, l’enregistrement de sessions etc…
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-web-analytics-282x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-web-analytics.jpg) plan marquage web analytics
+[![Image](/images/blog/plan-marquage-web-analytics-282x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-web-analytics.jpg) plan marquage web analytics
 
 **Data métier** : Quel est le référentiel (s’il existe) de l’organisation pour mettre en adéquation les libellés des indicateurs de la solution de tracking choisie ? Le back office donc de l’organisation doit être impérativement scanné des valeurs que l’on souhaite remonter. L’adéquation avec le service d’information interne de l’entreprise, **crm, database et la nomenclature des données** : choix, libellé, valeur devront être homogénéiser avec la solution de web analytics. La solution d’un TMS comme Google tag manager , va impliquer la pause d’un dataLayer, solution pérenne de marquage personnalisé. Ce collecteur de data servira de « zone neutre » entre l’api du site web (cms, standalone, site ecommerce prêt à l’emploi) et Google analytics.
 
@@ -51,7 +52,7 @@ Sans GTM, Une passation de la data pourra se faire traditionnellement en php pou
 
 C’est souvent un peu le nerf de la guerre, on s’aperçoit que le balisage html n’est pas assez explicite ou trop générique, du coup, les marqueurs ne peuvent pas  capable d’identifier la valeur des variables à remonter.  Les attributs de différents objets sur la page doivent être en rapport avec les exigences du marqueur de la solution : div, liens, images, documents, coordonnées, formulaires.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/un-code-source-bien-propre-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/un-code-source-bien-propre.jpg) un code source bien propre
+[![Image](/images/blog/un-code-source-bien-propre-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/un-code-source-bien-propre.jpg) un code source bien propre
 
 Bref dans l’idéal les objets d’une page devront avoir au moins un des ces 4 attributs :
 
@@ -67,7 +68,7 @@ Bref dans l’idéal les objets d’une page devront avoir au moins un des ces 4
 
 Peu importe le format, que ce soit un powerpoint, un fichier excel, un drive Google. L’idée ici, est d’avoir un récapitulatif le plus exhaustif possible des marqueurs par grandes zones de collecte. Il n’existe pas de norme ou de standard donc chacun y va selon ses propres besoins internes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-api-externe-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-api-externe.jpg) Extrait plan marquage pour service externe
+[![Image](/images/blog/plan-marquage-api-externe-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/plan-marquage-api-externe.jpg) Extrait plan marquage pour service externe
 
 Enfin, notons que la popularité des Tag management system et leur facilité d’usage implique néanmoins une rigueur dans l’implémentation des marqueurs. Principalement notons 3 pratiques bienveillantes classiques :
 

@@ -250,7 +250,7 @@ Dans les cursus, il y a la voie universitaire,  la formation continue et  "l'a
 
 Sinon, y a t-il une  "Ecole Bordelaise " en matière de référencement ? Certainement,  des talents sont bien présents *(Eric Garletti, Loic Helias par exemple de l'agence Atypicom )*,  la communauté grandit et des initiatives locales se dessinent au fil des jours dans notre belle région. Autre moyen aussi de se familiariser avec la profession est de participer à des** évènements** :  Les [apéros "seo" ](http://www.seo-camp.org/apero-referencement-a-bordeaux-le-mercredi-10-avril-2013-4126)organisés par l'association seocamp sur Bordeaux sont un bon début, et les seocamp days  qui défraieront  sans doute la chronique du pays au "3 M"  (devinette pour les non bordelais ;) ) . Mais aussi les formations one-shot, genre séminaire comme le Technseo à dijon.
 
-[![Image](../wp-content/uploads/2011/12/formation-referencement-bor-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/formation-referencement-bor.jpg)
+[![Image](../wp-content/uploads/2011/12/formation-referencement-bor-310x175.jpg)](/images/blog/formation-referencement-bor.jpg)
 
 Les prestataires sont sans doute nombreux (fictif !)
 
@@ -263,7 +263,7 @@ Il est vrai que l'on a tendance à cloisonner les savoirs, et le SEO pour Search
 
 Pour faire simple, nous passons, du** référencement d'hier** qui consistait à un simple bourrage de mots clés dans les **métadonnées d'une page web**  +  un lot  de liens sur-optimisés,  à une **optimisation** **moteur** munie d"'un dosage "modéré"  de termes reliés à une nébuleuse thématique /sémantique (qui donne du poids au document).  D'ailleurs, au lieu de parler de référencer une page, on pourrait très bien dire, **contextualiser une page web**, dans son environnement direct (le site) et extérieur (websphère).  Les enjeux ont changé, mais le net aussi ! Il y a 10 ans, moins même, les réseaux sociaux n'existaient pas, les plateformes vidéos non plus, les blogs idem, bref l'écosystème était totalement différent. Le métier devient plus intéressant dirons nous,  plus humain, dans la mesure où l'usage de profils sociaux servent de support pour relayer une page ou un site web.
 
-[![Image](../wp-content/uploads/2011/12/bourrage-mots-cles-310x292.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/bourrage-mots-cles.jpg)
+[![Image](../wp-content/uploads/2011/12/bourrage-mots-cles-310x292.jpg)](/images/blog/bourrage-mots-cles.jpg)
 
 Ah ces bourrages de  mots cles !
 
@@ -274,7 +274,7 @@ La tâche devient elle aussi de plus en plus délicate car l'internet grossit ou
 
 **Savoir d'oser son effort** par rapport au challenge de la requête fait partie de la feuille de route lors d'un projet de référencement. Auditer, mesurer les forces en présence,  se fixer des objectifs à moyen terme, fait partie de la stratégie du référenceur. Donc ne pas confondre vitesse et précipitation est aussi dans l'agenda du Ninja Seo ! Oui mais vous allez me dire, il y a des techniques du côté obscure de la force qui permettent de gravir des échelons plus rapidement que son voisin. Techniques Black Hat , spam, les qualificatifs sont nombreux. Cette illustration de dessous date un peu, le social , un pan incontournable n'y est pas présent, mais les matrices sont assez explicites..
 
-[![Image](../wp-content/uploads/2011/12/matrice_seo-310x292.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/matrice_seo.png)
+[![Image](../wp-content/uploads/2011/12/matrice_seo-310x292.png)](/images/blog/matrice_seo.png)
 
 Le dosage dans la couleur  du chapeau !
 

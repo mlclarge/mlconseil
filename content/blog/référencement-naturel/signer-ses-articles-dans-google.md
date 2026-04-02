@@ -9,7 +9,7 @@ slug: "signer-ses-articles-dans-google"
 
 En préparant ce billet pour cette semaine, je pensais faire des découvertes sur la qualité d’auteur et la répercussion dans les résultats de Google en terme de trafic. Eh bien, non, rien de neuf finalement ou presque ..*(pas très vendeur ok ..)* sur ce que l’on a pu dire sur le sujet il y a 6 mois. En revanche, à défaut d’**authorship**, c’est le **publishership**  qui a la vedette  en ce moment ! Google serait en train de tester, sur les serveurs  américains du moins, des résultats qui by passeraient le traditionnel balisage du snippet avec le tag rel=publisher. Je rappelle que cette dernière balise est le frère jumeau de la balise d’auteur *(pour les profils de personnes)*  mais consacrée aux marques soit aux pages Google plus "professionnelles". Donc, d’après Ross Hudgens , une page Google plus « vérifiée »  serait suffisante pour s’octroyer une place pour une entreprise reconnue dans son secteur d’activité.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/publisher-tag-310x67.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/publisher-tag.jpg) Snippet "Publisher" - Test ?
+[![Image](/images/blog/publisher-tag-310x67.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/publisher-tag.jpg) Snippet "Publisher" - Test ?
 
 Mais concentrons-nous sur le thème de la **signature d’auteur**. Faisons un bref rappel historique sur cette  notion, puis passons en revue les points forts et faibles de ce marqueur, et je terminerai par une liste d’outils.
 
@@ -47,11 +47,11 @@ Comme je l’indiquais en préambule, il n’y a pas pléthore d’études stati
 
 Une fois dit cela, le reste, n’est que du bon sens, le fait d’avoir une présence marquée par une image, attire le regard.  Les deux illustrations ci-dessous démontrent cette affirmation. La zone rouge concentre les clics
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/zones-chaudes-serp-google-239x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/zones-chaudes-serp-google.jpg) Zones "vues" dans pages de résultats G
+[![Image](/images/blog/zones-chaudes-serp-google-239x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/zones-chaudes-serp-google.jpg) Zones "vues" dans pages de résultats G
 
 Ici,  les chiffre bleus montrent l’ordre du déplacement des yeux et la taille des cercles le temps passé sur les liens donnés en résultat.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/eye-tracking-serp-google-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/eye-tracking-serp-google.jpg) Chemin et Intérêt sur les résultats
+[![Image](/images/blog/eye-tracking-serp-google-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/eye-tracking-serp-google.jpg) Chemin et Intérêt sur les résultats
 
 Ce qui est intéressant dans cette [Perception et compréhension des recommandations sur le web](https://www.mauricelargeron.com/wp-content/uploads/2013/07/p403.pdf) , relayée par le post de [justin Briggs ](http://justinbriggs.org/how-does-google-authorship-impact-ctr) c’est qu’elle indique, par catégorie de requêtes, que les comportements  changent  selon la nature de l’information recherchée (subjective ou très objectivée) :
 
@@ -69,7 +69,7 @@ Des études publiées en 2012 ([etude sur les commentaires sociaux sur le search
 
 D’après certains bloggeurs et blogueuses dont [Janet Driscoll Miller](http://searchengineland.com/author/janetdmiller) (search engine land), Google  donne aussi la possibilité de tagguer autre chose qu’une simple page web. Des documents de type slideshare, pdf, voire une video Youtube ont pu voir des SERP signés par leurs auteurs. Cela reste à l’état de test vraisemblablement encore.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/multiples-doc-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/multiples-doc.jpg) Supports multiples pour signature d'auteur
+[![Image](/images/blog/multiples-doc-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/multiples-doc.jpg) Supports multiples pour signature d'auteur
 ### **La signature d’auteur, un système fiable ?**
 
 Dernièrement, pas plus tard  que le 27 juin dernier, le célèbre bloggeur **Barry Schwartz**,  Co-créateur de search engine land relate sa mésaventure de n’être plus mentionné avec sa photo ! Ce ne serait donc pas un cas isolé si l’on consulte les commentaires.  Cela peut perdurer sans raison apparente, mais les taux de clics (CTR), eux, baissent sensiblement sans pour autant une perte de position.  Comme quoi, l’utilité de poser son identité peut servir le SEO.
@@ -78,7 +78,7 @@ Le post du Truman capote !
 
 Paix à son âme mais c’est un fait "divers" qui date de 2010, où le New-York Times a fait le relais d’un article relié une pseudo page G+.  Au-delà de l’anecdote, cela néanmoins  soulève des interrogations sur les failles du système, spécialement dans le web, ou les techniques de piratage ou d’usurpation d’identité existent.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/truman-capote-310x58.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/truman-capote.jpg) Serp d'auteur Erroné
+[![Image](/images/blog/truman-capote-310x58.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/truman-capote.jpg) Serp d'auteur Erroné
 
 Quoiqu’il en soit, on se rend compte que rien n’est facile mais que l’art est difficile. C’est dit.
 

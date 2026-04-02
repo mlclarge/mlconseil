@@ -9,7 +9,7 @@ slug: "descriptif-commente-de-linterface-google-adwords"
 
 Après avoir traité l’interface de la version de Google analytics, je m’attache cette semaine à l’interface de Google adwords sur le même principe.  J’ai déjà traité ce sujet il y a quelques mois, mais vu les changements très importants intervenus depuis, il convenait de réactualiser le propos. Surprenant pour autant, la nouvelle interface adwords conserve quasiment au lien près, la même ossature (présentation), la même logique. L’esthétique change, les boutons couleurs et dimensions sont plus conviviaux et dans l’ère du temps (Fig. 1).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/ancienne-Nouvelle-interface-300x190.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/ancienne-Nouvelle-interface.png)
+[![Image](/images/blog/ancienne-Nouvelle-interface-300x190.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/ancienne-Nouvelle-interface.png)
 
 En revanche, les changements se passent  ailleurs…D’une part, l’amélioration du langage de programmation de la plateforme, antérieure au relooking,  accélère la consultation des rapports du compte. D’autre part, le support d’adwords *(aide, communauté, et programme agence*)  auquel renvoie l’interface adwords  a été depuis ce début 2012 entièrement revue. Ce billet a pour ambition de faire découvrir aussi la richesse de l'arrière boutique du programme publicitaire de Google.
 
@@ -17,7 +17,7 @@ En revanche, les changements se passent  ailleurs…D’une part, l’améliora
 
 L’idée ici est d’apporter une page ou je rassemble  un** éventail de  ressources techniques*** (définition/aide, vidéo, tutoriel)*  à  chaque point  de navigation  du tableau de bord du compte adwords. Elle est une sorte d’aide-mémoire  sur les notions de bases de gestion de campagne (fig. 2).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/vue-globale-adwords-300x112.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/vue-globale-adwords.png)
+[![Image](/images/blog/vue-globale-adwords-300x112.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/vue-globale-adwords.png)
 ### 1. Accueil (noir)
 
 	- Aide : Ici, avec  [l’onglet accueil ](http://support.google.com/adwords/bin/answer.py?hl=fr&answer=1704422) on retrouve les rapports principaux  (mots clés, groupes annonces et annonces) de la campagne avec leurs statistiques (clics, cout, ctr, impressions..). Rien à dire en particulier sur cette interface, ne serait-ce qu’elle donne en 1 coup d’œil les performances en cours.
@@ -38,7 +38,7 @@ L’idée ici est d’apporter une page ou je rassemble  un** éventail de  re
 
 **22**. **[Groupe annonce](http://support.google.com/adwords/bin/answer.py?hl=fr&answer=2375452)**   (définition) A user et abuser de cette fonctionnalité (voir fig. 3)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/groupe-annonces-adwords-300x256.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/groupe-annonces-adwords.png)
+[![Image](/images/blog/groupe-annonces-adwords-300x256.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/groupe-annonces-adwords.png)
 
 **23**. ** Paramètres de la campagne**
 
@@ -78,7 +78,7 @@ Elles permettent d’améliorer la présentation de l’annonce, et facilite le 
 
 Pas trop de littérature présente sur cette partie d’adwords. Cet onglet souvent méconnu permet de segmenter les principales variables  de campagne comme les termes de recherches, le ciblage géographique, l’url de destination, les libellés etc.. (fig. 4) automatiquement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/onglet-variable-300x129.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/onglet-variable.png)Fig. 4 Onglet "Variables" et possibilités de rapports
+[![Image](/images/blog/onglet-variable-300x129.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/onglet-variable.png)Fig. 4 Onglet "Variables" et possibilités de rapports
 ### 3 Opportunités (vert)
 
 	- Aide : des [idées d’optimisation de compte](http://support.google.com/adwords/bin/answer.py?hl=fr&answer=2404205)

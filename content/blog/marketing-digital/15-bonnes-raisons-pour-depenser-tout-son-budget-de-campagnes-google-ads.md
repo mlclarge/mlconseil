@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "15-bonnes-raisons-pour-depenser-tout-son-budget-de-campagnes-google-ads"
+image: "/images/blog/comment-depenser-tout-son-b.jpg"
 ---
 
 Remarquons que la dernière mesure [d’augmenter les budgets](https://support.google.com/google-ads/answer/2375423?hl=fr) de 100 % voilà un an déjà, d’une manière unilatéral côté Google,  n’a pas provoqué de séisme, sauf pour certains type de campagnes ou parfois certains budgets quand ils sont trop serrés peuvent être soumis à cette probabilité algorithmique.
@@ -12,7 +13,7 @@ Remarquons que la dernière mesure [d’augmenter les budgets](https://support.g
 Avant toute manœuvre hâtive, il faut faire un petit audit de part de marché et examiner à quel endroit se situe la perte de budget. Cette non dépense du budget est-elle à considérer plus au niveau d’une campagne, ou  au niveau du compte ?
 
 Si au niveau d’une campagne, le taux d’impression perdu sur le moteur de recherche, est-il important, ou alors au taquet ? SI au taquet, du coup, le taux de clic est-il aussi au rendez-vous ? Sinon, pourquoi ? Donc voici quelques pistes pour résoudre ce problème de riches où on ne peut pas tout dépenser son budget.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/12/double-budget.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/double-budget.gif)
+[![Image](/images/blog/double-budget.gif)](/images/blog/double-budget.gif)
 ## **Si le manque de dépenses se situe globalement au niveau du compte **
 
 ### ***Utiliser le budget partagé***
@@ -69,6 +70,6 @@ Avec le nouveau didacticiel, fixez-vous des objectifs et choisissez une campagne
 
  	- Enclencher les extensions automatiques tant qu’à faire dans le même élan.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/12/ameliorer-le-ctr-sur-mobile.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/ameliorer-le-ctr-sur-mobile.gif)
+[![Image](/images/blog/ameliorer-le-ctr-sur-mobile.gif)](/images/blog/ameliorer-le-ctr-sur-mobile.gif)
 
 Voilà donc 10 bonnes raisons de dépenser plus  pour gagner p…..

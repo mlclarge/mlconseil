@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "lancement-novueau-site-google-academy-pour-les-pros"
+image: "/images/blog/yc1ZA503Zne1XX-JHMI48nwfl5uMHpXSRC-u9xgPVReDIj_B8AMHrRAgeq3MgsoLzEoUEbrNp9CPbMjQm-nIQww1280-h853-c.jpeg"
 ---
 
 Google s'organise de mieux en mieux pour assister les agences et gestionnaire de campagne in-house, c'est un peu la mort du petit formateur :) . Il va falloir s'adapter sans doute...Mais il est vrai que les contenus publiés depuis cette année 2017 sont de qualité. Je recommande !

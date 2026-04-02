@@ -25,7 +25,7 @@ Alors qu’en est-il précisément de cette nouvelle fonctionnalité ?  Commen
 
 Résumons le procédé. La plateforme Adwords génère un identifiant unique collecté lors du remplissage d’un formulaire de demande de contact effectué par un internaute. Cet ID est remonté via un champ caché au moment de l’envoi du message, puis collecté dans l’application de gestion de la relation client, plus communément appelé CRM (Customer Relationship Management). Un suivi commercial est opéré avec une conversion générée (ou non). Si  oui, elle est importée dans Adwords  et ainsi permet un reporting, une analyse et enfin un arbitrage pour optimiser la campagne.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/process-adwords_online-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/process-adwords_online.jpg) Les étapes du processus de collecte des conversions
+[![Image](/images/blog/process-adwords_online-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/process-adwords_online.jpg) Les étapes du processus de collecte des conversions
 ### **Cas d’utilisations **
 
 Les situations d’usages peuvent varier selon la situation de l’annonceur. Le cas présenté ci-dessus fait apparaître une situation commune de rappel téléphonique après un lead généré en ligne.  Mais d’autres cas peuvent se présenter.
@@ -42,14 +42,14 @@ Les situations d’usages peuvent varier selon la situation de l’annonceur. Le
 
 ### **Elaboration de la collecte en 4 étapes **
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/offline-to-online-310x90.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/offline-to-online.jpg) Les étapes d'intégration du tracking
+[![Image](/images/blog/offline-to-online-310x90.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/offline-to-online.jpg) Les étapes d'intégration du tracking
 **1/ Dans Adwords,  2 éléments à paramétrer : suivi et importation**
 
 	- Il faut activer le suivi automatique des campagnes, cela va générer pour chaque clic d’annonce un paramètre Gclid (id).
 
 	- Il faut créer les conditions pour préparer l’importation des conversions offline,  soit aller dans Adwords > conversions > créer une conversion de type « import »
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/conversion-adwords-310x140.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/conversion-adwords.jpg) Interface adwords pour l'import des conversions
+[![Image](/images/blog/conversion-adwords-310x140.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/conversion-adwords.jpg) Interface adwords pour l'import des conversions
 **2/ Sur le CRM  avec API sur Adwords pour intégration du Gclid**
 
 	- Il faut créer l’environnement pour recevoir ce cookie Adwords.  Selon les éditeurs de solutions, les méthodes diffèrent, mais le principe reste identique. Les CRM doivent en amont pourvoir leur API d’une fonction qui intègrera ce cookie Adwords.  Il faut ensuite  créer un champ nouveau adapté à la fiche prospect et  lui affecter la  fonction appropriée.
@@ -60,21 +60,21 @@ Les situations d’usages peuvent varier selon la situation de l’annonceur. Le
 
 	- **Taguer toute les pages d’un code Js** (exemple ici donné par Google),  côté client ici donc, qui va créer un cookie pour stocker sa valeur dans le navigateur de l’internaute.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-1.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-1.jpg) Code pour créer un cookie à poser sur toute les pages
+[![Image](/images/blog/code-1.jpg)](/images/blog/code-1.jpg) Code pour créer un cookie à poser sur toute les pages
 
 	- **Créer une page formulaire** (par exemple comme une page contact) avec un champ caché  (invisible pour le visiteur) pour recevoir la valeur du cookie stockée sur le navigateur, pour ensuite la transmettre à une application de gestion client (CRM).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-3.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-3.jpg) Code pour le champ caché inséré dans le formulaire
+[![Image](/images/blog/code-3.jpg)](/images/blog/code-3.jpg) Code pour le champ caché inséré dans le formulaire
 
 	-  Cette collecte doit se faire par l’ajout d’un code Js qui va récupérer la valeur du cookie (Gclid).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-2.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/code-2.jpg) Récupératioin de la valeur du cookie
+[![Image](/images/blog/code-2.jpg)](/images/blog/code-2.jpg) Récupératioin de la valeur du cookie
 
 **4/ Importation dans Adwords depuis une feuille .csv  dédiée**
 
 Une fois les données remontées dans le CRM, le mapping entre gclid et le suivi de la fiche prospect  et la conversion accomplie, il conviendra de l’importer dans Adwords via un fichier .csv constitué de prévue à cette effet. Elle peut être créer manuellement ou généré par le CRM. Aucune donnée nominative et personnelle n’est concernée ici.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/excel-import-adwords-2-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/excel-import-adwords-2.jpg) Fichier  type ".csv"  à importer dans Adwords (fake)
+[![Image](/images/blog/excel-import-adwords-2-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/excel-import-adwords-2.jpg) Fichier  type ".csv"  à importer dans Adwords (fake)
 
 Noter ces éléments importants :
 

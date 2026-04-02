@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "google-datastudio-et-site-web"
+image: "/images/blog/google-data-studio.png"
 ---
 
 La rigueur du développeur allié à une volonté de communiquer son savoir, fait de Julien Coquet une référence à connaître ! Même s'il blogue pas tous les jours, il nous distille régulièrement et depuis des années, quelques trucs sur l'analyse d'audience pour un site internet. Dans cet article, il nous guide pour insérer un tableau de bord au sein d'une page web avec l'application Google Data Studio.

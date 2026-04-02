@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "web-analyzer-pour-mieux-voir-les-urls"
+image: "/images/blog/wsa.jpg"
 ---
 
 Focus cette semaine sur un petit outil qui peut servir à **auditer les contenus d’un site web.** Un de plus vous allez me dire, c’est vrai ! Dans le genre, il y a pléthore, car pour les geeks de l’optimisation pour les moteurs de recherche, les développeurs seo commencent toujours par concevoir des crawler qui aspirent les contenus des pages web (urls, balisages, variables serveurs..) pour les restituer sur des interfaces lisibles. C’est ce que propose website analyser, solution du genre screaming frog, website auditor…il y en aurait plus de 50 sur le marché !
@@ -13,7 +14,7 @@ Focus cette semaine sur un petit outil qui peut servir à **auditer les contenus
 
 **Thomas Schulz** est la deuxième génération de cette petite société Danoise créée dans les années 70 ! C’est le genre de société avec une culture informatique. Cela peut se ressentir dans l’interface dont l’UX mériterait d’être plus « matériel design ». Mais bon, ce qui compte, c’est le résultat des données collectées après tout. A prendre en considération le prix aussi du produit. C’est un logiciel oriénté donc **Seo** plus qu’une application, à télécharger en local, ceci explique cela sans doute en terme de prix :  69 dollars si ma mémoire est bonne. Une version gratuite est  limitée à 500 urls avec toutes les fonctionnalités de la version payante.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/03/interface-website-analyzer-502x266.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/interface-website-analyzer.jpg) Vue de l'interface Website Analyzer
+[![Image](/images/blog/interface-website-analyzer-502x266.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/interface-website-analyzer.jpg) Vue de l'interface Website Analyzer
 
 Ils développent aussi d’autres softs : générateur de sitemap, scrapeur, moteur de recherche interne.
 
@@ -61,7 +62,7 @@ Les liens internes sont un facteur important pour l'indexation et le classement 
 
 Mais, sans devenir un "as" du siloing, ce petit soft permet de se rendre compte de la distribution de liens sur un site web avec son système de scoring interne. Le score d'importance pèse la force de tous les liens et pages d'un site Web. Cela signifie qu'un lien donne plus de jus s'il provient d'une page fortement liée qui contient peu de liens. Le score mis à l'échelle est logarithmique et ses valeurs sont comprises entre 0 et 10.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/03/SCORING-LINK-JUICE-502x120.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/SCORING-LINK-JUICE.jpg) scoring linkjuice
+[![Image](/images/blog/SCORING-LINK-JUICE-502x120.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/SCORING-LINK-JUICE.jpg) scoring linkjuice
 
 Cela aide incontestablement dans la structure de l'information et la navigation proposée au visiteur.
 
@@ -79,7 +80,7 @@ A1 Website Analyzer peut montrer sur  toutes les pages:
 
 Optimiser le flux interne de jus de lien pour la sculpture PageRank peut ensuite devenir une résultante à peaufiner avec des outils plus poussés branchés sur les corpus des serp des moteurs de recherche.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/03/NETLINKING-INTERNE-seo-502x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/NETLINKING-INTERNE-seo.jpg) netlinking interne
+[![Image](/images/blog/NETLINKING-INTERNE-seo-502x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/03/NETLINKING-INTERNE-seo.jpg) netlinking interne
 ## **Les plus qu’il faudrait  ajouter**
 
  	- Des rendus graphiques seraient vraiment un plus !

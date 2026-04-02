@@ -12,7 +12,7 @@ Cette petite** rétrospective 2011** de l’**internet land 2011** est à lire c
 Voilà, pour ma part donc, ce qu'il faut retenir pour 2011 en matière de faits marquants sur la toile :
 ** **
 
-**[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/12/panda.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/panda.png)**
+**[![Image](/images/blog/panda.png)](/images/blog/panda.png)**
 
  
 
@@ -51,7 +51,7 @@ Voilà, pour ma part donc, ce qu'il faut retenir pour 2011 en matière de faits 
 
  
 
-**[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/12/googleplus.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/googleplus.png)**
+**[![Image](/images/blog/googleplus.png)](/images/blog/googleplus.png)**
 
  
 
@@ -92,7 +92,7 @@ Voilà, pour ma part donc, ce qu'il faut retenir pour 2011 en matière de faits 
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/12/27-12-2011-23-11-44.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/27-12-2011-23-11-44.png)
+[![Image](/images/blog/27-12-2011-23-11-44.png)](/images/blog/27-12-2011-23-11-44.png)
 
  
 
@@ -121,7 +121,7 @@ Voilà, pour ma part donc, ce qu'il faut retenir pour 2011 en matière de faits 
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/12/cpc-express.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/12/cpc-express.png)
+[![Image](/images/blog/cpc-express.png)](/images/blog/cpc-express.png)
 
  
 

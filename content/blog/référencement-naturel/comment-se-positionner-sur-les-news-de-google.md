@@ -35,7 +35,7 @@ Oui bien sûr, il existe  les autres sites moteurs de recherche spécialisés s
 
 	- Orange : presse.lemoteur.fr
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/03/le-moteur-orange-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/le-moteur-orange.jpg) Notre moteur de news Français !
+[![Image](/images/blog/le-moteur-orange-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/le-moteur-orange.jpg) Notre moteur de news Français !
 
 Ces alternatives rend ses **campagnes seo**, un peu moins dépendant du grand G.
 ### Google actualités ? Boh..c'est que les gros qui y sont !
@@ -106,7 +106,7 @@ Alors est-ce impossible et réservé qu'aux gros  sites de médias ? Non, pas f
 
 Au-delà des guidelines de Google, ce secteur du moteur de recherche n’échappe pas  non plus aux spammeurs, en témoigne cet exemple récent de ce mois que j’ai relevé dans la presse US. Ce lien n'amène nulle part, le site "Call and Post" existe bien mais aucun contenu n'est lié au sujet !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/03/spam-google-news.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/spam-google-news.jpg)
+[![Image](/images/blog/spam-google-news.jpg)](/images/blog/spam-google-news.jpg)
 ### Apparaître dans google actualité indirectement
 
 Dans une optique d'acquérir des liens sur son site principal, l'usage de blog de presse peuvent être d'un certains secours, en se créant soi même une espace dédié si le média le permet ou alors en postant de commentaires sur sa thématique, l'impact n'est pas celui du direct, mais c'est toujours cela de gagner. Quelques exemples de blogs de presse :
@@ -130,12 +130,12 @@ PQR
 
 L’intérêt de se faire indexer dans Google actualités permet de faire d’une pierre 2 coups, voir 3 quand on est chanceux. Apparaître sous sur la recherche « web » sous forme d’une photo mignature, dans Google actualités of course, et dans Google images !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/03/serp-google-news-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/serp-google-news.jpg) Résultats Serp Google News
+[![Image](/images/blog/serp-google-news-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/serp-google-news.jpg) Résultats Serp Google News
 ### **Analyser son trafic provenant de ces 3 sources**
 
 Ce n’est pas l’objet de cet article, mais dans Google analytics par exemple, il est possible de trier le trafic de chaque catégorie (web, actualités,images) en faisant un tri sur le **paramètre « ved **»  quand il est donné dans l’url de Google de rendu des serp.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/03/ved-reporting-310x286.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/ved-reporting.jpg) Filtre sur paramètre "Ved" dans GAnalytics
+[![Image](/images/blog/ved-reporting-310x286.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/03/ved-reporting.jpg) Filtre sur paramètre "Ved" dans GAnalytics
 ## Liens utiles sur google actualités
 
 	- [Site officiel de google actualités ](https://support.google.com/news/publisher/?page=contact_policy.cs#topic=4359865)

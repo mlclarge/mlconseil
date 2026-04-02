@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "a-retenir-du-google-marketing-2018-keynote"
+image: "/images/blog/smart-adwords.jpg"
 ---
 
 Je n'ai pas été invité à [San Francisco lors de cette keynote](https://www.youtube.com/watch?v=MmfaZV96x7A) en ce début d'été 2018 mais j'ai pu suivre les principaux éléments du webinar #googlemarketing2018 :)
@@ -25,15 +26,15 @@ Google Ads qui remplace Google Adwords et Google Marketing platform qui sonne le
 
 Pour les activités de proximité ou l'annonceur sans être spécialiste du marketing en ligne pourra lancer une campagne intelligente sur le moteur de recherche en quelques clics. **Uniquement disponilble aux Usa et en Australie** , elles ressemblent  à  de l'adwords express mais en intelligente ! Plus d'infos ici : https://support.google.com/google-ads/answer/7459121?hl=en
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smartCampaigns-300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smartCampaigns.jpg) smart Campaign
+[![Image](/images/blog/smartCampaigns-300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smartCampaigns.jpg) smart Campaign
 ### Smart shopping campagne
 
 Pour les e-commerçants mais également les retailer qui souhaitent proposer leur catalogue en ligne mais également attirer de nouveaux clients dans le magasin. la gestion du flux produit devient automatique et la création de campagne budget et enchères simplifies au machine learning. **Déjà déployée dans les comptes Google ads** !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smart-shopping-campagnes-google-ads-300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smart-shopping-campagnes-google-ads.jpg) Smart Shopping Campagnes
+[![Image](/images/blog/smart-shopping-campagnes-google-ads-300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/smart-shopping-campagnes-google-ads.jpg) Smart Shopping Campagnes
 ### Campagne locale
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/07/campagne-locale-google-sur-tous-les-inventaires-502x214.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/campagne-locale-google-sur-tous-les-inventaires.png) Campagnes locales Google Ads
+[![Image](/images/blog/campagne-locale-google-sur-tous-les-inventaires-502x214.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/campagne-locale-google-sur-tous-les-inventaires.png) Campagnes locales Google Ads
 
 Pour les professionnels qui souhaitent assurer une visibilité locale basée sur Google My Business. Elle s'affiche sur l'ensemble des inventaires de google ! Le but est de développer des visites dans les commerces et activités de proximité. **Disponible dans quelques mois sur tous les comptes**.
  
@@ -61,7 +62,7 @@ L'idée globale ici c'est de rendre cette plate-forme de vidéo pertinente pour 
 Les deux technologie responsive et machine learning se conjugue pour créer des annonces qui vont porter le bon message à la bonne personne au bon moment. plus de 90 % de texte, 15 titre différents, 4 types de description possible sur lesquels l'algorithme va s'appuyer pour présenter la meilleure publicité sur les différents canaux (yt, search...).
 À noter que ce format sera déployé d'ici la fin de l'année 2018.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/07/annonces-responsives-google-ads--300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/annonces-responsives-google-ads-.jpg) annonces responsives google ads
+[![Image](/images/blog/annonces-responsives-google-ads--300x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/07/annonces-responsives-google-ads-.jpg) annonces responsives google ads
 
 Une des nouveautés qui serait déjà déployée dans les comptes est celle au sujet de la mesure cross device sur Google Analytics.
 

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "assurer-la-bonne-delivrabilite-dune-banniere"
+image: "/images/blog/visibilité-publicitaire.jpg"
 ---
 
 Que signifie la **visibilité publicitaire d'une bannière**  (visibilité qualitative, quantitative), qui plus est,  dans un mode d’achat programmatique ? Quels sont les** kpis** pour mesurer réellement l’efficacité d’une bannière ? Parlons-en aujourd'hui alors que Google en a d’ailleurs fait les frais récemment avec la rétractation de plusieurs centaines d’annonceurs suite à la diffusion de messages publicitaires de marques sur des vidéos de propagandes communautaires véhiculant des propos haineux ou violents.  Dans cette dernière affaire la notion de contexte est aussi un autre facteur  tout aussi important  à prendre en compte, on parle alors de Brand Safety.
@@ -23,7 +24,7 @@ Que signifie la **visibilité publicitaire d'une bannière**  (visibilité qual
 
 D’ailleurs quand on parle de visibilité on pense souvent à celle lié au monde programmatique, alors que le mode d’achat direct est lui aussi concerné
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/visibilite-310x170.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/visibilite.png) Visibilité selon mode achat
+[![Image](/images/blog/visibilite-310x170.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/visibilite.png) Visibilité selon mode achat
 ### ***7 Kpis adwords pour prendre en compte les impressions***
 
 Adwords fournit un indicateur « Active views » qui se décline sous différents Kpis (source : Google) :
@@ -49,20 +50,20 @@ La mesure géographique peut aider aussi à compléter information quand on sait
 
  	- Adwords aussi délivre des kpis de  données démographiques  (3) mais  très souvent le Kpi « inconnu » est majoritaire
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/adwords-audience-310x125.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/adwords-audience.png) Visibilité selon audience aec adwords
+[![Image](/images/blog/adwords-audience-310x125.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/adwords-audience.png) Visibilité selon audience aec adwords
 ## **Visibilité et fraude publicitaire**
 
 Un autre Kpi édité par la solution de filtrage de trafic frauduleux de la société Comscore. Elle procède par 3 technologies : **balise publicitaire dédiée, capteur et panel humain**.  Elle fait référence dans le secteur pour cette mesure de trafic non Humain (NHT), son indicateur est un taux  :
 
  	- **« In-Target «**  qui  qualifie  l’atteinte de la cible du message publicitaire.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/ivt-310x202.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/ivt.png) Invalid trafic selon comscore
+[![Image](/images/blog/ivt-310x202.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/ivt.png) Invalid trafic selon comscore
 
 Plus d’un tiers, certains disent la moitié, des impressions serait dû à des audiences simulées provenant de bots !
 ## **Dernière Enquête 2017, la France pas si nulle ! **
 
 La société meetrics vient de publier un dernier rapport sur le niveau de qualité en matière de visibilité en Europe, la France n’est pas si mal placée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/rapport-meetrics-310x289.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/rapport-meetrics.png) Rapport meetrics q1 2017
+[![Image](/images/blog/rapport-meetrics-310x289.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/rapport-meetrics.png) Rapport meetrics q1 2017
 
 Continuons sur cette voix..le rapport complet est disponible[ ici ](https://www.meetrics.com/wp-content/uploads/2017/04/Benchmarks_Q1_2017.pdf)

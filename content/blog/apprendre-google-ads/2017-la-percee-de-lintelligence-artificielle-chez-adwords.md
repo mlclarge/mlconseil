@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "2017-la-percee-de-lintelligence-artificielle-chez-adwords"
+image: "/images/blog/GOOGLE-ADWORDS-RETROSPECTIV.jpg"
 ---
 
 Le temps est venu en ce début 2018 de faire un récapitulatif des principaux changements qui se sont déroulés  en 2017 sur la **plateforme Google adwords**. J’ai illustré ce post de quelques Screenshots basés sur la nouvelle interface adwords.  Ma pratique,  ma veille acharnée ,  le fil de nouveautés que mon ami Smaïne anime sur la communauté adwords,  et la  source officielle des nouvelles fonctionnalités [Google adwords ](https://support.google.com/adwords/) m'ont été utile pour cet article. 2017 a été l'année sans doute du tout "**Smart**" ! Voyons pourquoi.
@@ -31,14 +32,14 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Remarketing YouTube et RLSA : Utilisation d’une liste de visiteurs qui ont visionné une de vos vidéos et ciblage de ceux-ci pour une campagne de remarketing sur le réseau de recherche.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/audience-intentition-personnalisée-310x246.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/audience-intentition-personnalisée.jpg) Audience Intention personnalisée
+[![Image](/images/blog/audience-intentition-personnalisée-310x246.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/audience-intentition-personnalisée.jpg) Audience Intention personnalisée
 ## **Du nouveau dans les campagnes adwords**
 
  	- ***Campagnes Brouillons/Tests ** : a*u revoir les tests ACE remplacés par les campagnes brouillons et  test (mise en oeuvre).
 
  	- **Campagnes "Installations d'application mobile"** deviennent obligatoire. Plus possible de cibler les réseaux (recherche, display, YT, Google Play store). Là encore, Google prend la main avec ses algo, et il faut donc lui faire confiance.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/annonces-universelle-applications-mobiles.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/annonces-universelle-applications-mobiles.gif)
+[![Image](/images/blog/annonces-universelle-applications-mobiles.gif)](/images/blog/annonces-universelle-applications-mobiles.gif)
 
  	- ***Campagnes Shopping et Gmc***
 
@@ -48,7 +49,7 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Flux supplémentaire de Google Merchant Center au lieu d’uploader un flux complet, ce flux secondaire vient éditer le flux principal pour y apporter par exemple des compléments d’attributs produits.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/comparateur-de-prix-google-shopping-ouvert-concurrence-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/comparateur-de-prix-google-shopping-ouvert-concurrence.jpg) comparateur de prix google shopping ouvert concurrence
+[![Image](/images/blog/comparateur-de-prix-google-shopping-ouvert-concurrence-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/comparateur-de-prix-google-shopping-ouvert-concurrence.jpg) comparateur de prix google shopping ouvert concurrence
 
  	- ***Campagnes Appel uniquement :** * utile pour les métiers de proximité, commerces, restaurants, se voient doter d’extensions de lieu, d’accroche et d’extraits de site.  Elles sont par défaut rattachées si existantes déjà dans le compte.
 
@@ -66,7 +67,7 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Suivi des urls : une méthode dite parallel tracking déclenche au clic le suivi et également l’arrivée sur la page de destination, une mesure qui améliore l’expérience utilisateur car elle diminue le temps entre le clic sur l’annonce et la consultation de la page de destination.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/suivi-parallele.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/suivi-parallele.gif)
+[![Image](/images/blog/suivi-parallele.gif)](/images/blog/suivi-parallele.gif)
 ## **Sur les mots clés, quoi de neuf ?**
 
  	- Liste de mots-clés à exclure au niveau  **inter-comptes** : cela évite de démultiplier les listes d’exclusions,
@@ -81,7 +82,7 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Annonces avec la fonction IF (img) . Imprimez vos annonces selon le type d’appareils et d’audience ! une alternative aux annonces personnalisées.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/fonction-if-annonces-adwords-310x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/fonction-if-annonces-adwords.jpg) fonction "if" annonces adwords
+[![Image](/images/blog/fonction-if-annonces-adwords-310x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/fonction-if-annonces-adwords.jpg) fonction "if" annonces adwords
 
  	- Extension de lieu sur le Réseau Display activées ! Super pour les campagnes de  proximité.
 
@@ -91,16 +92,16 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Extension de promotion sont nées ! Liés aux différents évènements commerciaux de l’année (saint valentin, pâques, halloween etc..) ou pas d’ailleurs, un service pas uniquement un produit peut se voir promu, sur le moteur de recherche Google
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/EXTENSION-DE-PROMOTION-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/EXTENSION-DE-PROMOTION.jpg) Extension de promotion sur le search
+[![Image](/images/blog/EXTENSION-DE-PROMOTION-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/EXTENSION-DE-PROMOTION.jpg) Extension de promotion sur le search
 
  	- Variantes d'annonces avec élargissement du test sur plusieurs campagnes en changeant le terme par un autre pendant une période définie.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/variante-annonces-adwords-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/variante-annonces-adwords.jpg) Variantes d'annonces bien pratique pour de l'AB testing
+[![Image](/images/blog/variante-annonces-adwords-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/variante-annonces-adwords.jpg) Variantes d'annonces bien pratique pour de l'AB testing
 ## **Reporting adwords**
 
  	- Rapport "pages de destination" qui donne le taux de clic sur la page sur des pages vers mobiles, vers amp. Bof, vu que les données de Google analytics ne sont pas encore poussées sur la page de destination, donc pas d’indicateurs d’engagement. Nous n’avons là qu’une partie de l’histoire.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/rapport-page-de-destination-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/rapport-page-de-destination.jpg) Rapport page de destination
+[![Image](/images/blog/rapport-page-de-destination-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/rapport-page-de-destination.jpg) Rapport page de destination
 
  	- Actualisation des données d’analyse des enchères et taux d’impressions rafraichit 2 fois par jours au lieu d’une fois.
 
@@ -116,7 +117,7 @@ Le temps est venu en ce début 2018 de faire un récapitulatif des principaux ch
 
  	- Principale nouveauté les 20 **Règles personnalisées dans Adwords Editor**, une fonctionnalité qui scanne une campagne et indique automatiquement ce  qui devrait être corrigé. Un condensé des bonnes pratiques Google adwords ! On se demande pourquoi cela est implémenté sur cet outil externe, mais bon.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/20-BONNES-PRATIQUES-ADWORDS-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/20-BONNES-PRATIQUES-ADWORDS.jpg) 20 Bonnes pratiques adwords avec les règles personnalisées
+[![Image](/images/blog/20-BONNES-PRATIQUES-ADWORDS-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/20-BONNES-PRATIQUES-ADWORDS.jpg) 20 Bonnes pratiques adwords avec les règles personnalisées
 ## Les campagnes autonomes c'est pour demain ?
 
 On peut conclure que l'année 2017 a été celle de l'avènement de l'intelligence algorithmique , le "smart" qui s'invite dans toutes les strates de la plateforme : budget, stratégies d'enchères, mots clés (variantes approchantes), annonces dynamiques, extensions automatiques, ciblages (sur audiences similaires pilotées par stratégies automatiques). Le gestionnaire de campagne laisse de plus en plus l'initiative aux algos d'apprentissage que pousse bien évidemment Google pour se concentrer plus sur des arbitrages stratégiques.

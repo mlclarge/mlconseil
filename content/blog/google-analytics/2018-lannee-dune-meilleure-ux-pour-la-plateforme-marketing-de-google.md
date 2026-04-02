@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "2018-lannee-dune-meilleure-ux-pour-la-plateforme-marketing-de-google"
+image: "/images/blog/marketing-plateforme-ga.jpg"
 ---
 
 Un petit retour en images sur 3 dernières améliorations « cosmétique » on pourrait dire sur la **plateforme [marketing de Google](https://marketingplatform.google.com/)** : En terme d’UX/UI, avec la pseudo Intelligence artificielle sur application mobile de GA,  le relooking du menu latéral de gauche et l’unification au sein de la marketing platform de fonctionnalités d’intégration.
@@ -70,7 +71,7 @@ Déployé récemment dans les comptes, vous avez sans doute remarqué l’expér
 
 Depuis un relooking des différents logos des plateformes, la plateforme marketing unifie propose un service d'intégration et d'administration centralisé depuis l'url https://marketingplatform.google.com
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/11/google-marketing-platform-402x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/google-marketing-platform.jpg) Outils d'intégration sur la marketing plateforme de google
+[![Image](/images/blog/google-marketing-platform-402x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/11/google-marketing-platform.jpg) Outils d'intégration sur la marketing plateforme de google
 
 Voici les principaux points de son interface ....
 

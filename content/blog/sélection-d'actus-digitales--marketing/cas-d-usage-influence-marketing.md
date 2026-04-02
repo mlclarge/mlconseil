@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "cas-d-usage-influence-marketing"
+image: "/images/blog/bonjour-ingrid-3-e1506691418901-960x540.png"
 ---
 
 Voici un cas d'usage sur l'**influence marketing **[ou influencer marketing ](https://en.wikipedia.org/wiki/Influencer_marketing#Influencer)pas piqué des vers** :)**

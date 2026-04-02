@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "qualifier-et-enrichir-la-donnee"
+image: "/images/blog/Main-bank-insurance-data-670x275.jpeg"
 ---
 
 Encore un super article sur le blog d'un des services cloud de la société Cartégie, Lead-the-way, par son auteur **Yoann Bonnet**, sur une verticale métier sur les pratiques de la Banque-assurance en terme de stratégie Data Driven.  Dans l'article, le rappel sur les fondamentaux de qualification de données est particulièrement intéressant à savoir les différents traitements sur une base de données afin de la qualifier peuvent couvrir différents champs, à savoir :

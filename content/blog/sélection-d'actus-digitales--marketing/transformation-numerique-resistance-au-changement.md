@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "transformation-numerique-resistance-au-changement"
+image: "/images/blog/6002.png"
 ---
 
 Boléro publie un article issu d'un collectif 'position paper" sur le **digital washing **et notamment sur le business des plateformes digitalesà l'heure de la transformation des systèmes d'information : sites, applications mobiles, réseaux sociaux, chatbots, PIM, DAM, CRM, DMP, CDP. Y a -t-il un âge de raison après plus d'une décennie de transformation ou une fuite en avant sans réelle stratégie numérique cohérente ?

@@ -13,7 +13,7 @@ slug: "seo-ce-qui-faut-retenir-en-2014"
 
 ### **Filtres anti-spam **
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/panda-310x88.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/panda.jpg) Résultat  sur requête "Panda " dans G. ce 26 décembre ! :)
+[![Image](/images/blog/panda-310x88.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/panda.jpg) Résultat  sur requête "Panda " dans G. ce 26 décembre ! :)
 
 Google continue toujours sa lutte contre le spam depuis le début de son existence à communiquer par effets d’annonces,  modifications algorithmiques et interventions humaines ..
 
@@ -27,7 +27,7 @@ Google continue toujours sa lutte contre le spam depuis le début de son existen
 
 ### **Serp et Snippets **
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/serp-google1-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/serp-google1.jpg) Paroles de chansons serp Google
+[![Image](/images/blog/serp-google1-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/serp-google1.jpg) Paroles de chansons serp Google
 
 Page de résultats avec des réponses directes aux  questions  (sports, météo, loisirs, transports, spectacle, culture)  ou snippets de Google plus que jamais concaténées, plaisantes pour les clics, souvent enrichies…
 
@@ -65,7 +65,7 @@ Un des derniers en date à noter, le dépôt d’un nouveau projet pour faire ap
 
 ## **Les optimisations côté du site web**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/seo-local-logue-g+-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/seo-local-logue-g+.jpg) seo local dans google plus (logué)
+[![Image](/images/blog/seo-local-logue-g+-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/seo-local-logue-g+.jpg) seo local dans google plus (logué)
 
 Cette année aura été riche en articles pédagogiques sur la notion de sémantique, d’articulation de l’information d’un site
 

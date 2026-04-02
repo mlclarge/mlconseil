@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "les-cookies-demasques"
+image: "/images/blog/cookies-et-mouchards.jpg"
 ---
 
 Tout savoir sur les traces.. ou presque ! Mine de rien, dernière ces petits scripts et fichiers textes qui ne pèsent pas grand-chose sur nos interfaces (pc, mobile, tablette) , repose une lourde industrie publicitaire à plusieurs milliards d’euros. Mais, à quoi ressemblent-t-ils, comment se les représenter ?  Un sujet pour les marketeurs, « visuels »  qui souhaitent en savoir plus sur l’écosystème de cette technologie sans rentrer dans la syntaxe du code .
@@ -75,16 +76,16 @@ Il existe différentes vocations à ces traces . Les objectifs sont multiples 
 
 Bon, le plus simple, faire F12 depuis son navigateur chrome par exemple, puis allez dans l’onglet Network, dans la colonne de gauche, voir les différents appels de fichiers qui constituent la page. Souvent les cookies sont appelés via des pixels, images comme support pour les acheminer sur les serveurs.. (.jpg) , donc depuis la colonne de gauche, naviguez jusqu’à qu’un tableau affiche le détail par colonnes..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/10/localisation-des-cookies-310x213.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/localisation-des-cookies.jpg) Depuis un navigateur
+[![Image](/images/blog/localisation-des-cookies-310x213.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/localisation-des-cookies.jpg) Depuis un navigateur
 
 Ensuite dans ce même navigateur, il sont aussi accessible par là..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/10/visualisation-cookies-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/visualisation-cookies.jpg) Paramètres des cookies
+[![Image](/images/blog/visualisation-cookies-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/visualisation-cookies.jpg) Paramètres des cookies
 ## **Comme se  représenter ces trackers ?**
 
 La Cnil a pu livrer voilà quelque temps déjà, un navigateur proxy qui intercepte et représente dans un navigateur chromnium **les cookies déposés et leur relation entre sites ou domaines différents**. Super l’idée…On comprend mieux le fonctionnement de la publicité, du display lors de la visualisation de relations communes entre 2 sites distinctes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/10/mariage-sud-ouest-et-ouest-france-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/mariage-sud-ouest-et-ouest-france.jpg) Représentation Graphiques par CookieViz
+[![Image](/images/blog/mariage-sud-ouest-et-ouest-france-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/10/mariage-sud-ouest-et-ouest-france.jpg) Représentation Graphiques par CookieViz
 
 En live l'affichage ..
 

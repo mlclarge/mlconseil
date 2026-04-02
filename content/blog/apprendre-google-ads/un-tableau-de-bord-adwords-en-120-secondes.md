@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "un-tableau-de-bord-adwords-en-120-secondes"
+image: "/images/blog/datastudio-adwords.jpg"
 ---
 
 C’est gratuit[** google data studio**](https://www.google.com/analytics/data-studio/) depuis peu , l'application google pour créer des rapports,  alors produire un tableau de bord **Google  Adwords** avec un joli design est devenu un jeu d’enfants, voici en 10 étapes et 2 minutes montre en main !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/04/modele-tableau-de-bord-431x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/modele-tableau-de-bord.jpg) Modele de départ du tableau de bord Adwords
+[![Image](/images/blog/modele-tableau-de-bord-431x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/modele-tableau-de-bord.jpg) Modele de départ du tableau de bord Adwords
 ## **10 étapes pour créer un tableau de bord adwords**
 
  	- Se connecter avec un compte google !

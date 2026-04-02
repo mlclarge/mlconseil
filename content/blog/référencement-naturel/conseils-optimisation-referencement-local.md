@@ -23,7 +23,7 @@ A l’heure du grand changement avec l’arrivée en France depuis fin juin 2011
 
 Alors comment suis-je référencé sur la page de  résultat ? Quant on connait l’importance du classement (positionnement) des liens dans le clic de l’internaute (plus on est en début de classement, plus on reçoit de clics). Ci-dessous, le résultat suite à une recherche d’un mot clé sur 2 termes  « informatique bordeaux ».
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/07/intro-carte-ref-local-300x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/07/intro-carte-ref-local.jpg) Résultat d'une recherche Google localisée
+[![Image](/images/blog/intro-carte-ref-local-300x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/07/intro-carte-ref-local.jpg) Résultat d'une recherche Google localisée
 
 Sur cette capture d'écran, plusieurs pavés apparaissent scindés sur 3 colonnes  :
 

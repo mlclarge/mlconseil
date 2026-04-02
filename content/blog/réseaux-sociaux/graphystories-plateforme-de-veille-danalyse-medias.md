@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réseaux sociaux"]
 tags: []
 slug: "graphystories-plateforme-de-veille-danalyse-medias"
+image: "/images/blog/graphystories.jpg"
 ---
 
 Découvrons **[Graphystories](http://www.graphystories.com/),** **application de veille et d'analyse médias online, ** récompensée par différents prix ces 2 dernières années lors de concours divers  en Belgique,  siège de la startup éponyme. Je tiens à remercier Geoffroy, associé au fondateur, associé au fondateur en charge du développement de projet et du département vente,  qui  m'a présenté  les atouts de cette plateforme, utile par exemple aussi pour des community managers branchés sur les réseaux sociaux, dont je partage  aujourd'hui les principales fonctionnalités.
@@ -23,14 +24,14 @@ Les  4  grands objectifs poursuivis par GraphyStories :
 
  	- Le suivi des interactions sur ses propres contenus, articles, marques…
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/tendances-1-502x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/tendances-1.jpg) Tendances des recherches sur Google
+[![Image](/images/blog/tendances-1-502x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/tendances-1.jpg) Tendances des recherches sur Google
 
 Quotidiennement,  GraphyStories passe en revue  plus de 80 000 000 articles et 5000 sites web et travaille avec avec LeMonde, LeFigaro, Elle, ParisMatch, Europe1, Public, RTBF, TPMP,.... mais aussi avec de nombreuses Marque et agences.
 ### *La lecture des contenus directement depuis la plateforme*
 
  	- Par simple roll over, un aperçu des posts, vidéos, super pratique !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/vue-des-contenus-par-roll-over-sur-facebook-et-youtub-502x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/vue-des-contenus-par-roll-over-sur-facebook-et-youtub.jpg) Aperçu des contenus par simple roll over
+[![Image](/images/blog/vue-des-contenus-par-roll-over-sur-facebook-et-youtub-502x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/vue-des-contenus-par-roll-over-sur-facebook-et-youtub.jpg) Aperçu des contenus par simple roll over
 ## **Des indicateurs de popularité des contenus**
 
 ### ***Facebook sur tous les angles***
@@ -55,7 +56,7 @@ Il est aussi possible de segmenter les contenus par type :
 
  	- Statut
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/mesure-facebook-502x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/mesure-facebook.jpg) Insights sur facebook
+[![Image](/images/blog/mesure-facebook-502x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/mesure-facebook.jpg) Insights sur facebook
 ## **Contenus du Web analysés**
 
  	- Vélocité : vitesse de partage sur les réseaux sociaux
@@ -72,7 +73,7 @@ Groupes personnalisés : en dehors des groupes déjà constitués par défaut, 
 
 Il est possible de remonter à 2016 et d’observer la popularité d’un contenu sur cette période.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/veille-personnelle-web-et-interactions-502x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/veille-personnelle-web-et-interactions.jpg) Veille personnelle Web et Interactions
+[![Image](/images/blog/veille-personnelle-web-et-interactions-502x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/veille-personnelle-web-et-interactions.jpg) Veille personnelle Web et Interactions
 
 Un espace personnel permet des alertes  par email, des favoris, des signets pour garder sous le coude des contenus repérés.
 

@@ -27,7 +27,7 @@ Wordstream confirme que le nombre de clics sur les **résultats naturels restent
 
 	- 89% du trafic payant amène un trafic neuf indépendamment de l’audience des liens organiques.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-etudeWordstream-300x187.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-etudeWordstream.png)
+[![Image](/images/blog/1-etudeWordstream-300x187.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-etudeWordstream.png)
 
 Retenons simplement que  les clics **sponsorisés battent ceux des liens organiques dans un rapport de 1 à 2** lors d'une requête avec intention d'achat.
 ## **Quelles sont les raisons du succès des liens sponsorisés ?**
@@ -36,21 +36,21 @@ Sans contestation, la firme de Montain View a su innover en proposant des **form
 
 	- **Photo produit** (fig. 2) qui déclenche automatiquement une image du flux catalogue de la plateforme Google shopping
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-annoncesProduit-300x142.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-annoncesProduit.png)
+[![Image](/images/blog/2-annoncesProduit-300x142.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-annoncesProduit.png)
 
 	- **Numéro d'appel** pour les téléphones mobiles (fig.3).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/3-mobileappel.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/3-mobileappel.png)
+[![Image](/images/blog/3-mobileappel.png)](/images/blog/3-mobileappel.png)
 
 	- **Situées en 'Bas de page'** qui incitent à ne pas aller en page suivante des résultats naturels.
 
 	- **Multiples liens**   améliore l'impact et l'information (fig. 4)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-liensDeSites-300x115.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-liensDeSites.png)
+[![Image](/images/blog/4-liensDeSites-300x115.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-liensDeSites.png)
 
 	- **Sociales **Implication des contacts de son réseau * (fig.5) *.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-annoncesSociales-300x56.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-annoncesSociales.png)
+[![Image](/images/blog/5-annoncesSociales-300x56.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-annoncesSociales.png)
 
 	- Associées aux techniques de **remarketing** ou l'internaute est "suivi" pendant un certain temps suite à une intention d'achat.
 
@@ -58,11 +58,11 @@ Sans contestation, la firme de Montain View a su innover en proposant des **form
 
 	- Liens "**chat**" (jouer sur l' interaction directe)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-liveChat-300x108.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-liveChat.png)
+[![Image](/images/blog/6-liveChat-300x108.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-liveChat.png)
 
 	- ** Champ email** *(déployé aux Us seulement, fig.7)*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/7-email-300x58.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/7-email.png)
+[![Image](/images/blog/7-email-300x58.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/7-email.png)
 
 	- **Avis visibles avec étoiles** *(déclinaison des formats produit depuis des flux catalogue  avec recommandations)*
 

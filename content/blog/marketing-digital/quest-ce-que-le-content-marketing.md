@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "quest-ce-que-le-content-marketing"
+image: "/images/blog/MARKETING.jpg"
 ---
 
 Définition et méthodologie du **content marketing**, blogs qui en parlent le plus, et dernières bonnes pratiques sur le marketing de contenus, c’est ce que va tenter de faire cette article !
@@ -30,13 +31,13 @@ Le concept d’[inbound Marketing](https://www.mauricelargeron.com/conference-su
 
  	- **Evaluer** avec une solution d'analyse d'audience : Google analytics ! of course :)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/methodologie-content-marketing.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/methodologie-content-marketing.jpg) Méthodologie content marketing
+[![Image](/images/blog/methodologie-content-marketing.jpg)](/images/blog/methodologie-content-marketing.jpg) Méthodologie content marketing
 
  	- En anglais mais didactique, sur cette page vous trouverez des outils d'aide au positionnement de contenus marketing : [https://www.ioninteractive.com/resources/evaluation-tools](https://www.ioninteractive.com/resources/evaluation-tools)
 
  	- En prime, ce **guide du content marketing édité par Sem Rush : [https://fr.semrush.com/ebooks/guide-pratique-du-content-marketing-sample.pdf](https://fr.semrush.com/ebooks/guide-pratique-du-content-marketing-sample.pdf)**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/guide-du-content-marketing-502x190.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/guide-du-content-marketing.jpg) Guide du content marketing de Sem Rush
+[![Image](/images/blog/guide-du-content-marketing-502x190.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/guide-du-content-marketing.jpg) Guide du content marketing de Sem Rush
 ## **Sélection de contenus sur le content marketing**
 
 Où, peut-on lire des articles sur le content marketing ? Ces contenus doivent informer rendre service et ou alors divertir. Voici une sélection non exhaustive de blogs dont la nature trouve leur origine de plateforme btob, d’agences webmarketing, d’entreprises, ou d’activité d’entrepreneur freelance*.*
@@ -44,7 +45,7 @@ Où, peut-on lire des articles sur le content marketing ? Ces contenus doivent 
 
 Ce top 100  du blog de la plateforme Sem Rush vaut incontestablement le détour, même si j’en fais pas partie L mais bon. Il recense par catégories les meilleures lectures sur le sujet : ([https://fr.semrush.com/blog/top-100-des-blogs-et-medias-marketing-digital/](https://fr.semrush.com/blog/top-100-des-blogs-et-medias-marketing-digital/))
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/top-blog-marketing-contenus-502x251.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/top-blog-marketing-contenus.jpg) Top blog marketing contenus
+[![Image](/images/blog/top-blog-marketing-contenus-502x251.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/top-blog-marketing-contenus.jpg) Top blog marketing contenus
 
 Anglophone, mais une référence dans le « content marketing » à la mode anglo-saxonne, vous trouverez une liste des blogs en langue anglaise de référence ici [https://contentmarketinginstitute.com/top-content-marketing-blogs/](https://contentmarketinginstitute.com/top-content-marketing-blogs/) .
 ### ***Contenus de 6 agences Marketing***
@@ -53,7 +54,7 @@ Un de mes favoris du moment, le petit web ([https://www.petitweb.fr/](https://ww
 
 On ne présente plus le blog de l’agence 1mn30 ([https://www.1min30.com/le-blog](https://www.1min30.com/le-blog)), très très Inbound brandé si je peux dire, leur ebooks vulgarisent bien le domaine.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/agence-strategie-branding-502x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/agence-strategie-branding.jpg) Agence de Strategie Branding "MyClientIsRich "
+[![Image](/images/blog/agence-strategie-branding-502x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/agence-strategie-branding.jpg) Agence de Strategie Branding "MyClientIsRich "
 
 Celui qui ne connaît leur étude annuelle a loupé quelque chose ([https://wearesocial.com/fr/blog/](https://wearesocial.com/fr/blog/)), wearesocial est à connaître, la dernière enquête du genre en 2019  qui vient de sortir est sans doute à mettre dans toutes les bonnes mains.
 
@@ -69,7 +70,7 @@ On ne présente plus la société « Marketo » et sa ligne éditoriale orient
 
 Le blog de la Start up  qui propose un service de webinaire ([https://www.livementor.com/blog/](https://www.livementor.com/blog/)) et anime des contenus avec leur une touche Seo qui  vaut le détour, orienté entreprenariat mais pas que.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/hubspot-blog-502x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/hubspot-blog.jpg) Hubspot blog
+[![Image](/images/blog/hubspot-blog-502x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/hubspot-blog.jpg) Hubspot blog
 
 Les Nantais cette fois ci de l’étape, activité btob spécialisée dans les « live chats » avec des contenus sur des retours d’expériences clients très utiles ([https://www.iadvize.com/blog/fr/](https://www.iadvize.com/blog/fr/))
 
@@ -83,7 +84,7 @@ Faut-il encore présenter Hubspot ? ([https://blog.hubspot.fr/](https://blog.hu
 
 Quand Benoît Guyot s’y colle, il s’y colle pour de bon. Il nous produit quand il en a le temps des contenus de dingue autour du Sea, analytics. J’ai rencontré Benoît pour la 1ere fois fin 2018 à Dublin lors d’un sommet top contributors Google Ads et l’ai remercié pour ces contenus pertinents ces fameux guides dont il a le secret  ([https://www.bruno-guyot.com/realisations/blog](https://www.bruno-guyot.com/realisations/blog)).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/blog-entrepreneurs-502x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/blog-entrepreneurs.jpg) Blog Content Marketing d'entrepreneurs
+[![Image](/images/blog/blog-entrepreneurs-502x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/blog-entrepreneurs.jpg) Blog Content Marketing d'entrepreneurs
 
 Alors je sais, vous allez me dire, mais pourquoi mettre en tête ce blog pas à jour, eh bien justement, pourquoi pas ? Cédric Duma a dû passer du temps à écrire ces articles qui gardent encore de la fraîcheur,  malgré le temps pressé  du marketing en ligne.  Lisez ses lignes sur Google Shopping, sur les n-grams vous ne serez pas déçu ([http://link-tags.com/](http://link-tags.com/)).
 
@@ -106,7 +107,7 @@ Lé régional de l’étape, difficile à classer, le bordelais Elie Sloim œuvr
 
  	- Plus du Tiers ont un ROI positif de leur action
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/ContentMarketingSurvey2019.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/ContentMarketingSurvey2019.jpg) Infographie Enquete 2019
+[![Image](/images/blog/ContentMarketingSurvey2019.jpg)](/images/blog/ContentMarketingSurvey2019.jpg) Infographie Enquete 2019
 
  	- Une plateforme d’édition d’infographies a fait une étude sur l’usage des contenus visuels dans leur support (sur 500 personnes sondées)
 
@@ -122,6 +123,6 @@ Lé régional de l’étape, difficile à classer, le bordelais Elie Sloim œuvr
 
  	- Le blog reste encore majoritairement utilisé avec 88% et 86% contiennent au moins 1 visuel
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/14_visual_content_stats_infographic.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/14_visual_content_stats_infographic.jpg) 14 statistiques sur le Visuel en C.M
+[![Image](/images/blog/14_visual_content_stats_infographic.jpg)](/images/blog/14_visual_content_stats_infographic.jpg) 14 statistiques sur le Visuel en C.M
 
 Bon voilà s’en est fini pour ce petit  tour sur le sujet  de l'inbound marketing pour toujours plus de connaissances en** webmarketing !**

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Emailing"]
 tags: []
 slug: "lancer-des-campagnes-demails-intelligentes"
+image: "/images/blog/expression-regul-1.jpg"
 ---
 
 Parlons un peu de **newsletter programmatique** par le témoignage de  M Arnaud Longatte *(auteur de cet article cette semaine)* **, **Business Development Manager** **de  la société [ividence](http://www.ividence.com/fr/accueil/),  créée en décembre 2008.  Passée sous le giron de Sien en mai 2015, Ividence a depuis lors connu une croissance exponentielle dans un marché en pleine expansion: la publicité programmatique hyper ciblée au coeur des newsletters d’un large éventail d’éditeurs premium.  Elle compte parmi ses clients plus de 70 newsletters partenaires qui touchent chaque mois en France plus de 8,2 millions de destinataires uniques, soit 12% de la population (15% des internautes).
@@ -39,7 +40,7 @@ Ividence a investi plus d’un an de développement dans une plateforme unique s
 
 Le tag que l’éditeur insère dans sa newsletter appelle à chaque ouverture le SSP ividence, qui peut à la fois servir des annonces proposées en direct par l’annonceur (ividence offrant aussi son adserver maison pour ceux qui le souhaitent) ou des annonces soumises au RTB (enchères en temps réel), depuis les plateformes DSP connectées au SSP ividence. L’éditeur est ainsi assuré d’une monétisation optimale de son inventaire. 
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ad-server-email-473x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ad-server-email.jpg) adsever dédié ou alors programmatique
+[![Image](/images/blog/ad-server-email-473x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ad-server-email.jpg) adsever dédié ou alors programmatique
 ## **Le grand retour des newsletters**
 
 Certains observateurs suggéraient à tort il y a quelques années encore que le média email serait balayé par la vague des applications natives et autres messageries mobiles. Il n’en est rien. Les newsletters signent leur grand retour, comme en témoignent les investissements majeurs d’éditeurs de premier plan sur ce créneau: [BuzzFeed, Quartz](http://info.ividence.com/newsletters-de-buzzfeed/) ou encore le [New York Times](http://www.poynter.org/2015/newsletters/332503/) misent gros sur ce format épistolaire, qui est aujourd’hui considéré comme une plateforme à part entière, au-delà du rôle essentiel de ré-engagement* qu’il continue à jouer pour les médias qui le manient avec brio ! Plus que jamais le côté *snack feed* des newsletters s’inscrit dans le quotidien pressé des lecteurs de la génération smartphone.

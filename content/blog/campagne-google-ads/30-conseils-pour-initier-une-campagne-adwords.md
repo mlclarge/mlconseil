@@ -11,7 +11,7 @@ Historiquement, le **programme adwords** a démarré en 2000  et a rapporté, e
 
 Ce billet va s’attacher à apporter repères et conseils pour ceux qui souhaitent par eux même démarrer une [campagne publicitaire sur Google ](https://www.mauricelargeron.com/comment-suivre-ses-sources-de-trafic-dans-google-ads/),  et donc  ne pas suivre une formation adwords (domage :( )  qui pourtant  fait gagner du temps,   pour afficher des annonces situées dans l’interface du moteur de recherche .  J’ai pu aborder dans un article précédent, les notions de bases en matière de publicité sur internet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/pubAdwords-300x193.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/pubAdwords.png) Affichages des annonces adwords
+[![Image](/images/blog/pubAdwords-300x193.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/pubAdwords.png) Affichages des annonces adwords
 
 J’aborderai, dans un premier chapitre **l’écosystème d’adwords** afin de cerner les différentes composantes du programme publicitaire (acteurs, adwords, outils, gestion).
 
@@ -22,7 +22,7 @@ Dans une troisième  partie, enfin,  je soulèverai la question de **l’estim
 
 Les 3 grands acteurs du programme adwords sont l’annonceur, Google et les internautes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ecosystemeadwords-300x187.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ecosystemeadwords.png)
+[![Image](/images/blog/ecosystemeadwords-300x187.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ecosystemeadwords.png)
 
  	- L’annonceur crée sa publicité sur Google.
 
@@ -32,7 +32,7 @@ Les 3 grands acteurs du programme adwords sont l’annonceur, Google et les inte
 
  	- L’internaute clic sur l’annonce la plus adaptée et arrive chez l’annonceur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ECOSYSTEME-300x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ECOSYSTEME.jpg) Ecosystème développé du programme adwords
+[![Image](/images/blog/ECOSYSTEME-300x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/ECOSYSTEME.jpg) Ecosystème développé du programme adwords
 
  	- Les acteurs (paramètre de la concurrence)
 
@@ -45,7 +45,7 @@ Les 3 grands acteurs du programme adwords sont l’annonceur, Google et les inte
 Il s’agit  ici de donner des notions de **planification au travers de ce cycle de gestion **afin de poser des repères sur le chemin d’une campagne. De combien de temps un annonceur a-t-il besoin  pour lancer sa publicité pour son site web ?  Quelles sont les grandes étapes dans un projet ? etc...
 Tout d’abord, Adwords ne doit pas s’envisager linéairement mais plutôt en cercle vertueux.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/cycle-adwords-298x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/cycle-adwords.png) Le cycle adwords
+[![Image](/images/blog/cycle-adwords-298x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/cycle-adwords.png) Le cycle adwords
 
 **Temps 1 :  Organiser / Planifier**
 
@@ -119,7 +119,7 @@ Il conviendra de revenir au cours d’articles prochain, sur chacun de ces point
 
 Quant au **timing, il souligne l'importance de l'aspect chronologique d'une campagne.**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/chronologie-300x152.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/chronologie.png) Schéma temporel d'une campagne Adwords
+[![Image](/images/blog/chronologie-300x152.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/chronologie.png) Schéma temporel d'une campagne Adwords
 
 Il  n’y a pas de cloisonnement dans ces différents temps, mais il convient lors d’une première campagne, néanmoins, d’observer une certaine chronologie dans le déroulement afin que le compte fasse son propre historique, 2 semaines en moyenne suffit *(temps 2)* après son lancement *(temps1)*.
 
@@ -138,7 +138,7 @@ Néanmoins, nous avons les 2 variables,** le budget  75 euros et le cout moyen*
 
 On peut donc déterminer le **nombre de clics générés** :   75/0,87 soit **86 clics**. Combien d’affichage (sans clic) cela peut il générer ? Pour cela, il faut connaître le CTR, le Ctr est égal au rapport du nombre de clics sur les affichages, impossible à savoir avant de démarrer sa campagne, donc se baser sur un taux moyen de départ constaté. Ici, on prendra 2% (très bon 10%) qui nous donnera :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/operation-300x41.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/operation.png) Calcul du nombre d'impressions
+[![Image](/images/blog/operation-300x41.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/operation.png) Calcul du nombre d'impressions
 
 Cette méthode permet donc d'avoir un devis estimatif pour un certain budget. La position de l’annonce varie selon le cpc max estimé *(plus il est haut, plus vous  gagnez de position sur la page, mais ce n’est pas que la seule variable, rentre en jeu le **score de qualité**, qui va s’enrichir au fur et à mesure de la campagne mais qu’il faut construire dès le départ).*
 

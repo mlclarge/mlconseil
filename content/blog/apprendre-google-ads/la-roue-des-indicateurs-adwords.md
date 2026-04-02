@@ -13,7 +13,7 @@ Cela faisait un moment que les** indicateurs Adwords** n’avaient pas fait l’
 
 Données regroupées en **9 catégories** principales :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/onglet-campagne-adwords-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/onglet-campagne-adwords.jpg) Interface Adw. rapports de campagne
+[![Image](/images/blog/onglet-campagne-adwords-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/onglet-campagne-adwords.jpg) Interface Adw. rapports de campagne
 ### **Caractéristiques (5)**
 
 Résume en quelque sorte les paramètres de campagne initiés au départ.
@@ -38,7 +38,7 @@ Clics convertis,  Taux de conversion des clics, Conversion après affichage (p
 
 Il faut avoir **1000 suiveurs sur G+** et annonce via le format pub dédié à Google plus pour avoir des statistiques générées par ce biais comme les impressions bien sûr, les actions totales générées dessus, et ensuite le détail de ces engagements (abonnements, commentaires, partages, +1).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/post-ads-+.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/post-ads-+.jpg) Format Annonce G+
+[![Image](/images/blog/post-ads-+.jpg)](/images/blog/post-ads-+.jpg) Format Annonce G+
 ### **Appels (5)**
 
 C’est comme sa facture téléphonique ou presque ! Si vous passez par des extensions d’appel, via le  numéro de transfert Google, ce dernier vous donne vos résultats : affichages (imp.), les appels, le **PTR (phone through rate équivalent du CTR)** , le coût (réel et moyen)
@@ -63,6 +63,6 @@ Pour les annonces sur le **réseau de sites Google (display)**, cet indicateur r
 
 Pourquoi pas finalement, comme je l’indiquais en introduction,  **une vision globale des indicateurs** disponibles peut aider à se représenter les stats qu’offre la plateforme ? Ci-dessous, j’ai fait ressortir les **principaux qui  ont une utilité « roiste »** (indicateurs blancs entourés de rouge).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/roue-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/roue.jpg) Roue des indicateurs Onglet "Campagne" adwords
+[![Image](/images/blog/roue-310x217.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/roue.jpg) Roue des indicateurs Onglet "Campagne" adwords
 
 Ces soixante-douze indicateurs en cache d’autres !  Une centaine environ sont disponibles  encore  au niveau des **onglets  de mots clés, extensions, variables**   (seo, sea) puis au niveau des  segments (durée, type de clics). De quoi faire encore…

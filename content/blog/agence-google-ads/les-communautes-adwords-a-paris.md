@@ -17,12 +17,12 @@ Tout d’abord merci d’avoir été invité par notre Community  Manager préf
 
 Sébastien defrance,  Social média manager nous a présenté ses bonnes pratiques de community manager pour son activité
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/social-media-et-communauté-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/social-media-et-communauté.jpg) Publicité et Social Média
+[![Image](/images/blog/social-media-et-communauté-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/social-media-et-communauté.jpg) Publicité et Social Média
 ### **L’agence Mcir , pionnier des Top Contributeur Adwords**
 
 Philippe Maechler a partagé son vécu d’ « Es  Top contributeur » depuis 2011 au travers d’un parcours humoristique dont il a le secret. Ce qu’il faut en retenir, ce n’est pas moins de quelques milliers d’interventions, des rencontres fructueuses à San Francisco, des partenariats divers et des opportunités de Business.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/mcir-310x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/mcir.jpg) L'agent de l'agence MCIR en mission Top Contribuée
+[![Image](/images/blog/mcir-310x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/mcir.jpg) L'agent de l'agence MCIR en mission Top Contribuée
 ## **Points de vue des agences sur les produits google**
 
 ### Guillaume Eouzan et Adwords
@@ -73,7 +73,7 @@ La deuxième journée fut plus légère dans l’agenda, et plus intimiste dans 
 
  	- Le support dédié pour l’apport de client important (>10000 euros/mois)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/seance-travail-google-paris-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/seance-travail-google-paris.jpg) seance travail contributeurs google paris
+[![Image](/images/blog/seance-travail-google-paris-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/seance-travail-google-paris.jpg) seance travail contributeurs google paris
 ### **La localisation chez google**
 
 J’ai particulièrement apprécié cette séance qui nous a donné une vision d’ensemble sur le travail effectué en arrière-boutique  pour **traduire  les produits Google dans différentes langues**. En France, 6 personnes sont permanentes au siège de google et pilotent les projets de traduction. Cette équipe travaille avec beaucoup de sous-traitants en parallèle.  Les outils de production sont disparates selon les services à traduire, manuel, traductions partielles, automatique . Un travail de vérification s’impose également car la grande difficulté est d’avoir une vision de chaque métier pour éviter les contre sens ou autre ineptie. L’exemple bateau est celui constaté sur une page youtube, qui pendant 3 semaines , affiché un onglet « voiture » pour traduire « auto »

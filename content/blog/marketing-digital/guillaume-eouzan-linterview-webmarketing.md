@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "guillaume-eouzan-linterview-webmarketing"
+image: "/images/blog/3eme-edition-webamrketing-1.jpg"
 ---
 
 Suite à la sortie de l’ouvrage « webmarketing 3ème Edition aux éditions Eni, Guillaume Eouzan,  fondateur de l’agence Mindfruits , m’a gentiment répondu à quelques questions sur les sujets d’actualités chauds du Web et  du Marketing.

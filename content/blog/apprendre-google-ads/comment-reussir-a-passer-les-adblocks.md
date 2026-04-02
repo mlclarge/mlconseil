@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "comment-reussir-a-passer-les-adblocks"
+image: "/images/blog/publicité-respectueuse.png"
 ---
 
 Parmi les acteurs du Display 70% (sur les derniers chiffres) utilisent la** programmatique** comme technique de réservation d'espaces, pilotée par des humains mais en dernier ressort achète , les inventaires des éditeurs.  La distance qu'apporte la techno. entre  la marque et  ses cibles augmente, les traders médias manquent de transparence et l'achat d'audiences possède son lot d'effets négatifs .Cette technologie  promet parfois l'impossible sur la réservation des **emplacements** **publicitaires**. Toutefois, c'est dans ce contexte que l'usage des **bloqueurs de publicité** en France a prospéré, estimés  présents dans 30%  des navigateurs web.  C'est pourquoi que l'on peut conclure que les annonceurs ne sont pas   au rendez-vous de l'expérience utilisateur via à vis de l'expérience publicitaire. Alors qu'appelle-t-on** une publicité acceptable capable de passer l[es Adblocks](https://adblockplus.org/fr/)  ? **
@@ -13,7 +14,7 @@ Parmi les acteurs du Display 70% (sur les derniers chiffres) utilisent la** prog
 
 Tout d'abord, notons que l' éditeur d'adblock Plus  (le plus influent) est à l'origine de ce comité (2015). Il deviendra indépendant que 2 années plus tard.  Son objectif depuis 2017 est d'apporter aux éditeurs respectueux des internautes, la possibilité de faire partie d'une liste blanche leur permettant d'avoir des inventaires publicitaires qui passent les adblocks.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/organisation-419x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/organisation.png) Organisation du comité acceptable ads
+[![Image](/images/blog/organisation-419x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/organisation.png) Organisation du comité acceptable ads
 ## **C'est quoi une bannière convenable au sens du comité ?**
 
 ### ***A quels endroits ces publicités sont-elles posées ?***
@@ -22,7 +23,7 @@ Ensuite,  les pubs ne doivent être omniprésentes par leur intrusivité ou gê
 
 De plus, elles doivent respecter un certain nombre de standard indiqué par le "comité de publicités acceptables ». Les bannières de publicité qui suivent les items d'acceptabilité font partie d'une liste blanche.  Dans ce cas les Adblocks affichent alors sans problème le message de l'annonceur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/publicité-acceptable-307x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/publicité-acceptable.png) Une publicité acceptable
+[![Image](/images/blog/publicité-acceptable-307x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/publicité-acceptable.png) Une publicité acceptable
 
 En outre, au-dessus de la ligne de flottaison (la partie qui se trouve être visible avant le scroll de l'internaute) seulement 15% peut être occupée par des bannières. En dessous de cette zone, c'est 25% de publicités toléré.
 
@@ -31,7 +32,7 @@ En outre, au-dessus de la ligne de flottaison (la partie qui se trouve être vis
 
 Ainsi, les publicités acceptables ne sont pas ambiguës et ne se confondent pas avec le reste du contenu de la page. Une distinction marquée clairement "publicité" doit être lisible. Un message clair qui indique, que c'est de la publicité, voilà tout.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/mention-claire-de-la-publicité-502x256.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/mention-claire-de-la-publicité.png) Passer les Adblocks : Mention claire de la publicité
+[![Image](/images/blog/mention-claire-de-la-publicité-502x256.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/mention-claire-de-la-publicité.png) Passer les Adblocks : Mention claire de la publicité
 ### ***Les tailles des Pubs pour passer les Adblocks
 ***
 
@@ -48,7 +49,7 @@ Aussi, 3 cas donc principaux à considérer pour **réussir à passer l[es Adblo
 
  	- Sous le contenu principal, la hauteur maximale de l'annonce doit être de 400 pixels
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/ligne-de-flottaison-502x214.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/ligne-de-flottaison.png) Ligne de flottaison et publicité responsable
+[![Image](/images/blog/ligne-de-flottaison-502x214.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/ligne-de-flottaison.png) Ligne de flottaison et publicité responsable
 
 Un espace doit être laissé par la bannière pour le Contenu Principal sur la taille standard d'écran.
 
@@ -66,10 +67,10 @@ A noter, la grande majeure partie des éditeurs de sites internet trouvent par l
 
 Précisément, la construction d'une page de destination est assez compliquée déjà. Donc si en plus on se tire une balle dans le pied ! Oui je veux dire que le nommage d'un fichier image comme visuel sur une landing comme par exemple ma-pub-top.jpg  (ou le terme ads etc..) entraîne aussi des blocages de la page par un bloqueur de pub. Les infographistes peuvent voir leur créa bloquées, dans le cadre d'une campagne google ads par exemple, c'est un peu dommage !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/test-bloqueur-de-pub-502x275.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/test-bloqueur-de-pub.png) Passer les Adblocks : Nommage des fichiers visuels de landing pages
+[![Image](/images/blog/test-bloqueur-de-pub-502x275.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/test-bloqueur-de-pub.png) Passer les Adblocks : Nommage des fichiers visuels de landing pages
 
 Pour finir , résumons "comment réussir à passer les Adblocks"?  : 3 bonnes pratiques peuvent se distinguent sur ces 3 schémas de principe :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/bonnes-pratiques-publicitaires-502x198.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/bonnes-pratiques-publicitaires.png) Ne pas être filtré par les bloqueurs de publicité Bonnes pratiques publicitaires
+[![Image](/images/blog/bonnes-pratiques-publicitaires-502x198.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/bonnes-pratiques-publicitaires.png) Ne pas être filtré par les bloqueurs de publicité Bonnes pratiques publicitaires
 
 Enfin, ne soyons pas naïfs non plus (Google et autres ayant signés des passes-droits pour figurer parmi des listes blanches en amont du blocage local à la volée des adblocks). Aujourd'hui repérons  les bonnes règles de base  en termes d'affichage pour un **message publicitaire responsable **qualifié pour figurer sur liste blanche**. **Bon allez vive la pub quand même ! Pas trop lourdingue messieurs les marketeurs, ne pas être bloqué par les bloqueurs de publicité où passer les Adblocks plus facilement devient possible ! :)

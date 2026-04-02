@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réseaux sociaux"]
 tags: []
 slug: "sommet-des-top-contributeurs-google-a-sfo"
+image: "/images/blog/communauté-adwords-2015.jpg"
 ---
 
 Le Tc summit 2015 s’est tenu à San Francisco à la mi-octobre 2015.  Certes ..cela date déjà dans l’actualité bouillonnante du web :) . Petit retour sur ce moment qui a réuni plus de 500 [Top contributeurs](https://support.google.com/groups/answer/2519099?hl=fr) du monde entier.  Voilà cette 3èmeparticipation  déjà achevé pour ma part. A suivre, Préparation, équipe France, et  le sommet en lui-même.
@@ -19,7 +20,7 @@ Nous avions jusqu’au 31 juillet pour nous y inscrire, avec frais de voyage et 
 
 **Jour 1 :** La grand-messe avec des plénières qui rassemblent l’ensemble des Top Contributeurs des services Google (Gmail, search console, adwords, chrome, YouTube Play…). On remarquera toujours dans les équipes de managers, la présence de Français (Emmanuel Sauquet, julien Schleret)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/fort-mason-310x278.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/fort-mason.jpg) Plénières à Fort-mason
+[![Image](/images/blog/fort-mason-310x278.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/fort-mason.jpg) Plénières à Fort-mason
 
 Thématiques traitées :
 
@@ -35,7 +36,7 @@ Thématiques traitées :
 
  	- Les projets du labs  : impressionnant **la vue radar de la google car **(comment elle se représente son environnement).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/google-car-simulateur-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/google-car-simulateur.jpg) Dans le cerveau de la Google Car
+[![Image](/images/blog/google-car-simulateur-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/google-car-simulateur.jpg) Dans le cerveau de la Google Car
 
 **Jour 2 :** Consacré à des interventions de **Product Managers** (le matin). Pour l’équipe Adwords, ce moment informe des différentes nouveautés à venir :
 
@@ -50,15 +51,15 @@ Scripts adwords, Approbation des annonces, Création de campagnes display..
 Img session breeakout
 ### ***Les Tops contributeurs Français***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/vue-de-tous-les-tcs-310x135.png)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/vue-de-tous-les-tcs.png) Vue de tous les tcs wordlwide !
+[![Image](/images/blog/vue-de-tous-les-tcs-310x135.png)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/vue-de-tous-les-tcs.png) Vue de tous les tcs wordlwide !
 
 Tout d’abord 1001 excuses, je ne représente ici que 2 équipes : adwords et Search Console. D’ailleurs si les Gmail, chrome, YouTube et autres ont des photos, je les insère volontiers !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/IMG_8227-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/IMG_8227.jpg) L'équipe de choc Adwords France
+[![Image](/images/blog/IMG_8227-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/IMG_8227.jpg) L'équipe de choc Adwords France
 
 Avec un grand merci particulier à Marion, notre community manager adwords, qui nous a chouchouté lors de ce périple.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/eqipe-webmaster-tcs-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/eqipe-webmaster-tcs.jpg) Equipe de choc Search console
+[![Image](/images/blog/eqipe-webmaster-tcs-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/eqipe-webmaster-tcs.jpg) Equipe de choc Search console
 
 Hep un petit coucou à Denis, qui se reconnaitra sans doute !
 ## **Le Off de ce TC summit 2015**

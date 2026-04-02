@@ -13,7 +13,7 @@ Comment se faire connaître localement chez Bing ? Ce billet décrit la façon d
 
 "Large" = Requête simple sans nom de lieu avec pour intitulé : "dépannage informatique"
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/bing_requete_large-300x134.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/bing_requete_large.jpg)
+[![Image](/images/blog/bing_requete_large-300x134.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/bing_requete_large.jpg)
 
 **Commentaires des Résultats ci-dessus (serp Bing)**
 
@@ -29,9 +29,9 @@ Apparaissent aussi des sites non ciblés localement avec  sur le podium 2 sites
 
 -> Requête ciblée géographiquement :"dépannage informatique **Bègles**"
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/serpBingLocal-300x198.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/serpBingLocal.jpg)
+[![Image](/images/blog/serpBingLocal-300x198.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/serpBingLocal.jpg)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/09/listeLocalBing1-300x266.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/listeLocalBing1.jpg)
+[![Image](/images/blog/listeLocalBing1-300x266.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/09/listeLocalBing1.jpg)
 
 **Commentaires de ses Résultats  ci-dessus (serp Bing : Fig. 1)**
 

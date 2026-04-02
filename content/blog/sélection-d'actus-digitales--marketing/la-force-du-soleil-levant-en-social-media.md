@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "la-force-du-soleil-levant-en-social-media"
+image: "/images/blog/li-yang-138248.jpeg"
 ---
 
 Super intéressant cet article sur l'**univers Chinois numérique** avec son écosystème de plateformes numériques : moteurs de recherche, applications mobiles, ou le social média chinois est plus fort sans doute que les GAFAM.  Cet article du Hub Institute donnent les grandes statistiques de l'emprise asiatique pour mieux l'appréhender dans une stratégie éventuelle webmarketing !

@@ -11,7 +11,7 @@ slug: "cgu-mlconseil"
 
 ###                                                     Article 1 – OBJET
 
-![Image](https://www.mauricelargeron.com/wp-content/uploads/2020/12/mlc-logo-227x300.png)
+![Image](/images/blog/mlc-logo-227x300.png)
 
 Les présentes Conditions Générales d’accès et/ou d’utilisation ont pour objet l’accès aux Programmes de Formation de MLConseil.  Une fois le dossier validé par le client , MLConseil fournit un accès nominatif à une platforme numérique , à chaque apprenant via le service Google classroom pendant une période de 2 mois..
 

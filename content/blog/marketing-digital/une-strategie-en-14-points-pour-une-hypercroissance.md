@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "une-strategie-en-14-points-pour-une-hypercroissance"
+image: "/images/blog/hypercroissance.jpg"
 ---
 
 **1mn30** n’est décidément pas une agence 360 comme les autres !

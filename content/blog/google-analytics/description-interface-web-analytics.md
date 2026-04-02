@@ -9,7 +9,7 @@ slug: "description-interface-web-analytics"
 
 Arrêtons nous cette semaine sur l’interface de Google analytics. Je suis tombé sur la page anglaise, et me suis dit pourquoi pas la transcrire en Français *(article rédigé le 04-07-12)**  ? Elle a le mérite de sectoriser les fonctionnalités en 5 parties avec un attribut couleur, ce qui peut aider à avoir une première idée de ce que  produit l’interface d’analyse d’audience de la firme Américaine.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/07/tableau1-300x213.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/07/tableau1.png)
+[![Image](/images/blog/tableau1-300x213.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/07/tableau1.png)
 
 ## **Contrôle du compte**** (bleu)**
 

@@ -5,10 +5,11 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "faire-connaitre-son-asso-par-la-publicite-google"
+image: "/images/blog/googleadgrants.jpg"
 ---
 
 **Google Ad Grants** en 2018 a subit un renouveau tant dans son règlement que dans ses exigences en matière de gestion de compte de campagne.  [Ce programme](https://www.google.fr/intl/fr/grants/) fait partie d’un ensemble plus vaste google.org, un projet philanthropique créé en 2005 dont les objectifs principaux sont la justice raciale, l’éducation et le numérique, le handicap, et la gestion de crises.  Dans son budget annuel, 1% de son chiffre d’affaires, figurent Google pour les associations. Cette initiative de bienfaisance permet aux bénéficiaires d’utiliser grâce à un budget annuel octroyé par Google les produits à fort audience comme la suite bureautique de Google, YouTube, Google earth, Ad Grants, One Today.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/google-pour-les-associations-310x75.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/google-pour-les-associations.jpg)
+[![Image](/images/blog/google-pour-les-associations-310x75.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/google-pour-les-associations.jpg)
 ## **Qu’est-ce que le programme Google ad Grants pour les associations ?**
 
 Faire connaître son association, c’est  le cas déjà de plus de 35 000 organisations à but non lucratif qui sont bénéficiaires du programme Google ad Grants. La dernière mise à jour du règlement pour tous les Ad Grantees a été effectuée le 1er janvier 2018.
@@ -63,7 +64,7 @@ Les thématiques concernées sont :
 
  	- Choisir les outils Google dont vous souhaitez bénéficier gratuitement
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/unicef-310x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/unicef.jpg) unicef et google ad grants
+[![Image](/images/blog/unicef-310x191.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/unicef.jpg) unicef et google ad grants
 ## **Exemples de bénéficiaires de Google Ad Grants**
 
 Tout type d’associations qui rentrent dans le champ d’application du programme google ad grants pour associations peuvent devenir éligibles. Cela va de structures très importantes comme l’unicef à des organisations petites comme par exemple une association dont le but est la réinsertion par le sport d’un public jeunes en difficulté.

@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "clics-sur-pdf-avec-tag-manager"
+image: "/images/blog/pdf-trackinG-avec-gtm.jpg"
 ---
 
 La semaine dernière, j'ai été questionné par une stagiaire sur le [tag manager.](http://tagmanager.google.com)  Comment puis-je suivre le téléchargement d'un document PDF spécifique sur un site ? Je me suis posé la question "il doit bien avoir un petit tuto. sur Google ?" Eh bien oui, il y a des choses, mais qui datent un peu ! Rien sur la 1er page de Google relatif à la dernière version du Google tag manager. Je prends ici un cas pratique d'un lien sur **une page du blog qui possède un document pdf** de la plateforme search metrics.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/serp-google-411x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/serp-google.jpg) resultats sur tag manager dans google
+[![Image](/images/blog/serp-google-411x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/serp-google.jpg) resultats sur tag manager dans google
 ## **Quelle méthode pour suivre un PDF dans Google tag manager ?**
 
 Tout d'abord, il faut installer le container de GTM (2 bouts de code Js) sur le Template du site. Avec, une partie dans le Head et l'autre dans le body.
@@ -23,33 +24,33 @@ Une fois le container installé, il suffit de suivre le workflow de GTM qui est 
 
  	- Matérialisation de cette récupération par la balise ou marqueur pour la solution d'analyse d'audience, ici Google analytics sous forme d'évènement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/processus-marquage-pdf-avec-tag-manager-341x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/processus-marquage-pdf-avec-tag-manager.jpg) Processus de marquage dans GTM
+[![Image](/images/blog/processus-marquage-pdf-avec-tag-manager-341x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/processus-marquage-pdf-avec-tag-manager.jpg) Processus de marquage dans GTM
 
 Pratiquement, une fois le container sur le site, il est conseillé de travailler en mode débogage au niveau de la console navigateur.
 ## **Travail sur la page web qui contient le lien PDF**
 
 Cette étape consiste à auditer le lien que l'on souhaite suivre à l'endroit de la page. Deux outils sont nécessaires à ce stade. Tout d'abord, la console JavaScript par une sélection puis un clic droit de souris, puis "inspecter". On examine l'objet à suivre. Ensuite, le mode debug de gtm permet de vérifier quel élément le container récupère par rapport à notre problématique de lien à suivre amenant au "pdf".
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-avec-console-js-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-avec-console-js.jpg) Lien-pdf-sur-la-page-search-metrics-avec-console-js
+[![Image](/images/blog/lien-pdf-sur-la-page-search-metrics-avec-console-js-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-avec-console-js.jpg) Lien-pdf-sur-la-page-search-metrics-avec-console-js
 
 Aperçu de la console GTM dans le navigateur
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager-310x146.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager.jpg) lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager
+[![Image](/images/blog/lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager-310x146.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager.jpg) lien-pdf-sur-la-page-search-metrics-ecoute-par-tag-manager
 ## **Paramétrages sur Google tag manager**
 
 Une fois la tache de repérage accomplie dans le navigateur, il va falloir le traduire dans le [gestionnaire de balises](https://www.mauricelargeron.com/look-de-rentree-du-tag-manager/). Suivant le process définit précédemment dans le 1er paragraphe on peut obtenir
 
  	- Variable : c'est  l'élément url  soit le lien du pdf
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/dans-tag-manager-ecouteur-automatique-405x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/dans-tag-manager-ecouteur-automatique.jpg) Dans-tag-manager-recupération-automatique de l'url à
+[![Image](/images/blog/dans-tag-manager-ecouteur-automatique-405x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/dans-tag-manager-ecouteur-automatique.jpg) Dans-tag-manager-recupération-automatique de l'url à
 
  	- Déclencheur : sur cet élément url , soit ici un clic de souris du visiteur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/declencheur-sur-lien-avec-mention-436x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/declencheur-sur-lien-avec-mention.jpg) Declencheur-sur-lien-avec-mention
+[![Image](/images/blog/declencheur-sur-lien-avec-mention-436x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/declencheur-sur-lien-avec-mention.jpg) Declencheur-sur-lien-avec-mention
 
  	- Balise : récupération de la data et envoi sur Google analytics sous forme d'évènement. Le data model est constitué de 3 éléments principaux : catégorie  (pdf search metrics), action, libellé.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-lisible-dans-google-analytics-240x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-lisible-dans-google-analytics.jpg) Paramétrahes de l'Evenement-lisible-dans-google-analytics
+[![Image](/images/blog/evenement-lisible-dans-google-analytics-240x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-lisible-dans-google-analytics.jpg) Paramétrahes de l'Evenement-lisible-dans-google-analytics
 
 Il ne faudra pas oublier de sortir du mode debug de gtm et de publier le travail pour le rendre disponible live à tous les visiteurs.
 
@@ -57,5 +58,5 @@ Il ne faudra pas oublier de sortir du mode debug de gtm et de publier le travail
 
 Chaque clic désormais  sur ce lien fera l'objet d'un évènement qui sera lisible en temps réel dans la rubrique appropriée de Google analytics. Cet évènement pourra aussi être définit comme objectif selon besoin. Il faudra attendre quelques heures supplémentaires pour voir apparaitre dans ses rapports standards de GA, au niveau de la catégorie comportement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-dans-google-analytics-450x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-dans-google-analytics.jpg) Rapport Evenements-dans-google-analytics
+[![Image](/images/blog/evenement-dans-google-analytics-450x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/evenement-dans-google-analytics.jpg) Rapport Evenements-dans-google-analytics
 ### ***Quelques liens supplémentaires***

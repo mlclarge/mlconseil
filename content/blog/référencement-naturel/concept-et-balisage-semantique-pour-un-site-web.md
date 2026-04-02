@@ -23,7 +23,7 @@ Deux récents articles publiés sur le site http://www.mkbergman.com et co-écr
 
 Cela semble évident mais cela va mieux en le disant ! **Lever les ambiguïtés** pour faire court, ce n’est pas anodin. Google ne comprend pas ce qu’il restitue, il s’appuie sur des algos.  Nourris  par des mots clés, des pages, des sites reliés entre eux par des liens hypertextuels. Les moteurs ne savent pas lire entre les lignes, seule  la construction d’un référentiel parallèle (balisage standardisé)  qui va décrire ce **big data** *(composé de données non structurées et structurées)*  peut parvenir à le rendre plus intelligent et ainsi au final plus pertinent pour l’internaute. Un des moyens de rendre plus intelligible ce web,  est la création d’**entités nommées**, qui sont des objets uniques pour identifier des éléments d’information. Microsoft donne une définition très explicite sur le sujet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/defintion-msn-web-semantique-310x33.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/defintion-msn-web-semantique.jpg) Definition entités nommées par Msn
+[![Image](/images/blog/defintion-msn-web-semantique-310x33.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/defintion-msn-web-semantique.jpg) Definition entités nommées par Msn
 
 On pourrait classifier trois  types d’entités possédant chacun des propriétés et attributs.
 
@@ -33,7 +33,7 @@ On pourrait classifier trois  types d’entités possédant chacun des proprié
 
 	- Les interrelations entre les entités avec un ciment constitué par le schéma : sujet – relation – Object (ex : Hollande – être – président)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées.jpg) contexte-entre-entités-nommées
+[![Image](/images/blog/contexte-entre-entités-nommées-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées.jpg) contexte-entre-entités-nommées
 **Répondre aux requêtes contextuellement**
 
 Les technologies multi-screen, mobiles et interactives par la voix et tactiles ont modifiés nos usages dans la recherche. Google s’est positionné sur ces changements matériels en mettant en avant des possibilités toujours plus puissantes de recherches qui s’en retrouvent simplifiées mais contextualisables. La connaissance de l’historique cross devices, le géolocalisation, le profilage des requêtes sont les principaux atouts pour répondre à la bonne personne au bon moment. L’application  Google now est le fruit de cet ensemble d’avancées  où se mixte des serp issus du web sémantique (horaires, météo, itinéraires), de la recherche personnalisée, du positionnement géographique.
@@ -46,11 +46,11 @@ Il est clair que « parser » des documents chartés, avec un référentiel co
 
 Attention, toute la recherche n’est pas concernée par la montée du web sémantique, mais la tendance va vers une progression sans cesse croissante dans les **serp de Google**.  Les pages individuellement, en dehors du graphe de Google peuvent être optimisées afin d’être mieux interprétées.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/feuille-de-route-du-contenu-259x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/feuille-de-route-du-contenu.jpg) Feuille de route pour contenu web
+[![Image](/images/blog/feuille-de-route-du-contenu-259x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/feuille-de-route-du-contenu.jpg) Feuille de route pour contenu web
 
 Comment relier concrètement ce web sémantique à une problématique journalière de production de contenus ? Comme toujours il faut partir de ces premiers mots clés métier et ensuite rechercher à les **contextualiser **et les** conceptualiser** par la recherche d’entités nommées. Ci dessous, un corpus issus de plusieurs bases de données permettent de souligner les relations entre 2 entités. Cela peut enrichir la réflexions sur les contenus à produire ainsi qu'à souligner leur environnement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées.jpg) Recherche de contexte sur visualdataweb.org
+[![Image](/images/blog/contexte-entre-entités-nommées-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/contexte-entre-entités-nommées.jpg) Recherche de contexte sur visualdataweb.org
 ### Optimisation sémantique On Site*
 
 Une fois ébauché  la thématique que renferme ces mots clés, il faudra l’architecturer (organigramme)  afin de donner du poids aux requêtes visées selon l’environnement concurrentiel.  On parle ici de topic modeling, d'architecture sémantique (microsite dans le site)  de **cocon sémantique**, terme vulgarisé par [Laurent Bourrelly ](http://www.laurentbourrelly.com/formations/cocon-semantique/)avec un grand merci pour son boulot pédagogique !  Faut-il créer une arborescence de 5, 10, 35 pages pour valoriser une page « catégorie » ? Seul un audit du marché de la requête permettra de déployer une stratégie de contenus fiable. Cet  ensemble de page devra être articulé  selon une logique sémantique globale.

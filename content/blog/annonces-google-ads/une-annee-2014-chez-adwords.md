@@ -5,6 +5,7 @@ author: "admin"
 categories: ["annonces google ads"]
 tags: []
 slug: "une-annee-2014-chez-adwords"
+image: "/images/blog/listen-to-ads.jpg"
 ---
 
 Alors que le dernier webinar* sur adwords depuis Mountain View annonçait pas mois de 200 améliorations (sans les citer),   je me concentrerai que sur une trentaine d'entres elles qui ont marquées cette année 2014. Si l’on devait faire un podium, on peut néanmoins sans trop se tromper,  statuer que ces 12 derniers mois ont été placés principalement  sous la **bannière du display** *(elle est facile non ;) )* en position 1,  vient ensuite **Google shopping**  challenger, et  enfin  les améliorations dans les fonctionnalités de gestion de la plateforme publicitaire (enchères, tracking conversions).
@@ -51,7 +52,7 @@ L’année s’achève sur l’annonce que  Google pourrait  se [lancer dans l
 
  	- Fonctionnalité **web to store **: [https://support.google.com/merchants/answer/3057972](https://support.google.com/merchants/answer/3057972)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/annonces-shopping-usa-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/annonces-shopping-usa.jpg) Annonces Avis Shopping Usa (étoilées)
+[![Image](/images/blog/annonces-shopping-usa-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/annonces-shopping-usa.jpg) Annonces Avis Shopping Usa (étoilées)
 ## **Campagnes Vidéos  sur Youtube **
 
  	- 9 changements principaux pour les **campagnes pour les vidéos** avec la disparition du format d’annonces « insearch » : https://www.mauricelargeron.com/google-pousse-la-recherche-youtube-pour-ces-annonceurs-videos/
@@ -72,7 +73,7 @@ Voici les principaux changements sur ce réseau :
 
  	- Une application mobile dédiée au Tpe pour la gestion de campagne : [https://www.mauricelargeron.com/une-application-pour-google-adwords/](https://www.mauricelargeron.com/une-application-pour-google-adwords/)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/listen-to-ads-310x274.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/listen-to-ads.jpg) Extensions automatiques (avis) et annonces "écoute"
+[![Image](/images/blog/listen-to-ads-310x274.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/listen-to-ads.jpg) Extensions automatiques (avis) et annonces "écoute"
 ## **Plateforme adwords**
 
 ### **Gestion des campagnes***
@@ -102,7 +103,7 @@ Variante de mots clés
 
  	- Rapports : Belle arlésienne que l’arrivée du drag and drop pour les **rapports croisés dynamiques et graphique** dans l’interface, peut être pour le nouvel an ?
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/12/biblio-partagee-310x253.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/biblio-partagee.jpg) La bibliotheque partagee
+[![Image](/images/blog/biblio-partagee-310x253.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/12/biblio-partagee.jpg) La bibliotheque partagee
 ## **Outils  Annexes **
 
  	- Editer des rapports simples et pratiques : https://www.mauricelargeron.com/un-reporting-graphique-en-2-clics-pour-adwords/

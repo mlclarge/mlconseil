@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réseaux sociaux"]
 tags: []
 slug: "publicites-automatisees-facebook"
+image: "/images/blog/poublicite-automatiques-face.jpg"
 ---
 
 Les **publicités Facebook Automatisées** sont pour ceux qui n’aiment pas le gestionnaire de publicités de Facebook. J’avoue pas très pratique pour le néophyte dont ce n’est pas le métier. Ce  récent générateur de publicité intégré au niveau d’une page Facebook , permet de créer une publicité en quelques clics. Elle est ciblée avec  des audiences adaptées et peut devenir éventuellement performante !
@@ -18,7 +19,7 @@ Facebook comme Google met du machine Learning dans ce type de campagne, et sera 
 
 La version sur ces 6 créas la plus efficace  sera au bout de quelque temps est suggérée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/publicite-automatisée-facebook.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/publicite-automatisée-facebook.jpg) Vue d'ensemble de la campagne facebook automatisée
+[![Image](/images/blog/publicite-automatisée-facebook.jpg)](/images/blog/publicite-automatisée-facebook.jpg) Vue d'ensemble de la campagne facebook automatisée
 
  	- **Suggestions d’audience :** Des options d’audience en fonction des informations recueillies depuis la page Facebook. Une option d’audience automatique personnalisée pour votre entreprise. Facebook crée et améliore cette audience automatique en combinant plusieurs données, comme les personnes situées à proximité de l’entreprise ou celles ayant des centres d’intérêt en lien avec la Page.
 
@@ -63,16 +64,16 @@ Notez que pour ceux qui utilisent aussi Facebook business manager, le centre ava
 
 Du coup, le principe de base est de ne rien faire vu que c’est l’algorithme dit intelligent qui va se charger de faire le reste !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/reporting-facebook-pub-automatisée.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/reporting-facebook-pub-automatisée.jpg) Reporting Publicité Automatisée
+[![Image](/images/blog/reporting-facebook-pub-automatisée.jpg)](/images/blog/reporting-facebook-pub-automatisée.jpg) Reporting Publicité Automatisée
 
  	- Observer les performances
 
  	- Sinon, il est possible dès l’acquisition d’un lead, de le télécharger en local sur son pc
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/lead-facebook.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/lead-facebook.jpg) téléchargement lead facebook
+[![Image](/images/blog/lead-facebook.jpg)](/images/blog/lead-facebook.jpg) téléchargement lead facebook
 
  	- Prévoir éventuellement une synchronisation avec un CRM, plateforme emailing, pour pousser automatiquement le contact et assurer un suivi personnalisé, ou des scénarios de marketing automatisé.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/integration-crm-facebook-lead.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/integration-crm-facebook-lead.jpg) Integration crm facebook lead
+[![Image](/images/blog/integration-crm-facebook-lead.jpg)](/images/blog/integration-crm-facebook-lead.jpg) Integration crm facebook lead
 
 Alors bien sûr que ce genre de publicité fonctionne, parfois pas du 1er coup, il faut trouver le bon discours, le bon format selon le persona cible. Bon une routine pour le marketeur !

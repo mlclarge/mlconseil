@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "l-achat-de-bannieres-publicitaires-sur-le-net"
+image: "/images/blog/display.jpg"
 ---
 
 Faire sa **publicité de bannières** sur d’autres sites web, c’est ce que l’on appelle plus communément le **display** et à la mode Google le "GDN" ([Google display network](https://www.google.fr/ads/displaynetwork/)), ou réseau de sites qui possèderait quelques millions de sites web (2 officiellement). Mais comment s’achètent réellement ces bannières dans un contexte sans cesse plus technologique ? Observons les tendances du marché, les modes d’achat et ses problématiques.
@@ -22,12 +23,12 @@ Sinon, les 4 grandes tendances dans les achats du display se scindent en 4 caté
 
  	- Social : display hors social et social
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/performances-du-display-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/performances-du-display.jpg) Place du Marché display
+[![Image](/images/blog/performances-du-display-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/performances-du-display.jpg) Place du Marché display
 ## **Les modes d’achats du display traditionnels**
 
 Il y en a que pour le nouveau mode d’achat « programmatique » mais si l’on débarque dans l’univers impitoyable de cette chasse gardée, comment se déroule l’achat « hors programmatique » soit l’achat simple en fait, en direct, par un annonceur d’espaces publicitaires sur un site tiers d’un éditeur ? Le display par nature, s’est toujours fait manuellement (négociation, email, contractualisation, révision, mise en ligne, ajustements divers..)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/mode-achat-display-310x200.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/mode-achat-display.jpg) Modes d'achat du Display
+[![Image](/images/blog/mode-achat-display-310x200.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/mode-achat-display.jpg) Modes d'achat du Display
 ### ***La négociation directe***
 
 *"Selon que vous serez puissant ou misérable… "*
@@ -70,7 +71,7 @@ Oui car sur les moteurs de recherche, et notamment la plateforme Google adwords 
 
 L' achat **programmatique**, c’est l’art du machine to machine (discussion entre serveurs  publicitaires), de l’automatisation à base de tracking et d’algorithmes. Les données d’arbitrage (budget, ciblage, enchères)  sont bien sûr issues de stratégies humaines, mais le processus de  négociation se fait automatiquement au travers de la technologie des ad exchanges, cœur de cet écosystème. Ces plateformes technologiques où acteurs traditionnels (agences, ad networks) et même directement éditeurs (offre) et annonceurs (demande) peuvent se connecter !  Bref, un beau fourre-tout où il devient difficile de s’y retrouver.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/vue-simplifiee-ecosuysteme-display-310x111.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/vue-simplifiee-ecosuysteme-display.jpg) Ecosystème simplifiée de l'achat display en programmatique
+[![Image](/images/blog/vue-simplifiee-ecosuysteme-display-310x111.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/vue-simplifiee-ecosuysteme-display.jpg) Ecosystème simplifiée de l'achat display en programmatique
 ### ***Le programmatique, c’est aussi 2 façons de commercialiser des espaces de pub.***
 
 Prix fixes : Tarifs des bannières négociés au préalable et garantie entre un annonceur et un vendeur on parle de programmatique prémium, direct, réservée. Et ensuite les espaces non réservés de gré à gré aussi comme précédemment, on parle de preferred deals, d’accès privé.
@@ -80,7 +81,7 @@ https://youtu.be/9PgMQUKeDKg
 
 Aux Enchères : on trouve ici le RTB  (real time bidding) en enchères ouvertes sur des places de marchés entre un vendeur et des potentiels acheteurs, mais aussi les mises en enchères privées sur des espaces privatifs entre un vendeur et quelques potentiels acheteurs (private auction and access).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/classement-achat-programmatique-display-204x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/classement-achat-programmatique-display.jpg) Classement 2015 des acheteurs en programmatique (sri)
+[![Image](/images/blog/classement-achat-programmatique-display-204x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/classement-achat-programmatique-display.jpg) Classement 2015 des acheteurs en programmatique (sri)
 ### ***Rtb, n’est donc qu’une composante du programmatique***
 
 Souvent la confusion est de mise quand on discute d’achat programmé, ou Rtb est pris comme synonyme de programmatique. Le  Rtb n’est  finalement qu’un protocole de programmation qui agit en temps réel pour acheter, vendre et miser pour remporter l’enchère (publique ou privée), dans l’écosystème de l’achat online de bannières.
@@ -93,7 +94,7 @@ Les modèles se font donc sur la base du cpm, cpc cpa bref toute la panoplie que
 
 Les menaces qui pèsent sur le display, pèsent en fait sur tout le marché publicitaire en général. Entre les adblockers et le faux trafic par des robots cela laisse de beaux jours aux vendeurs de technos. de contrôles en tout genre, de garanties de sécurités sur cet écosystème de serveurs (évalués à 2000 en nombre de machines). Le programmatique serait plus exposé à hauteur de 50% à des pratiques malveillantes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/nht-non-human-trafic-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/nht-non-human-trafic.jpg) NHT une fraude bien rodée
+[![Image](/images/blog/nht-non-human-trafic-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/nht-non-human-trafic.jpg) NHT une fraude bien rodée
 ### **Les principaux enjeux de la qualité en programmatique **
 
  	- **UX** : Préserver l’expérience utilisateur afin de minimiser les bloqueurs de publicité

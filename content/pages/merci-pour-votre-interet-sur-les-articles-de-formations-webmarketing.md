@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "merci-pour-votre-interet-sur-les-articles-de-formations-webmarketing"
+image: "/images/blog/Drawing1.png"
 ---
 
 **Bonjour **

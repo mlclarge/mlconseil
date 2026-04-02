@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "etude-le-e-commerce-francais"
+image: "/images/blog/image-etude-wmktgcom.jpeg"
 ---
 
 Allez voir le résultat de l'étude de Benoit Guyot qui a  analysé,  à travers la data d' un panel large de sites ecommerce, leur  degré de maturité à l'aune de marqueurs webmarketing (répartition des Tld, Cms, Tms, Remarketing..)

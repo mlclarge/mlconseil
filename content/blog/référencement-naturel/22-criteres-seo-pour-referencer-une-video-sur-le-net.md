@@ -11,7 +11,7 @@ Intéressons-nous cette semaine aux  techniques de référencement (seo) pour 
 
 Ce mois de juillet 2012 *(voir fig. 1)*, selon Comscore,  voit Google avec Youtube  principalement conserver sa médaille d’or parmi les 20 premières plateformes vidéo en France. Cependant, une légère baisse est observée avec 39,2 millions de visiteurs uniques contre 40,2 millions au mois de juin. Vient ensuite Dailymotion, (16.6 M).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-classement-top-280x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-classement-top.png) Fig. 1 Classement des plateformes vidéos
+[![Image](/images/blog/1-classement-top-280x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/1-classement-top.png) Fig. 1 Classement des plateformes vidéos
 
 Au total, dans le monde, sur Youtube seulement, c’est 4 milliards de vidéos vues par jours dans le monde ([Reuters](http://www.reuters.com/article/2012/01/23/us-google-youtube-idUSTRE80M0TS20120123))
 
@@ -49,7 +49,7 @@ Les marketers ne manquent pas d’idées  pour créer des contenus vidéo origi
 
 	- « **Démo-produit** » le choix d’amandine* ( faire parler simplement un employé de la société fig. 2) *
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-fnac-demo-produit-300x215.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-fnac-demo-produit.png) Fig.2 Vidéo démo-produit Fnac
+[![Image](/images/blog/2-fnac-demo-produit-300x215.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/2-fnac-demo-produit.png) Fig.2 Vidéo démo-produit Fnac
 
 **Visible sur http://tinyurl.com/9shr37m**
 
@@ -98,7 +98,7 @@ Les formats peuvent variés selon les objectifs marketing assignés au support 
 
 Sur Youtube, 11 formats d’annonces sont disponibles pour les vidéos *(voir fig.3).*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/3-formats-annonces-videos-300x216.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/3-formats-annonces-videos.png) Fig.3 Onze  formats d'annonces vidéos
+[![Image](/images/blog/3-formats-annonces-videos-300x216.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/3-formats-annonces-videos.png) Fig.3 Onze  formats d'annonces vidéos
 
  
 
@@ -106,7 +106,7 @@ Ce guide ci dessous n'existe plus, mais c'est collector !
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-guide-adwords-vidéos-310x224.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-guide-adwords-vidéos.png) guide-adwords-vidéos
+[![Image](/images/blog/4-guide-adwords-vidéos-310x224.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/4-guide-adwords-vidéos.png) guide-adwords-vidéos
 
  
 ## **2. Techniques de référencement pour une vidéo (SEO)**
@@ -141,7 +141,7 @@ Facilite la viralité de son contenu, depuis l’intégration de sa vidéo sur s
 
 Une vidéo peut être matérialisée avec une image fixe *(bien renseignée en métadonnées pour Google image par exemple)*. Cette image deviendra ensuite un relai supplémentaire pour élargir l’audience. Mais ne soyons pas dupe, je parle ici essentiellement de Google (via youtube) car nous sommes en France. Une étude de l’année dernière (mars 2011) d’aimClear sur le pourcentage probable d’allocation des différentes plateformes de diffusion pour la firme Californienne.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-allocation-video-google-300x244.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-allocation-video-google.png) Fig. 5  Allocations par Google de plateformes vidéo
+[![Image](/images/blog/5-allocation-video-google-300x244.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/5-allocation-video-google.png) Fig. 5  Allocations par Google de plateformes vidéo
 
 	- Créer des **miniatures optimisées** (à l’aide du sitemap)
 
@@ -224,7 +224,7 @@ Le reporting de la plateforme vidéo de Google est scindée en **2 zones** (fig.
 
 - **La participation** avec le potentiel abonnés, les utilisateurs ayant aimés ou pas, les favoris, commentaires, partages et annotations (bêta).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-analytics-video-279x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-analytics-video.png) Fig. 6 Suivi statistiques et analytics dans Youtube
+[![Image](/images/blog/6-analytics-video-279x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/08/6-analytics-video.png) Fig. 6 Suivi statistiques et analytics dans Youtube
 ### **Aide générale Youtube**
 
 	- [http://support.google.com/youtube/bin/topic.py?hl=fr&topic=12632](http://support.google.com/youtube/bin/topic.py?hl=fr&topic=12632)

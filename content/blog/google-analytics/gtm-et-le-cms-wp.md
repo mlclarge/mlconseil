@@ -21,7 +21,7 @@ Dans le cadre d’un suivi via** Google analytics**, mais ce n’est pas obligat
 
 	- Installer, selon besoin, un datalayer (pour des besoins de personnalisation, pour collecter des données non disponibles sur la page visitée (ecommerce sur la page de remerciement)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/mise-en-place-gtm-analytics-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/mise-en-place-gtm-analytics.jpg) Position du GTM dans la page
+[![Image](/images/blog/mise-en-place-gtm-analytics-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/mise-en-place-gtm-analytics.jpg) Position du GTM dans la page
 ## **Exemple d’intégration dans un WordPress sans plugin**
 
 	- Faire les étapes 1 et 2 du chapitre précédent
@@ -51,7 +51,7 @@ b)  Le N° UA si pas renseigné au préalable sous forme de macro dans le GTM b
 c)  Les 404 (url non disponible)
 d)  Les attributs de la page d’accueil (type de  post et catégorie si non renseigné dans le gtm au départ), le contenu des pages web de WordPress (voir liste ci-dessus)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/datalayer-gtm-310x275.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/datalayer-gtm.jpg) Extrait du code d'un Datalayer pour WP
+[![Image](/images/blog/datalayer-gtm-310x275.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/datalayer-gtm.jpg) Extrait du code d'un Datalayer pour WP
 ## **Les Plugins WP pour le GTM**
 
 ### Offres de la communauté WP
@@ -87,14 +87,14 @@ Le dernier reste mon préféré. Il est vrai que j’ai rencontré son développ
 
 	- Flexible : désactivation depuis wp de certaines balises, macros du container.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/plugin-gtm-analytics-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/plugin-gtm-analytics.jpg) Interface du Plugin duracelltomi.com
+[![Image](/images/blog/plugin-gtm-analytics-310x154.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/plugin-gtm-analytics.jpg) Interface du Plugin duracelltomi.com
 
 C’est tout de même pas mal non ?
 ### **Lecture des rapports : Evènements avec Clics et Scrolling**
 
 Trop de données, tuent celles dont on a cruellement besoin, mais bon, pour le fun dirons-nous, le scrolling de la page est amusant, cela fait partie des évènements à lire dans les rapports standards.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/scrolling-site-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/scrolling-site.jpg) Rapport Evènements issu du GTM
+[![Image](/images/blog/scrolling-site-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/scrolling-site.jpg) Rapport Evènements issu du GTM
 ## Infos supplémentaires sur le gestionnaire
 
 	- MicroSite dédié [http://duracelltomi.com/](http://duracelltomi.com/)

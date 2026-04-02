@@ -21,11 +21,11 @@ Prenons le cas d’une entreprise lambda, en dehors de  problématique black ha
 
 Les requêtes sont-elles **concurrentielles, génériques, ou  locales** ?  L’optimisation est-elle « forcée »  avec  ancres de texte sur-optimisées  et  liée aux NDD (nom de domaines) ? Le contenu est-il spammy avec des sites satellites, Made For Adsense, sans contenu ?
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/moz-cast-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/moz-cast.jpg) Tendance à la baisse pour les EMD d après Moz Cast
+[![Image](/images/blog/moz-cast-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/moz-cast.jpg) Tendance à la baisse pour les EMD d après Moz Cast
 
 Mais, pourtant, dans les SERP, on peut toujours s’étonner de voir de l’**EMD ou du PMD** *(correspondance partielle du domaine, une seule partie de la requete est retrouvée dans le D.)* . Bien sûr, c’est d’ailleurs le cas sur des  requêtes constatées aujourd’hui, mais ces positionnements sont ceux recueillis à un instant « T », sont-ils pérennes ? Ou n’y a-t-il pas aussi au-delà de l’aspect du domaine, un réel travail de contenu qualitatif ?  Cette fin juin, Google a d’ailleurs revue sa copie aussi sur les PMD
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/pmd-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/pmd.jpg) Même tendance pour les PMD selon MOZ Cast
+[![Image](/images/blog/pmd-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/pmd.jpg) Même tendance pour les PMD selon MOZ Cast
 ### **Utilité réductrice avec les EMD génériques**
 
 Quel réel bon sens d’acheter un nom de domaine basé sur une requête, même concurrentielle soit elle ? Pour la typo. en  « gras » du rendu de l’url ?  La richesse des requêtes des internautes n’est plus à démontrer, pourquoi réduire l’activité professionnelle à 1 mot clé ?  Ceci dit, certaines entreprises peuvent se limiter qu’à une seule combinaison de termes, auquel cas, l’**EMD est  une éventuelle solution**.
@@ -72,7 +72,7 @@ Des outils permettent de « **snapper **» des noms de domaines, c’est-à-di
 
 ***.music / .golf / .web/  .amazon  / .renault / .paris !***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/generique-domaines-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/generique-domaines.jpg) Nouvelles extensions 2013
+[![Image](/images/blog/generique-domaines-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/generique-domaines.jpg) Nouvelles extensions 2013
 
 C’est plus de 2000  nouvelles extensions dans les prochaines années qui vont voir le jour dont plus d’un tiers déjà réservés par des grandes enseignes. Il va devoir se gratter la tête pour pouvoir choisir celui qui convient le mieux. Le prix et les procédures instaurées par l’icann et gérer par IBM et Deloitte tentent de dissuader les tentatives de cybersquatting.
 
@@ -84,7 +84,7 @@ Une astuce aussi lié au nom de domaine, est le paramétrage de son serveur de m
 
 Cela n’a rien de statistiques, juste  un test sur des requêtes,  afin d’en observer les résultats. Je n’ai gardé que l’url en indiquant la position (pastille noire)  selon 3 catégories :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/bois-serp-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/bois-serp.jpg) Serp Locaux et EMD
+[![Image](/images/blog/bois-serp-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/bois-serp.jpg) Serp Locaux et EMD
 
 	- Locales
 
@@ -92,6 +92,6 @@ Cela n’a rien de statistiques, juste  un test sur des requêtes,  afin d’e
 
 	- Concurrentielles
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/07/tableau-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/tableau.jpg) Requêtes et EMD/PMD
+[![Image](/images/blog/tableau-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/07/tableau.jpg) Requêtes et EMD/PMD
 
 On se rend bien compte que ce n’est pas simple, sans un jugement hâtif qui amènerait à dire, d’après ces résultats, que les mots clés dans les noms de domaine bénéficient de bonnes positions, tant on ne connait pas les contenus qui se cachent derrière, ni le fait qu’en l’absence de mots clés dans le domaine,  ces positions auraient pu être similaire.  Il faudrait aussi monitorer à différents moments pour juger de la pérennité de certaines urls.

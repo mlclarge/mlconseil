@@ -65,26 +65,26 @@ Il va falloir pour cela créer  2 éléments *(au préalable, le code de suivi 
 
 1 balise « Google analytics (classique ou universelle) » dont le type sera celui d’évènement munie des 4 paramètres (catégorie, action, libellé, et valeur) pour enregistrer le clic. La règle invoquée celle de la macro {{event}}  égale à la valeur de GA « gtm.click ». Là aussi rien n’est à coder, il suffit de remplir les champs aux bons endroits.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement.jpg) Misen en place 2eme balise
+[![Image](/images/blog/evenement-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement.jpg) Misen en place 2eme balise
 
 Ensuite, directement dans la rubrique temps réel dans Google analytics, on peut observer ce que cela donne en allant sur « evènement » puis observer la colonne « action d’évèn. »  rendu par la macro paramétrée sur {{element}} dans les paramètres de la seconde balise « GA » (ci-dessus).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/rapport-temps-réel-lien-sortant-310x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/rapport-temps-réel-lien-sortant.jpg) rapport-temps-réel-lien-sortant
+[![Image](/images/blog/rapport-temps-réel-lien-sortant-310x184.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/rapport-temps-réel-lien-sortant.jpg) rapport-temps-réel-lien-sortant
 ### Suivre un clic sur un lien spécifique*
 
 Je souhaite suivre le lien sortant dans le pied de page qui amène sur Twitter par exemple. Le principe est le même donc 2 balises à créer :
 
 La Balise « clics sur le liens » (donnée,rien à inventer)  cette fois ci rentre en jeu, sur « toutes les pages » (regex .*).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/clic-sur-liens-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/clic-sur-liens.jpg) 1ere balise : Clic sur Liens
+[![Image](/images/blog/clic-sur-liens-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/clic-sur-liens.jpg) 1ere balise : Clic sur Liens
 
 La balise évènement, quant à elle,  est basée sur la règle qui observe 2 conditions dont la macro {{event}} qui doit être égale à  gtm.linkClick (donné nativement) + l’url suivie {{element url}}  qui doit contenir « twitter » par exemple. Attention aux paramétrages des suivis des évènements, afin de s'y retrouver ensuite dans ses rapports dans GA .
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement-lien-sortant-310x284.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement-lien-sortant.jpg) 2nde Balise évènement
+[![Image](/images/blog/evenement-lien-sortant-310x284.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/evenement-lien-sortant.jpg) 2nde Balise évènement
 
 Dans Google analytics, une fois son « action » et son libellé d’évènement paramétré, on peut suivre l’activité des clics sur ce type de  lien sortant.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/temps-réel-evènement-292x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/temps-réel-evènement.jpg) temps-réel-evènement
+[![Image](/images/blog/temps-réel-evènement-292x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/temps-réel-evènement.jpg) temps-réel-evènement
 
 Finalement pour les non codeurs, cela devient facile, attention aussi à  ne pas tomber dans un excès de données superflues en se prenant au jeu de la facilité d’implémentation !
 

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Publicité Internet"]
 tags: []
 slug: "lavenir-de-la-publicite-selon-google"
+image: "/images/blog/google-framework-publicitai.jpg"
 ---
 
 Google est la victime à abattre ! Il faut démanteler le géant numérique ! Après l’Europe, c'est les états unis où 30 procureurs généraux lancent une enquête coordonnée sur les pratiques antitrust de google, mais c'est aussi Trump qui accuse google ne le défavoriser dans sa campagne présidentielle, et pour couronner le tout, voilà la CNIL irlandaise interpelé par La société Brave, qui édite un navigateur concurrent de Chrome et qui révèle dans  le  Financial Times que Google utiliserait un système de pages web cachées, les « Push Pages » support de publicités ciblées pour les annonceurs. Rien que ça...dans ce contexte bouillant, [**google publie un document** ](https://services.google.com/fh/files/misc/industry_request_for_comment_v1.0.pdf)sur sa vision de l**'avenir de la [publicité sur internet](https://www.mauricelargeron.com/faire-une-publicite-audio-sur-google/) dans un contexte de protection des données personnelles et de fraude et brand safety ?**
@@ -15,7 +16,7 @@ Google est la victime à abattre ! Il faut démanteler le géant numérique ! Ap
 
 Les autorités de réglementation et les consommateurs incitent de plus en plus Google à protéger de plus en plus la vie privée des utilisateurs, mais le contenu Web gratuit nécessite souvent des publicités bien ciblées pour sa survie. Google a tout intérêt à préserver cet écosystème vue sa position de leader sur la publicité numérique dans le monde, mais le cadre plus large que propose Google modifierait fondamentalement le fonctionnement du ciblage des annonces en ligne.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/information-et-control-de-la-part-des-utilisateurs.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/information-et-control-de-la-part-des-utilisateurs.jpg) Information et controle de la part des utilisateurs sur le contenu publicitaire
+[![Image](/images/blog/information-et-control-de-la-part-des-utilisateurs.jpg)](/images/blog/information-et-control-de-la-part-des-utilisateurs.jpg) Information et controle de la part des utilisateurs sur le contenu publicitaire
 
 *La proposition s'articule autour de trois principes*
 
@@ -25,7 +26,7 @@ Les autorités de réglementation et les consommateurs incitent de plus en plus 
 
  	- **Le contrôle **où les utilisateurs peuvent modifier les processus de collecte de données et d’application, y compris en ce qui concerne la personnalisation des annonces. Le document critique spécifiquement le blocage à grande échelle des cookies, une approche adoptée par des concurrents comme Apple, qui, selon Google, constituerait un obstacle pour les revenus des éditeurs.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/maquette-de-consentement-google.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/maquette-de-consentement-google.jpg)
+[![Image](/images/blog/maquette-de-consentement-google.jpg)](/images/blog/maquette-de-consentement-google.jpg)
 
  	- De nouvelles normes concerneraient
 

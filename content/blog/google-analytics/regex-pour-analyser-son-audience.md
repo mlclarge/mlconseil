@@ -58,7 +58,7 @@ Ex : « Google »  dans un champ dédié au RegEx dans GA, est une RegEx !
 
 **Seo**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.-1-filtreliteral1.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.-1-filtreliteral1.png) Fig. 1 filtreliteral
+[![Image](/images/blog/Fig.-1-filtreliteral1.png)](/images/blog/Fig.-1-filtreliteral1.png) Fig. 1 filtreliteral
 ### **Filtre**
 
 **Cas 2 : **Filtre et exclusion de cette adresse ip afin de ne pas mesurer l’audience qui provient de cette machine (fig.2)
@@ -67,7 +67,7 @@ Ex : « Google »  dans un champ dédié au RegEx dans GA, est une RegEx !
 
 **192\.168\.0.***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.2-filtreIp.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.2-filtreIp.png) Fig.2 Filtrage adresse Ip
+[![Image](/images/blog/fig.2-filtreIp.png)](/images/blog/fig.2-filtreIp.png) Fig.2 Filtrage adresse Ip
 ### **Analyse ****mots clés******
 
 **Cas 3 : **Allons un petit peu plus loin et essayons parmi une liste de mots clés , de trouver ceux qui font référence au terme « *référencement » *avec ou sans accent sur le « e »  afin d’avoir un résultat agrégé (fig.3)
@@ -76,7 +76,7 @@ Ex : « Google »  dans un champ dédié au RegEx dans GA, est une RegEx !
 
 **rfrencement**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.3-filtre-mots-cles1.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.3-filtre-mots-cles1.png) Fig.3 filtre-mots-cles
+[![Image](/images/blog/fig.3-filtre-mots-cles1.png)](/images/blog/fig.3-filtre-mots-cles1.png) Fig.3 filtre-mots-cles
 
 **Cas 4 :** Enfin, je souhaite avoir les mots clés faisant référence au terme (référencement **ou **seo)
 
@@ -98,7 +98,7 @@ Poussons plus loin notre analyse admettons avoir une liste d’urls qui correspo
 
 **\/categorie1\/produit\?id={1,}**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.4-Filtre-Objectif-Ga.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.4-Filtre-Objectif-Ga.png) fig.4 Filtre-Objectif-Ga
+[![Image](/images/blog/fig.4-Filtre-Objectif-Ga.png)](/images/blog/fig.4-Filtre-Objectif-Ga.png) fig.4 Filtre-Objectif-Ga
 ### **Segment personnalisé**
 
 **Cas 5 :** Suivre le trafic de Google image
@@ -107,7 +107,7 @@ Cette fois-ci je souhaite retenir le traffic amené par Google image par exemple
 
 **/imgres**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.5-segments-images.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.5-segments-images.png) Fig.5 segments-images
+[![Image](/images/blog/fig.5-segments-images.png)](/images/blog/fig.5-segments-images.png) Fig.5 segments-images
 
 **Cas 6 :** Suivre le trafic des mots clés à rallonge, la long TAIL ou longue traîne (fig.6)
 
@@ -118,11 +118,11 @@ Ici, pas d'expression littérale, car on ne connait pas la donnée source, vu qu
 ** ^\s*+(\s++){2}\s*$ - 3 mots clés**
 ** ^\s*+(\s++){3}\s*$ - 4 mots clés**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.61-Reg-ex-Mots-cles-3-mots.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.61-Reg-ex-Mots-cles-3-mots.png) fig.61 Décryptage RegEx longue traîne
+[![Image](/images/blog/fig.61-Reg-ex-Mots-cles-3-mots.png)](/images/blog/fig.61-Reg-ex-Mots-cles-3-mots.png) fig.61 Décryptage RegEx longue traîne
 
 Dans google anlytics cela donne..(fig. 7)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.6-Reg-ex-Mots-cles-3-mots1-496x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.6-Reg-ex-Mots-cles-3-mots1.png) Fig. 7 Reg-ex-Mots-cles-3-mots
+[![Image](/images/blog/fig.6-Reg-ex-Mots-cles-3-mots1-496x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.6-Reg-ex-Mots-cles-3-mots1.png) Fig. 7 Reg-ex-Mots-cles-3-mots
 ### **Construire un tunnel de conversion **(fig.8)
 
 Répérer ses pages ou urls qui marquent votre panier, voici le principe (adapter la syntaxe au chemin de l’url)
@@ -141,7 +141,7 @@ Répérer ses pages ou urls qui marquent votre panier, voici le principe (adapte
 ** ^/panier/\d+/paiement**
 ** ^/panier/\d+/remerciement**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.7-Panier-ga.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.7-Panier-ga.png) fig.8 Tunnel de conversion ga
+[![Image](/images/blog/fig.7-Panier-ga.png)](/images/blog/fig.7-Panier-ga.png) fig.8 Tunnel de conversion ga
 ### **Analyse sous domaine (filtre avancé)**
 
 Analyse sous domaine (si l’on possède  des sous domaines, forum, blog, support) et que l’on souhaite suivre ces sous domaines , il convient de faire un filtre personnalisé. Attention, on veillera à créer un profil dédié sur lequel s’appliquera ce filtre. 2 variables :  Le nom d’hôte « forum » et l’URI  « rubriqueduforum ». Exemple d’url à filtrer : http://forums.mondomaine.fr/forum/rubriqueduforum/ (fig.8)
@@ -150,7 +150,7 @@ RegEx : (.*) avec un constructeur (pour associer les 2 champs)
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.8-Analyse-sous-domaine1.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.8-Analyse-sous-domaine1.png) Fig.9 Analyse sous domaine
+[![Image](/images/blog/fig.8-Analyse-sous-domaine1.png)](/images/blog/fig.8-Analyse-sous-domaine1.png) Fig.9 Analyse sous domaine
 ## **Liens utiles pour les expressions régulières**
 
 Articles et documentation :

@@ -15,13 +15,13 @@ La plus grande difficulté aujourd’hui pour tous marketeurs, c’est de faire 
 
 L’art de croiser des données de profil récupérées depuis les services Google ne date pas d’hier. On trouve des traces de Brevet dès 2001 où apparaissent les grandes entités nécessaire au profilage utilisateurs : données de l’utilisateur (compte, achat, historique) , de l’annonceur (campagnes, règlements, fichiers clients..),  des publicités (mots clés, annonces, fichiers), des emails envoyés, des statistiques du site etc..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/brevet-google-demographic-ads-targetinh-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/brevet-google-demographic-ads-targetinh.jpg) Dès 2001 un brevet pour le ciblage démographique moteur
+[![Image](/images/blog/brevet-google-demographic-ads-targetinh-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/brevet-google-demographic-ads-targetinh.jpg) Dès 2001 un brevet pour le ciblage démographique moteur
 
 Alors que Facebook est encore tout bébé, en 2006, le consultant seo Greg Jarboe écrit un article dans SEW (search engine watch)  suite à une conférence à New York du 27 mars 2006 sur les  stratégies d’acquisition par les moteurs de recherche. La  première ligne de ce papier online dit ceci :
 
 « le ciblage des utilisateurs uniquement par les mots clés arrive à sa fin, maintenant, les moteurs ont la capacité de cible les requêteurs par âge, genre et autres critères démographiques. »
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/historique-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/historique.jpg) 2006 se dessine déjà les avancées dans le ciblage audience
+[![Image](/images/blog/historique-310x139.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/historique.jpg) 2006 se dessine déjà les avancées dans le ciblage audience
 
 Dès 2009, Yahoo et Bing proposeront des critères démographiques (âge, genre)  de ciblage sur leur moteur.
 ### ***Priorité au display pour Google dès 2008***
@@ -32,16 +32,16 @@ En janvier 2008, Google adwords lance une version bêta de son ciblage démograp
 
 Depuis 2013, uniquement aux USA, via une base statistique de comscore, en plus d’un ciblage géographique, il est possible de cibler ses visiteurs selon des tranches de revenus des utilisateurs potentiels.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/ciblage-revenu-sur-usa-310x213.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/ciblage-revenu-sur-usa.jpg) Ciblage par revenus au Us
+[![Image](/images/blog/ciblage-revenu-sur-usa-310x213.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/ciblage-revenu-sur-usa.jpg) Ciblage par revenus au Us
 ## **Naissance de DFSA : démographics for ads search**
 
 Fin de 1er semestre 2014, les premières versions bêta sortent aux US, sur un ciblage démographique avancé, similaire à celui du display déjà existant.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/bing-ciblage-audience-310x168.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/bing-ciblage-audience.jpg) Chez Bing aperçu  ciblage audience
+[![Image](/images/blog/bing-ciblage-audience-310x168.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/bing-ciblage-audience.jpg) Chez Bing aperçu  ciblage audience
 
 Il est désormais possible, comme le fait bing depuis un moment, de choisir une tranche d’âge, le sexe et éventuellement le statut.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/dsfa-adwords-reporting-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/dsfa-adwords-reporting.jpg) Reporting adwords Dfsa
+[![Image](/images/blog/dsfa-adwords-reporting-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/dsfa-adwords-reporting.jpg) Reporting adwords Dfsa
 
 Google adwords  pour le « search » serait donc dans un avenir en passe de rivaliser avec ce qui fait la grande force des réseaux sociaux : la capacité de cibler  d’une manière précise leurs  audiences par critères démographique (âge, sexe, langue), géographique (lieux), csp (revenus).
 

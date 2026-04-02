@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "focus-sur-management-de-projet-digital"
+image: "/images/blog/CHEF-DE-PROJET-DIGIT.jpg"
 ---
 
 La dernière [étude d'adobe 2016](https://blogs.adobe.com/digitaleurope/files/2016/10/Adobe-Digital-Roadblock-EMEA.pdf) sur les cadres professionnels du marketing  digital laisse apparaître une certaine anxiété quant à leur capacité à s'adapter aux challenges sans cesse grandissants imposés par la nature même de la discipline (transformation numérique, ubérisation etc).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/etude-2016-adobe-roadblock-310x181.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/etude-2016-adobe-roadblock.jpg) Etude-2016-adobe-roadblock
+[![Image](/images/blog/etude-2016-adobe-roadblock-310x181.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/etude-2016-adobe-roadblock.jpg) Etude-2016-adobe-roadblock
 
 Alors , de ces métiers du webmarketing, quant est il vraiment ? Concentrons-nous cette semaine sur l'un d'entre-eux. En effet, il m'arrive d'intervenir sur  des  formations intitulées « **chef de projet digital **». Mais qu’est ce qu'un chef de projet digital  réellement ?   Voici , à grands traits,  ses principales caractéristiques complétées  par un témoignage précieux de l’agence de communication 360  M[y Client is Rich](https://www.myclientisrich.com/), basée à Strasbourg.
 
@@ -17,7 +18,7 @@ Alors , de ces métiers du webmarketing, quant est il vraiment ? Concentrons-nou
 
 Voici par exemple une feuille de poste que l'on peut retrouver sur les portails d'emploi (merci Vincent).  On retrouve souvent des profils où "le mouton à 5  pattes" est recherché.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/extrait-de-poste-responsable-digital-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/extrait-de-poste-responsable-digital.jpg) extrait-de-poste-responsable-digital
+[![Image](/images/blog/extrait-de-poste-responsable-digital-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/extrait-de-poste-responsable-digital.jpg) extrait-de-poste-responsable-digital
 
 Ce style de profil s'apparente souvent  pour un poste en agence Web et en reflète bien la substance. On peut retrouver aussi chez l'annonceur ce genre de poste mais il sera plus souvent relié dans l' organigramme au service communication de l'entreprise.
 
@@ -38,7 +39,7 @@ Je vous recommande de lire ce doc. il segmente en 3 univers la sphère des méti
 
  	- M. Produit : chef de produit mobile, Brand/ content manager, social et community manager.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/marketing-strategique-operationnel-et-branding-307x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/marketing-strategique-operationnel-et-branding.jpg) Marketing-strategique-operationnel-et-branding
+[![Image](/images/blog/marketing-strategique-operationnel-et-branding-307x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/marketing-strategique-operationnel-et-branding.jpg) Marketing-strategique-operationnel-et-branding
 
 Quatre catégories d'informations animent cette typologie métier avec pour chaque partie :
 
@@ -50,12 +51,12 @@ Quatre catégories d'informations animent cette typologie métier avec pour chaq
 
  	- Un témoignage concret d'acteur et enfin des exemples de postes qui ont pu être diffusé par l’APEC.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/sphere-metiers-du-digital-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/sphere-metiers-du-digital.jpg) Metiers-du-digital
+[![Image](/images/blog/sphere-metiers-du-digital-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/sphere-metiers-du-digital.jpg) Metiers-du-digital
 ## **Etre chef de projet digital en agence : focus sur  Mcir**
 
 J'ai aussi interrogé mon agence Web préférée sur ce que peut évoquer ce genre de poste.Je remercie tout particulièrement @Charlotte et @Anne pour leur participation ! Voici leur réponse.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/CHARLOTTE-KRAUSS-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/CHARLOTTE-KRAUSS.jpg) Charlotte-Krauss chef de projet
+[![Image](/images/blog/CHARLOTTE-KRAUSS-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/CHARLOTTE-KRAUSS.jpg) Charlotte-Krauss chef de projet
 
 *Quelle est la vocation de MCIR ?*
 La vocation de My Client is Rich ? Rendre ses clients riches. Et beaux. Et forts.
@@ -70,7 +71,7 @@ Le chef de projet digital redistribue les tâches via l'outil et les suit jusqu'
 *Comment est organisée la relation client/agence lors du déroulement d'un projet ? (ex: rendez-vous, reporting, call distant, hang Out...)*
 Tout dépend si le client se situe à Strasbourg ou Hong Kong ! E-mail, call, skype, hang out, réunion en face à face : les moyens différent selon la localisation du client, les points à aborder lors de la réunion (petites questions ou gros point d'avancée) et les modes de communication privilégiés du client. C'est le chef de projet digital ou le patron qui planifient les rdv avec le client. Les rdv se font si possible en présentiel.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/10/ANNE-SCHNEPP-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/ANNE-SCHNEPP.jpg) Anne-schnepp agence web mcir
+[![Image](/images/blog/ANNE-SCHNEPP-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/10/ANNE-SCHNEPP.jpg) Anne-schnepp agence web mcir
 *Comment est conçue la rédaction du cahier des charges "type" pour un projet (spécifications éditoriales, fonctionnelles..) ?*
 Cette question se pose notamment pour la conception d'un site Web. Le cahier des charges comprend en particulier toutes les spécificités techniques qui exigent d'être anticipées en amont du projet, et conditionneront la conception graphique du site. Je ne gère pas la création des sites internet. C'est très variable selon les autres projets.
 *L'agence utilise-t-elle des outils plus spécifiques de suivi de gestion de développement logiciels de type "mantis" ou autre ?*

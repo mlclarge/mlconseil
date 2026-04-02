@@ -5,6 +5,7 @@ author: "admin"
 categories: ["ads editor"]
 tags: []
 slug: "google-ads-editor"
+image: "/images/blog/google-ads-editor-v.04.jpg"
 ---
 
 Google a lancé le nouveau Google Ads Editor, [téléchargeable ici](https://ads.google.com/intl/fr_fr/home/tools/ads-editor/),  et rebrander l’ancien [Google Adwords Editor](https://www.mauricelargeron.com/ads-editor-v-2-0/). Cela arrive en ce printemps  après que Google a rebaptisé Google Adwords en Google ads officiellement depuis presque un an déjà.
@@ -30,7 +31,7 @@ Google Ads Editor v1 aide également à gérer les comptes plus rapidement !
 
 Identifiez les meilleures pratiques et assurez la mise en œuvre appropriée des campagnes. Au delà de la douzaine de règles  initiales qui permet d'indiquer si les paramétrages fondamentaux ont été faits, maintenant ces règles se rajoutent au fil du développement de la plateforme.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/04/google-ads-editor-liste-des-regles-personnalisées.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/04/google-ads-editor-liste-des-regles-personnalisées.jpg) google ads editor liste des regles personnalisées
+[![Image](/images/blog/google-ads-editor-liste-des-regles-personnalisées.jpg)](/images/blog/google-ads-editor-liste-des-regles-personnalisées.jpg) google ads editor liste des regles personnalisées
 ### ***Gestion des Enchères et budgets***
 
  	- Budgets quotidiens recommandés

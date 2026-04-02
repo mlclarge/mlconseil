@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Emailing"]
 tags: []
 slug: "une-charte-de-bonnes-pratiques-pour-annonceurs"
+image: "/images/blog/charte-emailing.jpg"
 ---
 
 Comment s’assurer de la **qualité d’une base d’emails** lors d’une campagne ? On a pu voir lors d’[articles précédents](https://www.mauricelargeron.com/emailing/) les aspects techniques nécessaires à la compréhension de ce [canal d’acquisition](https://fr.wikipedia.org/wiki/E-mailing) qui reste le plus vieux du monde …numérique. Comment choisir le bon prestataire pour un annonceur qui souhaite externaliser la gestion de ce levier ou cibler plus particulièrement une audience ? La sortie de l’ebook 2017 « charte de qualité Emailing » éditée par le collectif de la performance et de l’acquisition (syndicat des acteurs du marketing digital à la performance créé en 2008) marque sa volonté de communiquer sur les bonnes pratiques en la matière.
@@ -35,7 +36,7 @@ Dans cet ebook, vous retrouverez  les articles  de cette charte à savoir
 
  	- Mais aussi un descriptif des actions du CPA : régulation des adhérents 1 à 2 fois par mois par commission paritaire
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/06/cpa-235x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/cpa.jpg) Action du CPA
+[![Image](/images/blog/cpa-235x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/cpa.jpg) Action du CPA
 ## **Un annuaire de 58 sociétés chartées **
 
 Intérêt aussi de ce document, c’est de pouvoir avoir une 1ère idée sur la qualité de la base d’emails des prestataires. Sont présentés chacun des signataires avec le descriptif des bases emails qu’ils utilisent constitué de 4 critères :
@@ -48,6 +49,6 @@ Intérêt aussi de ce document, c’est de pouvoir avoir une 1ère idée sur la 
 
  	- Thématiques : de l’alimentaire  aux ventes privées !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/06/fiche-adhérents-cpa-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/fiche-adhérents-cpa.jpg) Exemple de fiche d'informations sur 1 base emails par adhérent signataire
+[![Image](/images/blog/fiche-adhérents-cpa-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/fiche-adhérents-cpa.jpg) Exemple de fiche d'informations sur 1 base emails par adhérent signataire
 
  	- **Charte du cpa disponible ici : [http://www.cpa-france.org/CPA_BookDesSignaitesCharteEmail_Edition2017.pdf](http://www.cpa-france.org/CPA_BookDesSignaitesCharteEmail_Edition2017.pdf)**

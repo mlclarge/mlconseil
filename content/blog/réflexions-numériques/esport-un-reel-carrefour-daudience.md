@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réflexions numériques"]
 tags: []
 slug: "esport-un-reel-carrefour-daudience"
+image: "/images/blog/esport-banniere.jpg"
 ---
 
 850 000 joueurs actifs, 4 millions de français suivent des compétitions de jeux vidéo en ligne ! De quoi s’arrêter cette semaine sur le phénomène pour en prendre la mesure. Y a t-il un réel enjeu pour les marques qui souhaitent cibler cette audience sans cesse grandissante ?
@@ -21,7 +22,7 @@ Il aura fallu pas moins de 40 ans d’histoire et bientôt 10 générations de t
 
  	- 1980 : Atari tient sa  1ere compétition avec plus de 10 000 participants.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/nolan-bushnell-310x285.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/nolan-bushnell.jpg) Nolan bushnell père des jeux vidéos (atari)
+[![Image](/images/blog/nolan-bushnell-310x285.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/nolan-bushnell.jpg) Nolan bushnell père des jeux vidéos (atari)
 
  	- 1985-1995 : Nintendo relance le marché avec sa console NES.  Une vieille institution japonaise qui a traversé le siècle et suivre son époque. Voici une courte histoire de ces consoles de jeux.
 
@@ -53,13 +54,13 @@ Un véritable écosystème économique se construit depuis une belle décennie. 
 
  	- 73 matchs, 4.2 millions d’audience simultanée
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/ecosysteme-esport-310x156.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/ecosysteme-esport.jpg) Ecosysteme Esport
+[![Image](/images/blog/ecosysteme-esport-310x156.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/ecosysteme-esport.jpg) Ecosysteme Esport
 
 Les gains vont de 5000 à 50 000 euros de cachet. Faker, coréen est actuellement le leader de la discipline dans le monde.
 
 Les marques de jeux (éditeurs),  la billetterie font parties des sponsors des évènements esport et garantissent une partie du succès du sport électronique. Ce dernier doit trouver ses marques sur des pays outsiders.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/montant-des-dotations-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/montant-des-dotations.jpg) Montants des dotations par Jeux
+[![Image](/images/blog/montant-des-dotations-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/montant-des-dotations.jpg) Montants des dotations par Jeux
 ## **La France, une envie d’avenir pour l’esport**
 
 ### ***Le gouvernement s’en mêle***
@@ -72,7 +73,7 @@ http://www.dailymotion.com/video/x40xbro_du-clavier-aux-ecrans-du-monde-entier-a
 
 Analyste, coach, médecin font parties du quotidien du joueur. Pouvoir accomplir jusqu’à 5 commandes à la seconde, cela se travaille. Yellow star pour le plus connu des joueurs professionnels en France de l’équipe Fnatic participe à ces grands tournois. Kayané c’est la joueuse féminine qui a débuté toute petite et qui a démarré les tournois à l’age de 9 ans. Elle a déjà gagné plus de 50 titres au fil des tournois dans le monde et vient de sortir un bouquin sur déjà sa longue carrière, à l’âge de 24 ans !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/profil-des-champions-espor-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/profil-des-champions-espor.jpg) Profil des champions espor
+[![Image](/images/blog/profil-des-champions-espor-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/profil-des-champions-espor.jpg) Profil des champions espor
 ## **Innovations de l’esport : du Big Data à la réalité augmentée**
 
 Fondée en 2014, la start up Pandascore développe une technologie d’analyse des jeux vidéo qui retranscrit en temps réels ce qui se passe dans un jeu. C’est du web analytics du jeu vidéo, de la data vendue aux équipes, aux sponsors, aux annonceurs. Cet techno traque les meilleurs moments du jeu pour mieux cibler les audiences potentielles.

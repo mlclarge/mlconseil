@@ -39,7 +39,7 @@ Le rapport cite d’ailleurs plus souvent le terme « déréférencement » (6
 
 Privilégier la coopération avec les hébergeurs et les acteurs du web pour un retrait des contenus illicites à la source et l’identification des auteurs. La charge d’éviction de contenus tendancieux  doit se faire dans la transparence, dans un processus normé et à double entrée. Notons qu’à la base,  la Lutte contre le  terrorisme et contenus adulte a été le faire valoir pour effacer ou retirer ces informations illicites , **si possible, avant que Google ne les indexe**.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/déréférencement-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/déréférencement.jpg) Processus de déférenceent
+[![Image](/images/blog/déréférencement-310x270.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/déréférencement.jpg) Processus de déférenceent
 ### *** **Economie et remise en cause de monopole***
 
 * *Qui aurait deviné l’Uberisation de l’économie où tout devient partageable et monnayable ?  Les dernières actualités  à propos des taxis le prouvent. Tout s’emmêle et s’entrechoque : politique, numérique, juridique. Comment empêcher sans  interdire ?
@@ -70,23 +70,23 @@ Les réponses du site français laissent songeur ! **Cherchez pas d’informati
 
 Chez les anglais, bien que le site soit en réfection actuellement, les premiers résultats renvoient sur le domaine gov.uk avec des contenus sur le sujet :  **on y parle mots clés, Google analytics et adwords**…même si parfois on s’éloigne du pur « seo », au moins on est dans la thématique. Celui du 10 downing street est plus précis, et les grands gagnants toujours les mêmes !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/meilleurs-moteurs-recherche-internes-gouv-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/meilleurs-moteurs-recherche-internes-gouv.jpg) Podium éphémère !
+[![Image](/images/blog/meilleurs-moteurs-recherche-internes-gouv-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/meilleurs-moteurs-recherche-internes-gouv.jpg) Podium éphémère !
 
 Pour les américains, leur moteur renvoie au choix sur un contenu lié directement au tld .gov ou alors sur les sites de l’ensemble de l’exécutif américain avec des notamment un guide pdf dont le contenu semble quelque peu obsolète  mais qui a le mérite d’exister ! Ils sont les 1er sur le podium en terme de pertinence ;)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/moteurs-de-recherche-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/moteurs-de-recherche.jpg) Résultats des 3 moteurs gouvernementaux : fr uk et usa
+[![Image](/images/blog/moteurs-de-recherche-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/moteurs-de-recherche.jpg) Résultats des 3 moteurs gouvernementaux : fr uk et usa
 
 J’ai fait la même chose sur le site du CNNum, ce n’est pas mieux..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/conseil-national-numerique-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/conseil-national-numerique.jpg)
+[![Image](/images/blog/conseil-national-numerique-310x143.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/conseil-national-numerique.jpg)
 
 Et sur le portail de bercy, alors là c’est pas mal non plus, on tombe sur liste de résultats de 2010 ! avec des suggestions de recherche qui n’ont strictement rien à voir ..dans la thématique ;)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/economie-gouv-fr-et-referencement-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/economie-gouv-fr-et-referencement.jpg) Moteur de Bercy
+[![Image](/images/blog/economie-gouv-fr-et-referencement-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/economie-gouv-fr-et-referencement.jpg) Moteur de Bercy
 
 Bon, j’en passe et des meilleurs avec le site : http://www.macyberautoentreprise.entreprises.gouv.fr/ qui lui aussi un site qui traite de cyber-entreprise et dont le réf nat lui est étrangé.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/seo-autoentreprise-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/seo-autoentreprise.jpg) Cyber entreprise et seo
+[![Image](/images/blog/seo-autoentreprise-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/seo-autoentreprise.jpg) Cyber entreprise et seo
 
 On peut se dire que soit la thématique n’est pas traitée sur le site (curieux tout de même pour leur nature) , soit les moteurs sont à la ramasse. Enfin, c’est un peu dommage.
 
@@ -94,7 +94,7 @@ On peut se dire que soit la thématique n’est pas traitée sur le site (curieu
 
 Chapeau bas pour le site de la french teck qui donne de la matière sur le sujet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/06/french-teck-et-web-251x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/french-teck-et-web.jpg) french teck répond enfin !
+[![Image](/images/blog/french-teck-et-web-251x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/06/french-teck-et-web.jpg) french teck répond enfin !
 ### **Sources rapport**
 
 	- Rapport du CNN :[http://www.cnnumerique.fr/telecharger-le-rapport-ambitionnumerique-du-cnnum-qui-a-ete-remis-au-premier-ministre-manuel-valls/](http://www.cnnumerique.fr/telecharger-le-rapport-ambitionnumerique-du-cnnum-qui-a-ete-remis-au-premier-ministre-manuel-valls/)

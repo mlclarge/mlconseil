@@ -23,7 +23,7 @@ Il distingue 2 types de résultats parmi les résultats organiques *(ne sont pas
 
 Il démontre cela * (à l’aide de captures d’écran, extrait voir fig-0)*  avec une requête « thai restaurant » pour l’exemple,  catégorisée comme locale par Google,depuis** 3 villes différentes** des USA* (portLand, chicago et Brooklyn). *Cette recherche fait apparaître dans l’ensemble et selon les villes d’origine indiquées, **3 styles de résultats** placés sur la 1ere page de Google *(qui compte désormais entre 10- 15 liens).         *
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/us-local-search-300x283.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/us-local-search.jpg)
+[![Image](/images/blog/us-local-search-300x283.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/us-local-search.jpg)
 
 *                                                                                                                                                                      *
 
@@ -63,7 +63,7 @@ J’obtiens pour Bordeaux  sur la 1er page de Google  (fig-1):
 
 	-   1 lien localisé donc optimisé pour la requête et qui amène sur un restaurant de Bordeaux
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois-300x281.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois.png)
+[![Image](/images/blog/fig0-resto-chinois-300x281.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois.png)
 
 J’obtiens pour Agen (Fig-2)
 
@@ -75,7 +75,7 @@ J’obtiens pour Agen (Fig-2)
 
 	-  1 lien sur Google images
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois-agen-281x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois-agen.png)
+[![Image](/images/blog/fig0-resto-chinois-agen-281x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/fig0-resto-chinois-agen.png)
 
 Et pour Toulouse (fig-3)
 
@@ -85,7 +85,7 @@ Et pour Toulouse (fig-3)
 
 	- 1 lien sur Google images
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/toulouse-279x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/toulouse.png)
+[![Image](/images/blog/toulouse-279x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/toulouse.png)
 
 Que tirer comme conclusion orienté "optimisation"  à mon tour ? Eh bien que l’effort pour optimiser sa présence  pour ce type de requête locale (activité de proximité) doit se porter :
 

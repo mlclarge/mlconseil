@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Outils Web et Marketing"]
 tags: []
 slug: "outil-de-redimensionnement-dimages-en-ligne-pour-reseaux-sociaux"
+image: "/images/blog/retouche-images-pour-réseau.jpg"
 ---
 
 Cet outil est proposé par [**Sprout Social**](https://sproutsocial.com/), une société qui édite une application pour community manager du genre Hootsuite ou Sociallymapp ! Cet utilitaire sert  , en mode gratuit , à  retoucher les images destinées à être diffusées sur les réseaux sociaux comme  **Twitter, Google+, facebook, pinterest, Instagram, Llinkedin, Youtube** ou en format personnalisable.
@@ -13,7 +14,7 @@ Cet outil est proposé par [**Sprout Social**](https://sproutsocial.com/), une s
 
 Notons au passage cette petite technique de GrowthHacking, car sur la  requête « outil de retouche pour instagram » par exemple sur Google, Landscape, le nom de ce tool,  est très bien placé parmi les premiers résultats.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/Landscape-Launch-Animation-Blog-Alt-Loop.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/Landscape-Launch-Animation-Blog-Alt-Loop.gif) logiciel de retouche d'image en ligne
+[![Image](/images/blog/Landscape-Launch-Animation-Blog-Alt-Loop.gif)](/images/blog/Landscape-Launch-Animation-Blog-Alt-Loop.gif) logiciel de retouche d'image en ligne
 
 Pas de prise d’adresse mail, l’outil est en accès libre, sans aucune inscription.
 ## ***Conditions requises pour le redimensionnement***
@@ -43,7 +44,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Event Image: 1920 x 1080 (Recommandé)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/0-482x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/0.jpg) Etape 1 reconnaissance de l'image et choix du réseau social
+[![Image](/images/blog/0-482x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/0.jpg) Etape 1 reconnaissance de l'image et choix du réseau social
 ### ***Twitter***
 
  	- Profil Photo: 400 x 400 (Displays 200 x 200)
@@ -62,7 +63,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Instagram Stories: 1080 x 1920
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/1-502x285.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/1.jpg) Etape 2 choix du type de  redimension sur le ou les images précédentes selon son choix ici 2 images
+[![Image](/images/blog/1-502x285.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/1.jpg) Etape 2 choix du type de  redimension sur le ou les images précédentes selon son choix ici 2 images
 ### ***LinkedIn***
 
  	- Personnel Profile Image: 400 x 400 (Recommandé)
@@ -77,7 +78,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Hero Image: 1128 x 376
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/4-433x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/4.jpg) Etape 3 Retailler l'image ou cropping 
+[![Image](/images/blog/4-433x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/4.jpg) Etape 3 Retailler l'image ou cropping 
 ### ***Pinterest***
 
  	- Image profil: 165 x 165
@@ -106,7 +107,7 @@ Voici les tailles minimum pour **le redimensionnement qui s'effectue simplement 
 
  	- Video téléchargements: 1280 x 720 (Minimum HD)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/08/5-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/5.jpg) Etape 4 : Reste à downloader l'image retaillée en local pour publication 
+[![Image](/images/blog/5-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/08/5.jpg) Etape 4 : Reste à downloader l'image retaillée en local pour publication 
 ### **Tumblr**
 
  	- Profil Photo: 128 x 128

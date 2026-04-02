@@ -17,7 +17,7 @@ Faîtes ce que je dis mais pas… ;) .Passons en revue 5 axes d’écriture  p
 
 De la gauche vers la droite , **Mots clés** puis **Catégorie** (ou sous thème plus englobant) puis le nom du site (marque par exemple, thème, sujet). Cela est une généralité, bien sûr, selon l’objectif de la page et le message que l’on souhaite envoyé au moteur. Un site ecommerce ne fonctionnera pas de la même façon qu’un blog, ou qu’une portail régional etc.. Mais le plus important, reste toujours à placer au début ..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/bases-titre-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/bases-titre.jpg) 5 champs d'investigation pour le titre
+[![Image](/images/blog/bases-titre-310x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/bases-titre.jpg) 5 champs d'investigation pour le titre
 ### **Structure de la phrase**
 
 	- 70 caractères (signes et espaces compris) reste la longueur conseillée, Google affiche environ 60-65 caractères au maximum en moyenne.
@@ -96,18 +96,18 @@ Ces exemples n’ont pas de valeur scientifique, juste des constats fait sur des
 
 Pour la requête « nom de domaine et référencement » sur la première page, le blog se voit classé (en 8eme position) avec un titre qui reprend exactement le titre de la page.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/serp-et-titre-310x71.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/serp-et-titre.jpg) 100% de la balise titre récupérée
+[![Image](/images/blog/serp-et-titre-310x71.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/serp-et-titre.jpg) 100% de la balise titre récupérée
 ### Raccourcissement du titre
 
 Pour la même requête ici, le blog d’Isabelle Canivet (que je salue ici !) se voit raccourci, mais surligné sur des mots de la requête (nom de domaine),  le snippet complète le sujet..
 
 ### Le titre tronqué
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/titre-tronqué-310x59.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/titre-tronqué.jpg) troncature titre
+[![Image](/images/blog/titre-tronqué-310x59.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/titre-tronqué.jpg) troncature titre
 
 Ici, pour le domaine « Abondance » d’olivier Andrieu , le titre est pris tel quel et tronqué avec cet indicateur des trois petits points « … ».
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/troncature-titre-310x50.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/troncature-titre.jpg) Titre tronqué
+[![Image](/images/blog/troncature-titre-310x50.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/troncature-titre.jpg) Titre tronqué
 
 Sur ces 3 types de résultats,  le titre certes envoie un signal, mais l’optimisation passe aussi par d’autres facteurs comme l’ancienneté du domaine, son autorité etc.
 
@@ -117,17 +117,17 @@ H1 comme titre intégral
 
 Sur la requête « tutoriel pour améliorer une publicité adwords », c’est la H1 qui est prise pour titre. Mais sur d'autres requêtes , ce pourra être aussi la title ou un mixe d'ensemble...Bon, pas simple quand même !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/recuperation-de-la-h1-310x200.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/recuperation-de-la-h1.jpg) La H1 à 100%
+[![Image](/images/blog/recuperation-de-la-h1-310x200.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/recuperation-de-la-h1.jpg) La H1 à 100%
 Une requête + une offre faible
 
 Sur le terme « pommes landes », le 1er résultat fait ressortir une page dont le titre, ni la h1 ..ni le reste d’ailleurs, est relié à la requête !  Seule la thématique du site apporte la pertinence de ce résultat.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/snippet-seulement-avec-mots-cle-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/snippet-seulement-avec-mots-cle.jpg) Pas "d'offre réelle" sur requête , alors..
+[![Image](/images/blog/snippet-seulement-avec-mots-cle-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/snippet-seulement-avec-mots-cle.jpg) Pas "d'offre réelle" sur requête , alors..
 Un titre inventé !
 
 Sur une demande un peu bizarre « colocation rebus », Google va scraper de la balise « titre » + du nom de domaine + du contenu pour construire le titre de sa snippet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/page-sans-titre1-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/page-sans-titre1.jpg) Titre crée par Google
+[![Image](/images/blog/page-sans-titre1-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/page-sans-titre1.jpg) Titre crée par Google
 
 Résultat des courses, si l’on ne met pas de la bonne volonté, que ce soit en suivant les préconisations ou le guidelines Google, le moteur va s’arranger tout de même à **créer un titre** mais qui aura moins de chance d’être cliqué que les autres, vu la discontinuité entre la demande et l’offre. De plus, les effets surlignés de gras, à la manière de la balise dynamique  {keyword :} d’adwords, disparaissent de fait. L’intérêt est donc gagnant gagnant à peaufiner cette balise.
 

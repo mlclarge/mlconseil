@@ -5,6 +5,7 @@ author: "admin"
 categories: ["campagnes video"]
 tags: []
 slug: "audiences-des-campagnes-video-sur-youtube"
+image: "/images/blog/audiences-videos-google-ads.jpg"
 ---
 
 C’est cette demande sur les [campagnes vidéo YouTube](https://www.youtube.com/intl/fr/ads/), posée sur le forum google ads, qui illustre l’article d’aujourd’hui.
@@ -26,7 +27,7 @@ A qui s’adresse-t-il  mon message  et quel problématique résolue t-il ?
 
 Dans une logique de conversion de bas de tunnel, les plus simples dirons-nous sont les campagnes de remarketing. Les audiences sont celles du site web, élargit à des audiences similaires et affinitaires  éventuellement. Le message a apporté doit être en cohérence avec la dernière visite, bon ici, cela a du sens (reciblage dynamique sur de la fiche produit par exemple).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/10/Efficacite-des-audiences-502x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/Efficacite-des-audiences.jpg) Efficacite des audiences
+[![Image](/images/blog/Efficacite-des-audiences-502x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/Efficacite-des-audiences.jpg) Efficacite des audiences
 
  	- 
 ### ***Faire de la conquête client (phase de conscience et considération)***
@@ -38,7 +39,7 @@ Différentes audiences sont offertes par google pour les vidéos, mais comment l
 
 Google a récemment publié un document explicatif sur les audiences à choisir selon l’objectif des campagnes vidéo.  Je le trouve particulièrement explicatif, je l’ai traduit pour les non-anglophones. Si l’on se réfère à une représentation marketing du tunnel de vente, on pourrait avoir ceci :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/10/audience-et-tunnel-de-vente-502x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/audience-et-tunnel-de-vente.jpg) Audiences Vidéo et Tunnel de conversion
+[![Image](/images/blog/audience-et-tunnel-de-vente-502x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/audience-et-tunnel-de-vente.jpg) Audiences Vidéo et Tunnel de conversion
 
 Rappelons un peu ce jeu des 7 familles d’audiences, car ne l’oublions pas, on cible des usages, des profils d’internautes, techniquement identifiables par la technologie des cookies mais où Google rajoute une couche de qualification, celle de l’utilisateur « logué ». Ce dernier est traçable par son authentification en continue sur mobile et desktop, sur tous les services google (chrome, maps, moteur etc…)
 
@@ -86,7 +87,7 @@ L’idée ici est de rassembler visuellement l’ensemble des éléments disponi
 
  	- Types Audiences :  les 7 familles évoquées ci-dessus
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/10/campagnes-videos-youtube-1-502x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/campagnes-videos-youtube-1.jpg) Panorama des critères de campagne Display Vidéo sur Youtube
+[![Image](/images/blog/campagnes-videos-youtube-1-502x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/campagnes-videos-youtube-1.jpg) Panorama des critères de campagne Display Vidéo sur Youtube
 ## **Planifier les audiences avec l’outil Reach Planner pour batir un plan média**
 
 ### *Analyser les données d'audience et de fréquence de diffusion*
@@ -129,11 +130,11 @@ Résultats
 
 Un reach potentiel de 428 000 personnes pour un budget de 7000 euros
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/10/reach-planner-google-ads-502x262.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/reach-planner-google-ads.jpg) Plan Médias des audiences Vidéos
+[![Image](/images/blog/reach-planner-google-ads-502x262.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/reach-planner-google-ads.jpg) Plan Médias des audiences Vidéos
 
 Et si on rentre dans le détail de la prévision, 3 types de formats vidéos sont proposés , annonces bumper, trueview instream, et un produit de réservation (à négocier en direct avec account manager google). On notera qu’un gros tiers de ce budget concerne des annonces non désactivable, et le reste sur de l’instream classique orienté « engagement » grâce à l’enchère CPV.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/10/planificateur-audiences-google-ads-502x253.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/planificateur-audiences-google-ads.jpg) planificateur audiences google ads
+[![Image](/images/blog/planificateur-audiences-google-ads-502x253.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/10/planificateur-audiences-google-ads.jpg) planificateur audiences google ads
 ## **BONUS : Elargir le potentiel avec les options de ciblage**** Display  (en plus de Youtube )**
 
 Oui l'idée est d'élargir le spectre d'une campagne vidéo à des inventaires plus large, pour faire la continuite du message et suivre le prospect !

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "le-gomc-une-epreuve-de-marketing-en-ligne-exigeante"
+image: "/images/blog/google-online-marketing-cha.jpg"
 ---
 
 Le [GOMC](https://www.google.com/onlinechallenge/) est un challenge  **webmarketing**  (ou d'internet marketing comme le disent les anglosaxons)   réservé aux étudiants d’écoles universitaires, Ingénieurs, Business school ou autres écoles de communication. Les inscriptions sont ouvertes depuis 3 semaines et se termineront le 5 avril 2016.
@@ -15,7 +16,7 @@ Le [GOMC](https://www.google.com/onlinechallenge/) est un challenge  **webmarke
 
 Le **Google Online Marketing Challenge** a démarré en 2008 avec 500 écoles. Le concours dure 3 semaines avec un minimum de 5 jours ouvrés. En  2015 c’est  environ 2000 équipes venues de 80 pays qui ont pu découvrir la plateforme publicitaire Google adwords . Depuis 2013,  Google publie les différentes participations et ses lauréats. Pour la France,  le challenge est grand vu qu’aucune équipe n’a gagné le big prize !  Rien que dans l’hexagone, ce n’est pas moins  **170 à 200 écoles**, selon les années, qui se challengent ! Soulignons la performance de l’école d’ingénieurs  "Institut Polytechnique La Salle Beauvais" sous le coaching de Corrina Stocky**, **section** **option sciences de l’entreprise, qui est la 1ère avoir décroché une récompense régionale «**Google+ Social Media Marketing Régional Winner Europe** » . Mais alors, où sont  nos frenchies et nos  business schools ? La progression d’année en année se fait néanmoins ressentir vu qu’en 2013 seulement une équipe était nominée finaliste contre 6 en 2015  (3 finalistes et 3 semi finalistes principalement section business). Bien peu ceci dit depuis 2008 .. L
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/gomc-repartition-par-region-monde-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/gomc-repartition-par-region-monde.jpg) GOMC Répartition par régions
+[![Image](/images/blog/gomc-repartition-par-region-monde-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/gomc-repartition-par-region-monde.jpg) GOMC Répartition par régions
 ## **Sélection et Prix attribués avec  récompenses**
 
 ### ***Une correction impitoyable***
@@ -28,7 +29,7 @@ Il faut attirer et motiver les troupes, alors Google comme à son habitude met l
 
 **Google+ Social Media Marketing Awards : **Une tablette nexus fut le gain de notre équipe française en 2015 plus autres goodies.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/Prix-GOMC-310x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/Prix-GOMC.jpg) Attestation de participation
+[![Image](/images/blog/Prix-GOMC-310x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/Prix-GOMC.jpg) Attestation de participation
 
 **AdWords Social Impact Awards** : 3 équipes  gagnantes ici dans le cadre du challenge avec option « sociale », soit une campagne élaborée pour une société à but non lucratif.
 
@@ -54,7 +55,7 @@ Pour se situer, le jury propose 5 types de notations, les  voici détaillées
 
  	- Et les nominations pour le 4% restant.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/performance-france-gomc-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/performance-france-gomc.jpg) Performances france au gomc
+[![Image](/images/blog/performance-france-gomc-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/performance-france-gomc.jpg) Performances france au gomc
 ## **Comment Gagner ce concours ?**
 
 Comme tous les concours, le niveau des équipes participantes peut varier d’une session à l’autre, retenons néanmoins ces 3 points :

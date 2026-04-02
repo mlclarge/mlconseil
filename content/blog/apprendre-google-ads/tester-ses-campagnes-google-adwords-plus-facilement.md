@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "tester-ses-campagnes-google-adwords-plus-facilement"
+image: "/images/blog/campagne-brouillon-et-test-.jpg"
 ---
 
 Annoncée depuis le printemps 2014, voilà enfin déployée cette fonctionnalité pour tester des choix d’**optimisation de campagnes adwords**.  Elle vient compléter, enrichir  et remplacer à terme celle déjà existante qui fonctionne toujours d’ailleurs  (plus communément appelée Adwords Campaign Experiment : **ACE**).  [Brouillons et tests](http://adwords-fr.blogspot.fr/2016/03/faites-des-essais-en-toute-confiance.html) se voit doter d’une UX plus simple et conviviale et surtout plus puissante. Comme toujours chez adwords, les migrations se font dans la douceur :) .
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/04/campagnes-fictives-et-de-tests-266x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/campagnes-fictives-et-de-tests.jpg) Principes des campagnes fictives et de tests
+[![Image](/images/blog/campagnes-fictives-et-de-tests-266x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/campagnes-fictives-et-de-tests.jpg) Principes des campagnes fictives et de tests
 ## **Les brouillons ou campagnes fictives adwords**
 
 C’est de « Faire comme pour  de vrai ». Le fait de créer une campagne fictive consiste à faire une copie d’une campagne et d’y intégrer des intentions d’optimisation,  des modifications, des ajouts sans impacter la campagne en cours. Cette projection peut être supprimée à tout moment et être renouvelée. Elle est utile pour un gestionnaire de compte qui veut référer et démontrer ses arbitrages auprès de son client ou de son supérieur avant validation.
@@ -46,7 +47,7 @@ A noter pour l’instant les 3 zones d'ombres en termes de reporting, fonctionn
 
 Elle propose pour résumer de l’A/B testing sur des éléments de campagnes avec une nouvelle interface de paramétrage et de reporting (par rapport à l’actuelle ACE) . A noter que les campagnes display ne sont pas concernés mise à part celle Search and Display sélectif.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/04/test-310x137.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/test.jpg) Aperçu du reporting d'une campagne Test
+[![Image](/images/blog/test-310x137.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/test.jpg) Aperçu du reporting d'une campagne Test
 
 Elle est en revanche incompatible sur les entités suivantes selon la documentation Google :
 

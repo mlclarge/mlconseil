@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Outils Web et Marketing"]
 tags: []
 slug: "creer-un-application-mobile-et-une-pwa-sans-coder"
+image: "/images/blog/appgoodbarber.jpg"
 ---
 
 Duo Apps  développe sous la [marque GoodBarber](https://fr.goodbarber.com/native/), Made in Corsica, une plateforme en mode Saas qui permet à tout un chacun, sans connaissance technique de codage, **de créer à la fois une application mobile native pour les apps stores, et [une Progressive Web App](https://www.mauricelargeron.com/progressives-web-app-vont-elles-annoncer-le-declin-des-apps-stores/)** (PWA) destinée au web (https// :). Voici donc quelques infos pour créer son App sous Android destinée donc à Google Play store (la pwa est générée en parallèle).
@@ -38,7 +39,7 @@ Img fil assistant
 
 1/** Une configuration sur le cloud de Google**, pour récupérer les différents appels techniques aux apis de Google (service map, vidéo, Android, Google Play etc..), les briques techniques qui font vivre l’application. Rien de compliquer, il suffit de suivre le didacticiel fournit par GoodBarber.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-android-api-services-502x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-android-api-services.jpg) google android api services
+[![Image](/images/blog/google-android-api-services-502x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-android-api-services.jpg) google android api services
 
 2/ **Une publication sur Google Play Store** qui consiste à télécharger en local l’application sous forme de fichier apk depuis la plateforme GoodBarber et de l’uploader ensuite le Play Store. Il faudra prendre soin de bien remplir la fiche descriptive, c’est un peu la page web de l’application, avec les mots clés liés au thème de l’application, c’est une des partie de l’ASO (App store optimisation) avec :
 
@@ -52,7 +53,7 @@ Img fil assistant
 
  	- Une vidéo de présentation : pas obligatoire
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/app-store-optimisation-android-484x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/app-store-optimisation-android.jpg) App store optimisation
+[![Image](/images/blog/app-store-optimisation-android-484x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/app-store-optimisation-android.jpg) App store optimisation
 
 Le principe est toujours le même, fournir le maximum d’information, favorisera le classement de l’App. dans le store.
 ## **Bon sinon, téléchargez l’application ici , elle est gratuite !**
@@ -62,15 +63,15 @@ Le principe est toujours le même, fournir le maximum d’information, favoriser
 
 Bon, nativement, la plateforme GoodBarber fournit des statistiques comme le nombre de pages vues, les lancements, les lancements uniques.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/analytics-application-mobile-android-448x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/analytics-application-mobile-android.jpg) analytics application mobile android
+[![Image](/images/blog/analytics-application-mobile-android-448x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/analytics-application-mobile-android.jpg) analytics application mobile android
 
 Sinon, l’outil embarque les Sdk de 3 outils : Google analytics, Flury et countly. Il suffit d’ouvrir un compte Google analytics dédié par exemple, et de récupérer l’ID
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-analytics-sdk-android-414x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-analytics-sdk-android.jpg) Configurer google analytics pour son app
+[![Image](/images/blog/google-analytics-sdk-android-414x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/google-analytics-sdk-android.jpg) Configurer google analytics pour son app
 
 Ensuite les statistiques de l’application remontent. Un tracking par défaut est embarqué pour Google analytics, mais sans possibilité de personnalisation sur des évènements ou conversions supplémentaires. Un évènement par défaut est fourni qui relève les consultations des sections.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/kpi-mobile-analytics-502x295.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/kpi-mobile-analytics.jpg) lecture dans GA des kpi mobile analytics
+[![Image](/images/blog/kpi-mobile-analytics-502x295.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/kpi-mobile-analytics.jpg) lecture dans GA des kpi mobile analytics
 ## MarketPlace et fonctionnalités de GBarber
 
 Tout un catalogue de widgets complète le cœur même de votre application, selon votre métier, service comme par exemple :
@@ -89,6 +90,6 @@ Tout un catalogue de widgets complète le cœur même de votre application, selo
 
  	- Geek section !  plugin, option développeur, marque blanche
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/creer-sans-coder-une-application-mobile-401x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/creer-sans-coder-une-application-mobile.jpg)
+[![Image](/images/blog/creer-sans-coder-une-application-mobile-401x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/creer-sans-coder-une-application-mobile.jpg)
 
 Allez, a vous de jouer maintenant !

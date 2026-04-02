@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "de-urchin-a-google-analytics"
+image: "/images/blog/google-analytics-story.jpg"
 ---
 
 **Google analytics** vient de se parer de son nouveau look, plus « flat », avec un menu haut de navigation légèrement modifié, plus compact et des entêtes de catégories relookés. Je profite donc de cette nouvelle évolution de l’**application d’analyse d’audience** pour prendre un **recul historique** sur l’application, même si le terme « historique » est un peu emphatique pour parler d’une application web.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/new-design-ga-310x214.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/new-design-ga.jpg) Relooking de GA en ce début 2014
+[![Image](/images/blog/new-design-ga-310x214.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/new-design-ga.jpg) Relooking de GA en ce début 2014
 ## Histoire de Google analytics
 
 ### Bref Résumé …
@@ -80,7 +81,7 @@ J’ai retenu d’une manière entièrement arbitraire **23 étapes dans la goog
 
  	- Lancement version "new look " plus épuré et light !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/historique-google-analytics-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/historique-google-analytics.jpg) Evolution de GA de 2005 - 2014
+[![Image](/images/blog/historique-google-analytics-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/historique-google-analytics.jpg) Evolution de GA de 2005 - 2014
 ## Timeline Google analytics
 
 Pour lire la timeline complètement, merci de rafraîchir votre navigateur si les aperçus laissent apparaître un délai dans le chargement.

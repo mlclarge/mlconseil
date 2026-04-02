@@ -19,7 +19,7 @@ Histoire des méthodes de vente depuis 6000 avant jésus christ jusqu’au socia
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/histoire-des-techniques-de-vente.gif)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/histoire-des-techniques-de-vente.gif)
+[![Image](/images/blog/histoire-des-techniques-de-vente.gif)](/images/blog/histoire-des-techniques-de-vente.gif)
 ### *Un b2c déjà bien mûre *
 
 Le numérique a aussi digitaliser l’activité pourtant bien humaine de la vente, en commençant par le B2c avec la croissance du ecommerce d’année en année.  Bien que l’essentiel se passe encore dans le physique (90% des ventes se passe en boutiques) on assistera  plutôt à des usages hybrides dans les magasinsv : On parle plus souvent du phygital à ce sujet d’ailleurs.  Sans parler des avis sur les consommateurs qui se lisent sur les réseaux sociaux, les marques l’ont compris déjà depuis quelques années.
@@ -27,7 +27,7 @@ Le numérique a aussi digitaliser l’activité pourtant bien humaine de la vent
 ### ***Un b2b bien prometteur***
 
 Des appels froids sortants sur des fichiers qualifiés est une action encore bien répandue dans les entreprises, mais l’on sait que ses heures sont comptées tant la prospection traditionnelle devient ardue.  C'est sur ce **marché professionnel que le Social selling **([un terme qui fait le buzz lors de formation](https://www.mauricelargeron.com/formation-reseaux-sociaux-bordeaux/))** ** prend tout son sens.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/appels-froids-crm-474x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/appels-froids-crm.jpg)
+[![Image](/images/blog/appels-froids-crm-474x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/appels-froids-crm.jpg)
 
 Sur la dernière enquête d’**Hubspot 2017**, à la question, **quelles sont vos priorités d’action commerciales** pour l’année qui vient
 
@@ -49,31 +49,31 @@ Sur la dernière enquête d’**Hubspot 2017**, à la question, **quelles sont v
 
  	- Ne sais pas : 3%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/leviers-btob-marketing-502x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/leviers-btob-marketing.jpg)
+[![Image](/images/blog/leviers-btob-marketing-502x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/leviers-btob-marketing.jpg)
 ## **Social Selling dopé grâce à l'aide d'outils complémentaires**
 
 Le social selling fait donc partie des priorités Outre-atlantique. Même si en France, des grosses boîtes Françaises selon LinkedIn montrent l’exemple d'un développement continu.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/classement-b2b-social-selling-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/classement-b2b-social-selling.jpg)
+[![Image](/images/blog/classement-b2b-social-selling-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/classement-b2b-social-selling.jpg)
 
 **Sales navigator** est un outil commercialisé par Linkedin pour optimiser la conquête sur son immense base de données : mise en contact, messagerie facilitée (50 inmails/mois). SN est un gestionnaire doté d'un moteur de recherche puissant, qui permet de démarrer une **prospection sociale** pérenne , c'est un gestionnaire de contacts professionnel embarqué sur Linkedin. Il peut s'intégrer dans un CRM afin d'intégrer , créer ou  enrichir des fiches prospects, clients.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sales-navigator-377x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sales-navigator.jpg) sales navigator un outil facilitateur du social selling
+[![Image](/images/blog/sales-navigator-377x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sales-navigator.jpg) sales navigator un outil facilitateur du social selling
 ## **Booster le social selling par l’inbound Marketing**
 
 L’**inbound Marketing** est un concept marketing/commercial qui inverse le traditionnel paradigme du « vendeur qui sait tout » avec ses méthodes  invasives, par « l’acheteur renseigné » qui cherche toute l’information produit par une **stratégie de contenu adaptée**,  dont il a besoin avant d’acheter pour mieux négocier lors de l'approche commerciale finale. Mais l’inbound va plus loin, il cible et personnalise la relation en one to one  par un tracking comportemental poussé.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/tunnel-de-vente-b2b-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/tunnel-de-vente-b2b.jpg)
+[![Image](/images/blog/tunnel-de-vente-b2b-421x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/tunnel-de-vente-b2b.jpg)
 
 Les composants de l’inbound, c’est une représentation du tunnel de vente qui n’oublie pas d’**articuler les équipes marketing avec les forces de vente**,  adossé à une stratégie de contenus éprouvée qui jalonne l’ensemble du parcours client. Des tactiques de **lead  nurtering** sont aussi pratiquées pour optimiser les performances de ce modèle. La plateforme [Hubspot](https://www.mauricelargeron.com/hubspot-la-machine-a-leads/) dont j’ai pu parler ici excelle dans ce domaine.
 
 ## **Amplifier le Social Selling par le Personnal Branding, la Brand Advocacy**
 
 Que de termes jargonneux encore  ici ! L'idée c’est de ne pas uniquement se reposer sur les commerciaux terrains, même si parfois le syndrome du BYOD (brign your own device) touche bon nombre de collaborateurs hyper connectés, mais de stimuler, inciter, l’ensemble ou une partie des salariés dans une **communication externe organisée**.  Ce social selling interne s’appuie bien sur les contenus corporate mais aussi  sur ceux issus de la curation, de flux rss provenant d’une veille capitalisée ou alors de contenus générés par les utilisateurs de l’organisation. Des outils comme Sociabble permettent ce genre de production collective.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sociabble-pour-amplifier-le-social-selling-502x276.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sociabble-pour-amplifier-le-social-selling.jpg)
+[![Image](/images/blog/sociabble-pour-amplifier-le-social-selling-502x276.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sociabble-pour-amplifier-le-social-selling.jpg)
 ## **Peaufiner le social selling par les réseaux sociaux d'entreprises (RSE)**
 
 Des passerelles à  l'aide d' outils comme Sociabble sur des [réseaux sociaux d’entreprises ](https://www.mauricelargeron.com/facebook-workplace-devient-populaire/) comme **Facebook workplace**, Yammer, sharepoint (grâce aux apis)    favorisent un cercle vertueux  sans cesse renouvelé.  .
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/lecko-rse-communication-303x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/lecko-rse-communication.jpg)
+[![Image](/images/blog/lecko-rse-communication-303x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/lecko-rse-communication.jpg)
 
 Le **social selling** s’insère donc dans une vision large que l'on pourrait encore jargonner comme étant **« visitor-prospect-customer centrée »**. Cette relation qui tend vers la personnalisation  dans un contexte social bouillonnant  apporte de la complexité .  Seules les technologies nouvelles comme celle du **marketing automation** avec la mise en place de workflows basés sur des scénarios peuvent soulager au final, le quotidien des forces de vente, à qui on demande toujours plus.
 

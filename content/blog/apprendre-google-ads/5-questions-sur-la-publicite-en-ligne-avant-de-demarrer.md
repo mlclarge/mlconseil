@@ -61,7 +61,7 @@ Selon** le 7ème baromètre Fevad-Mediamétrie-Netrating**, le marché des inter
 
 Outre atlantique : Selon une étude américaine faite par e-marketer, Facebook représenterait la première plateforme publicitaire en ligne avec plus de 17% des investissements.
 
- [![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/06/22-06-2011-08-18-52-300x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/22-06-2011-08-18-52.jpg) Top Régies publicitaires américaines 
+ [![Image](/images/blog/22-06-2011-08-18-52-300x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/22-06-2011-08-18-52.jpg) Top Régies publicitaires américaines 
 
 Les nouvelles perspectives :
 

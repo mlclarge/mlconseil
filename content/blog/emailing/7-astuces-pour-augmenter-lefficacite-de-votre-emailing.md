@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Emailing"]
 tags: []
 slug: "7-astuces-pour-augmenter-lefficacite-de-votre-emailing"
+image: "/images/blog/design-emailing-1.jpg"
 ---
 
 La pertinence de l’[**emailing**](https://fr.wikipedia.org/wiki/E-mailing) est souvent mise en question par les entreprises. Faut-il en faire ou pas ? Est-ce un moyen efficace pour promouvoir ses produits et services ? Ilan   Tessier  de la société Canva , plateforme Saas pour web designers, nous  donne quelques conseils pour réussir sur ce **levier d'acquisition** aujourd'hui. Ces questions se posent quand on sait que le retour sur investissement en termes de taux d’ouvertures, de clics et de conversions reste assez faible dans la majorité des cas. Des plateformes tierces  qui intègrent aussi l'emailing avec d'autres services comme séquences d'emails (marketing automatisé). Pourtant, certaines entreprises tirent leur épingle du jeu, en mettant le paquet sur le design. Après tout,** le design**, c’est la première chose que l’on voit lorsque l’on ouvre un email. C’est la première impression qui sera déterminante.Alors, pour vous aider à obtenir plus d’attention de la part de vos abonnées, nous avons recensé les aspects importants à prendre en considération lors de votre [campagne d’emailing](https://sendpulse.com/fr/support/glossary/email-campaign).
@@ -23,7 +24,7 @@ De plus, il faut toujours avoir à l’esprit que la première impression est la
 ## **Insérer une image**
 
 En règle générale il vaut mieux insérer une image dans votre email plutôt que pas. C’est un peu comme la couleur, elle apporte une valeur ajoutée à votre communication.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/outil-canvas-502x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/outil-canvas.jpg) Outil canvas
+[![Image](/images/blog/outil-canvas-502x192.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/outil-canvas.jpg) Outil canvas
 
 Il est important de respecter certaines règles afin que vos images s’affichent correctement sur toutes les messageries.
 
@@ -39,7 +40,7 @@ Afin que vos emails puissent s’ouvrir et être lu à la fois sur un ordinateur
 Ce paramètre est essentiel à prendre en compte lorsque l’on sait qu’environ 61% des emails sont consultés à partir d’un smartphone. Et sans doute, ce pourcentage continuera à augmenter dans les années à venir. 
 
 Il devient donc essentiel de faire en sorte que les emails envoyés soient design responsive afin de pouvoir être ouvert et lus sur n’importe quel support.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/design-emailing-502x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/design-emailing.jpg) design emailing
+[![Image](/images/blog/design-emailing-502x244.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/design-emailing.jpg) design emailing
 
 Pour créer un email compatible il n’est pas nécessaire d’être un expert en Html/Css. Sur le marché, vous trouverez des logiciels d’email marketing qui offrent des modèles d’emailing responsive que vous pouvez modifier et qui feront tout à fait l’affaire pour votre campagne.
 

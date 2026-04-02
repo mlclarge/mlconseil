@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "pourquoi-un-blog-sur-le-referencement"
+image: "/images/blog/certification-formateur-adwords.jpg"
 ---
 
 Pourquoi ce blog ? Encore un blog me direz-vous, c'est vrai que réinventer la roue peut-être un moyen de se sentir exister, d'apporter sa pierre à l'édifice. Je suis bien conscient qu'en démarrant ce blog, que la **tâche sera difficile et longue**.

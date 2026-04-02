@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "google-et-ses-signaux-centres-sur-l-utilisateur"
+image: "/images/blog/rapports-google-analytics-m.jpg"
 ---
 
 Cela y est, [Google](https://support.google.com/analytics/answer/7668466?hl=fr&ref_topic=7668613) fait sensation avec cette nouvelle fonctionnalité de **tracking multi-appareils** qui est en version bêta pour l’instant mais qui va déployer d’ici quelques jours sur tous les comptes **Google Analytics**. Cela faisait un moment que cela mijotait dans les data centers et voilà chose faîte, cela est déployer dans les comptes. Jusqu’à présent, Facebook avec sa boîte noire, était le seul capable d’avoir une vue centrée utilisateur. Google vient le titiller en rendant sa qualification d’audiences de plus en plus poussée. Avec le principe d’un compte unique Google, selon certaines conditions, Google unifie et restitue le parcours utilisateur ! Alors voyons comment cela marche.
@@ -26,11 +27,11 @@ Quand on active la personnalisation des annonces, on autorise Google de suivre t
 
  	- les vidéos et historique YouTube
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/ecoute-des-services-google-502x269.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/ecoute-des-services-google.jpg) Ecoute des services Google
+[![Image](/images/blog/ecoute-des-services-google-502x269.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/ecoute-des-services-google.jpg) Ecoute des services Google
 
 Impressionnant, le volume d’informations récoltées ! Il  suffit d’aller voir dans son compte pur s’en apercevoir. Google recueille la navigation, mais pas seulement, les activités vocales, par exemple, quand vous envoyez un texto à la voix depuis un smartphone Android, le message est enregistré, comme un répondeur ! Chrome, Android, recherche, aide Google, solutions de publicités, maps, assistant vocal, applications, gmail, Google + , bref, tout quoi !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/historique-utilisateur-google-159x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/historique-utilisateur-google.jpg) Historique Utilisateur Google
+[![Image](/images/blog/historique-utilisateur-google-159x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/historique-utilisateur-google.jpg) Historique Utilisateur Google
 
 Grâce à ce  volume important de données générées par les utilisateurs ayant activé la personnalisation des annonces, Google peut produire des estimations sur le comportement multi-appareil de l'ensemble de votre base d'[utilisateurs](https://www.mauricelargeron.com/google-analytics-et-predictions-de-conversions/). Par défaut, les données Google relatives aux utilisateurs connectés expirent au bout de 26 mois. Vous pouvez toutefois définir le paramètre de conservation des données sur une période plus courte si vous le souhaitez. (doc de Google). Les rapports multi-appareils n'affichent que des données globales. Les données utilisateur individuelles ne sont jamais exposées.
 
@@ -94,11 +95,11 @@ Je reprends l’aide de Google sur ce sujet, notez les « pour l’instant » 
 
 Bon, c’est le parent pauvre de l’article, je n’ai pas suffisamment de data là pour monter des rapports multi-appareils.  Mais pour accéder aux rapports , c’est simple néanmoins :   Vue > section Rapports>  Audience > Multi-appareil. Le type de rapports ressort sous forme d’un diagramme de Venn pour visualiser le chevauchement des appareils.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/rapport-mutiappareils-sur-chevauchement-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/rapport-mutiappareils-sur-chevauchement.jpg) Rapport muti-appareils sur chevauchement
+[![Image](/images/blog/rapport-mutiappareils-sur-chevauchement-409x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/rapport-mutiappareils-sur-chevauchement.jpg) Rapport muti-appareils sur chevauchement
 
 Un détail sur le parcours ensuite multi-devices est donné relié à des données d’engagement (temps des visites), de conversions (objectifs).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/canaux-multiappareils-313x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/canaux-multiappareils.jpg) Rapports Canaux multi-appareils
+[![Image](/images/blog/canaux-multiappareils-313x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/canaux-multiappareils.jpg) Rapports Canaux multi-appareils
 ### *Conseils d’interprétation Google*
 
 *« Lorsque vous activez les signaux Google, au départ aucun historique de campagne n'est associé aux utilisateurs Google qui ont activé la personnalisation des annonces. S'il s'agit d'utilisateurs connus, le trafic qui leur est associé est d'abord répertorié dans la catégorie "accès directs". Analytics commence à collecter des historiques de campagne pour ces utilisateurs dès leur première visite après activation des signaux Google. Ainsi, au bout de quelque temps, les chiffres affichés dans les rapports Canaux correspondent. *

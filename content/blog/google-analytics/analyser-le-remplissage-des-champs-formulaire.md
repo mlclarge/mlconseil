@@ -23,7 +23,7 @@ Code :
 
 	- Fiable (vis-à-vis  d’un enregistrement par méthodes de pages vues virtuelles ou évènements peut traîner la patte)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/form0-310x186.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/form0.jpg) Principe Redirection Page de remerciement
+[![Image](/images/blog/form0-310x186.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/form0.jpg) Principe Redirection Page de remerciement
 
 L’analyse des abandons sur un formulaire. L’idée ici est d’aller identifier les goulots d’étranglements du formulaire, en identifiant chacun des champs et de mesurer leur taux de remplissage.
 
@@ -46,7 +46,7 @@ Donc des parades existent dans GA pour ne pas polluer les rapports standards
 
 	- Intégrer un filtre pour ne pas polluer dans votre profil standard les  pages générées par la consultation des champs.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/principe-suivi-champ-formulaire-310x157.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/principe-suivi-champ-formulaire.jpg) Schéma de principe suivi abandons de champs
+[![Image](/images/blog/principe-suivi-champ-formulaire-310x157.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/principe-suivi-champ-formulaire.jpg) Schéma de principe suivi abandons de champs
 
 L’avantage de la page vue est la possibilité d’assigner plusieurs étapes avant l’objectif final sans compter qu'elle s'adapte mieux au contexte de la page.
 
@@ -60,7 +60,7 @@ La fonctionnalité  enregistre l’action visiteur comme pour la méthode _page
 
 Basé sur la même méthode d’évènement, mais à base d’une librairie JS Jquery idéale pour écouter les évènements qui se passe sur ces champs de formulaire. Le tracking se fait sur l’ensemble des champs, avec soit un remplissage soit un non remplissage.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/evenementjpg-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/evenementjpg.jpg) Processus de suivi à base d'évènements (Sce Lunametrics)
+[![Image](/images/blog/evenementjpg-310x142.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/evenementjpg.jpg) Processus de suivi à base d'évènements (Sce Lunametrics)
 ## **Taguer son formulaire dans le cadre de plateformes de gestion de contenus**
 
 Les éditeurs et bloggeurs sur des plateformes prêtes à l’emploi  sont plus chanceux quant à la mise en place de solutions de tracking formulaire.
@@ -71,7 +71,7 @@ Tracking formulaire classique au travers d'un CMS
 
 Pas très original comme choix de plugin mais efficace si l’on souhaite suivre ses conversions dans Google analytics. Le terrible avantage avec  ce plugin de formulaire  est son intégration facile  avec WordPress et Google analytics. Il suffit de rajouter une ligne de code dans le champ prévu à cet effet, situé en base de sa configuration.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/contactform-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/contactform.jpg) Configuration d'un suivi de redirection avec d'un pluging
+[![Image](/images/blog/contactform-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/contactform.jpg) Configuration d'un suivi de redirection avec d'un pluging
 
 Les codes : Redirection, pagesvues ou évènement , c’est au choix selon critères indiqués plus haut ) :
 
@@ -93,11 +93,11 @@ Pour aller plus loin sans toucher au code, ces formules sont intégrables sur de
 
 Clicktale avec un tableau de bord évolué qui permet d’avoir les indicateurs d’abandon agrégés sur l’ensemble des formulaires, des rapports de conversion sous forme d’entonnoir semblable à Google analytics.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/scripts-217x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/scripts.jpg) Tracking et Reporting avec script Clicktale
+[![Image](/images/blog/scripts-217x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/scripts.jpg) Tracking et Reporting avec script Clicktale
 
 SessionCam offre une plateforme semblable avec aussi la possibilité de suivre de près ces formulaires. L’interface est plus sobre mais semble aussi efficace !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/wordpress-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/wordpress.jpg) Reporting de la plateforme/script SessionCam
+[![Image](/images/blog/wordpress-310x248.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/wordpress.jpg) Reporting de la plateforme/script SessionCam
 ## **Tracking Externe de formulaire : cas facebook**
 
 Pour un tracking adapté, il conviendra d’utiliser une solution serveur qui va permettre d’installer un code de suivi Google analytics [avec cette méthode ](http://www.webdigi.co.uk/blog/2010/google-analytics-for-facebook-fan-pages/)  (code open source de tracking d’image  pouvant être installé sur son propre serveur) sur une page Fbml codée pour l’occasion avec cette outil [http://french.jotform.com/](http://french.jotform.com/) . En effet, le fbml n’accepte pas nativement le code javascript de Google analytics (GATC) , donc ce système est une parade possible, pas testé mais semble avoir une bonne notoriété.

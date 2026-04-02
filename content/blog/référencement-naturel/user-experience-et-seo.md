@@ -9,7 +9,7 @@ slug: "user-experience-et-seo"
 
 Essayons tout d’abord de définir ce qu’est l’**expérience utilisateur** pour un site web.  Il s’agit d’un sentiment subjectif individuel,  d’une perception  intime  lors d’une visite. Se  pose donc  le rapport  d’une part  à son  **contenant** *(son accessibilité (interface), son ergonomie)*  mais aussi,  d’autre part,  à son **contenu**  * (la facilité pour y trouver ce que l’on souhaite)*. C’est en quelque sorte la juste adéquation  entre **une attente** et **la réponse** à celle-ci avec une information disposant d’un discours empathique. C’est souvent d’ailleurs ce que l’on trouve dans les commentaires :* « cet article tombe au bon moment ! C’est justement ce que je cherchais. »*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fig1-seo-et-ux1-310x228.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fig1-seo-et-ux1.png) Seo et User Experience
+[![Image](/images/blog/fig1-seo-et-ux1-310x228.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fig1-seo-et-ux1.png) Seo et User Experience
 
 **Améliorer l’expérience utilisateur** pour **optimiser son référencement** est certainement une bonne chose, car une visite peut tout simplement en amener une autre par le** bouche à oreille digital** *(likes, commentaires, citations, liens vers le site etc…).* Néanmoins,  ne miser  que sur l’UX *(User eXperience en anglais)*  soit une** ergonomie**  réussie *(architecture du site, navigation, design)  *avec un** contenu** optimisé *(ligne éditoriale, qualité, pertinence et richesse  de l’information.. )*  peut amener à en oublier les techniques  seo pour un site *(technique on site on page, popularité).* Donc dans l’idéal il faut** simultanément**  observer les bons critères SEO de base pour sceller sa visibilité et apporter une expérience utilisateur optimum.  Bon, une fois dit cela, que faire de plus ?
 
@@ -25,7 +25,7 @@ http://youtu.be/0M1KkaldKAY
 
 	- L’optimisation des formats d’écrans tend vers le 1440 pixels de large ([http://www.useit.com/alertbox/screen_resolution.html](http://www.useit.com/alertbox/screen_resolution.html)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/tailleEcran-310x221.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/tailleEcran.png) Fig.2 Tendances Tailles écrans
+[![Image](/images/blog/tailleEcran-310x221.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/tailleEcran.png) Fig.2 Tendances Tailles écrans
 
 	- Une décision est prise toutes les 10 à 120 secondes sur le web, et toutes les 30 à 120 minutes sur la TV.
 
@@ -41,7 +41,7 @@ http://youtu.be/0M1KkaldKAY
 
 	- Une étude comportementale sur le déplacement des yeux sur un contenu, souligne une trame en "**F** "([http://www.useit.com/alertbox/reading_pattern.html](http://www.useit.com/alertbox/reading_pattern.html)).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fHeatmap-310x143.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fHeatmap.png) Fig.3 Analyse des points chauds attention visiteur
+[![Image](/images/blog/fHeatmap-310x143.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/fHeatmap.png) Fig.3 Analyse des points chauds attention visiteur
 
 	- L’utilisation d’espace et de marges entre les paragraphes accentue la compréhension de 20% ([http://wireframes-usability.com/2009/10/15/15-helpful-website-usability-facts-guidelines/](http://wireframes-usability.com/2009/10/15/15-helpful-website-usability-facts-guidelines/))
 
@@ -49,7 +49,7 @@ http://youtu.be/0M1KkaldKAY
 
 	- Les personnes ne sont pas liées à la règle des 3 clicks mais plutôt à celle des 12 voire plus ! (http://www.uie.com/articles/three_click_rule/)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/regles3clics-310x262.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/regles3clics.png) Fig.4 Règle démentie des 3 clics !                                                         *(User Interface Engineering)*
+[![Image](/images/blog/regles3clics-310x262.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/regles3clics.png) Fig.4 Règle démentie des 3 clics !                                                         *(User Interface Engineering)*
 
 	- Des statistiques montrent que  les utilisateurs attendent seulement 4 secondes le chargement d’une page lors d’une première visite ([http://www.cpccci.com/blog/7-facts/](http://www.cpccci.com/blog/7-facts/))
 
@@ -63,7 +63,7 @@ http://youtu.be/0M1KkaldKAY
 
 	- QR code : La presse et les magazines sont les sources principales des QR codes
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/qrcodeusecomscore-310x170.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/qrcodeusecomscore.png) Fig.5 Usages des QR codes
+[![Image](/images/blog/qrcodeusecomscore-310x170.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/qrcodeusecomscore.png) Fig.5 Usages des QR codes
 ## Outils de tracking et d'ergonomie
 
 **Test d'usabilité **
@@ -72,7 +72,7 @@ http://youtu.be/0M1KkaldKAY
 
 	- [Google analytics](http://www.google.com/intl/fr/analytics/) *(test A/b + Mesure de clics sur navigation )*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/10/google-analyse-page-310x199.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/google-analyse-page.png) Fig. 7 Analyse des pages web dans Google analytics
+[![Image](/images/blog/google-analyse-page-310x199.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/10/google-analyse-page.png) Fig. 7 Analyse des pages web dans Google analytics
 
 	- [UserTesting.com](http://usertesting.com) *(analyse comportementale visiteur)*
 

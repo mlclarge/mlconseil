@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "reussir-avec-le-web-avec-afnic"
+image: "/images/blog/reussiraveclewebafnic.jpg"
 ---
 
 **Une initiative qui a le mérite d'être soulignée dans le domaine de la vulgarisation du digital parmi les TPE/PME françaises et pilotée par l'afnic.  Le questionnaire dure 10 minutes et  restitue un scoring sur les connaissances du décideur...Je cite quelques mots de l'afnic

@@ -39,7 +39,7 @@ Pour illustrer le panel de ces attaques, les infos fournit par le consortium** W
 
 Le schéma ci-dessous fait apparaître pas mois de 24 catégories dont les 3 principales sont le déni de service, l’injection SQL et le XSS (acronyme de Cross Site Scripting).  Je reviens sur ces trois attaques dans le paragraphe suivant. Bien sûr, la part  la plus importante néanmoins intitulée  «Inconnue» sur le graphique représente les attaques  non identifiées, une sorte d’item  « autre ». A noter qu’en 2011, elle ne représenté que 18 % ! Cela signifie-t-il une progression des techniques nouvelles de hacking ? Ou alors tout simplement un manque d’expertise des acteurs qui font remonter leur expérience lors d’incidents ? Cela mériterait plus d’investigations. Néanmoins, le principal à retenir, c’est l’éventail des moyens possible pour pénétrer sur un site ou son serveur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/les-typologies-atttaques-site-web-2014-310x281.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/les-typologies-atttaques-site-web-2014.jpg) 23 Types d'attaques recencées
+[![Image](/images/blog/les-typologies-atttaques-site-web-2014-310x281.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/les-typologies-atttaques-site-web-2014.jpg) 23 Types d'attaques recencées
 ### **Quelques définitions sur ces types d’intrusions**
 
 **Brute Force** : via des requêtes GET ou POST , avec des valeurs prédéterminées, le but est d’attaquer le système d’authentification par différents biais comme la mise en place de cookies, l’ajout d’entête http, l’utilisation d’un proxy, de tester des connexions https etc..
@@ -50,13 +50,13 @@ Le schéma ci-dessous fait apparaître pas mois de 24 catégories dont les 3 pri
 
 SI l’on devait thématiser le type d’attaque, on peut parler de celles qui affectent  le plus les scripts du marché comme ceux sur Wordpress, Joomla !, Spip, Drupal..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/CMS-vulnerabilites-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/CMS-vulnerabilites.jpg) Failles sur les CMS par le CVE
+[![Image](/images/blog/CMS-vulnerabilites-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/CMS-vulnerabilites.jpg) Failles sur les CMS par le CVE
 
 **Des attaques thématisées : focus Seo sur serp Google**
 
 Celle plus communément appelée «Pharma Hacks » sur des sites WordPress. Mais il y a en bien d’autres, consiste à s’introduire sur des plateformes CMS et d’y introduire des fichiers cachés, bien souvent dans des repertoires accessibles aux plugins et en lien avec la base de données.  Ils vont fabriquer des pages munis de textes, liens  ou insérer à la volée sur des contenus destinées aux moteurs, des bannières faisant la promotion d’un produit (comme le  Via..).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/pages-spam-310x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/pages-spam.jpg) Vue d'une Page hackée par le V.
+[![Image](/images/blog/pages-spam-310x224.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/pages-spam.jpg) Vue d'une Page hackée par le V.
 ## **Se protéger des intrusions les plus probables**
 
 ## 
@@ -65,7 +65,7 @@ Celle plus communément appelée «Pharma Hacks » sur des sites WordPress. Mai
 
 C’est sans doute la plus connue de toutes les attaques, car la plus simple à employer, sans matériel poussé. Elle consiste à pour but de rentre le serveur web inaccessible par une attaque ciblée sur un de ses services. Sans rentrer dans les détails techniques, c’est mettre à mal la synchronisation du serveur par une avalanche de demandes. Les procédés sont connus et touchent principalement les couches du protocole TCP/IP qui permettent le dialogue entre serveurs et machines clientes. On parle d’UDP flooding, de Syn Flood, de l’envoi de paquets fragmentés.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/ss-310x247.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/ss.jpg) Techniques DOS
+[![Image](/images/blog/ss-310x247.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/ss.jpg) Techniques DOS
 
  Les parades sont difficiles, l’identification et un filtrage des assaillants (adresses ips) est un moyen de refouler ces requêtes malveillantes, sinon une architecture serveurs avec plusieurs serveurs  permettent de répartir ces flux de requêtes, ou bien la présence d’un serveur « qui défend » et prévient les demandes suspectes est aussi une parade.
 
@@ -111,7 +111,7 @@ Exemple : sur une url de type :
 
 	- http://www.monsite.com/mon-pertoire/mon-article?id=alert('eh voila une faille xss)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/xss-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/xss.jpg) Faille Xss
+[![Image](/images/blog/xss-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/xss.jpg) Faille Xss
 
 Deux types de faille XSS  sont répertoriées :
 

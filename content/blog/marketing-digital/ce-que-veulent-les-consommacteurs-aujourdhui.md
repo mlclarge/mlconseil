@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "ce-que-veulent-les-consommacteurs-aujourdhui"
+image: "/images/blog/barometre-shopper-havas-par.jpg"
 ---
 
 Cette année je suis allé faire un tour dans la vraie vie…au salon de [Paris Retail Week 2017](https://www.parisretailweek.com/) qui s’est déroulé semaine dernière pendant 3 jours. La thématique de cette saison fut celle du « **live retail **» où leviers web et marketing font de plus en plus bon ménage. Cette notion de « live retail »  pourrait se traduire par la notion de "**commerce expérientiel** » selon David Mangeon, d’Havas Paris, qui restitua, lors de cette 1ère plénière, la dernière étude de l’observatoire  « shopper »  réalisée par Opinionway pour Havas.  Ce **Shopper Observer**  existe depuis 2015 et dresse  les tendances du commerce et des consommateurs dans le Retail, voici les 7 dernières tendances dégagées.
@@ -39,7 +40,7 @@ La fréquentation du commerce physique baisse lentement, c’est une tendance de
 
  	- 49% des -35 ans font tout sur internet depuis leur smartphone
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/infographie-ecommerce.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/infographie-ecommerce.jpg) Chiffres principaux de l'étude OpinionWay/HavasParis
+[![Image](/images/blog/infographie-ecommerce.jpg)](/images/blog/infographie-ecommerce.jpg) Chiffres principaux de l'étude OpinionWay/HavasParis
 ### ***Un commerce omniscient ***
 
 ***Du cognitif à l’émotionnel*** : ère du big data, mieux comprendre le consommateur certes mais avec une intelligence artificielle qui s’insère au moment de l’acte d’achat : 72 % ont peur que le commerce se déshumanise mais les  technologies du deep learning sont là  justement pour prendre le contrepied de cette crainte, avec l’ère de l’assistance avec les enceintes connectés (Alexa, Google home),  l’apprentissage du langage naturel pour plus d’humanisation de la relation.

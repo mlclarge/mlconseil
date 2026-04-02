@@ -15,7 +15,7 @@ Google veut prendre de l’avance, ou franchir une marche supplémentaire dans l
 
 A priori, en France, le  **vol du colibri** se fait discret. Son apparition sur les serveurs Google aurait été perçue dès le 22 aout dernier selon certains observateurs de Moz.  Outre atlantique, certains experts ont pu voir une corrélation entre son envol  et l’apparition ou le déterrement si je puis dire de résultats « one box » (1 seul résultat local pour une activité de proximité) , spammy sur des requêtes localisées de type « dentiste à Marseille », donc une sorte de retour en arrière (2009).  Quoique qu’il en soit, cet oiseau de bonne augure impactera le Knowledge graph que pousse  Google actuellement,  donc forcément ses serp locaux.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/10/hummingbird-google-310x66.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/hummingbird-google.jpg) Historique des principaux changements Google
+[![Image](/images/blog/hummingbird-google-310x66.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/hummingbird-google.jpg) Historique des principaux changements Google
 
 La **captation de l’intention de la recherche** , plus que les mots en particulier sont sur toutes les bouches des représentants de Google, avec un focus particulier sur ce qui peut se passer en mobilité avec la reconnaissance vocale.  Les requêtes complexes seraient en mesure d’être plus impactées (les plus longues reliées à la longue traîne).
 
@@ -27,11 +27,11 @@ Ce changement dans l’algorithme de Google est  d’une ampleur jamais entrepr
 
 Cela nous vient tout droit des US, le fameux carrousel de résultats, qui se déclenche sur une requête considérée comme locale mais d’envergure nationale, vu qu’elle se déclenche aussi bien sur Toulouse, paris ou bordeaux à partir du moment où l’on utilise « que faire à + nom de la ville».  Aux USA, c’est plus de 300 termes qui ont été identifiés et qui déclenchent ce diaporama local.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/10/que-faie-a-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/que-faie-a.jpg) La requête qui fait déclencher le carrousel des serp Google
+[![Image](/images/blog/que-faie-a-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/que-faie-a.jpg) La requête qui fait déclencher le carrousel des serp Google
 
 Sur une même requête, des résultats de recherche locaux de Google (serp)  peuvent ressortir complètement **changés d’une saison à l’autre**. Ici sur la requête « dépannage informatique + ville », il ressortait des résultats hybrides avec de l’adwords, des liens locaux sous forme de pack (avec pictos rouges reliés à Google maps). Désormais, cette même requête fait ressortir  des résultats non packagés, sans cartographie Google maps, uniquement une liste de liens organiques. Cela peut venir du fait que Google, depuis la mise Venice update, tient compte de manière plus fine des signaux locaux donnés par les sites web. Ici, si l’optimisation de l’ensemble des  sites sur la plateforme Google adresses n’est pas optimale  sur cette requête, alors le moteur juge sans doute qu’une présentation classique est plus pertinente. La même requête sur une commune voisine, enclenche des Serp sous forme packagée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/locaux-packs-serp-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/locaux-packs-serp.jpg) Mise à jour de Venise à l'oeuvre.
+[![Image](/images/blog/locaux-packs-serp-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/locaux-packs-serp.jpg) Mise à jour de Venise à l'oeuvre.
 Serp Organiques remplacent les Packs
 
 Dernièrement, l’influence du **réseau social Google+ sur le référencement** impacterait la position des entreprises de proximité sur le moteur de recherche Google. Notamment les avis donnés par G+ et non ceux traditionnels que l’on peut voir à cet endroit (trip advisor ..). Bon, dans le fond, ce n’est pas une nouveauté, une visibilité locale où la concurrence est forte réclame un écosystème étoffé qui passe par des signaux locaux, que l’on va rappeler dans le paragraphe suivant,  sauf qu’ici, Google pose une fois de plus son empreinte personnelle !
@@ -60,7 +60,7 @@ Notez 8 principales tendances de cette étude
 
 	- Personnalisation : Au-delà des standards mentionnés plus haut, certains sites peuvent provoquer un certain engagement lié à une proximité, comme l’organisation d’une manifestation locale avec des relais spécifique dédié à l’évènement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/local0-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/local0.jpg) Facteurs de positionnement
+[![Image](/images/blog/local0-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/local0.jpg) Facteurs de positionnement
 
 **Se positionner localement en dehors de son siège local**
 
@@ -86,7 +86,7 @@ La configuration de l’utilisateur, son historique, son activité web sociale c
 
 	- Historique du visiteur : selon les réglages sur son moteur de recherche, son navigateur, ses habitudes (vidage du cache, des cookies, des urls)  un historique se construit ou pas ! Les réglages par défaut vont dans le sens du profilage de l’internaute néanmoins, et les résultats deviennent personnalisables par le moteur, adieu la sérendipité !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/facteur-recherche-moteur-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/facteur-recherche-moteur.jpg) Facteurs contextuels implicites de la recherche
+[![Image](/images/blog/facteur-recherche-moteur-310x189.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/facteur-recherche-moteur.jpg) Facteurs contextuels implicites de la recherche
 
 	- Contexte : l’internaute est-il en mobilité ? A partir d’un mobile, tablette, Pc portable. Est-il identifié ou pas (logué).
 
@@ -110,7 +110,7 @@ Tous les quotidiens, radios,  possèdent une page locale, s’arranger pour en 
 
 	- Saisir les opportunités pour déclencher (comme image ci dessous) des** serps  dédiés** ("onebox", recherche universelle (images, vidéos, Knowledge graph).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/10/serp-local-bordeaux-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/serp-local-bordeaux.jpg) Serp sur mot "chocolatine" à Bordeaux.
+[![Image](/images/blog/serp-local-bordeaux-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/10/serp-local-bordeaux.jpg) Serp sur mot "chocolatine" à Bordeaux.
 
 ## **Des outils pour piloter son seo local**
 
@@ -122,7 +122,7 @@ Enfin, le couteau suisse du monitoring local, en mode saas, c’est géoranker. 
 
 	- par villes et pays, résultats organiques ou adwords, par avis : résultats présentés sous forme graphique (zones de couleurs), ou de listes. Dernière fonctionnalité en date, un rapport sur les serp provenant des Smartphones.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/09/georanker-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/georanker.jpg) Le couteau Suisse du positionnement local
+[![Image](/images/blog/georanker-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/09/georanker.jpg) Le couteau Suisse du positionnement local
 ## Seo local une optimisation à part entière ?
 
 Sur le fond, je dirais que non (technique, contenu, popularité), sur la forme, oui, elle revêt une proximité, une échelle différente que celle des serp organiques traditionnels. L’influence des plateformes sociales devient prépondérante, surtout pour les métiers liés au tourisme (hôtellerie, restauration). Elle est aussi plus formalisée si l’on veut rester dans les guidelines de Google.

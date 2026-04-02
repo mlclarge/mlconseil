@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "de-lintelligence-pour-mon-commerce"
+image: "/images/blog/Photo-generique-2018_article_l_prw_fre.jpeg"
 ---
 
 Toujours plus Geek que jamais, le salon du commerce à la mode connectée s'est terminé il y a quelques jours. C'est tout de même l'occasion de faire un petit bilan de ce qui s'est dit sur le commerce de plus en plus "Smart". Ah ! çà jargonne plus que jamais dans la profession :), le phygital, néologisme pas forcément neuf , c'est d'ailleurs un paradoxe, refait son apparition dans la communication des organisateurs.

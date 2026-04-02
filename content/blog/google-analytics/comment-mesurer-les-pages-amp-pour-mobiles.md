@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "comment-mesurer-les-pages-amp-pour-mobiles"
+image: "/images/blog/amp-wordpress-et-google-ana.jpg"
 ---
 
 Un post rapide pour la trêve bien méritée des confiseurs euh… référenceurs ! Pour ceux qui auraient basculé sur le standard des pages rapides pour appareils mobiles, dit AMP (accelerated mobile page), il s’agit maintenant, une fois la technologie implantée, de mesurer le  trafic sur ce genre de page sur Google analytics. Passons en revue les différentes solutions, trois par exemple !
@@ -13,20 +14,20 @@ Un post rapide pour la trêve bien méritée des confiseurs euh… référenceur
 
 Allez pour les non développeurs, faites confiance à la maison **automaticc,** vous savez, celle qui édite le **cms WordPress** et qui déploie la plateforme wordpress.com *(modèle payant de WP pour monter son site en 2 clics)* et le programme open source wordpress.org *(téléchargement libre du code source, à installer sur un serveur web)*. Cette belle boîte a  développé un plugin simplissime à installer et à configurer.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/automaticc-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/automaticc.jpg) Plugins pour rendre ses pages AMP
+[![Image](/images/blog/automaticc-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/automaticc.jpg) Plugins pour rendre ses pages AMP
 
 Une fois installé,  il suffit pour avoir un aperçu, de rajouter /AMP/ à la fin de toutes les urls du site afin de voir ce que cela donne et de débuguer en rajoutant à la fin de l'url :** #developement=1**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/console-js-et-debugguage-247x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/console-js-et-debugguage.jpg) Vérification et débueugage dans la console JS
+[![Image](/images/blog/console-js-et-debugguage-247x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/console-js-et-debugguage.jpg) Vérification et débueugage dans la console JS
 ## **Mesurer les pages AMP dans Google analytics**
 
 ### ***Ce qu’il ne faut pas faire pour les amp***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/modifier-amp-fichier-automaticc-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/modifier-amp-fichier-automaticc.jpg) Insérer le script directement dans le template amp du plugin
+[![Image](/images/blog/modifier-amp-fichier-automaticc-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/modifier-amp-fichier-automaticc.jpg) Insérer le script directement dans le template amp du plugin
 
 Rajouter le script de Google analytics dans un des fichiers du plugin AMP de base. Google analytics va fonctionner, mais Google va se fâcher et n’imprimera pas vos pages AMP. Une notification se verra dans la search console de toute façon
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/12/amp-search-console-google-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/amp-search-console-google.jpg) Google search console indique un problème critique
+[![Image](/images/blog/amp-search-console-google-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/12/amp-search-console-google.jpg) Google search console indique un problème critique
 ### ***Insérer le bon hack sur le Template pour Google analytics***
 
 On hack le code du Template de WordPress, en intégrant dans le fichier function.php, un objet json le seul acceptable par AMP, qui pose le marqueur Google analytics. Bon c’est une solution plutôt technique, mais qui fonctionne. Merci à la développeuse isabel pour ce travail et partage.

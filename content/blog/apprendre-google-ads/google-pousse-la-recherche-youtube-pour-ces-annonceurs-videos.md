@@ -21,7 +21,7 @@ Trois réseaux sont proposés depuis la plateforme.
 
 	- Diffuser sur le réseau de sites Google, dit display
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/reseaux-videos-303x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/reseaux-videos.jpg) 3 réseaux pour les Vidéos
+[![Image](/images/blog/reseaux-videos-303x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/reseaux-videos.jpg) 3 réseaux pour les Vidéos
 ### Ce qu’il faut retenir depuis ce 21 mai
 
 Le fait le plus important, c'est une **ouverture plus large au ciblage par mots clés sur la recherche Youtube. **De plus,**  ** les possibilités de ciblages par critères démographiques pour ceux qui recherchent (mots clés)  ou regardent des contenus (intérêts, thèmes) est désormais possible.
@@ -34,7 +34,7 @@ Le fait le plus important, c'est une **ouverture plus large au ciblage par mots
 
 	- Le choix des mots clés est devenu commun au réseau de recherche Yt et GDN
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/changements-adwords-poru-videos-2014-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/changements-adwords-poru-videos-2014.jpg) 9 Changements sur la plateforme
+[![Image](/images/blog/changements-adwords-poru-videos-2014-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/changements-adwords-poru-videos-2014.jpg) 9 Changements sur la plateforme
 
 	- Le ciblage est fusionné entre la recherche et le réseau de contenus
 
@@ -53,17 +53,17 @@ La suppression du  format « pages de recherche » (InSearch) entraîne par c
 
 Plus que 2 formats d’annonce, avec le choix de l’un ou de l’autre.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/format-annonces-vidéos-310x108.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/format-annonces-vidéos.jpg) Format-annonces-vidéos
+[![Image](/images/blog/format-annonces-vidéos-310x108.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/format-annonces-vidéos.jpg) Format-annonces-vidéos
 ### **Reporting  Annonce**
 
 Donc, si vous avez suivi, le format d’annonce « inSearch disparaît ».Il est confondu avec le InDisplay
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/avant2014-310x279.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/avant2014.jpg) Résultat sur le reporting annonces
+[![Image](/images/blog/avant2014-310x279.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/avant2014.jpg) Résultat sur le reporting annonces
 ### **Onglet Ciblage**
 
 Le ciblage est en effet simplifié, du fait que réseau de contenu et recherche forme désormais une même cible. Il est toujours possible (pas de changement)  d’affiner son audience par thèmes, listes de remarketing, mots clés, emplacements.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/ciblage-simplifie-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/ciblage-simplifie.jpg) Un mode de Ciblage simplifié
+[![Image](/images/blog/ciblage-simplifie-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/ciblage-simplifie.jpg) Un mode de Ciblage simplifié
 
 Google dont le modèle fait des jaloux, fournit des outils formidables pour créer des contenus, sur lesquels il pourra ..gagner sa vie  ;) . Un de ses petits derniers a été annoncé,   ce 23 mai sur le [blog YT](http://youtubecreator.blogspot.fr/2014/05/see-whats-new-and-whats-next-in-our_23.html) qui annonce la **création d’une Apps pour les éditeurs de Vidéos** : filmer, monter,  uploader, partager, monétiser dans un claquement de doigts !  A vos Smartphones donc pour concevoir des vidéos bientôt !
 

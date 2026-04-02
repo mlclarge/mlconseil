@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "l-emergence-des-plateformes-numeriques"
+image: "/images/blog/entreprise-Plateforme-numerique.jpg"
 ---
 
 L'occasion de découvrir ce site avec des articles variés sur **la transformation digitale des entreprises**. Son auteur attire notre attention sur le pouvoir de l'entreprise plateforme.

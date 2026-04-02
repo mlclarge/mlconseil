@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "rudiments-pour-demarrer-sur-les-reseaux-sociaux"
+image: "/images/blog/reseaux-sociaux.jpg"
 ---
 
 # Réseaux sociaux : où en sommes nous ?
@@ -19,32 +20,32 @@ Plaçons nous en face d’un martien qui ne connait pas les réseaux sociaux. Qu
 
 J’ai repéré ce graphique qui représente les plateformes sociales les plus en vogue dans le monde, il est vrai que ce n’est pas simple d’avoir des chiffres récents sur le sujet pour la France  !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/top-reseaux-sociaux-244x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/top-reseaux-sociaux.jpg) Top Mondial des Réseaux sociaux
+[![Image](/images/blog/top-reseaux-sociaux-244x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/top-reseaux-sociaux.jpg) Top Mondial des Réseaux sociaux
 
 Ensuite, il y a aussi l’agrégation de plateformes sociales par utilisateurs tout devices confondus.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Panorama-des-reseaux-sociaux-0-244x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Panorama-des-reseaux-sociaux-0.jpg) Médias, réseaux, Messagerie Sociales (monde)
+[![Image](/images/blog/Panorama-des-reseaux-sociaux-0-244x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Panorama-des-reseaux-sociaux-0.jpg) Médias, réseaux, Messagerie Sociales (monde)
 ### ***Réseaux Sociaux d’entreprises***
 
 Il y a aussi les « RSE » vieux comme le monde,  dédiés au système d’information interne de l’organisation. Je conseille vraiment les publications de **Lecko** sur le sujet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Lecko2013_Matrice-310x267.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Lecko2013_Matrice.jpg) Panorama Réseaux socialux d'entreprises
+[![Image](/images/blog/Lecko2013_Matrice-310x267.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/Lecko2013_Matrice.jpg) Panorama Réseaux socialux d'entreprises
 
 Sans oublier bien sûr le dernier prétendant : **Facebook at work**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/facebook-at-work-310x234.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/facebook-at-work.jpg) Facebook at work
+[![Image](/images/blog/facebook-at-work-310x234.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/facebook-at-work.jpg) Facebook at work
 ## **Quels sont les profils sociaux des utilisateurs ?**
 
 ### ***Les réseaux sociaux une histoire de « jeunes » ?***
 
 Encore les américains pour nous donner une tendance par tranche d’âge, rien de surprenant, c’est même plutôt une confirmation. Dans 20 ans, ce genre de représentation ne voudra plus rien dire.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/demographie-et-genre-310x240.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/demographie-et-genre.jpg) Age des utilisateurs des RS
+[![Image](/images/blog/demographie-et-genre-310x240.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/demographie-et-genre.jpg) Age des utilisateurs des RS
 ### ***Profils  et usages  des plateformes main Stream ***
 
 Au regard des chiffres ci-dessous (Us encore)  , les 2/3  font usage des réseaux sociaux, avec des disparités selon les plateformes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/profils-réseaux-sociaux-310x182.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/profils-réseaux-sociaux.jpg) Profils réseaux sociaux
+[![Image](/images/blog/profils-réseaux-sociaux-310x182.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/profils-réseaux-sociaux.jpg) Profils réseaux sociaux
 ## **Quels indicateurs pour suivre les réseaux sociaux ?**
 
 ### ***Définition standard des Kpi selon le ****Conclave on Social Media Measurement Standards. *
@@ -121,7 +122,7 @@ Sinon, on peut toujours de baser sur les KPI qui ressortent  le plus souvent da
 
  	- Souscriptions
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/kpi-reseaux-sociaux-502x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/kpi-reseaux-sociaux.jpg) Kpi reseaux sociaux (d'après Priit Kallas)
+[![Image](/images/blog/kpi-reseaux-sociaux-502x212.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/kpi-reseaux-sociaux.jpg) Kpi reseaux sociaux (d'après Priit Kallas)
 
 **Influence**
 
@@ -183,7 +184,7 @@ Sinon, on peut toujours de baser sur les KPI qui ressortent  le plus souvent da
 
 Eh bien pour nous, Frenchy, google mène la danse. Bien sûr, une belle visibilité apportée par des influenceurs entraîne avec elle pléthore  de backlinks, donc une popularité certaine sur le post d’un blog. Cette popularité directe amplifie les partages sur les réseaux sociaux et ainsi de suite. Donc OUI, l’effet est indéniable.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/smo-et-seo-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/smo-et-seo.jpg) Cercle Vertueux SMO et SEO
+[![Image](/images/blog/smo-et-seo-302x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/smo-et-seo.jpg) Cercle Vertueux SMO et SEO
 
 En revanche, les effets de volumétrie n’apportent pas  de signaux directs sur le **ranking de l’url dans les serp**s. D’ailleurs, quand on s’aperçoit du temps passé sur les posts partagés, il n’y a pas forcement de relation…malheureusement, donc partage ne sonne pas d’ailleurs avec lecture ! D’autres effets indirects viendront quand les Tweets remonteront comme fut un temps dans les serp, mais c’était avant, bien que l’actualité dise le contraire.
 
@@ -191,20 +192,20 @@ En revanche, les effets de volumétrie n’apportent pas  de signaux directs su
 
 Alors oui, Google adwords par exemple, incite les annonceurs à afficher leur popularité sur Google plus dans leurs annonces sponsorisés. Bof, bof comme effet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rs-et-sea-310x55.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rs-et-sea.jpg) Relais de Google+ dans Liens sponsorisés
+[![Image](/images/blog/rs-et-sea-310x55.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rs-et-sea.jpg) Relais de Google+ dans Liens sponsorisés
 ## **Quels outils pour auditer la sphère sociale ?**
 
 Il en existe des dizaines et des dizaines mais focus sur l'un d'entre eux : **http://buzzsumo.com**/. Un couteau suisse qui permet d'auditer sa présence et celle des autres :
 
  	- Contenus : les plus partagés, les plus populaires, analyse, comparatif, principaux auteurs, et analyse de Facebook (hello a Sylvain Richard ! )
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/buzzsumo-et-ref-nat-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/buzzsumo-et-ref-nat.jpg) Resultats par mot clé des contenus les plus partagés
+[![Image](/images/blog/buzzsumo-et-ref-nat-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/buzzsumo-et-ref-nat.jpg) Resultats par mot clé des contenus les plus partagés
 
  	- Influenceurs : par mots clés, pays
 
  	- Monitoring : surveillance de backinks, de domaines,de mots clés : ci dessous sur le terme "seo" , twitter et Facebook domine la thématique !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/contenus-analyse-pour-seo-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/contenus-analyse-pour-seo.jpg) Contenus analysé pour "seo"
+[![Image](/images/blog/contenus-analyse-pour-seo-310x201.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/contenus-analyse-pour-seo.jpg) Contenus analysé pour "seo"
 ## **Au final c’est facile d’utiliser les réseaux sociaux ?**
 
 **Rien de plus simple de s’y inscrire, mais réussir, rien de plus difficile !**

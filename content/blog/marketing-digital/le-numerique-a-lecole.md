@@ -46,11 +46,11 @@ Le groupe **Compétence et développement** fédèrent plus d’une dizaine d’
 
 [Web International School](http://www.wis-ecoles.com/) sera située  à  Bordeaux, au sein du quartier des bassins à flots, secteur urbain en pleine mutation, dans un bâtiment flambant neuf (voir image ci-dessous).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/Campus-CD-Bordeaux-2015.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/Campus-CD-Bordeaux-2015.jpg) Campus WIS du Groupe C&D à Bordeaux
+[![Image](/images/blog/Campus-CD-Bordeaux-2015.jpg)](/images/blog/Campus-CD-Bordeaux-2015.jpg) Campus WIS du Groupe C&D à Bordeaux
 
 Cette école **spécialisée dans les métiers du web**, se veut être transversale à  4 écoles existantes dont les spécialités sont l’informatique (EPSI), le management (IFAG), la communication  (Sup de Com) et l’e-commerce (IDRAC).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/wis-ecole-du-web-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/wis-ecole-du-web.jpg) Les 4 écoles fondatrices
+[![Image](/images/blog/wis-ecole-du-web-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/wis-ecole-du-web.jpg) Les 4 écoles fondatrices
 
 Les synergies apportées par les 4 écoles fondatrices, font que cet établissement  profitera de l'environnement de 10000 entreprises, de l’accès à une trentaine d’universités dans le monde, et d'**une ouverture sur cinq campus ***(Bordeaux, Nantes, Amiens, Lille, Lyon).*
 
@@ -60,7 +60,7 @@ Les synergies apportées par les 4 écoles fondatrices, font que cet établissem
 
 Ce  Bachelor de 3 ans, est  intégrable à Post bac, +1, ou +2 avec des passerelles sur des études plus longues (BAC+5) et sur des métiers spécialisés sur les quatre écoles issus du groupe C&D.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/cursus-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/cursus.jpg) Cursus et tremplins métiers
+[![Image](/images/blog/cursus-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/cursus.jpg) Cursus et tremplins métiers
 **Hub**
 
 WIS innove dans ses modes d’enseignement avec le développement d’une interface active entre les enseignements, les expériences dans les entreprises, les ateliers pratiques dans un environnement baigné par les expertises des  4 écoles préexistantes (Dev. Web., start up, Com.. Management).
@@ -69,7 +69,7 @@ WIS innove dans ses modes d’enseignement avec le développement d’une interf
 
 N’être plus passif dans son parcours d’apprentissage, et pouvoir choisir selon les objectifs de son **projet professionnel**, c’est ce que proposent les Coach à cette école. Les modes de transmission du savoir proviennent de diverses sources : coworking, e-learning, stages mais aussi investissement dans le montage de projet (incubateur).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/blended-learning-290x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/blended-learning.jpg) Un apprentissage volontaire
+[![Image](/images/blog/blended-learning-290x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/blended-learning.jpg) Un apprentissage volontaire
 ### **Les Contenus enseignés**
 
 Je ne vais pas les lister un à un, et donc citerez uniquement ceux qui sont proposés  dans le domaine du **webmarketing**   au long du cursus de Bachelor pendant ces trois années :

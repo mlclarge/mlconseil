@@ -15,7 +15,7 @@ Tout d’abord, une mise à jour de l'outil statistique pour les pages professio
 
 ## Pages statistiques 
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/10/fbPagaStat-300x251.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/fbPagaStat.png)
+[![Image](/images/blog/fbPagaStat-300x251.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/fbPagaStat.png)
 
 Le but de montrer les conversations au sujet d'une marque ou du possesseur d'une page sur Internet.Avec ces nouvelles données Facebook met l'accent sur l'importance de partager ses pages pro. cela améliore le taux de pénétration de sa marque sur le réseau. Facebook trouve encore que le bouche-à-oreille entre amis, entre clients, est le plus important facteur d'influence pour diffuser l'image d'un produit de sa marque.
 
@@ -49,6 +49,6 @@ Facebook aussi va plus loin quant aux conversations sur les pages et indique que
 
 Facebook révèle aussi la sortie d'un **nouveau format publicitaire** avec l'ajout d’une viralité sociale, qui inclura, si disponible, pour la personne soumis à la publicité, la connexion d'amis connectés à la page de la marque, de l'annonceur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/10/sponsot-257x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/sponsot.jpg)
+[![Image](/images/blog/sponsot-257x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/sponsot.jpg)
 
 Facebook apparemment **s'est préparé à l'arrivée de Google plus**, en apportant depuis quelques temps, que ce soit sur ses profils (timeline, ticker, flux..) ou ses pages , des améliorations significatives.

@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "budget-double-quotidien-dans-adwords"
+image: "/images/blog/adwords-frais-journalier-doublé.jpg"
 ---
 
 Cette annonce google est clairement indiqué dans les comptes actuellement au niveau des notifications...

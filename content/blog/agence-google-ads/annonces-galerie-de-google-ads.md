@@ -5,20 +5,21 @@ author: "admin"
 categories: ["Agence google ads"]
 tags: []
 slug: "annonces-galerie-de-google-ads"
+image: "/images/blog/creer-des-annonces-galerie-.jpg"
 ---
 
 Les **annonces galerie** ou gallery ads, [annoncées](https://support.google.com/google-ads/answer/9430978) depuis début août par le géant de Mountain View  sont ces **annonces illustrées** que les utilisateurs peuvent balayer du doigt, elles fournissent les informations en haut de la page de résultats de recherche de Google mais uniquement sur les mobiles/smartphones. C'est une petite révolution parmi les annonces sur le réseau de recherche , qui jusqu'à présent, ont été toujours textuelles hors bien sûr google shopping (annonces standard et showcase). Les annonces illustrées existent déjà depuis plusieurs années sur Bing Ads notamment.
 
 La version bêta des annonces galerie est donc aujourd'hui disponible dans 11 langues (allemand, anglais, espagnol, français, hollandais, italien, japonais, polonais, portugais, russe et suédois) et sera bientôt proposée à d'autres clients dans le monde. Souvenez-vous elles étaient annoncées lors du Marketing live du printemps dernier où j’en parlais [ici](https://www.mauricelargeron.com/google-marketing-live-2019/).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/google-car-ad-carousel-ads.gif)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/google-car-ad-carousel-ads.gif) Gogole ads Annonce galerie
+[![Image](/images/blog/google-car-ad-carousel-ads.gif)](/images/blog/google-car-ad-carousel-ads.gif) Gogole ads Annonce galerie
 ## **Contexte des annonces galerie sur le moteur de recherche Google**
 
  	- Rendre la pièce à Instagram, Facebook, LinkedIn
 
  	- Amazon est devenu un moteur de recherche dominant
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/amazon-et-publicité-502x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/amazon-et-publicité.jpg) Pression sur Google d'Amazon
+[![Image](/images/blog/amazon-et-publicité-502x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/amazon-et-publicité.jpg) Pression sur Google d'Amazon
 
  	- L'image, médium "à la mode" prisé car terriblement efficace :
 
@@ -52,7 +53,7 @@ La version bêta des annonces galerie est donc aujourd'hui disponible dans 11 la
 
 ### ***Spécifications pour une annonce galerie réussie ***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/annonce-galerie-329x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/annonce-galerie.jpg) Accès à l'éditeur des gallery ads
+[![Image](/images/blog/annonce-galerie-329x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/annonce-galerie.jpg) Accès à l'éditeur des gallery ads
 
  	- 3 titres sont disponibles de 70 caractères
 
@@ -64,6 +65,6 @@ La version bêta des annonces galerie est donc aujourd'hui disponible dans 11 la
 
  	- Les annonces Galerie sont facturées **si un utilisateur clique dessus pour accéder à votre site Web ou balaie l'écran jusqu'à la troisième image.** S'il effectue ces deux actions, une seule facturation s'enclenche
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/editeur-annonce-galerie.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/editeur-annonce-galerie.jpg) Editeur annonce galerie
+[![Image](/images/blog/editeur-annonce-galerie.jpg)](/images/blog/editeur-annonce-galerie.jpg) Editeur annonce galerie
 
 Je pense que ce format va faire un carton dans les semaines à venir. C'est à nouveau un coup dur pour le Seo, la domination des CTR sur ce format fera certainement chuter l'engagement sur des positions naturelles proche de ce type de Serp payante.

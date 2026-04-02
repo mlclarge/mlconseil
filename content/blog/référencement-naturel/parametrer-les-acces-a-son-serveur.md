@@ -5,20 +5,21 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "parametrer-les-acces-a-son-serveur"
+image: "/images/blog/htaccess-file.jpg"
 ---
 
 Qu’est-ce que ce fameux fichier htaccess ? Après avoir vu les aspect du [crawling de site](https://www.mauricelargeron.com/crawler-son-site-pour-son-ref-net/), essayons d’y voir plus clair sur les possibilités de ce  fichier. Je vais tenter d'en définir les contours dans un premier temps, puis ensuite ferai un listing en **5 grandes catégories regroupant 25 fonctions ** de ce couteau suisse. Je me doute bien que pour les initiés rien de neuf, qu’un bref rappel, et  pour ceux moins attachés au code,  des découvertes  sur son potentiel  peuvent se produire, c’est du moins, ce que j’espère faire passer au travers de ces quelques lignes !
 ## **Qu’est-ce qu’un fichier htaccess ?**
 
 C’est un vieux vétéran du monde du web  qui sert à configurer la plupart des serveurs web de l’internet (65%) , les serveurs apache, dont il contrôle l’accès aux données du site pour faire succinct.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/repartition-serveurs-web-310x185.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/repartition-serveurs-web.jpg) Part de marché des serveurs dans le monde
+[![Image](/images/blog/repartition-serveurs-web-310x185.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/repartition-serveurs-web.jpg) Part de marché des serveurs dans le monde
 
 Matériellement, c’est tout simplement **un fichier ASCII **(American Standard Code For Information Interchange) , soit un fichier texte lisible par un éditeur de texte comme wordpad dans windows et compréhensible par l’œil humain, au détriment d’un fichier binaire qui lui contient des codes binaires destinés aux machines.
 
 Il peut s’exécuter  uniquement dans un environnement serveur Apache, par windows (nt).
 
 Il n’y a pas **qu’un seul fichier htaccess** par site web, mais souvent plusieurs , ils  peuvent  s’exécuter à la racine de chaque dossier selon les directives assignées.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess-hebergement-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess-hebergement.jpg) Fichier htaccess sur hébergeur
+[![Image](/images/blog/htaccess-hebergement-310x196.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess-hebergement.jpg) Fichier htaccess sur hébergeur
 ## **Quand faut-il l’utiliser ?**
 
 Bien souvent **le mieux c’est de ne pas l’utilise**r ! Bon alors, il ne sert à rien ? Non tout de même pas ! Quand vous avez la main sur les fichiers principaux  de configuration d’un  serveur apache (httpd.conf entre autre) et uniquement dans ce cas-là, rien ne sert à utiliser les vertus du fichier htaccess et autres directives modulaires.
@@ -46,7 +47,7 @@ Afin d’avoir une vue plus synthétique, j’ai regroupé dans** 5 catégories 
 
 - Expérience Utilisateur (UX)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess-310x296.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess.jpg) 5 Domaines pour l'htaccess
+[![Image](/images/blog/htaccess-310x296.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/htaccess.jpg) 5 Domaines pour l'htaccess
 ### **Sécurité avant tout** !
 
 Protéger  le fichier .htaccess lui même

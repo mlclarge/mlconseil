@@ -15,7 +15,7 @@ Le titre est racoleur, ok, donc je retire...Google nous veut du bien, nous le sa
 
 Il y a un **changement notoire** depuis quelques jours dans l'interface de présentation du moteur Google. Deux petits boutons à droite permettent de choisir une recherche selon un état privé ou public.   Avant cette nouveauté,  **Raphael Doucet**  notait sur son site des changements de présentation avec des **résultats personnalisés** selon que l'on soit actif ou pas sur le réseau social google + . **Olivier Duffez**  de son côté confirme le petit "+" donné aux contenus publiés et partagés sur ce "social network".   Une chose est certaine, afin d'avoir une vue neutre (si cela a réellement du sens après tout , vu que chacun peut possèder son propre historique) de  ces positions dans le moteur, il faut faire des tests en dehors de son navigateur habituel, sous une autre adresse IP, bref, être masqué ! Cela veut dire aussi qu'il faut compter avec **Google  plus  plus que jamais pour son référencement organique**.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-google-plus-310x200.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-google-plus.png) Personnalisation et remontée des profils G+
+[![Image](/images/blog/serp-google-plus-310x200.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-google-plus.png) Personnalisation et remontée des profils G+
 ### Balises Méta Description concaténées
 
 L’annonce récente de la refonte du moteur avec l’image de l’**Hummingbird** révèle une volonté de la part de l’américain de la silicone valley d’**optimiser les requêtes** et de présenter des réponses susceptibles d’intéresser l’internaute afin de favoriser ses clics.
@@ -24,7 +24,7 @@ Déjà en 2012 (voir lien bas de page) Matt Cutts indiquait la manière dont Goo
 
 Un exemple ci dessous où je recherche  une info. sur le "spam" sur un site précis. J’obtiens comme réponse  **un lien + bloc texte**. Ce dernier est composé par Google qui va chercher sur la page 2 bouts de texte qu'il accole pour en former un tout cohérent, la méta description n’étant sans doute pas assez ajustée à ma demande. Le lien, quant à lui,  récupère entièrement la balise du titre, sans modification.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/crea-serps-google-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/crea-serps-google.jpg) Creation des descriptions dans Google
+[![Image](/images/blog/crea-serps-google-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/crea-serps-google.jpg) Creation des descriptions dans Google
 
 Certains tests montrent qu’avec 2 balises méta pour la même page, Google se servira de l’une ou de l’autre balise selon la recherche de l'internaute.
 
@@ -32,7 +32,7 @@ Certains tests montrent qu’avec 2 balises méta pour la même page, Google se 
 
 Ici, c’est un cas que j’ai récupéré d’une demande sur un forum Google , où le titre est inversé par rapport à l’origine , en revanche, le texte en dessous reprend à l’identique ce qui est indiqué dans la balise « méta »
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/inversion-ordre-titre-serp-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/inversion-ordre-titre-serp.jpg) Création des titres serp Google
+[![Image](/images/blog/inversion-ordre-titre-serp-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/inversion-ordre-titre-serp.jpg) Création des titres serp Google
 
 En outre, des tests effectués avec 2 balises titre (title) pour voir laquelle des deux est retenue montre que  Google ignore la seconde et  ne prend donc  que la premiere disponible.
 
@@ -42,12 +42,12 @@ En outre, des tests effectués avec 2 balises titre (title) pour voir laquelle d
 
 Il y a  les **suggestions automatiques** dès que l’on tape un terme dans le champ de recherche, à noter son utilité seo  si le mot clé sur lequel on travaille se rapproche de celui suggéré. Au-delà de cela,  lorsque Google ne comprend pas directement ce qu’on lui demande , il vous propose un terme rapprochant mais qui n’a rien à voir, ou alors va piocher dans son thésaurus anglais ! Exemple ici avec la recherche sur le terme "echidnine" que tout le monde connaît ;)  qui n'est autre , dans sa définition, que le principe actif du venin de la vipère, Google nous renvoit sur "echidna" personnage de mythologie Grecque  (à corps reptilien certes mais tout de même) !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-anglais-310x167.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-anglais.jpg) Suggestion et langue Anglaise !
+[![Image](/images/blog/serp-anglais-310x167.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/serp-anglais.jpg) Suggestion et langue Anglaise !
 ### Des brevets encore des brevets pour remâcher les données !
 
 Au-delà de la simple présentation ou suggestion , Google tente avec  **HummingBird  et le Knowledge Graph** de capter l’intention de la recherche et  de produire  des résultats parfois  directs  concernant certaines demandes comme la météo,  un personnage, un horaire , une définition etc.. Pour matérialiser la façon dont Google tente de  répondre ou d’essayer  de nous manipuler pour être mauvaise langue , il faut jeter un œil aux process d’exécution qui accompagne le dépôt de ses brevets.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/suggestions-247x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/suggestions.jpg) Arrière boutique probable de HummingBird
+[![Image](/images/blog/suggestions-247x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/suggestions.jpg) Arrière boutique probable de HummingBird
 
 Cela indique bien que Google tente parfois d’interpréter au sein d’un mot clé, ce qui se cache plus globalement derrière la requête de l’internaute. Il essaie de traquer la requête qui manque d'explicité. Cela n’est pas anodin quant à la façon dont il faut considérer le métier de référenceur aujourd’hui bien que n'étant pas impacté directement  de front, les mots clés travaillés étant souvent sans ambiguïté.
 

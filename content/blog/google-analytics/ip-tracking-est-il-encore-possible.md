@@ -19,7 +19,7 @@ Cela fait déjà  quelques années que des plaintes régulièrement font évolu
 
 En ce début d’année 2013, la députée européenne **Madame Françoise CASTEX**, a saisi la CNIL pour dénoncer cette pratique de web tracking. Une enquête est donc en cours où la [CNIL et la DGCCRF](http://www.cnil.fr/linstitution/actualite/article/article/ip-tracking-collaboration-en-cours-entre-la-cnil-et-la-dgccrf/) s’unissent pour étudier cette requête.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/ip-tracking-etat-des-lieux-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/ip-tracking-etat-des-lieux.jpg) Etat des lieux 2013 sur l'Ip Tracking
+[![Image](/images/blog/ip-tracking-etat-des-lieux-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/ip-tracking-etat-des-lieux.jpg) Etat des lieux 2013 sur l'Ip Tracking
 
 Alors attendons voir ce qui devrait sortir en cette rentrée, tant au niveau européen que sur le territoire national. Au-delà de l’ip tracking, l’usage des cookies fait partie des préoccupations des législateurs, l’Europe en 2012  a d’ailleurs demandé à Google d’éclaircir sa  politique de confidentialité sur ces services. Fin 2012, des pas en ce sens ont été accompli de la part du moteur de recherche, et en 2013, il y a quelques semaines, l’affichage de ses Terms of Service (TOS) était mentionné avec un appel à « cliquer » pour acceptation des conditions d’usages des cookies.
 
@@ -31,15 +31,15 @@ Petit rappel sur la façon dont on peut collecter l’adresse IP d’un visiteur
 
 Généralement les serveurs web embarquent dans leurs fichiers log les différentes connexions entre le client (via le navigateur) et le serveur. Nativement, la connexion entre 2 machines distantes utilise un protocole de transmission pour pouvoir échanger des données. Le plus communément utilisé par le http://www est TCP/IP inventé en 1983 aux USA qui d'établir une connexion pour toutes machines sur le réseau des réseaux munit d'une adresse IP (Internet Protocol).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/client-serveur-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/client-serveur.jpg) Architecture client serveur (Sce
+[![Image](/images/blog/client-serveur-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/client-serveur.jpg) Architecture client serveur (Sce
 
 Les couches basses de liaison sont envoyées au serveur dès l’envoi de la requête qui retourne sa réponse aussitôt. Sans l’envoi de ce socket de connexion, point de transmission possible. Ensuite, plus haut dans les couches du  modèle OSI de communication,  les données contenues sur le serveur (pages web) vont pouvoir transiter.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/TCP-IP-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/TCP-IP.jpg) Tcp/Ip au service des PCs - Serveurs
+[![Image](/images/blog/TCP-IP-310x145.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/TCP-IP.jpg) Tcp/Ip au service des PCs - Serveurs
 
 L’identification des adresses IP  dans les logs se font ensuite par des routines adaptées qui vont « parsées » ces fichiers textes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/log-serveur-310x62.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/log-serveur.jpg) Extrait fichier journal serveur web
+[![Image](/images/blog/log-serveur-310x62.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/log-serveur.jpg) Extrait fichier journal serveur web
 ### **Tracking via développement de scripts**
 
 Web Beacons or Web bug
@@ -50,18 +50,18 @@ Script php/mysql par exemple
 
 Une autre façon  plus rudimentaire,  de collecte  d’information sur l’IP,  peut se faire aussi via différents languages dont le php, par exemple. Ce tracker peut être fait maison, relié à une base MySQL personnalisée avec une connexion sur un service de géolocalisation (via une api).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/IPTRACKING-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/IPTRACKING.jpg) Méthodes Ide suivi adresse IP (Sce Abine.com)
+[![Image](/images/blog/IPTRACKING-310x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/IPTRACKING.jpg) Méthodes Ide suivi adresse IP (Sce Abine.com)
 ## Services d’intelligence IP
 
 ### Des données ip enrichies
 
 Les données ne sont jamais nominatives et concernent des données d’enseignes ou raisons sociales, agrégées. Concernant l’anonymat des données personnelles, Google analytics précise qu’il adopte un processus [d’anonymisation de sa collecte](https://support.google.com/analytics/answer/2763052?hl=fr).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/google-analytics-310x81.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/google-analytics.jpg) Anonymisation de la collecte d'adresses IPs
+[![Image](/images/blog/google-analytics-310x81.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/google-analytics.jpg) Anonymisation de la collecte d'adresses IPs
 
 D’autres sociétés usent de leurs **technologies propriétaires**  basées sur les techniques de scripts déjà évoquées, en se focalisant  sur l’IP  tracking. Leur valeur ajoutée vient  du data mining appliqué sur leur collecte : croisement avec données sociales, démographiques, géolocalisées.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/08/service-tracking-310x279.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/service-tracking.png) Ip Intelligence au service du Web Marketing
+[![Image](/images/blog/service-tracking-310x279.png)](https://www.mauricelargeron.com/wp-content/uploads/2013/08/service-tracking.png) Ip Intelligence au service du Web Marketing
 
 Le tracking de l’adresse IP est donc une technologie bien aboutie, reste sa pérennisation dans le temps,  soumise aux évolutions des comportements des internautes  et du corpus législatif  . Cependant, les lobbys à Bruxelles défendent leur bol de soupe donc l’ip tracking n’est pas encore mort !
 

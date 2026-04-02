@@ -7,7 +7,7 @@ tags: []
 slug: "conditions-generales-dutilisation"
 ---
 
-![Image](https://www.mauricelargeron.com/wp-content/uploads/2020/12/mlc-logo-227x300.png)
+![Image](/images/blog/mlc-logo-227x300.png)
 
 **Article 1 : objet**
 Les présentes « conditions générales d'utilisation » ont pour objet l'encadrement juridique de l’utilisation du site Mauricelargeron.com et de ses services.

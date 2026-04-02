@@ -7,7 +7,7 @@ tags: []
 slug: "politique-de-confidentialite"
 ---
 
-## ![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/LOGO-BLOGPNG-227x300.png)
+## ![Image](/images/blog/LOGO-BLOGPNG-227x300.png)
 
 Mlconseil Marketing **MLConseil** , [activité de consulting spécialisée sur la formation google ads](https://www.mauricelargeron.com/formation-google-ads/), est situé sur  Bordeaux Métropole. Vous pouvez me contacter à : webmastermauricelargeron.com  ou retrouver MLConseil [ ici](http://linkedin.com/in/mauricelargeron/)
 

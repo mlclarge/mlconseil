@@ -15,11 +15,11 @@ La technique utilisée est très ancienne,  bots serveurs, script malveillants 
 
 Ce bot « darodar » ici  est un «visiteur fantôme » construit pour simuler une pseudo visite et marquer son territoire par une fausse identification sur la provenance du visiteur (référent). Le script envoie une pseudo requête http:// directement sur les **serveurs de Google analytics**,  munie des bonnes variables avec les numéros de comptes GA Id qu’il créé  aléatoirement.  De vrais comptes GA sont touchés,  sans passer par le site web !  On aurait pu avoir ce même genre de phénomène avec une page infectée par un script malicieux qui établit une redirection forcée du navigateur avec génération d’une visite  (clics, scroll..), mais non, rien de tel ici, donc le **site web n'est pas attaqué,** ouf  ! D’où son appellation anglophone de  « ghost referral». Tout type de site est touché, cms, ecommerce, standalone, donc pas uniquement Wordpress.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/02/procedes-spam-referrer-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/procedes-spam-referrer.jpg) Procédés spam referrer
+[![Image](/images/blog/procedes-spam-referrer-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/procedes-spam-referrer.jpg) Procédés spam referrer
 
 Google analytics a été le premier à se faire prendre , vu qu’il ne le filtre rien. Le propriétaire du site, le webmaster, l’analyste  se font prendre à son tour vu que l’arrivée d’une nouvelle source de trafic suscite toujours l’attention et encourage  d’aller cliquer sur le lien qui amène ce trafic.  Le clic vers  ce référent  véreux  aboutit souvent à **une page redirigée et  commerciale**.  Résultat ? une page vue supplémentaire dans le sac !  Bon je ne sais pas si les auteurs le font véritablement pour cela, enfin..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/02/spam-referents-google-analytics-291x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/spam-referents-google-analytics.jpg) Spam de referents google-analytics
+[![Image](/images/blog/spam-referents-google-analytics-291x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/spam-referents-google-analytics.jpg) Spam de referents google-analytics
 
 A ce jour, je rassure, il n’y a pas d’effet négatifs sur le **ranking de site** via à vis des moteurs de recherche. Il ne manquerait plus que ça ! Déjà le désagrément de voir un faux trafic n’est pas très plaisant, mais si en plus, cela pénalisait le site !
 
@@ -44,15 +44,15 @@ il ne reste plus qu’à utiliser les filtres …profitons de les  détailler..
 
 	- **Filtres  de vues coté « admin »** en amont au sein d’une vue : permet d’une façon permanente de filtrer l’arrivée  des sources référents fautives (faire un tri inverse et ne laisser passer que les référents connus peut s’envisager aussi). Depuis peu, pour être sûr de son coup, GA propose de tester « live » les conséquences du tri. Il faudra attendre le trafic à venir, pour avoir les rapports nettoyés. L’utilisation de regex permet de filtrer un ensemble de sources indésirables. Notez la limite à 250 caractères par filtres, il faudra donc les démultiplier si la liste du spam est longue..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-google-analytics-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-google-analytics.jpg) Filtre de vue
+[![Image](/images/blog/filtres-google-analytics-310x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-google-analytics.jpg) Filtre de vue
 
 	- Dans les rapports standards, **un filtre de table,** permet, lorsque l’on ne peut pas attendre l’effet du  filtre admin, de trier les traces du ou des bots malveillants.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-de-table-ga-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-de-table-ga.jpg) Filtre de table GA
+[![Image](/images/blog/filtres-de-table-ga-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/filtres-de-table-ga.jpg) Filtre de table GA
 
 	- **La segmentation** peut venir aussi en aide pour éclairer le reporting et le contexte des referrers spammy. Dans l’exemple ici, le segment appliqué est inclus, ce qui permet d’avoir une proportion du faux  trafic  en %. Attention la syntaxe en expression régulière n’est pas la même qui celle des filtres, pourquoi ? Je ne sais pas ! Si Julien Coquet passe par là, il doit avoir une idée certainement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/02/segments-filtres-anti-spam-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/segments-filtres-anti-spam.jpg) Segmentation et évaluation trafic S.
+[![Image](/images/blog/segments-filtres-anti-spam-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/02/segments-filtres-anti-spam.jpg) Segmentation et évaluation trafic S.
 
 	- Autre solution disponible pour **dépolluer les rapports personnalisés** c’est la création  d’un **filtre d’exclusion**, qui élimine par expression régulière, les sources de trafic inutiles.
 

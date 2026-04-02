@@ -5,27 +5,28 @@ author: "admin"
 categories: ["Outils Web et Marketing"]
 tags: []
 slug: "data-studio-360-pour-visualiser-ses-statistiques"
+image: "/images/blog/data-studio-tutoriel.jpg"
 ---
 
 Google est en train de déployer un de ses derniers **[outils de Business intelligence ‘Data studio »](https://www.google.com/analytics/360-suite/data-studio/).** Même si l’outil n’est disponible qu’en lecture seule actuellement en France, il est possible déjà d’en prendre la mesure dès aujourd’hui, en se rendant sur l’interface via une recherche dans Google (il faut avoir un compte Google bien sûr). Quoi qu’il en soit, voyons à quoi sert la solution, ses limites, atouts, et enfin son interface.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/google-studio-gratuit-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/google-studio-gratuit.jpg) Ou trouver Data Studio ?
+[![Image](/images/blog/google-studio-gratuit-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/google-studio-gratuit.jpg) Ou trouver Data Studio ?
 ## **Les deux principales caractéristiques de Data Studio**
 
 N’oublions pas que cette version qui fait partie de la [suite  Analytics 360](https://www.mauricelargeron.com/une-suite-6-etoiles-pour-une-galaxie-de-donnees/) est une version bêta donc perfectible et qu’elle va sans doute s’enrichir de fonctionnalités. Comme son nom l’indique, cet **outil produit des rapports sous forme graphique** à partir de données sources existantes (data = statistiques et dimensions)  comme  Google Adwords, Google analytics, Big query (le big data de Google), feuilles de calcul Google.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/connecteurs-data-studio-210x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/connecteurs-data-studio.jpg) Connecteurs Data Studio
+[![Image](/images/blog/connecteurs-data-studio-210x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/connecteurs-data-studio.jpg) Connecteurs Data Studio
 
 L’objectif de cet outil est double :
 
  	- **Donner du sens **à l’analyse de data, dont les sources sont souvent nombreuses sous forme tabulaires (lignes et de colonnes).  D’un ensemble de rapports (comme ceux de Google analytics), ces données deviennent  plus claires et compréhensibles au sein d'un tableau de bord.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/exemple-de-rapport-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/exemple-de-rapport.jpg) Exemple de rapport graphique
+[![Image](/images/blog/exemple-de-rapport-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/exemple-de-rapport.jpg) Exemple de rapport graphique
 
  	- **D’apporter de l’interactivité**  au destinataire du rapport : manager, marketeur, client avec une possibilité d’avoir des données actualisées en permanence, modifiables « live » sur la partie calendrier/période étudiée et enfin doté d’une fonctionnalité de tri qui permet d’engager son lecteur s’il souhaite trier certains rapport chiffrés par les entêtes de colonnes.
 
 Je remercie vivement **Ben Collins** pour cette petite animation qui donne un exemple des interactions possibles.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/mobile_dashboard-310x238.gif)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/mobile_dashboard.gif)
+[![Image](/images/blog/mobile_dashboard-310x238.gif)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/mobile_dashboard.gif)
 ## **Les plus, limites et bonnes pratiques de Data Studio 360.**
 
 ### ***Les plus de l’outil Data Studio 360***
@@ -42,7 +43,7 @@ Je remercie vivement **Ben Collins** pour cette petite animation qui donne un ex
 
  	- Les rapports graphiques sont responsive.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/datastudio-360-sur-mobile-310x204.png)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/datastudio-360-sur-mobile.png) Affichage Data studio 360 sur mobile
+[![Image](/images/blog/datastudio-360-sur-mobile-310x204.png)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/datastudio-360-sur-mobile.png) Affichage Data studio 360 sur mobile
 ### ***Les limites de DS 360***
 
  	- Pas d’export sous format pdf
@@ -83,7 +84,7 @@ Je remercie vivement **Ben Collins** pour cette petite animation qui donne un ex
 
 J’avoue, google m’a copié, l’aide est particulièrement bien faîte, j’ai donc récupéré et traduit leur screenshot pour une fois !  :)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/page-accueil-google-studio-490x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/page-accueil-google-studio.jpg) Page accueil google studio
+[![Image](/images/blog/page-accueil-google-studio-490x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/page-accueil-google-studio.jpg) Page accueil google studio
 
 ***Descriptif de la page accueil :***
 
@@ -105,7 +106,7 @@ J’avoue, google m’a copié, l’aide est particulièrement bien faîte, j’
 
  	- **Google icône** de **profil.** Gérez votre compte Google.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/createur-de-rapport-google-studio-449x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/createur-de-rapport-google-studio.jpg)
+[![Image](/images/blog/createur-de-rapport-google-studio-449x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/createur-de-rapport-google-studio.jpg)
 
 ***Description de l'éditeur de rapport :***
 

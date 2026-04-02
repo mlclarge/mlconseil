@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Campagne google ads"]
 tags: []
 slug: "gestion-des-droits-et-utilisateurs-sous-ga"
+image: "/images/blog/google-analytics-4.jpg"
 ---
 
 Comment bien structurer et gérer les accès à son compte Google analytics ? Il arrive souvent d’avoir des demandes désespérées sur le  forum adwords - Analytics sur la perte d’accès à des comptes ou tout simplement être limité dans sa gestion quotidienne. Revenons sur quelques éléments fondamentaux sur l’architecture de compte chez GA et sur sa [gestion au quotidien](https://www.mauricelargeron.com/gestion-mode-consentement-google-ads/).
@@ -17,11 +18,11 @@ Il est conseillé de savoir comment est articulé l’application analytics avan
 
 **Mise à jour 14/02/2014 :** Nous serions passés à 100 comptes GA au lieu de 25 , cela laisse du champ, mais toujours 50 vues maxi par propriété (UA-XXXXXXX). Source : [http://gatipoftheday.com/google-analytics-account-limit-raised-from-25-to-100/](http://gatipoftheday.com/google-analytics-account-limit-raised-from-25-to-100/) Tks to Eric Fettman for this news ! 
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/architecture-compte-analytics-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/architecture-compte-analytics.jpg) architecture-compte-analytics
+[![Image](/images/blog/architecture-compte-analytics-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/architecture-compte-analytics.jpg) architecture-compte-analytics
 
 Il est conseillé de la garder comme « sauvegarde » sans filtre, puis d’en créer une seconde réservée à d’éventuels tests, puis une troisième « maître » pour l’analyse. Ainsi, vous avec un compte prêt à l’emploi et modifiable à tout moment sans risque aucun de perdre les données brutes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-35-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-35.jpg) Structure de Base GA
+[![Image](/images/blog/structure-compte-ga-35-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-35.jpg) Structure de Base GA
 
 Un compte Google analytics est constitué de 3 éléments avec un « ID » dédié
 
@@ -31,7 +32,7 @@ Un compte Google analytics est constitué de 3 éléments avec un « ID » dé
 
  	- La vue : **ID 52701699** : pas transférable, liée à la propriété
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-3-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-3.jpg) Configuration standard
+[![Image](/images/blog/structure-compte-ga-3-310x175.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/structure-compte-ga-3.jpg) Configuration standard
 ### Comment créer un accès G. Analytics ?
 
 Il faut donc avoir un compte Google à la base pour accéder à l’interface G Analytics. Un compte gmail, existant suffira pour acccéder ensuite au service analytics, sinon, il faudra en créer un pour l’occasion.

@@ -32,7 +32,7 @@ Google analytics fait déjà tout le travail pour vous, puisque, sans aucun para
 
 	- **Page de destination** : les internautes accèdent directement depuis leurs navigateurs en tapant l’adresse du site ou en cliquant sur un favori. Ici, 28 % vont atterrissent directement sur la page d’accueil mentionnée avec un "/".
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analytics-sources-trafic1-300x195.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analytics-sources-trafic1.png) Fig.1 Indicateurs " Vue d'ensemble" | G. Analytics
+[![Image](/images/blog/analytics-sources-trafic1-300x195.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analytics-sources-trafic1.png) Fig.1 Indicateurs " Vue d'ensemble" | G. Analytics
 
 Sources
 
@@ -40,27 +40,27 @@ Ce chapitre ici détaille numériquement les statistiques agrégées citées plu
 
 	- **Tout le trafic**  que l’on peut segmenter selon ces besoins. Exemple : Je m’aperçois que le site d’information  cité en exemple ici est retrouvé par le terme « excision » un des sujets traités mais pas le seul par le blog :( , je souhaite évaluer l’impact global de ce terme sur l’ensemble des visites. Je vais donc créer un segment personnalisé sur ce mot clé qui va trier sur les mots clés celui qui contient les trois premières lettres du terme « excision » soit «** exc **» (voir Fig. 2)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise-300x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise.png) Création segment personnalisé
+[![Image](/images/blog/segment-personnalise-300x150.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise.png) Création segment personnalisé
 
 Une fois ce segment crée, j’indique sous l’onglet** rapport standard** que je souhaite afficher le rapport « toutes les visites » avec  «** impact du mot clé excision **».
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise2-300x81.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise2.png) Affichage de 2 segments (std & perso)
+[![Image](/images/blog/segment-personnalise2-300x81.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/segment-personnalise2.png) Affichage de 2 segments (std & perso)
 
 Je m’aperçois que **62.5 % du total des visites est impacté par ce terme de recherche ***(Soit 475 visites sur 760)*. Je peux affiner ensuite selon les moteurs de recherche, en cliquant sur  le plus influent et j’obtiens ensuite son « poids » dans la provenance de ces visites (86%). Le taux de rebond ici est très élevé (+80 %),  corrélé au temps passé sur la page, cela indique certainement que les internautes ne trouvent pas ce qu’ils recherchent.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/contexte-impact-analytics-300x216.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/contexte-impact-analytics.png) Contextualisation sur impact d'1 mot clé
+[![Image](/images/blog/contexte-impact-analytics-300x216.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/contexte-impact-analytics.png) Contextualisation sur impact d'1 mot clé
 
 **Site référent (popularité du site)**
 
 Ce lien donne par défaut des stats.  déjà vues en agrégées depuis Source de trafic > Vue d’ensemble.  Cependant, il peut être judicieux de connaître les pages de destination que réfèrent mes sites partenaires, avec le % de chacun. Ici, seule la page d’accueil, mentionnée avec un « / »  représente l’essentiel  de mes liens entrants *(ces derniers composent  l’indice de popularité pour Google, un lien vers un site= 1 vote)*. En revanche, sur les données standard données par analytics (*visites, pages par visites=, temps moyen passé sur le site, taux de rebond)*, je constate que ces liens apportent un trafic qui semble qualitatif au regard du taux de rebond très faible (26%) et du temps passé sur le site *(187% supérieur à la moyenne)*. Dans ma stratégie Seo *(Search engine optimization ou référencement)*, il est clair que je dois renforcer mes efforts sur ce canal afin d’améliorer ce 4% du total des visites !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/site-referent-300x185.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/site-referent.png) Analyse qualitative des sites référents
+[![Image](/images/blog/site-referent-300x185.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/site-referent.png) Analyse qualitative des sites référents
 
 **Recherche **
 
 On revient ici sur les requêtes tapées par les internautes. Il faut choisir **selon ces besoins des critères** pour aller plus loin dans l’analyse. Ci-dessous, je mets en parallèle le mot clé (sans regroupement), sa page de destination, les visites  et  le temps passé sur le site. Intéressant à noter que le second terme de recherche est celui du nom de l’association, le temps passé par ces internautes est 3 fois supérieur à celui qui tape le terme générique de sa recherche.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/resultatnaturels-300x205.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/resultatnaturels.png) Perspective: Mos clés -> page destination
+[![Image](/images/blog/resultatnaturels-300x205.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/resultatnaturels.png) Perspective: Mos clés -> page destination
 ### Optimisation pour le référencement
 
 Optimisation pour le référencement, rentrons dans le vif du sujet ! *(association avec Google Webmaster Tools) les 1000 et 1 nuit du référenceur ! . *Les rapports donnés sur l’optimisation du référencement utilisent **4 statistiques** issus de la recherche sur le moteur de recherche Google :** Les impressions, les clics, position moyenne de ces liens et le ctr (taux de clics /impressions) en pourcentage.**
@@ -70,13 +70,13 @@ Ce modèle est emprunté au modèle du programme adwords. Donc pour ceux qui y s
 
 Nous avons ici plus de profondeur que les données précédentes, puisque dans une certaine mesure *(1000 principales requêtes quotidiennes)* Google fait remonter les **termes de recherche**, et les urls du site qui se sont affichées, les clics  effectués, et la position moyenne sur la page (calcul de moyenne entre des positions différentes sur des requêtes différentes pour 1 url). Les 4 statistiques peuvent être choisies selon ces besoins. Ici, sur les requêtes effectuées, les chiffres sont plutôt bons  (CTR de 25%) !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/1000-requetes-analytics-300x192.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/1000-requetes-analytics.png) 1000 principales requêtes internautes
+[![Image](/images/blog/1000-requetes-analytics-300x192.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/1000-requetes-analytics.png) 1000 principales requêtes internautes
 
 	- **Pages de destination**
 
 Ce rapport indique les 1000 premières pages  *(limite de 1000 urls uniques)* quotidiennes. Pour les petits sites, les pages sont comptées par impression. Il est  utile pour juger du trafic global du site et ainsi d’améliorer la position de certaines pages. Ici la page d’accueil  n’est pas celle qui obtient le plus de succès !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/pages-1000-300x188.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/pages-1000.png) 1000 premières pages du Blog
+[![Image](/images/blog/pages-1000-300x188.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/pages-1000.png) 1000 premières pages du Blog
 Autres Suggestions segmentations et indicateurs
 
 	- **Segmentation avancée : Travailler sa longue traîne**
@@ -85,17 +85,17 @@ Des requêtes peuvent contenir 5, 6,7 mots auxquelles il est difficile de penser
 
 ^(+ ){5}+$
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/regex1-300x202.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/regex1.png) Expression régulière : tri sur longueur requêtes
+[![Image](/images/blog/regex1-300x202.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/regex1.png) Expression régulière : tri sur longueur requêtes
 
 	- **Segmentation avancée : Travailler les liens profonds de page**
 
 Même cause, même effet avec cette expression :   ^/(+/){2}*$ . Elle nous donne la profondeur de la page de destination, ici, réglé à un chemin dont la profondeur est égale à 2 répertoires.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/profondeur-liens-Pages-300x175.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/profondeur-liens-Pages.png) Exp. régul. : Liens sur pages pronfondes
+[![Image](/images/blog/profondeur-liens-Pages-300x175.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/profondeur-liens-Pages.png) Exp. régul. : Liens sur pages pronfondes
 
 	- **Cheminement par mots clés** : flux de visiteur par mots clés du  trafic naturel. Une autre vision du comportement des visiteurs et des interactions selon les requêtes de départ.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/flux-analytics-300x174.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/flux-analytics.png) Cheminement selon mots clés entrants
+[![Image](/images/blog/flux-analytics-300x174.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/flux-analytics.png) Cheminement selon mots clés entrants
 
 	- **Liste non exhaustive de KPI** ...
 
@@ -129,12 +129,12 @@ Recherche sur le site & Analyse des pages web
 
 Si l'on souhaite connaître ce que recherche réellement le visiteur sur ce blog, il est possible d'installer un moteur de recherche interne et ainsi récupérer une liste des requêtes. Cela permet ensuite de pouvoir adapter parfois le contenu au lecteur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/termeRecherche-300x201.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/termeRecherche.png) Recherches interne au site
+[![Image](/images/blog/termeRecherche-300x201.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/termeRecherche.png) Recherches interne au site
 
 	- **Analyse des pages Web**
 
 Utile pour avoir une idée sur la **bonne ou mauvaise ergonomie de son site**. Les menus de navigation  incitent-ils les internautes à aller voir les contenus que je souhaite mettre en avant ?  Quelles sont les relations à établir avec les flux visiteurs* (précédemment évoqués avec ces "ruptures" dans les intéractions)*, les **taux de rebond** ?
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analyse-page-web-300x152.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analyse-page-web.png) Tx de clic sur page accueil
+[![Image](/images/blog/analyse-page-web-300x152.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/01/analyse-page-web.png) Tx de clic sur page accueil
 
 Mais il ne faut pas se méprendre sur ces Kpi, indicateurs et rapports  car  seule** la stratégie et les objectifs de départ** fixeront les données d'une bonne analyse Seo.

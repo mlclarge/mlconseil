@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "marche-audio-digital"
+image: "/images/blog/audio-digital-un-levier-web.jpg"
 ---
 
 Oui, l’audio digital est aussi un **levier webmarketing**. Pour en discuter, pas moins de 7000 visiteurs sont attendus à Paris semaine prochaine, la villette, lors du salon de la radio et de l’audio digital le 24, 25, 26 janvier prochain. L’audio digital ne serait-il pas une alternative crédible  en 2019 comme en témoigne François Quairel dans son introduction d’un dossier consacré à l’audio digital disponible sur la [lettrepro.fr](https://www.lalettre.pro/) ? La technologie fait avancer au pas de course les usages, enceintes connectés, internet des objets, machine Learning - AI, plateformes audio de plus en plus sophistiquées, web radio, streaming, télévision connectées, DAB+,  DCO, ou « Dynamics Créative Optimisation**, **les innovations ne manquent pas pour pousser à consommer des contenus audio partout et maintenant, une voie crédible sans doute pour rencontrer des audiences. Tous les éléments sont réunis pour voir l'audio digital exploser ces prochaines années....
@@ -19,7 +20,7 @@ Oui, l’audio digital est aussi un **levier webmarketing**. Pour en discuter, p
 
 ## **Les composantes principales de l’Ecosystème du marché publicitaire audio**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/annonceurs-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/annonceurs.jpg) Principaux annonceurs radio et audio Source la lettre pro de la radio
+[![Image](/images/blog/annonceurs-289x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/annonceurs.jpg) Principaux annonceurs radio et audio Source la lettre pro de la radio
 
  	- Des dépenses encore bien présentes sur un **marché publicitaire** en mutation : 700 millions euros dont 10 à l’audio digital. Selon le CSA, 66% des Français font usage  de l’audio de manière digitale et même 76% des moins de 25 ans, alors que 20% des auditeurs de la radio écoutent des podcasts.
 
@@ -31,7 +32,7 @@ Oui, l’audio digital est aussi un **levier webmarketing**. Pour en discuter, p
 
  	- Des M**arques** : des grands annonceurs mais pas uniquement, surtout sur les antennes locales où des marques peuvent communiquer et avoir un « uplift » soit une acquisition nouvelle suite à une campagne d’écoute, en surface de vente. Il est vrai que l’automobile, la grande distribution, les telcos sont les plus gros investisseurs dans ce secteur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/ecosysteme-audio-digital-345x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/ecosysteme-audio-digital.jpg) Ecosysteme radio et audio digital
+[![Image](/images/blog/ecosysteme-audio-digital-345x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/ecosysteme-audio-digital.jpg) Ecosysteme radio et audio digital
 ## **La radio boostée par l’audio digital ?**
 
 Selon Sébastien Ruiz, directeur du département radio de GroupM, , malgré une baisse des dépenses dans la voix en général constaté depuis 2011 (source irep), aussi les éditeurs, les régies que les annonceurs ont tout intérêt à regarder l’audio digital comme un format d’avenir. La mesure, la création, sont les préalables mais les technos sont mûres et produisent du son clair partout, en temps réel et le tout d’une manière personnalisé. Reste à revigorer  la confiance préalable nécessaire qui va stimuler les investissements  des parties prenantes afin de créer un marché pérenne. L’offre doit se structurer en apportant aux marques des standards en mesure d’audiences comme celle qui est en court avec Médiamétrie et Acpm. Les audiences sont là, restent à les activer.
@@ -47,7 +48,7 @@ Que ce soit en réécoute, ou en mode natif, ce format à le vent en poupe. Le 1
 Blue chanel
 ## **Baromètre de l’audio Digital de Kantar Média**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/Infographie-Audio-Digital-V2-2019.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/Infographie-Audio-Digital-V2-2019.jpg) Infographie Audio Digital V2 2019
+[![Image](/images/blog/Infographie-Audio-Digital-V2-2019.jpg)](/images/blog/Infographie-Audio-Digital-V2-2019.jpg) Infographie Audio Digital V2 2019
 
 **Tarif des CPM moyens du marché **
 

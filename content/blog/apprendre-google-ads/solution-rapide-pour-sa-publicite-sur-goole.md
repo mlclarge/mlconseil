@@ -43,7 +43,7 @@ J'avais démarré, en [2011](https://www.mauricelargeron.com/initiation-campagne
 
 	- Consulter le nombre d’affichages, clics, temps passé, nombre de pages vues mais le plus important,  reste la maitrise des expressions pour lesquelles l’annonce a été cliquée. L’intention de la recherche (choix d’un lieu) et géolocalisation sont des signaux activés néanmoins mais il faut veiller à ne pas recevoir des clics inutiles.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/expressions-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/expressions.jpg) Reporting "Expressions"
+[![Image](/images/blog/expressions-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/expressions.jpg) Reporting "Expressions"
 ## **Avantages et inconvénients des campagnes express**
 
 ### ***Les atouts  de l’express ***
@@ -56,7 +56,7 @@ J'avais démarré, en [2011](https://www.mauricelargeron.com/initiation-campagne
 
 	- Parution sur différents supports : recherche et  maps desktop , et mobile
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/supports-parutions-310x168.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/supports-parutions.jpg) Les différents supports d'affichage
+[![Image](/images/blog/supports-parutions-310x168.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/supports-parutions.jpg) Les différents supports d'affichage
 
 	- Pas de complication de choix de mots clés
 
@@ -66,7 +66,7 @@ J'avais démarré, en [2011](https://www.mauricelargeron.com/initiation-campagne
 
 	- Possibilité de gérer divers établissements dans une seule interface
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/etablissements-my-business-310x229.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/etablissements-my-business.jpg) Gestion Multiple
+[![Image](/images/blog/etablissements-my-business-310x229.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/etablissements-my-business.jpg) Gestion Multiple
 
 	- Statistiques avancées : nombre d’appels téléphoniques, clics sur site etc..
 

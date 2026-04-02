@@ -32,14 +32,14 @@ Sous la forme d’un teaser (message d’accroche incitant dirons-nous), placé 
 
 Si les paramètres de Gmail sont bridés au niveau de cet onglet, alors les messages publicitaires apparaissent sur la colonne de droite, toujours sous forme de teaser.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/teaser-ad-closed-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/teaser-ad-closed.jpg) Impression Hors onglet "promotion"
+[![Image](/images/blog/teaser-ad-closed-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/teaser-ad-closed.jpg) Impression Hors onglet "promotion"
 ## **Les avantages  à utiliser les annonces Gmail sponsorisées **
 
 Un levier supplémentaire
 
 C’est avoir accès à une plateforme  supplémentaire qui renferme un potentiel  utile en terme de ciblage cross devices et plateformes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/potentiels-leviers-google-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/potentiels-leviers-google.jpg) Les leviers Google
+[![Image](/images/blog/potentiels-leviers-google-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/potentiels-leviers-google.jpg) Les leviers Google
 
 Je restitue ici les données statistiques de  Google suite à leur  webinar de présentation qui démontre l’intelligence si l’on peut dire de l’algorithme qui gère les parutions.
 

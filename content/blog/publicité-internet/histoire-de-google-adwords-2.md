@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Publicité Internet"]
 tags: []
 slug: "histoire-de-google-adwords-2"
+image: "/images/blog/grandes-dates-de-google-ads.jpg"
 ---
 
 ****Une fois n’est pas coutume , mais je  me lance dans l’histoire de google adwords sous forme de timeline. Pour les marketers en herbe, cela peut être utile de se souvenir des étapes essentielles  de **l’évolution historique du programme publicitaire adwords, **[le référencement par liens sponsorisés](https://www.mauricelargeron.com/faire-une-publicite-audio-sur-google/) de l'américain.
@@ -115,7 +116,7 @@ Google suite  à une demande de ses clients, pivota  pour le cpc mais avec un 
 
 Pour la mise  à jour, j'ai récupéré cette infographie qui retrace les différents formats d'annonces édité par search engine land
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/histoires-des-annonces-google-ads.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/histoires-des-annonces-google-ads.png)
+[![Image](/images/blog/histoires-des-annonces-google-ads.png)](/images/blog/histoires-des-annonces-google-ads.png)
 
  
 ## **D' autres façons de dérouler la chronologie**
@@ -126,7 +127,7 @@ Attention si vous êtes sur un device mobile, l'animation ci dessous  ne foncti
 
 Au cas où l'animation du paragraphe précédent ne fonctionne pas.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/historique-et-histoire-adwords-502x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/historique-et-histoire-adwords.jpg) Ma Timeline Google Adwords  !
+[![Image](/images/blog/historique-et-histoire-adwords-502x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/historique-et-histoire-adwords.jpg) Ma Timeline Google Adwords  !
 
  
 ### Merci [Colin Docherty de edge](https://edge45.co.uk/blog/google-adwords-evolution-timeline/) 45 pour cette illustration sur l'histoire des 20 ans de Google ads de 2019 à 2000 !

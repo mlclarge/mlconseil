@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "la-bible-du-webmarketing"
+image: "/images/blog/3eme-edition-webamrketing.jpg"
 ---
 
 C'est incontestablement un joli cadeau de Noël 2017 que nous procure l’équipe de l'[agence de communication Mindfruits ](https://www.mindfruits.biz/livre-webmarketing/)pilotée par **Guillaume Eouzan** . Pour les aficionados du **Webmarketing** qui veulent maîtriser leur stratégie en ligne,  ce n’est pas moins de 800 pages qui vous attendent pour réussir votre visibilité ! Petit résumé de la 3ème édition.
@@ -21,7 +22,7 @@ Les premiers chapitres posent le décor Ils traitent de la transformation digita
 
 Un terme est lâché pour la 1ère fois dans le livre, celui d'**inbound marketing**. Un néologisme qui nous vient tout droit de l'Amérique. Une  méthodologie qui digitalise le métier du marketing pour l’adapter aux exigences du numérique. Cette stratégie repose sur une production de contenus adaptés à ses cibles selon le contexte d’achat (place dans le tunnel de vente et au bon moment).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/2017-12-16_11-17-56-477x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/2017-12-16_11-17-56.jpg) Version Numérique du livre offerte
+[![Image](/images/blog/2017-12-16_11-17-56-477x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/2017-12-16_11-17-56.jpg) Version Numérique du livre offerte
 ### ***Des leviers d’acquisition en mutation permanente***
 
 On y apprend qu'une réflexion autour du système d’information autour de la** relation client  **(ecrm/social média) fait partie intégrante d’une** stratégie marketing** efficace et arrive tôt dans l’ouvrage. Les **leviers Sea** Google adwords, le Web  Analytics (Google) ont été mise à jour tant les interfaces ont changé cer derniers temps. Le** Native Advertising** fait aussi son entrée  (publicité immersive relié au design et contexte du média qui la porte). L'apparition du chapitre sur la technique de **Dropshopping** taille une croupière à l'e-mailing qui s'insère désormais dans une nouvelle partie consacrée au marketing automation. Fameux emailing que l’on croyait moribon, véritable colonne vertébrale  qui soutient le marketing automatisé.

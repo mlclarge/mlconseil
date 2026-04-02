@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "limage-booster-de-business"
+image: "/images/blog/business-des-images.jpg"
 ---
 
 [**Google image**](https://www.google.com/imghp?hl=FR) a été abordé  avec son dernier avatar dans cet article sur les "[shoppables ads](https://www.mauricelargeron.com/google-tente-de-reprendre-lavantage-sur-limage/)" . Mais allons plus loin aujourd'hui où l’image est partout sur le principaux  carrefours d’audience  de Snap à Pinterest en passant par Facebook, Instagram, YouTube.  Une étude de la CNIL a mené une enquête et quelques chiffres  sont ressortis montrant l’importance de cet écosystème, et de ce format, devenu incontournable dans une **stratégie webmarketing**.
@@ -15,7 +16,7 @@ slug: "limage-booster-de-business"
 
  	- plus d’un internaute sur deux prend une photo d’abord dans le but de la publier et cela a chaque jour !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/60-secondes-401x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/60-secondes.png) 60 secondes en Images !
+[![Image](/images/blog/60-secondes-401x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/60-secondes.png) 60 secondes en Images !
 
 Selon business insider dans une étude récente, c’est 243 000 photos sur Facebook et 65000 sur Instagram et 210 000  sur Snap sont publiées chaque minute ! Bon ces chiffres ne veulent rien dire en eux même mais les volumes sont impressionnants à noter.
 
@@ -24,7 +25,7 @@ Revenons quelque peu sur les différents **modèles de business que soutiennent 
 
 Portée par des bandes passantes et un réseau toujours plus étendu, l’utilisation de l’image a explosé ces dernières années. Prenons quelques exemples, voilà déjà quelques années,  Price minister devenu Rakuten, avec l’application de scan de livres, permettait la lecture d’un code barre qui lui-même relié à l’image et à la fiche produit. Amazon s’y est mis aussi avec une app.  de **reconnaissance d’images reliées à sa base de données produits**. Ces technologies sont des outils aussi utilisées dans les centres logistiques,  chez l’ecommerçant..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/rakuten-scanner-un-livre.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/rakuten-scanner-un-livre.jpg) Rakuten Appli. pour scanner un livre
+[![Image](/images/blog/rakuten-scanner-un-livre.jpg)](/images/blog/rakuten-scanner-un-livre.jpg) Rakuten Appli. pour scanner un livre
 
 Des plateformes de mise en relation d’influenceurs sont nées de l’internet dont le but est de servir de tiers de confiance entre les marques et les professionnels de l’image et des réseaux sociaux , notamment Instagram et Snap (anciennement SnapChat).  Tous les influenceurs de ne ressemblent pas , cela va de la micro-influence aux Stars mondiales !
 
@@ -50,14 +51,14 @@ Bien sûr, plus l’audimat est important, mieux c’est, mais ce qui compte le 
 
  	- Aujourd'hui sur Instagram, le prix d’un post sur un vrai compte d’influenceur de 50.000 followers varie entre 250 et 750 €
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/statistiques-images-sur-réseaux-sociaux.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/statistiques-images-sur-réseaux-sociaux.png) Statistiques US sur images sur réseaux sociaux
+[![Image](/images/blog/statistiques-images-sur-réseaux-sociaux.png)](/images/blog/statistiques-images-sur-réseaux-sociaux.png) Statistiques US sur images sur réseaux sociaux
 ## **La production d’images de qualité, un eldorado là aussi !**
 
 Au-delà des traditionnelles banques d’images comme StuterStock, Flickr, Pixabay,  Fotolia,  **Meero** , une Start up française leader dans la production d'images, se démarque avec la fourniture de photos qui font vendre. Ses clients sont ceux qui utilisent dans leur quotidien des images de qualité pour mettre en avant leur business. Créée en 2016, Meero  offre un service clé  en mains avec plus de **40 000 photographes** à son actif selon Maddyness. Meero a mis au point des algorithmes à base de machine Learning capable d'éditer, traiter et de diffuser en moins de 24h des images de qualité professionnelles partout dans le monde.
 
 Elle se consacre particulièrement sur des verticales comme l’immobilier, la restauration, l'évènementiel, l'ecommerce où la photo produit est encore un format qui fait vendre.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/production-dimages-meero-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/production-dimages-meero.jpg) Production et diffusion d'images Meero
+[![Image](/images/blog/production-dimages-meero-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/production-dimages-meero.jpg) Production et diffusion d'images Meero
 ## **L’image toujours plus porteuse de services**
 
 L’Oréal avec l'achat de la Start up Modiface, est entrée en phase 2 de sa transformation digitale. Elle utilise le numérique au cœur même de son business et du coup, transcende son modèle économique classique, basé sur la vente de produits de beauté pour y inclure du service et du conseil adapté à chacun d'entre nous.
@@ -70,19 +71,19 @@ Vichy Skin Consult est une technologie issue de l'Intelligence Artificielle, ell
 
  	- Préconisations de produits adaptés aux signes relevés sur le visage
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/ai-image-skin-consult-loreal-237x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/ai-image-skin-consult-loreal.jpg) Ai image skin consult loreal
+[![Image](/images/blog/ai-image-skin-consult-loreal-237x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/ai-image-skin-consult-loreal.jpg) Ai image skin consult loreal
 
 *D'un point de vue marketing, c'est une rétention sur le site qui est démultiplié avec un taux de conversion deux fois plus important.*
 ## Du Business autour de la veille sur les images
 
 Selon Brandwatch, ce serait 3.2 milliards d’images qui sont partagés dans le monde chaque jour  Du coup, des plateformes d’écoute , de veille sur ce qui se dit dans les images ont été créées et rassemblées sous la bannière d’**images listening** .  BrandWatch  est capable d’indiquer à une marque tout  ce qui se dit sur elle non seulement en paroles mais aussi en images !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/brandwatch-image-listening-502x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/brandwatch-image-listening.jpg) Brandwatch imageq listening
+[![Image](/images/blog/brandwatch-image-listening-502x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/brandwatch-image-listening.jpg) Brandwatch imageq listening
 ## **La renaissance de la photo Grand Public**
 
 D’autres usages plus triviaux, comme Google avec le projet Lens, où toutes choses deviennent identifiables par un simple scan ! Ci-dessous , via google assistant, j’appelle l’application vocalement, et je scanne une plante , le capteur repère un point précis (1) et apporte un résultat (2).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/google-lens-sur-android-169x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/google-lens-sur-android.jpg) Google lens sur android
+[![Image](/images/blog/google-lens-sur-android-169x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/google-lens-sur-android.jpg) Google lens sur android
 
 Les photos prisent de nos smartphone où les algorithmes classent, retouchent et  les rendent  plus exploitables et plus belles  sous forme d’albums à partager dans le monde professionnel ou privé. Le coût du stockage devenant ridicule  ces images sont aussi rendues disponibles tout le temps et partout en mobilité  ou pas, grâce aux Datacenters d’Apple, de Google, Microsoft.  Des Startups  émergent avec des services d’impression numérique disponible à portée de main, citons famileo par exemple, qui permet de créer un journal selon un calendrier  partageable et imprimable à destination des plus anciens, non connectés, et envoyé par voie postale.
 

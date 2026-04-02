@@ -25,7 +25,7 @@ Les formats de fichiers à traiter seront le plus souvent sous la forme « .csv
 
 Un exemple ? Tiens, prenons, le cas d’une analyse seo entre les mots clés, et les urls dominantes reliées à ces termes de recherches. Les mots clés ayant le même champ lexical seront agrégés sous forme d’un seul mot clé (nœud 1)   et les urls laissées inchangées (nœuds 2).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/entités-du-graphe-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/entités-du-graphe.jpg) entités-du-graphe
+[![Image](/images/blog/entités-du-graphe-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/entités-du-graphe.jpg) entités-du-graphe
 ### **A l’aide d’outils intégrés**
 
 Par exemple, des applications cloud comme  NameGenWeb peuvent dessiner en 1 clic de souris en se connectant via l’API Facebook, une représentation de cercles d’amis (voir ci-dessous).
@@ -40,19 +40,19 @@ Des applications logicielles dans le domaine de l’analyse peuvent soutenir une
 
 Sur la représentation ci-dessous, plus une référence est répétée, plus la sphère qui la représente est importante en taille. Des entités se forment selon  leur degré de proximité, de points en commun. Ce graphique est orienté, c’est-à-dire lisible selon un ordre avec  une classe centrale, une précédente (à gauche) et une succedante (à droite).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/texte-graph-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/texte-graph.jpg) Analyse sémantique d'un texte
+[![Image](/images/blog/texte-graph-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/texte-graph.jpg) Analyse sémantique d'un texte
 **Le portrait d’une visibilité web**
 
 A partir d’un tableau issu de GWT qui récupère les requêtes et les urls les plus populaires (impressions et clics),  un peu d’agrégation sur les mots clés proches lexicalement permet d’avoir une matière prête à être exploitée par la fonctionnalité « graph » dans Google drive via une table de fusion.
 
 Les nœuds en bleus (mots clés)  sont de tailles proportionnelles à leurs impressions, les « nodes » oranges sont le(s) urls qui portent cette notoriété (variable selon leur affichage).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/drive-310x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/drive.jpg) Mots clés et Urls
+[![Image](/images/blog/drive-310x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/drive.jpg) Mots clés et Urls
 **Des grappes pour le SEA (Adwords)**
 
 A l’aide de Gephi, une application open source dédiée, et de statistiques téléchargées de l’application Adwords sur les types de correspondances des mots clés achetés (large, expression, exacte), une liste de plus de 500 mots clés est passée au crible de l’algorithme  « force atlas 2 ». ..Je remercie au passage **Aurélien Berrut** du blog  [htitipi.com ](http://www.htitipi.com/blog/explorations-visuelles-reseaux.html)particulièrement pour son tutoriel sur le sujet pas piqué des vers sur le sujet.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/correspondance-et-mots-cles-232x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/correspondance-et-mots-cles.jpg) Densité Correspondance Mots clés
+[![Image](/images/blog/correspondance-et-mots-cles-232x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/correspondance-et-mots-cles.jpg) Densité Correspondance Mots clés
 
 Qu’en ressort-il à première vue ? Tout d’abord que les trois groupes de correspondance ne sont pas de même taille, bon, ok,  pour une découverte…Mais ensuite, que certains mots clés sont employés à la fois en large et en expression (une erreur ? une stratégie ?).
 
@@ -60,7 +60,7 @@ Qu’en ressort-il à première vue ? Tout d’abord que les trois groupes de c
 
 Une des fonctionnalités souvent oubliées de GA est celle liée aux matrices linéaires ou logarithmiques. Ici, ce sont les canaux d’acquisition apporteurs de trafic (organique, payant, référents, direct, display et social)  qui sont mis  à l’honneur au filtre des nouvelles visites (appelée sessions depuis peu). En un clic, sur l’onglet dédié (voir capture écran), la matrice est en place.  Cela change un peu des traditionnels graphiques à barres.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/acquisition-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/acquisition.jpg) Bulles et leviers d'acquisition dans GA
+[![Image](/images/blog/acquisition-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/acquisition.jpg) Bulles et leviers d'acquisition dans GA
 **Le social, un bon terreau pour buller..**
 **Les gazoullis agrafés **!*
 
@@ -80,12 +80,12 @@ L’application TouchGraph est à l’œuvre. Elle prend la main sur les donnée
 
 LinkedIn Labs n’est pas en reste, il propose via InMaps de vous générer  votre graphe relationnel ..à colorier ! Il détermine des clusters selon le niveau des relations, à vous de les qualifier par des couleurs distinctives.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/cluster-lindedIn-map-s-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/cluster-lindedIn-map-s.jpg) Clusters LinkedIn
+[![Image](/images/blog/cluster-lindedIn-map-s-310x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/cluster-lindedIn-map-s.jpg) Clusters LinkedIn
 ***GooglePlus ne coince pas non plus la b….***
 
 Bon, c’est la fête quand un post est partagé, ok, pas ambitieux le garçon, mais bon, 5 c’est pas « 0 » ! Et puis, c’est pas le  nombre qui compte, la valeur du partageur est plus déterminante, voilà…merci Adelino, Referenceur.be, Sylvain au passage et j’en passe.. Pour juger d’une viralité, il faut faire appel à la fonction « écho » de G+  disponible en haut et à droite de la fenêtre de post.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/06/partageDePosts-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/partageDePosts.jpg) Viralité Google Plus
+[![Image](/images/blog/partageDePosts-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/06/partageDePosts.jpg) Viralité Google Plus
 
 Ces 8  graphes sont donc utiles  pour faire ressortir, aider à l’analyse et embellir la vie du web analyste dans son quotidien.
 

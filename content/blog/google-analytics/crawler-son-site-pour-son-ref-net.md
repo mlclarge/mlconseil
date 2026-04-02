@@ -30,12 +30,12 @@ Une interface simple et épurée donne accès en quelques clics au crawl  à ef
 
 	- Outlinks : comparatif linking interne et externe  selon follow ou no follow.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/menu-navigation-310x27.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/menu-navigation.png) Menu navigation Botify
+[![Image](/images/blog/menu-navigation-310x27.png)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/menu-navigation.png) Menu navigation Botify
 ## **Architecture  du site**
 
 Le crawler Botify restitue la profondeur d’**accès depuis la page d’accueil**. Ce rapport est utile pour identifier le nombre de clics à opérer pour atteindre une page.  L’idéal est d’avoir une navigation bien organisée afin de permettre un accès le plus rapide au contenu. De plus, les crawleurs allouent  un certain « budget » en temps passé par site , plus les pages auront un accès  profond, moins leur indexation sera efficace selon le degré d’intérêt des robots accordé au site (fraîcheur, notoriété, autorité, pertinence).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/distribution-190x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/distribution.jpg) Distribution depuis la page d'accueil et indexation
+[![Image](/images/blog/distribution-190x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/distribution.jpg) Distribution depuis la page d'accueil et indexation
 
 Un taux de profondeur moyen  est calculée,  un état de sur le nombre d’urls non-indexées et le type de langage du contenu (ex :html)
 ## **Qualité  des pages**
@@ -64,12 +64,12 @@ Les robots des moteurs de recherche n’aiment pas les **contenus dupliqués**, 
 
 Moins d’une seconde est le temps généralement accepté comme correct pour une page. Ici l’échelle de mesure va de -500 millisecondes (très rapide)  à 2 secondes  (très lent). Un temps moyen général est indiqué. Cet aspect de vitesse est paradoxalement un signal positif pour les moteurs alors que nos bandes passantes permettent un chargement plus aisé des contenus. Google pousse aussi à une résolution supérieure des images, qui participent grandement au poids total des pages. Là aussi il faut raison gardée et  optimiser le chargement des contenus par optimisation des directives sur la **gestion cache du serveur web** et du navigateur visiteur (commandes sur .htaccess, ou Apache, paramétrages Nginx..)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/vitesse-site-web-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/vitesse-site-web.jpg) Vitesse de réponses des pages
+[![Image](/images/blog/vitesse-site-web-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/vitesse-site-web.jpg) Vitesse de réponses des pages
 ## **Un explorateur d’urls complet**
 
 Je termine par l’**explorateur des urls** , un moteur de recherche interne à Botify qui permet de faire des requêtes selon les schémas d’urls, les statistiques , les liens internes/externes, les redirections, les canoniques par des règles de correspondances , ou d’expressions régulières.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/02/explorer-log-botify-310x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/explorer-log-botify.jpg) Un explorer puissant sur toute la base collectée
+[![Image](/images/blog/explorer-log-botify-310x280.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/02/explorer-log-botify.jpg) Un explorer puissant sur toute la base collectée
 ## Quelques ressources
 
 	- **Botify** : [https://fr.botify.com/](https://fr.botify.com/)

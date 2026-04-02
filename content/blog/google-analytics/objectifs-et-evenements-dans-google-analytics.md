@@ -9,13 +9,13 @@ slug: "objectifs-et-evenements-dans-google-analytics"
 
 L’article de la semaine dernière portait sur l’analyse de l’audience selon des indicateurs liés au référencement d’un site. Allons plus loin dans l’analyse cette fois-ci et intéressons-nous  au « **comment puis-je mesurer les interactions visiteurs par rapport à mes formulaires, panier e-commerce, vidéos, téléchargements mis à disposition " **? . Les termes  « ** d’objectifs **»  et  « **d’évènements** » entrent en jeu ici. Dans un premier temps, je m’attacherai à décrire ce qu’est un « objectif », puis dans un deuxième chapitre, parlerai des « évènements ». Cet article est inspiré de [ce billet](http://www.hmtweb.com/imd/?p=56), de lectures diverses, de témoignages  venus de  propriétaires de sites.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/menu-google-analytics-148x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/menu-google-analytics.png) Fig 1 Menu Google Analytics
+[![Image](/images/blog/menu-google-analytics-148x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/menu-google-analytics.png) Fig 1 Menu Google Analytics
 ## **Objectifs (conversion)**
 
 Les objectifs correspondent à l'atteinte d'un but précis.  Il est **le résultat d’une action.** Vous pouvez mesurer cette action de 4 façons  différentes et lui attribuer une valeur personnalisée.
 
 [
-![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/objectif1-300x178.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/objectif1.png)Fig. 2 Paramétrage objectif "page" en 3 étapes
+![Image](/images/blog/objectif1-300x178.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/objectif1.png)Fig. 2 Paramétrage objectif "page" en 3 étapes
 
 Si  vos pages ne sont pas « distinctes », il y a moyen de créer des **pages virtuelles**, cet article décrit pas à pas la procédure  de [création de pages virtuelles dans Google analytics](http://www.adviso.ca/blog/2008/08/15/pages-vues-virtuelles-google-analytics/) . Voici des exemples d'objectifs :
 
@@ -29,7 +29,7 @@ Si  vos pages ne sont pas « distinctes », il y a moyen de créer des **page
 
 	- Une page précise de destination*** (création possible d’un entonnoir de conversion)*** comme la page de remerciement après achat avec  le suivi du cheminement via différentes pages (voir fig. 2 et fig 3).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/entonnoir2-300x157.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/entonnoir2.png) Fig. 3 Paramétrage entonnoir conversion et rapport
+[![Image](/images/blog/entonnoir2-300x157.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/entonnoir2.png) Fig. 3 Paramétrage entonnoir conversion et rapport
 
  Le suivi des 5 premiers objectifs cités ci-dessus ne nécessite **aucun ajout de code de suivi**, seulement, connaître le chemin exact de chaque page *(ou URI).*
        6. Un Evènement ***(j’y reviens dans le détail dans la seconde partie de l’article)***
@@ -40,7 +40,7 @@ Si  vos pages ne sont pas « distinctes », il y a moyen de créer des **page
 
 Dans l’ancienne version d’analytics, les évènements étaient traités à part, en effet, ils nécessitent l’ajout** d’une portion de code au code analytics** existant avec  un paramétrage de la méthode de collecte des données. La nouvelle version 5 permet donc un paramétrage centralisé des objectifs dont les" évènements" font partis.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/evenement-300x206.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/evenement.png) Fig 4. Paramétrage Evènement (théorie & pratique) 
+[![Image](/images/blog/evenement-300x206.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/evenement.png) Fig 4. Paramétrage Evènement (théorie & pratique) 
 
 Un évènement par rapport à un objectif peut se distinguer dans le but poursuivi par chacun. Un objectif a** souvent comme dessein une url**, alors qu’un **évènement s’intéressent à l’action faite** sur ...
 
@@ -58,7 +58,7 @@ Un évènement par rapport à un objectif peut se distinguer dans le but poursui
 
 Lecture dans Google analytics du rapport « Evènements » (fig. 3)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/02/rapport-evènements-google-analytics.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/02/rapport-evènements-google-analytics.png) nouveautésAdwords2012
+[![Image](/images/blog/rapport-evènements-google-analytics.png)](/images/blog/rapport-evènements-google-analytics.png) nouveautésAdwords2012
 **Paramétrages avancés sur les évènements **
 
 Pour mémoire, la limite du nombre d’évènements est 500 par session !

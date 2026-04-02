@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "google-adwords-sort-sa-selection-mobile-ready"
+image: "/images/blog/youtube-formats-publicitair.jpg"
 ---
 
 C’est la période des sorties de nouveaux formats pour [Google adwords](https://support.google.com/adwords/answer/7665147), que l’on pourrait mettre sous le signe de la vidéo dans un contexte de festival de cannes :) , l'occasion pour les annonceurs de faire leur cinéma !   Des  nouvelles possibilités de ciblages sur les mobiles, avec au travers de ces offres, normalement toujours plus de justesse, plus de précisions et de transparence sur le ciblage des impressions pour l’annonceur.
@@ -13,7 +14,7 @@ C’est la période des sorties de nouveaux formats pour [Google adwords](https:
 
 C’est le 3ème du genre après celui consacré aux mots clés et aux réseaux display, celui-ci s’intéresse uniquement aux campagnes vidéo.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/05/reach-planner-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/reach-planner.jpg) Reach planner pour campagnes vidéos
+[![Image](/images/blog/reach-planner-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/reach-planner.jpg) Reach planner pour campagnes vidéos
 
  	- Portée (reach) sur l’audience cible selon le budget et préférences
 
@@ -27,13 +28,13 @@ C’est le 3ème du genre après celui consacré aux mots clés et aux réseaux 
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/05/true-view-video-1-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/true-view-video-1.jpg) True view video au CPM
+[![Image](/images/blog/true-view-video-1-310x155.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/true-view-video-1.jpg) True view video au CPM
 
 **Nouvelle campagne Outstream !**
 
 **La mise en place est simplissime, choisir sa vidéo à promouvoir, un logo et une description.**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/05/video-outstream-310x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/video-outstream.jpg) Création campagne video outstream
+[![Image](/images/blog/video-outstream-310x218.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/video-outstream.jpg) Création campagne video outstream
 
 *Dixit Google : Les vidéos outstream sont des annonces diffusées sur **mobile exclusivement**. Elles apparaissent sur les sites et applications partenaires autres que YouTube. **Dès que l'annonce apparaît à l'écran, la lecture démarre automatiquement avec le son coupé. Les utilisateurs peuvent activer le son en appuyant sur la vidéo. Ils peuvent également ignorer l'annonce explicitement où en faisant défiler l'écran*.
 
@@ -51,12 +52,12 @@ En cours de test actuellement sur certains comptes ou partiellement déployé.
 Google adwords responsive ads  pour le réseau de recherche , type carrousel lightbox sur mobile, en béta pour augmenter le taux de clic avec 5 à 10 % de CTR (60% du qualité score selon un Google sur la chaine Partner de Google). Dans un contexte de scroll infini (sans pagination), Google met le paquet sur le cross devices !
 3 lignes de titre  et 2 de description  seraient disponibles
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousels-ads-google-adwords-310x164.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousels-ads-google-adwords.jpg) Carrousel pour le search !
+[![Image](/images/blog/carousels-ads-google-adwords-310x164.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousels-ads-google-adwords.jpg) Carrousel pour le search !
 
 **Carrousel sur GDN**
 
 Format carrousel  sur le GDN également avec facturation au CPI, celui-ci est en cours de déploiement. Possibilité assez large d’inclure des images (7 ici sur l’illustration ci-dessous) sur mobile uniquement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousel-format-pour-le-GDN-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousel-format-pour-le-GDN.jpg) Carrousel format pour le GDN
+[![Image](/images/blog/carousel-format-pour-le-GDN-310x159.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/05/carousel-format-pour-le-GDN.jpg) Carrousel format pour le GDN
 
 A bientôt pour de plus amples informations sur le retour de ces formats mobile ready.

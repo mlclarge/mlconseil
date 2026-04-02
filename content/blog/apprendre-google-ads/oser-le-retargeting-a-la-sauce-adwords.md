@@ -29,24 +29,24 @@ Apparemment les projets de dépenses sont à l’augmentation et dans 3 secteurs
 
 C’est le remarketing classique, celui de l’affichage renouvelé par bannières sur d’autres sites qui a le vent en poupe, suivi par celui de la recherche (soit Google, bing, et autres moteurs), puis vient en troisième position le social (FBX).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/marche-retargeting-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/marche-retargeting.jpg) 3 techniques préférées
+[![Image](/images/blog/marche-retargeting-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/marche-retargeting.jpg) 3 techniques préférées
 ## Les offres de Google adwords : 4 possibilités pour les annonceurs
 
 ### Le remarketing sur le moteur de recherche
 
 Cette  technique touchent les visiteurs qui ont déjà visité le site web, peu importe comment ils sont arrivés sur le site,  un cookie est déposé sur le navigateur de l’internaute et une liste d’audience sert de cible potentielle lors d’une campagne Adwords menée via des **annonces textuelles sur Google**.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/reciblage-rsla-310x240.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/reciblage-rsla.jpg) Reciblage sur Google
+[![Image](/images/blog/reciblage-rsla-310x240.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/reciblage-rsla.jpg) Reciblage sur Google
 ### Le retargeting sur le réseau de sites display
 
 Même principe que précédemment, sauf que les bannières sont affichées sur un panel de sites,  les éditeurs affiliés à adsense (plateforme Google), les sites de Google qui vont des sites médias à fortes audiences aux petits sites de niches.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/article-relarketing-310x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/article-relarketing.jpg) Site "Retargété" par bannières sur site tiers
+[![Image](/images/blog/article-relarketing-310x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/article-relarketing.jpg) Site "Retargété" par bannières sur site tiers
 ### Le Remarketing dynamique
 
 Les e-commerçants qui sont sur le comparateur de prix **Google shopping** peuvent lancer des campagnes de reciblage, qui vont « retargeter »  les visiteurs qui ont pu consulter des pages catégories de produits ou articles spécifiques.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/remarketingdynamique-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/remarketingdynamique.jpg) Remarketing Dynamique pour G. Shopping
+[![Image](/images/blog/remarketingdynamique-310x210.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/remarketingdynamique.jpg) Remarketing Dynamique pour G. Shopping
 ### Sans oublier la vidéo !
 
 Sur **Youtube** bien sûr ! Bien que des listes soient déjà incluses nativement lorsque  l’on possède un compte, il y a possibilité d’utiliser aussi les listes des visiteurs de son  propre site comme point de départ d’une campagne vidéo. Les cibles potentielles sont celles des visiteurs qui ont :
@@ -61,7 +61,7 @@ Sur **Youtube** bien sûr ! Bien que des listes soient déjà incluses nativeme
 
 	- Intéragi avec la bannière MastHead (format bannière sur home de YT)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/video-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/video.jpg) Rappeler son message vidéo
+[![Image](/images/blog/video-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/video.jpg) Rappeler son message vidéo
 ## Mise en place des campagnes de retargeting chez Google
 
 ### **Créer ses audiences***
@@ -72,7 +72,7 @@ Mise en place du code : un copier coller à faire sur votre site, simple..
 
 Création des listes d’audience (visiteurs) automatiquement par le système (liste principale et liste similaire offerte par Google, cela augmente votre cible potentielle). Le nouveau tag de remarketing adwords peut offrir selon le type de site (shopping, blog) ces types de listes :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/creation-balise-310x108.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/creation-balise.jpg) Création des listes générées par la pose du code
+[![Image](/images/blog/creation-balise-310x108.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/creation-balise.jpg) Création des listes générées par la pose du code
 
 	- Tous les visiteurs (visite de pages)
 
@@ -118,7 +118,7 @@ Cela peut se faire à 2 échelles différentes : campagne ou groupe d’annonce
 
 	- Pour les **e-commercants sans infographiste,** un outil de modèle dynamique permettra de générer une annonce illustrée dont les produits seront dynamiquement changés selon les produits vus par le visiteur reciblé. Adwords se connecte sur le flux produit de google shopping.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/dynamiqueRemarketing-310x284.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/dynamiqueRemarketing.jpg) Outil : génération de bannière de RTG automatique
+[![Image](/images/blog/dynamiqueRemarketing-310x284.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/dynamiqueRemarketing.jpg) Outil : génération de bannière de RTG automatique
 
 	- **Le partage** de listes d’audiences n’est pas possible d’un compte à l’autre dans la grande majorité des cas.
 

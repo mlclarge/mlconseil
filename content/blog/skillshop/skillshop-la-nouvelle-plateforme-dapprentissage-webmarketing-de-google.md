@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Skillshop"]
 tags: []
 slug: "skillshop-la-nouvelle-plateforme-dapprentissage-webmarketing-de-google"
+image: "/images/blog/skillshop.jpg"
 ---
 
 **Skillshop est la nouvelle  plate-forme centralisée de formation de google** sur ces produits  Depuis un semestre, google a lancé une version beta qui se termine et dont le déploiement démarre en France en ce mois de septembre. De nouvelles formations plus spécifiquement reliées à la publicité en ligne Google Ads enrichit ce nouvel espace d'apprentissage pour maîtriser la gestion et la mesure des campagnes display, vidéo, Shopping et sur le Réseau de Recherche.  Des certifications inédites pour chaque type de campagne, ainsi qu'une nouvelle certification relative aux mesures, aux rapports vont se déployer dans les prochaines semaines. Que devient  le programme google Partner et quels sont les principaux éléments à noter.
@@ -17,7 +18,7 @@ Depuis 2018 également, les équipes de Dublin pour la France, ont animé un pro
 
 Reste une incertitude sur la pérennité de ce programme, mais les vidéos restent d'actualité dans leur contenu par rapport à ce qui se fait en cette fin 2019.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/programme-academy-on-air-google-partner.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/programme-academy-on-air-google-partner.jpg) Programme academy on air google partner
+[![Image](/images/blog/programme-academy-on-air-google-partner.jpg)](/images/blog/programme-academy-on-air-google-partner.jpg) Programme academy on air google partner
 
 Cependant, notez un changement récent sur l'acquisition des spécialisations google Partner.
 
@@ -29,13 +30,13 @@ Cette plateforme est ouverte à tous, avec une simple adresse mail, sans avoir p
 
 Professionnels, étudiants, curieux du marketing en ligne. Le contenu de cette plateforme peut se résumer à six grandes rubriques .
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/10-parcours-de-formation.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/10-parcours-de-formation.jpg) 10-parcours-de-formation
+[![Image](/images/blog/10-parcours-de-formation.jpg)](/images/blog/10-parcours-de-formation.jpg) 10-parcours-de-formation
 
 Ce qui représentent plus d'une dizaine de sujets sur le web marketing réunit dans un catalogue de formations sous forme de parcours pour l'apprenant :
 
 Android, Authorized Buyers, Google Ad Manager, Google AdMob, Google Ads, Analytics Académie, Google Digital Académie, Google Marketing Platform, Google My Business, Google for Education, Waze.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/goole-ads-sous-parcours-thématique-skillshop.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/goole-ads-sous-parcours-thématique-skillshop.jpg) Google ads sous parcours thématique skillshop
+[![Image](/images/blog/goole-ads-sous-parcours-thématique-skillshop.jpg)](/images/blog/goole-ads-sous-parcours-thématique-skillshop.jpg) Google ads sous parcours thématique skillshop
 
 Ces parcours sont organisés en sous thématiques, jalonnées par des cours, comme par exemple, pour google ads, sous forme de bonnes pratiques (développer une activité avec google ads, maitrisez les enchères, rédactionnel des annonces etc.…).
 
@@ -45,7 +46,7 @@ Lors d'une inscription à Skillshop, la plateforme délivre des titres de réuss
 
 Les titres de réussite sont des reconnaissances obtenues lors de l'évaluation finale d'un parcours de formation, un minimum de 80% est exigé. Ils marquent des étapes clés dans l’apprentissage de nouvelles compétences. Bien sûr ces titres de réussite ne sont pas des accréditations officielles, mais ils témoignent d'un engagement sur les disciplines.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/09/titres-de-réussite-skillshop.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/09/titres-de-réussite-skillshop.jpg) Titres de réussite skillshop
+[![Image](/images/blog/titres-de-réussite-skillshop.jpg)](/images/blog/titres-de-réussite-skillshop.jpg) Titres de réussite skillshop
 
 En échange, le profil de l’utilisateur via son url sur skillshop est partageable et ma page du profil indexable sur Google.
 

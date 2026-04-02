@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Certification"]
 tags: []
 slug: "passer-l-examen-d-analyse-d-audience-de-google"
+image: "/images/blog/certification.jpg"
 ---
 
 Dans le cadre du programme Google Partner, je viens de repasser l'examen d'**agrément à titre personnel ,** cela faisait un moment... Comme j’ai pu le faire pour la certification adwords, je donne ici les premiers éléments pour s'y préparer, les thèmes abordés,  et un extrait de quelques questions. La certification est désormais gratuite mais autant avoir tous les éléments en main pour la réussir du 1er coup , cela évite d'être obligé de la repasser au bout de 7 jours.
@@ -38,7 +39,7 @@ Pas moins de 9 chapitres vous sont proposés :
 
 C’est très bien fait, mais c’est en anglais, c’est dommage. Toute une série de 6 chapitres sont proposés pour réviser . Plus simple d'approche et intéractif avec  un professeur donc et  des illustrations couplées  de formulaires à compléter comme ci-après :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/11/google-academy-analytics-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/google-academy-analytics.jpg) **Apprendre avec la Google Analytics academie**
+[![Image](/images/blog/google-academy-analytics-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/google-academy-analytics.jpg) **Apprendre avec la Google Analytics academie**
 ### Dans le détail les différentes parties de ce didacticiel
 
 **The importance of digital analytics **
@@ -95,7 +96,7 @@ C’est très bien fait, mais c’est en anglais, c’est dommage. Toute une sé
 
 C’est un QCM de 70 questions, 90 minutes, et 80% de réussite est le minimum requis. Voici résumé les thématiques principales des questions du moment :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/11/repartition-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/repartition.jpg) **Thématiques de la certification**
+[![Image](/images/blog/repartition-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/11/repartition.jpg) **Thématiques de la certification**
 
 Exemple 1  : **Quelles actions les filtres vous permettent-ils d’effectuer ?**
 

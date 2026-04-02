@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "a-un-an-de-louverture-de-la-cite-du-numerique"
+image: "/images/blog/960x614_chantier-transformation-centre-tri-postal-cite-numerique-demarre-2013.jpeg"
 ---
 
 Il n'y a pas que Paris ! A Bordeaux, cela bouge aussi ...après les vicissitudes de la caserne Niel, un nouveau souffle semble venir sur la "belle réveillée"..

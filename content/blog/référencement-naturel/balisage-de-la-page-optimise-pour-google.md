@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "balisage-de-la-page-optimise-pour-google"
+image: "/images/blog/abtest.jpg"
 ---
 
 *Article invité de Stanislas Almeida.*

@@ -15,12 +15,12 @@ Rappelons que google propose depuis peu en France **2 algorithmes** qui se chev
 
 **2 Listing  de résultats  "Packagés" ou  "Mélangés" selon requête de l'internaute.**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/08/comparatifPaHy-225x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/comparatifPaHy.png) 2 Listings différents dans une recherche localisée google.
+[![Image](/images/blog/comparatifPaHy-225x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/comparatifPaHy.png) 2 Listings différents dans une recherche localisée google.
 ## **10 principaux facteurs (résultats packagés et mélangés)**
 
 Ce tableau fait apparaître les facteurs les plus marqués par les professionnels, pour lecture , j'ai classé dans un qualificatif de "contexte" le fait que ces éléments interagissent sur des univers différents qui sont au nombre de 4 dans cette étude !** Google adresses , site web, websphère , et annuaires** dans le sens large du terme. 
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/08/topten.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/topten.jpg)
+[![Image](/images/blog/topten.jpg)](/images/blog/topten.jpg)
 
 *Si on devait résumer ...*
 
@@ -42,7 +42,7 @@ Ce tableau fait apparaître les facteurs les plus marqués par les professionnel
 
 	- Tout d'abord le classement général selon l'importance des contextes..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPure-300x136.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPure.jpg) Classement "contextuel' selon serp "packagés"
+[![Image](/images/blog/thematiqueContextuellesPure-300x136.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPure.jpg) Classement "contextuel' selon serp "packagés"
 
 	- Enumération des différents critères selon ces contextes...
 
@@ -52,7 +52,7 @@ Ce tableau fait apparaître les facteurs les plus marqués par les professionnel
 
 	- Tout d'abord le classement général selon l'importance des contextes..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPack-300x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPack.jpg)
+[![Image](/images/blog/thematiqueContextuellesPack-300x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/thematiqueContextuellesPack.jpg)
 
 	- 
 
@@ -65,7 +65,7 @@ Ces critères peuvent s'enrichir d'une analyse plus approfondie mais ce n'est pa
 
 ## A ne pas faire !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/08/anepasfaire-300x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/anepasfaire.jpg) 15 actions à proscrire pour un bon référencement local
+[![Image](/images/blog/anepasfaire-300x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/08/anepasfaire.jpg) 15 actions à proscrire pour un bon référencement local
 
 En outre, selon une étude effectuée par le site SeoMoz fin 2010 sur 220 requêtes testés sur 20 villes américaines (11 par ville), corrélée par le coefficient de spearman's , il en est ressorti plusieurs éléments  à savoir  :
 

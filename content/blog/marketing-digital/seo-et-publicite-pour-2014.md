@@ -16,7 +16,7 @@ Sinon, la tendance ...
 
 - d’une baisse d’acquisition de **trafic venu des moteurs de recherche**  (suite étude de la Sté Sharealcolhic) au profit des réseaux sociaux depuis depuis 2012. Google perd donc des parts de marché. Une tendance de fond ? Sans doute qui se confirmera en 2014. Aux Us les derniers chiffres montrent un FBook très proche de Google ! (chiffres Hitwise US 2014)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/10-us-website.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/10-us-website.jpg) Nombre de visites dernière semaine 2013
+[![Image](/images/blog/10-us-website.jpg)](/images/blog/10-us-website.jpg) Nombre de visites dernière semaine 2013
 
 -  A avoir  une recherche dite plus intelligente avec une hyper personnalisation des résultats, qui doit être mieux dosée, certains résultats non concluants,  qui reviennent dans les serps lors d’une recherche nouvelle, sont parfois agaçants.
 
@@ -62,11 +62,11 @@ Une année 2013 florissante pour Google, avec des couts par clics sans cesse plu
 
 - Une interface épurée , plus claire à l'utilisation
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/social-real-time-marketing.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/social-real-time-marketing.jpg) Le "SRTM" lors d'une panne électrique pdt retransmission super Bowl
+[![Image](/images/blog/social-real-time-marketing.jpg)](/images/blog/social-real-time-marketing.jpg) Le "SRTM" lors d'une panne électrique pdt retransmission super Bowl
 
 - Croissance de la Sociale Tv : Avec pour exemple 2.3 millions de tweets lors de Nrj Music Awards 2014 ! 85 millions pour 2013, allez, on peut s’avancer, les 100 millions de tweets seront dépassés cette année.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/social-tv.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/social-tv.jpg) Boom sur la Social Tv
+[![Image](/images/blog/social-tv.jpg)](/images/blog/social-tv.jpg) Boom sur la Social Tv
 ## Du côte de Google Analytics
 
 - Une interface aussi plus intuitive en bêta test de Google analytics devrait être déployée en ce début d’année 2014.
@@ -82,7 +82,7 @@ Paragraphe un peu fourre-tout, mais des tendances lourdes vont se confirmer les 
 
 - Les Google glass seront commercialisées ! Bon, pour un myope, la vue n'est pas augmentée !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/01/glass.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/01/glass.jpg) J'ai essayé les google Glass ! J'y ai vu que 2014 serait sans doute une bonne année !
+[![Image](/images/blog/glass.jpg)](/images/blog/glass.jpg) J'ai essayé les google Glass ! J'y ai vu que 2014 serait sans doute une bonne année !
 
 - Des voitures connectées avec des équipements munis d’ OS comme Android (Google) avec le constructeur Audi  et ios (bmw) devraient voir le jour.
 

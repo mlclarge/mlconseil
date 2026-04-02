@@ -50,4 +50,4 @@ slug: "formation-leviers-web-marketing-2019"
 
 ### **REFERENCES**
 
-***"Maurice Largeron  propose des prestations WebMarketing personnalisées qui satisfont toujours nos clients !"[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/07/institut-formation-f2i-logo.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/institut-formation-f2i-logo.jpg)***
+***"Maurice Largeron  propose des prestations WebMarketing personnalisées qui satisfont toujours nos clients !"[![Image](/images/blog/institut-formation-f2i-logo.jpg)](/images/blog/institut-formation-f2i-logo.jpg)***

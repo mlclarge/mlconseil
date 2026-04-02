@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "corse-ecosysteme-digital-a-decouvrir"
+image: "/images/blog/corse-ville-digitale.jpg"
 ---
 
 C’est presque encore les vacances, pour ceux qui viennent de rentrer, consultez cette [revue de presse](https://www.mauricelargeron.com/revue-de-presse-webmarketing-estivale-2017/) . Pour les autres, replongeons-nous en …[Corse ](https://fr.wikipedia.org/wiki/Corse)! Lors d’un bref séjour en terre napoléonienne cet été, j’ai découvert l’écosystème numérique très Tech. de la Corse lors d'une visite au Campus Plex d’Ajaccio. J’ai été reçu par Jiann Venturini, Project Manager chez GoodBarber, solution de création d’application web, canal **webmarketing** d’acquisition ou business model à part entière selon sa stratégie. Jiann a pu me révéler au cours de l’entretien,  que la Corse n’est pas la dernière en terme d’innovation digitale…

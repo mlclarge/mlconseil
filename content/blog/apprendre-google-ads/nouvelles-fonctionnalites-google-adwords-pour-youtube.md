@@ -13,14 +13,14 @@ La Saint Valentin approche *(a inspiré l'illustration de ce post :) )*, et l'un
 
 Depuis l’année dernière, Google a intégré entièrement la gestion publicitaire Youtube à Adwords, pour plus de transparence et de simplicité pour les annonceurs. Donc,  pour annoncer sur la plateforme Youtube mais également sur le réseau de contenu « display » de Google, il faut passer par l’interface Adwords. Il faut opérer une** association de comptes**, très intuitive et faite en 3 clics de souris (voir association ci-dessous).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/02/association-310x183.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/association.gif) Association Adwords et Youtube
+[![Image](/images/blog/association-310x183.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/association.gif) Association Adwords et Youtube
 ## Deux Nouveaux indicateurs de suivi de sa campagne vidéo
 
 **L’audience** tout d’abord, indique la quantité d’internautes qui ont été exposés à l’annonce vidéo. Cet indicateur est donné par tranche de fois multiplié  par le nombre de personnes. Cela veut être 20 personnes soumises 3 fois à la même annonce.
 
 **La fréquence**, elle est un ratio qui indique l’intérêt d’un internaute sur le message publicitaire. Si un taux de 1.5 apparait, cela veut dire que le message intéresse son destinataire, 1 indique plutôt un standard, moyen. En effet, c’est plutôt rare qu’un internaute souhaite revoir une même vidéo de publicité plus d’une fois.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/02/audience-et-frequence-adwords-310x163.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/audience-et-frequence-adwords.gif) Audience et fréquence  devisionnages
+[![Image](/images/blog/audience-et-frequence-adwords-310x163.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/audience-et-frequence-adwords.gif) Audience et fréquence  devisionnages
 ## Accès spécifiques dédiés aux objectifs marketing 
 
 Quatre types de raccourcis voient le jour et qui permettent un accès en 1 clic, selon les axes de sa stratégie pubs vidéo, aux curseurs suivants :
@@ -33,7 +33,7 @@ Quatre types de raccourcis voient le jour et qui permettent un accès en 1 clic,
 
 	- **Trafic et conversions** : clics et conversions sur le site web (taux de conversion, couts par conversions selon le nombre de visionnages)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/02/indicateurs-adwords--310x144.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/indicateurs-adwords-.gif) indicateurs stratégiques en 1 clic
+[![Image](/images/blog/indicateurs-adwords--310x144.gif)](https://www.mauricelargeron.com/wp-content/uploads/2013/02/indicateurs-adwords-.gif) indicateurs stratégiques en 1 clic
 
 Reste à concevoir un c**ontenu vidéo de qualité**, d’ailleurs à ce propos *(annonce locale Bordelaise !)*, je signale une conférence à Bordeaux le 12 février,  par l’**agence de communication  Inaativ**,  animée par Vincent Pereira, sur le thème : [comment utiliser les vidéos pour augmenter sa visibilité sur internet](http://www.formateurconsultant.com/article-conference-gratuite-a-bordeaux-comment-utiliser-les-videos-pour-augmenter-sa-visibilite-sur-intern-114780102.html)
 Du contenu à sa diffusion, il ne reste plus qu’à passer à l’action. Silence ! Ça tourne !

@@ -27,7 +27,7 @@ Quelle **couverture territoriale** a été affectée à l’usage de l’applic
 
 	- Locale, régionale, internationale
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/feillederoutega-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/feillederoutega.jpg) Feuille de route de l'analyse web
+[![Image](/images/blog/feillederoutega-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/feillederoutega.jpg) Feuille de route de l'analyse web
 
 Quels sont les **objectifs** assignés à la collecte des données ?
 
@@ -103,7 +103,7 @@ Quels autres associations à  d’autres **services Google** prévoir ?  :
 
 	- Production (lecture ciblée permanente)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/07/architecture-compte-ga-310x95.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/architecture-compte-ga.jpg) Ossature Compte GA
+[![Image](/images/blog/architecture-compte-ga-310x95.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/07/architecture-compte-ga.jpg) Ossature Compte GA
 ## **Personnaliser   la collecte de données **
 
 **Par marquage et paramétrages (niveau propriété)**

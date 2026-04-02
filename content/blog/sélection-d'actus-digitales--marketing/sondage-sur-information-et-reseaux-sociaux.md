@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "sondage-sur-information-et-reseaux-sociaux"
+image: "/images/blog/2122169_les-francais-toujours-mefiants-envers-les-reseaux-sociaux-web-tete-030720711272.jpeg"
 ---
 
 Les fakes news sont passées par là sans doute. Cette dernière étude redonne le moral aux médias classiques et relance le débat du "faut il faire confiance à l'information véhiculée par les médias sociaux ?"

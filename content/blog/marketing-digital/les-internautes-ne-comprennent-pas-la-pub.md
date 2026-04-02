@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "les-internautes-ne-comprennent-pas-la-pub"
+image: "/images/blog/adblock.jpg"
 ---
 
 Parlons du futur du web qui repose,  en partie, sur la publicité. Elle serait, selon certains observateurs,  menacée de survie avec la progression fulgurante de l’installation des [adblockers](https://adblockplus.org/fr/).  Les chiffres vont bon train, et le web risque de s’écrouler d’un moment à l’autre. Ah, nos chers médias, comme d’habitude, ont l’art de faire passer le message d’une manière anxiogène pour capter leur auditoire :) . Voyons de plus  près les derniers chiffres, expliquons l’objet  de la controverse, le ressenti des internautes, et enfin les parades des éditeurs et des marques.
@@ -21,7 +22,7 @@ Le manque à gagner, rien que pour 2016 ne sera de l’ordre des 40 milliards !
 
 Les plus connus ne sont pas les plus simples, mais sont plus sophistiqués dans leur paramétrage. Certains sont plus légers, et ce ne sont pas les plus connus d’ailleurs !  Ils n’offrent en général pas uniquement du blocage de pub, ils peuvent aussi servir de protection contre des malwares, filtrer selon ces préférences d’éventuels mouchards. Les listes faisant état des serveurs de publicité sont aussi configurables.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/adblockplus-fonctionnement-du-blocage-publicitaire-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/adblockplus-fonctionnement-du-blocage-publicitaire.jpg) Fonctionnement adblock
+[![Image](/images/blog/adblockplus-fonctionnement-du-blocage-publicitaire-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/adblockplus-fonctionnement-du-blocage-publicitaire.jpg) Fonctionnement adblock
 ## **L’opinion des français sur le sujet**
 
 L’enquête du CSA mentionne que 80% jugent la publicité dérangeante !  Mais ces internautes sont prêts au compromis si les publicités se montrent :
@@ -42,7 +43,7 @@ Une étude de Bonial effectuée auprès de 1002 personnes en février dernier su
 
 En règle générale, la bannière est un format à bannir car au-delà de la mauvaise expérience, il en découle une baisse d’estime par rapport à la marque.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/enquetes-adblocks-france-opinion-way-bonial-310x136.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/enquetes-adblocks-france-opinion-way-bonial.jpg) Etude Perception publicité mobile
+[![Image](/images/blog/enquetes-adblocks-france-opinion-way-bonial-310x136.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/enquetes-adblocks-france-opinion-way-bonial.jpg) Etude Perception publicité mobile
 ## **Les parades des éditeurs de contenus **
 
 L’IAB  a fourni un rapport sur les moyens de lutter qui repose sur 4 lettres : le  DEAL, qui traduit en français pourrait donner :
@@ -73,7 +74,7 @@ Les solutions peuvent aussi se trouver dans d’autres moyens car il ne faut pas
 
  	- Enfin, un dernier moyen technique, le passage direct entre les technos. Éditeurs et annonceurs, donc en chuintant la **brique technologique des réseaux publicitaires**,  en connectant des DMP (acheteurs)  au SSP (offreurs d’espaces) sans intermédiaire ! Cela se complique….
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/parades-publicitaires-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/parades-publicitaires.jpg) Contournement du système
+[![Image](/images/blog/parades-publicitaires-310x131.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/parades-publicitaires.jpg) Contournement du système
 ### **La solution à la mode : la native éditoriale !**
 
 Selon certaines prévisions, c’est l’avenir de la publicité, pour faire simple, c’est du publi-rédactionnel à la mode du print. Les messages publicitaires sont immersifs, contextualisés et adaptés à son lecteur. Ce format représenterait aujourd’hui 25% des investissements, et 40% d’ici la fin de l’année prochaine. Ne pas confondre ce genre de publicité avec celle des taboola, outbrain, ligatus   estampillées « recommandés par » sous forme de vignettes sous les contenus principaux.

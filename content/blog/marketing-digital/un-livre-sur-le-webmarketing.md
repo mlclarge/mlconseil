@@ -27,7 +27,7 @@ Les auteurs abordent ensuite les principaux leviers de la discipline de l’emar
 
 L’ouvrage souligne la question de la pertinence réelle du seo encore aujourd’hui suite à la succession depuis ces 3 dernières années d’algorithmes chez Google sans cesse plus puissants et tournés vers l’utilisateur. Les traditionnels pilliers du référencement naturel sont cités avec ajout d' une **méthode pour rédiger pour le web**  basée sur 4 items (If, vis, Mem, Dsp) , intéressant ! En outre, se focaliser  sur le concept de  longue traîne ( Richard Anderson) devient une nécessité afin de  se positionner sur des **mots clés moins génériques et concurrentiels** , être visible  pour son audience sans exploser son budget de campagne !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/03/methode-construction-contenu-site-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/methode-construction-contenu-site.jpg) methode rédactionnelle  contenu site web
+[![Image](/images/blog/methode-construction-contenu-site-310x243.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/methode-construction-contenu-site.jpg) methode rédactionnelle  contenu site web
 ### *Sea…du paid mais bien fait*
 
 Pour les moteurs de  recherche, Google Adwords et la régie Microsoft (bing/yahoo)  sont au rendez vous avec des conseils sur le lancement d’une campagne de pub et les possibilités de chacune des plateformes publicitaires. Quality score, adRank, [Google shopping](https://www.mauricelargeron.com/comparatif-google-pla-et-shopping/)..tout y passe..
@@ -44,7 +44,7 @@ Un petit focus est fait sur ces deux leviers de business , les  market places d
 
 Cette partie s’est réellement enrichie sur la 1ere édition . Les auteurs nous dressent  un historique du sujet .Les théories sous jacentes sur la notion de réseau (petit monde) sont relatées , et les réprésentations de leaders d’opinions sur la blogosphère ne manquent pas à l’appel (Brian solis, Fred Cavazza)  .  **Une typologie des différents réseaux** (du grand public, au professionnel (btoB)) apporte un éclairage sur le sujet.  L’idée de construire une communauté, sa communauté, est bien renseignée. La stratégie consistera ensuite à  élaborer un discours cohérent  pour son auditoire et enfin à  diffuser son message en temps et en heure. YA KA !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/03/social-media-landcape-263x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/social-media-landcape.jpg) Social Média Landscape
+[![Image](/images/blog/social-media-landcape-263x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/03/social-media-landcape.jpg) Social Média Landscape
 ### *L’emailing n’est pas mort ..*
 
 …Loin sans faut nous apprend le bouquin !  On y  apprend qu’ un professionnalisme a vu le jour  au détriment d’envois massifs non qualitatif, les  taux de clics de 6%  sont désormais monnaie courante ! (la conversion , elle, reste toujours difficile 0.2%)

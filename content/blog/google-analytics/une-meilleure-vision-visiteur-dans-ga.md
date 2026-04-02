@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "une-meilleure-vision-visiteur-dans-ga"
+image: "/images/blog/explorateur-utilisateu-goog.jpg"
 ---
 
 2016 sera sans doute une année ultra-riche pour **Google analytics** en nouvelles fonctionnalités. Il en devient difficile  de mettre à jour mes formations analytics :( . En vedette aujourd’hui, le tout nouveau rapport : **[explorateur d’utilisateurs](http://marketingland.com/google-analytics-new-user-explorer-report-shows-individual-anonymized-website-interactions-172998)**, centré sur le visiteur, du jamais vu !  C’est une révolution dans l’esprit de GA, toujours orienté sur des agrégats de données, segmentables certes, mais jamais encore ramené à l'individu. Alors que nous fournit ce rapport révolutionnaire ?
@@ -25,7 +26,7 @@ L’import de cet enrichissement de data « **user centric** »  peut donc se
 
  	- **Comportemental avec 4 données** : pages consultées, les objectifs réalisés, les données ecommerce (transaction ecommerce)  et les évènements (clics sur pdt, libellé moyen de paiement, lecture vidéo..).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/04/explorateur-prospects-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/explorateur-prospects.jpg) La rapport explorateur d'utilisateurs
+[![Image](/images/blog/explorateur-prospects-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/explorateur-prospects.jpg) La rapport explorateur d'utilisateurs
 ## **Les plus et les moins de ce nouveau rapport ?**
 
 ### ***Les aspects positifs de cette fonctionnalité d'audience***
@@ -36,11 +37,11 @@ L’import de cet enrichissement de data « **user centric** »  peut donc se
 
 -> Segment = Avoir vu ma page « qui suis-je » du blog +  avoir cliqué sur le logo « Google partners »
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/04/CREATION-SEGMENT-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/CREATION-SEGMENT.jpg) Création de'une segmentation basée sur l'utilisateur
+[![Image](/images/blog/CREATION-SEGMENT-310x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/CREATION-SEGMENT.jpg) Création de'une segmentation basée sur l'utilisateur
 
 Ensuite dans Google adwords, si l’audience est suffisante (100 pour le display et 1000 pour le moteur de recherche Google) je pourrai lancer une campagne de reciblage. Bon, ici, avec 3 utilisateurs, je vais pas aller bien loin..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/tri-sur-segment-google-analytics-310x133.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/tri-sur-segment-google-analytics.jpg) Résultat du filtre après segmentation
+[![Image](/images/blog/tri-sur-segment-google-analytics-310x133.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/tri-sur-segment-google-analytics.jpg) Résultat du filtre après segmentation
 ### ***Les points à améliorer sur ce reporting centré utilisateur***
 
  	- Il n’y a pas de champ de recherche sur le rapport, pas très pratique quand on cherche une référence précise manuellement
@@ -57,6 +58,6 @@ On peut faire du reverse engineering à la papa !  Il suffit pour cela d’all
 
 Pour l’exemple, je me suis auto-traqué, cela fait mal, mais je me suis dévoué :) .
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/04/client-id-google-analtytics-310x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/client-id-google-analtytics.jpg) Fonctionnement du client Id - cookie de GA
+[![Image](/images/blog/client-id-google-analtytics-310x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/04/client-id-google-analtytics.jpg) Fonctionnement du client Id - cookie de GA
 
 Bon Google analytics a  visiblement des ambitions de conquérir de nouveaux adeptes cette année,  et avec cette nouveauté, cela semble bien parti.

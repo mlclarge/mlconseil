@@ -13,7 +13,7 @@ Vous souhaitez passer ou préparer  la **certification Google adwords** ? Bien
 
 Pas moins de 5 examens sont contenus dans le programme Partner de Google. Trois pour adwords, un pour Google analytics et le dernier consacré à la vidéo. Il faut avoir au moins 2 examens réussis pour devenir Google Partner mais ce n’est pas la seule et unique condition réclamée. D’ailleurs, cela se corse , dès le mois prochain (voir fin de l’article). A noter que l'examen de base a été passé début octobre 2014, et le second au mois de mai dernier de cette année.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-de-base-adwords-298x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-de-base-adwords.jpg) Programme certification adwords
+[![Image](/images/blog/examen-de-base-adwords-298x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-de-base-adwords.jpg) Programme certification adwords
 
 Je dirais que quand on débute, c’est celui le plus exigeant en terme de réussite. (85%)
 
@@ -39,12 +39,12 @@ Par ordre d’importance en volume de questions :
 
  	- Campagne Vidéo : c’est bien la seule au monde !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/02/themes-questions-examen-de-base-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/themes-questions-examen-de-base.jpg) Thématiques des questions
+[![Image](/images/blog/themes-questions-examen-de-base-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/02/themes-questions-examen-de-base.jpg) Thématiques des questions
 ## **Examen avancé pour la publicité display**
 
 Ici aussi même punition…90 questions  et 80% minimum pour la réussite.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-avance-display-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-avance-display.jpg) 3 thème pour l'examen Display
+[![Image](/images/blog/examen-avance-display-310x147.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/examen-avance-display.jpg) 3 thème pour l'examen Display
 
  	- **Annonce **: optimisation des annonces, création, ciblage
 
@@ -62,7 +62,7 @@ Ici aussi même punition…90 questions  et 80% minimum pour la réussite.
 
  	- YT campagne et  ciblage : questions d’ordre général, démographie, format, cpv.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/themes-questions-examen-display-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/themes-questions-examen-display.jpg) 90 questions avec un + sur le Display "standard"
+[![Image](/images/blog/themes-questions-examen-display-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/themes-questions-examen-display.jpg) 90 questions avec un + sur le Display "standard"
 ## **Agences, un peu de sérieux, s’il vous plait !**
 
 Cela chauffe pour les **agences Google Partner**.. Les prévenus sont avertis comme dirait l’autre, dès novembre 2014, les conditions pour arborer la bannière Google changent … Etre transparent, c’est la ligne principale à suivre. Apparemment, cela ne serait pas le cas ! Quand j’ai lu cette nouvelle directive dirons nous, les bras m’en sont tombés…Bon, sans être candide non plus, il faut vraiment parfois être border line pour se sentir concerné par certains agissements.

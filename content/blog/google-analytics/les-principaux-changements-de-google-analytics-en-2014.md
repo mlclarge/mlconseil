@@ -37,11 +37,11 @@ Pour bien commencer l’année 2015,  prenons un instant pour revoir les **pri
 
 	- **Indications « diagnostics** » : sous forme de notifications qui soulignent les imperfections de configuration  d’un compte.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/diagnostics-google-analytics-288x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/diagnostics-google-analytics.jpg) Diagnostics Compte Google analytics
+[![Image](/images/blog/diagnostics-google-analytics-288x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/diagnostics-google-analytics.jpg) Diagnostics Compte Google analytics
 
 	- Association **GA et Adwords intégré**e : facilité dans l’association de plusieurs comptes Adw. sur une propriété
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/adwords-et-ga-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/adwords-et-ga.jpg) Association Adw et GA
+[![Image](/images/blog/adwords-et-ga-310x158.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/adwords-et-ga.jpg) Association Adw et GA
 
 	- Amélioration sur l’importation des **données personnalisées** : élargissements sur la possibilité d’importer des dimensions produits et autres statistiques métier en plus de celles standards de GA : [https://support.google.com/analytics/answer/3191417?hl=fr](https://support.google.com/analytics/answer/3191417?hl=fr)
 
@@ -49,7 +49,7 @@ Pour bien commencer l’année 2015,  prenons un instant pour revoir les **pri
 
 	- **Segmentation Acquisition "Marque & Générique"** : Définir dès le départ les termes d’acquisition qui segmenteront les canaux d’acquisition, c’est l’objectif de cette fonctionnalité : [http://analytics.blogspot.fr/2014/06/segmenting-brand-and-generic-paid.html](http://analytics.blogspot.fr/2014/06/segmenting-brand-and-generic-paid.html)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/segmenation-aquisition-marque-et-generique-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/segmenation-aquisition-marque-et-generique.jpg) Segmentation Acquisition "Marque & Générique"
+[![Image](/images/blog/segmenation-aquisition-marque-et-generique-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/segmenation-aquisition-marque-et-generique.jpg) Segmentation Acquisition "Marque & Générique"
 ## **Arrivée de nouveaux Rapports **
 
 ### Audience*
@@ -60,15 +60,15 @@ Pour bien commencer l’année 2015,  prenons un instant pour revoir les **pri
 
 	- **Analyse comparative** : selon la catégorisation du site, Google divulgue les performances tierces d’autres site web avec pas moins de 1700 métiers.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/benchmark-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/benchmark.jpg) Analyse comparative métier (Benchmarking)
+[![Image](/images/blog/benchmark-310x171.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/benchmark.jpg) Analyse comparative métier (Benchmarking)
 
 	- **Utilisateurs uniques** : une segmentation toute faîte par période..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/utilisateur-uniques-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/utilisateur-uniques.jpg) Rapports Utilisateurs uniques
+[![Image](/images/blog/utilisateur-uniques-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/utilisateur-uniques.jpg) Rapports Utilisateurs uniques
 
 	- **Version  Premium **: des rapports agrégés de différentes propriétés
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/aggregation-rapports-premium-310x297.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/aggregation-rapports-premium.jpg) Fonction "Roll-up" Aggrégation de Propriétés GA
+[![Image](/images/blog/aggregation-rapports-premium-310x297.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/aggregation-rapports-premium.jpg) Fonction "Roll-up" Aggrégation de Propriétés GA
 ### Acquisition*
 
 	- **Display** : tous les critères de ciblages apparaissent désormais (mots clés, emplacements, intérêts, âges etc…)
@@ -77,21 +77,21 @@ Pour bien commencer l’année 2015,  prenons un instant pour revoir les **pri
 
 	- **Vidéo** : une vue roiste des campagnes sur Youtube
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/campagne-video-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/campagne-video.jpg) Rapport Campagne Vidéos
+[![Image](/images/blog/campagne-video-310x169.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/campagne-video.jpg) Rapport Campagne Vidéos
 
 	- **Campagnes Shopping** : une segmentation par catégorie, produit et par marque permet d’identifier la  performance l’audience ciblée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/shopping-campagne-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/shopping-campagne.jpg) Rap. Campagnes Shopping
+[![Image](/images/blog/shopping-campagne-310x183.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/shopping-campagne.jpg) Rap. Campagnes Shopping
 ### Comportement*
 
 	- **Flux de comportement** : amélioré avec la fonctionnalité de regroupement de contenus.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/flux-comportement-310x290.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/flux-comportement.jpg) Flux de comportements sur Groupes de contenus
+[![Image](/images/blog/flux-comportement-310x290.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/flux-comportement.jpg) Flux de comportements sur Groupes de contenus
 ## **Gestionnaire de balises**
 
 Une plateforme qui mériterait une rétrospective dédiée ! 2014 a vu de nombreuses améliorations.  Je rappelle qu’elle permet de centraliser,  via l’ajout d’un conteneur  à la place du script de base GA,  tous les marqueurs (balises) d’un site web.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/01/tagmanager-310x247.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/tagmanager.jpg) Nouvelle interface Tag Manager
+[![Image](/images/blog/tagmanager-310x247.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/01/tagmanager.jpg) Nouvelle interface Tag Manager
 
 	- **50 ressources disponibles** pour mieux appréhender le tag manager : [https://www.mauricelargeron.com/tutoriaux-liens-pour-comprendre-le-gestionnaire-de-balises/](https://www.mauricelargeron.com/tutoriaux-liens-pour-comprendre-le-gestionnaire-de-balises/)
 

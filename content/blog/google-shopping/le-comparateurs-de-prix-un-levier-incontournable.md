@@ -5,6 +5,7 @@ author: "admin"
 categories: ["google shopping"]
 tags: []
 slug: "le-comparateurs-de-prix-un-levier-incontournable"
+image: "/images/blog/google-shopping.jpg"
 ---
 
 Alors que le salon e-commerce de Paris vient de se terminer, il est temps de s’intéresser à un outil bien pratique destiné aux e-commerçants, **les comparateurs de prix**.  Je me concentrerai aujourd’hui à leur histoire et sur l’un d’entre eux en particulier  G.Shopping , comme par hasard ;)  !  L’évolution récente  de ce comparateur mérite qu’on s’y attarde. La société Lengow, éditeur d’une solution saas d’agrégation de flux produits vient de publier son dernier livre blanc consacré à...**  [Google Shopping](https://www.mauricelargeron.com/regles-de-flux-dans-google-merchant-center/) ****co-rédigé par votre serviteur** ;) et à télécharger sans plus attendre pour les pressés en fin d’article. Raison de plus de s'y intérésser. Mais avant, un peu de lecture sur le sujet..non mais !
@@ -32,16 +33,16 @@ Ce levier occupe la 4ème place  après le **seo, l’affiliation, l’ emailin
 
 Alors que le shopping local va bon train outre atlantique avec des initiatives comme Google shopping express qui propose un service de livraison dans la journée auprès de distributeurs locaux, la gestion des campagnes shopping s’est refait une jeunesse au sein de la plateforme adwords.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/pla-francais-4-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/pla-francais-4.jpg) Avant "Shopping" ..les "PLA"
+[![Image](/images/blog/pla-francais-4-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/pla-francais-4.jpg) Avant "Shopping" ..les "PLA"
 
 Exemple : l’accès  à l’inventaire Google merchant center devient granulaire et arborescent beaucoup plus intuitif pour fixer une enchère . Enfin, une présentation détaillée des produits a été regroupée avec les autres rapports de campagne. Plus d’infos ici sur les changements.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/SHOPPING-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/SHOPPING.jpg) Maintenant ..Shopping !
+[![Image](/images/blog/SHOPPING-310x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/SHOPPING.jpg) Maintenant ..Shopping !
 ## **Un outil indispensable pour élargir sa visibilité : l’agrégateur de flux**
 
 L’agrégateur est une plateforme qui permet de faciliter la diffusion des catalogues des marchands et cela d’une façon centralisée. La procédure est vraiment simple, il suffit d’exporter le flux produit depuis la boutique dans un format standard (bien souvent xls, csv, text, xml) vers l’agrégateur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/agregateur-flux-lengow-310x234.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/agregateur-flux-lengow.jpg) Cercle Vertueux avec Agregateur
+[![Image](/images/blog/agregateur-flux-lengow-310x234.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/agregateur-flux-lengow.jpg) Cercle Vertueux avec Agregateur
 ### **L’ agrégateur Lengow innove pour Google shopping avec un livre blanc dédié !***
 
 Je viens de collaborer à la rédaction de ce livre blanc sur le comparateur de prix Google, et j’en profite d’ailleurs pour remercier ses collaborateurs de m’avoir fait confiance sur ce projet.  A l’intérieur vous y trouverez :
@@ -60,7 +61,7 @@ Je viens de collaborer à la rédaction de ce livre blanc sur le comparateur de 
 
 Afin de faire correspondre son flux natif aux exigences de G. Shopping , il faudra l’adapter (correspondance des champs, attributs,  personnalisation adwords, segmentation) , c’est ici où intervient **Lengow.**  L’accès à son interface (en mode saas) permet une gestion complète  du flux et sa diffusion non seulement  sur les comparateurs mais cette sorte de hub que constitue Lengow , permet aussi une diffusion sur des plateformes d’affiliation, marketplaces, liens sponsorisés, retargeting display.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/flux-shopping1-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/flux-shopping1.jpg) Flux shopping & Rôle Agrégateur
+[![Image](/images/blog/flux-shopping1-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/flux-shopping1.jpg) Flux shopping & Rôle Agrégateur
 
 De plus, la dernière update sur l’api google shopping, permet la mise à jour quasiment en temps réel des produits sur le comparateur, que demander de plus ?
 

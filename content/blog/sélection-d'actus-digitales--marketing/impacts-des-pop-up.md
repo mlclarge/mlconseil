@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "impacts-des-pop-up"
+image: "/images/blog/facebook_popin_welcome_mat_seo.png"
 ---
 
 Encore un super article du** blog  de kameleoon **qui traite cette semaine des fenêtres qualifiées d'intrusives pour le visiteur lors d'une visite sur un site web.  Son auteur , Clément René aborde le sujet en dressant une typologie de ces pop up , en passant en revue 5 facteurs qui peuvent impacter le seo ...

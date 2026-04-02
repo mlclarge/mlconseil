@@ -35,14 +35,14 @@ Les indicateurs principaux sont surlignés d’une **couleur rouge*** (**14 au t
 
 **Pour commencer ce premier tableau présente la catégorie "**performance***". *
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesPerformancesAdw-300x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesPerformancesAdw.jpg)
+[![Image](/images/blog/StatistiquesPerformancesAdw-300x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesPerformancesAdw.jpg)
 
 La figure 2 ci-dessous s'attache à présenter les "**conversions" et les "valeurs des concurrents"**.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesConversionAdw-300x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesConversionAdw.jpg)
+[![Image](/images/blog/StatistiquesConversionAdw-300x209.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesConversionAdw.jpg)
 
 L'illustration Fig-3 termine ce tour d'horizon avec les données relatives aux "**caractéristiques"** des annonces et des mots clés.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesCaracteristiquesAdw-300x172.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesCaracteristiquesAdw.jpg)
+[![Image](/images/blog/StatistiquesCaracteristiquesAdw-300x172.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2012/03/StatistiquesCaracteristiquesAdw.jpg)
 
 Je reviendrai lors d'un prochain article sur les extensions d'annonces (présentation, paramétrage). A bientôt !

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Campagne TV"]
 tags: []
 slug: "youtube-festival-et-youtube-tv"
+image: "/images/blog/YOUTUBE-ET-LA-TV.jpg"
 ---
 
 C’est l’été , le moment de l’éclosion des festivals, l’occasion de parler de celui qui s’est tenu à Paris pour une première, le **Youtube Festival** qui a fait le show autour des têtes de pont des youtubeurs français, une assistance d’éditeurs triés sur le volet parmi les influenceurs de Youtube. Témoignages , happening de ceux qui font les plus grosses audiences de la [plateforme vidéos](https://www.mauricelargeron.com/strategie-dacquisition-pour-les-campagnes-videos-google-ads/). Quelques statistiques sur les audiences ont été divulguées qui consacre **Youtube comme média de masse** pas encore aussi puissant au global que la télévision traditionnelle mais qui ne cessent d’augmenter ses audiences sur des niches. Déjà leader dans la diffusion musicale, mais encore un nain néanmoins dans la fiction , le gaming, la beauté. On l'aura compris la vidéo doit faire partie de l'arsenal **webmarketing** de tout annonceur normalement constitué ! Observons quelques notions publicitaires autour du mix vidéo et télé.
@@ -92,12 +93,12 @@ Selon Realytics, la VOL, ou video online, concerne, c'est la vidéo qu'on regard
 L’efficacité moyenne de la vidéo online est élevée. Sur les différents formats et devices, l’étude montre que la vidéo online est au moins aussi efficace que la TV de flux sur les critères d’impact (souvenir Top of Mind, spontané, assisté et reconnaissance) et de considération d’achat.
 Autre observation : l’in-stream preroll unskippable (publicité vidéo diffusée avant le contenu et qui ne peut être évitée) sort du lot avec des scores d’efficacité particulièrement élevés sur la plupart des indicateurs étudiés par rapport à la TV de flux (base indice 100).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/07/interet-du-grp-video-sur-la-tv.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/interet-du-grp-video-sur-la-tv.png) Interet de la vol sur la tv
+[![Image](/images/blog/interet-du-grp-video-sur-la-tv.png)](/images/blog/interet-du-grp-video-sur-la-tv.png) Interet de la vol sur la tv
 ### ***Mix Tv Youtube***
 
 Basé sur un « témoin » statistique, un test sur zone a souligné l’apport d’une campagne additionnelle youtube en plus d’un sport tv (plus d’infos ici : https://www.thinkwithgoogle.com/intl/fr-fr/tendances/vision/tv-et-youtube-complementaires-pour-optimiser-le-roi-publicitaire/)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/07/tv-grp.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/tv-grp.png) tv et grp : l'effet de halo de Youtube
+[![Image](/images/blog/tv-grp.png)](/images/blog/tv-grp.png) tv et grp : l'effet de halo de Youtube
 ## Lancer sa campagne TV avec la Box Tv
 
 A l’heure des plateformes programmatique, lancer une campagne avec un budget de 5000 euros, ticket d’entrée souvent dans ce monde du d’achat média display de masse devient presque facile. C’est un peu ce que concrétise ce projet de box tf1 publicité, où il est possible de se créer un compte en self service, mais en fait, elle n’est pas du tout fonctionnelle, c’est une coquille vide, elle ne permet en aucun cas de programmer directement une campagne tv ! Mais bon, elle fournit une base documentaire sur des retours de campagnes qui mixe spot catch up, youtube etc…

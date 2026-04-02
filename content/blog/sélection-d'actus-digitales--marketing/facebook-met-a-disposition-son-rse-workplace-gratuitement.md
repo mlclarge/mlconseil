@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "facebook-met-a-disposition-son-rse-workplace-gratuitement"
+image: "/images/blog/Unicef26-e1529407752679.jpeg"
 ---
 
 # Un levier Webmarketing gratuit avec Facebook qui lance son programme de réseau social d'entreprise gratuitement pour les organisations non lucratives ! 

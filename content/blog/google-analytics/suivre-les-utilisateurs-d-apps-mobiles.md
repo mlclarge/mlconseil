@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "suivre-les-utilisateurs-d-apps-mobiles"
+image: "/images/blog/firebase-analytics-presenta.jpg"
 ---
 
 La sortie d’une version démonstration d’un compte firebase analytics est une bonne nouvelle pour vulgariser les pratiques autour du développement des apps.  Les revenus via les apps mobile auront doublé d’ici 2020 selon le dernier rapport d’[AppAnnie ](https://www.appannie.com/fr/)(fournisseur de Business intelligence) , il est donc temps de parfaire ses connaissances webmarketing sur l’ecosystème des applications !  Mais à quoi sert Firebase analytics précisemment ?   Quelle différence avec Google analytics ? A quoi ressemble la data qui est collectée par une application mobile et restituée par FIrebase ?
@@ -28,7 +29,7 @@ On pourrait se demander effectivement quel choix faire pour son suivi d’audien
 
  	- Structure disposant à la fois d'une application et d'un site Web ->  faire usage de  Firebase Analytics plus Google Analytics L’avantage effectivement pour GA est de tout réunir dans une seule interface avec le suivi d’une application configurée comme une propriété classique, comme l’est un site web.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/11/firebase-vs-google-analytics-363x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/firebase-vs-google-analytics.jpg) Firebase Vs Google Analytics
+[![Image](/images/blog/firebase-vs-google-analytics-363x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/firebase-vs-google-analytics.jpg) Firebase Vs Google Analytics
 ## **Focus sur "FloodIt" une version pour s’entraîner à firebase analytics**
 
 ### ***Quel type de data cela produit-il ?***
@@ -57,7 +58,7 @@ Ah enfin, Google se bouge pour vulgariser ses plateformes et ouvre une  version
 
  	- Centre d’intérêts
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/11/menu-firebase-analytics-422x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/menu-firebase-analytics.jpg) Menu firebase Analytics
+[![Image](/images/blog/menu-firebase-analytics-422x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/menu-firebase-analytics.jpg) Menu firebase Analytics
 
 Si on rentre dans les détails du menu analytics on peut retrouver :
 
@@ -71,7 +72,7 @@ Si on rentre dans les détails du menu analytics on peut retrouver :
 
  	- F/ Cohortes : Mesure la fidélisation des joueurs par ensembles au travers de 5 semaines ici.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/11/cohortes-utilisateurs-application-mobile-310x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/cohortes-utilisateurs-application-mobile.jpg) Cohortes Utilisateurs
+[![Image](/images/blog/cohortes-utilisateurs-application-mobile-310x230.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/11/cohortes-utilisateurs-application-mobile.jpg) Cohortes Utilisateurs
 ### ***Au delà de l'audience, Firebase est aussi une technologie au service du developpeur.***
 
 Sous le menu de gauche, on peut retrouver des fonctionnalités pures  "dev".

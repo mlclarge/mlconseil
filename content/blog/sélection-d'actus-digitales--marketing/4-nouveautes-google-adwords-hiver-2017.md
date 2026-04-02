@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "4-nouveautes-google-adwords-hiver-2017"
+image: "/images/blog/google-adwords-nouveautes-21-11-2017.gif"
 ---
 
 Ads'up est une agence qui , comme moi ;) , est à l'affût des  nouveautés de la **plateforme google adwords**. Cette semaine, elle présente 4 nouveautés dans la collection automne hiver 2017  :

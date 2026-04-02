@@ -11,7 +11,7 @@ Comment conclure cette année 2013 ? Chacun y va de sa rétrospective , pas év
 
 Alors c’est parti pour une tour d'horizon des** 3 thématiques Webmarketing** avec une sélection de **30 billets** qui ont eu le plus de succès et dont la trame commune est sans doute  l’**universalité...Googlelienne bien sûr !**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/12/universel-sem.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/12/universel-sem.jpg) Universalité seo sea analytics
+[![Image](/images/blog/universel-sem.jpg)](/images/blog/universel-sem.jpg) Universalité seo sea analytics
 ## **Vers un référencement Universel localisé personnel ?**
 
 ### HummingBird et Knowledge Graph

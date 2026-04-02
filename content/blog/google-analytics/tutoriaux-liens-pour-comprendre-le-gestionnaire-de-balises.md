@@ -144,7 +144,7 @@ Au-delà du simple tracking d’évents, Jonathan Weber  de lunametrics nous d�
 
  	- Trop fort Stéphane Hamel, ici, pour Cardinal Path, il nous livre tous les ingrédients pour suivre les comportements visiteurs sur un player Youtube, merci ! : [http://bit.ly/CardinalPath-video-A](http://bit.ly/CardinalPath-video-A)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/09/video-player-gtm-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/video-player-gtm.jpg) Suivi du Player YT via Appel Api
+[![Image](/images/blog/video-player-gtm-310x250.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/video-player-gtm.jpg) Suivi du Player YT via Appel Api
 **Formulaires**
 
  	- SImo nous livre un de ces articles fameux, il déroule la façon dont traquer tout ou pratiquement tout sur un formulaire : les champs, les listes déroulantes, les cases à cocher, boutons radio .. : [http://bit.ly/Simo-Ahava-form-C](http://bit.ly/Simo-Ahava-form-C)

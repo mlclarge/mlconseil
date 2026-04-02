@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "top-des-sites-internet-des-ecoles-de-commerce"
+image: "/images/blog/Sites-Internet.jpeg"
 ---
 
 A  découvrir ce classement des écoles de commerce. Cela me rappelle  un exercice que je fais faire aux étudiants en sel. Se positionner sur des requêtes pas trop compliquées mais devant leur propre établissement :)

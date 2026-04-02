@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "premiers-pas-avec-google-optimize"
+image: "/images/blog/optimize.jpg"
 ---
 
 **Google optimize** fait partie de la suite Analytics 360. Elle est en ce moment déployée de manière gratuite mais limitée à 3 expérimentations. Son  avantage c’est qu’elle s’intègre directement la Google Analytics > comportement > test. Voyons comment démarrer l’intégration de cette solution d’optimisation User Expérience et   un premier test
@@ -13,14 +14,14 @@ slug: "premiers-pas-avec-google-optimize"
 
 ### ***Principales caractéristiques de la version gratuite par rapport à celle de la suite 360 payante.***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/comparatifs-versions-299x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/comparatifs-versions.png)
+[![Image](/images/blog/comparatifs-versions-299x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/comparatifs-versions.png)
 ### *Quoi analyser au final ?*
 
  	- Type de Pages : accueil, contact, produit, panier, remerciement, résultat de recherche, destination
 
  	- Objets du la page à tester : navigation, recherche, champs de formulaires, boutons les fameux « call to action », fenêtres pop-up, vidéos, images, les aplats de couleurs, bref, y’a du boulot !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/05/test-ab-abn-502x234.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/test-ab-abn.png) Tests dans Google Optimize
+[![Image](/images/blog/test-ab-abn-502x234.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/05/test-ab-abn.png) Tests dans Google Optimize
 
 Quoiqu’il en soit, son intégration avec Google analytics en fait vraiment un outil puissant relié à l’audience que l’on souhaite ciblée. Il est tout à fait possible de pouvoir faire des tests uniquement sur un groupe de visiteurs préalablement segmenté suite à un critère de ciblage comme le montant dépensé, la provenance géographique, le type de produit recherché sur un site etc…
 https://www.youtube.com/watch?v=qUEfEXuDtkI&

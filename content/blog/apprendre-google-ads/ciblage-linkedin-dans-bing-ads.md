@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "ciblage-linkedin-dans-bing-ads"
+image: "/images/blog/audiences-linkedin-sur-bing.jpg"
 ---
 
 Arrêtons de parler de **Google ads** pour une fois, pour parler de son frère cadet, [**Bing ads**](https://help.ads.microsoft.com/apex/index/3/fr/56905/), vous connaissez sans doute, la régie de Microsoft qui gère la monétisation du moteur de recherche américain. Il représenterait selon startcounter 3.62% du marché de la recherche en France. Ok vous me direz-vous pas de quoi faire un vrai levier, euh quoi donc ? Et si ce moteur devenait un spécialiste du B2B dans son genre ? Oui, justement ce que ne sais pas faire du tout Google ! En effet, Microsoft a racheté LinkedIn voilà bientôt 3 ans et avec…la data qui va bien …alimenter son moteur. Donc vous avez compris la suite…
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/07/part-de-marche-de-bing.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/part-de-marche-de-bing.jpg) Part de marché de bing en france
+[![Image](/images/blog/part-de-marche-de-bing.jpg)](/images/blog/part-de-marche-de-bing.jpg) Part de marché de bing en france
 ## **Qu’est-ce que le ciblage d’audiences LinkedIn**
 
 Microsoft Advertising est la seule plateforme publicitaire (autre que LinkedIn) qui  permet de cibler des prospects potentiels basés sur leur profil LinkedIn. Vous pouvez cibler les clients sur 3 critères
@@ -23,7 +24,7 @@ Avec le ciblage de secteur d'activité, vous pouvez cibler vos annonces pour qu'
 
 Avec le ciblage de fonction, vous pouvez cibler vos annonces pour qu'elles soient plus (ou moins) susceptibles de s'afficher pour personnes qui ont récemment occupé des postes spécifiques (d'après leur profil LinkedIn).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/07/ciblage-linkedin-sur-bing-ads.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/ciblage-linkedin-sur-bing-ads.jpg) Ciblage linkedin sur bing ads
+[![Image](/images/blog/ciblage-linkedin-sur-bing-ads.jpg)](/images/blog/ciblage-linkedin-sur-bing-ads.jpg) Ciblage linkedin sur bing ads
 
 Ce type de campagne reste encore en version bêta et est ouverte à tous types de comptes.
 
@@ -39,7 +40,7 @@ A 2 niveaux de compte, ces audiences sont activables, soit au niveau  campagne,
 
 Si elles sont activées au niveau campagne,  une activation sur chaque groupe d’annonces qui composent la campagne est possible.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/07/ciblage-profil-entreprise-dans-bing.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/07/ciblage-profil-entreprise-dans-bing.jpg) Ciblage profil entreprise dans bing
+[![Image](/images/blog/ciblage-profil-entreprise-dans-bing.jpg)](/images/blog/ciblage-profil-entreprise-dans-bing.jpg) Ciblage profil entreprise dans bing
 
 Et au niveau du groupe d’annonces, il y a un curseur qui permet de les activer ou non. Alors bien sûr ces 3 fonctionnalités permettent, au filtre des conversions, de pouvoir optimiser ces audiences par des ajustements d’enchères.
 

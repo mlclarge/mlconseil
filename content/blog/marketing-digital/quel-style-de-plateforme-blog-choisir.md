@@ -15,7 +15,7 @@ Pour faire simple, que ce soit un blog ou un CMS le principe reste le même, il 
 
 L'offre est grande en matière de  plateformes , c'est comme les fleurs, il en meurt et il en nait chaque jour, ou presque !
 
-[![Image](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/top_Blog_Plateforms1-300x156.jpg)](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/top_Blog_Plateforms1.jpg)Top 100 des blogs
+[![Image](/images/blog/top_Blog_Plateforms1-300x156.jpg)](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/top_Blog_Plateforms1.jpg)Top 100 des blogs
 ## **Un blog , oui, mais lequel alors ?**
 
 Des plateformes gratuites au payantes, le choix est grand , en effet, certains en ont dénombré jusqu'à 250  !  :
@@ -42,7 +42,7 @@ Des plateformes gratuites au payantes, le choix est grand , en effet, certains e
 
 **et les autres ...**
 
-[![Image](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/250_blogs-300x219.jpg)](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/250_blogs.jpg)
+[![Image](/images/blog/250_blogs-300x219.jpg)](http://www.mauricelargeron.fr/wp-content/uploads/2011/06/250_blogs.jpg)
 
 **Quelles sont les caractéristiques, atouts et faiblesses de ces plateformes ?** On demandera à une plateforme de blogs d'avoir les qualités suivantes :
 
@@ -103,7 +103,7 @@ Autres fait, les femmes s'investissent de plus en plus dans le blogging selon te
 
 Enfin il semble que les lecteurs de blogs à hauteur de 40 % font confiance à leurs contenus au détriment des médias traditionnels.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/06/thematiques_blogs-300x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/thematiques_blogs.jpg)State of Blogosphère 2010 - Source : Technocrati
+[![Image](/images/blog/thematiques_blogs-300x195.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/thematiques_blogs.jpg)State of Blogosphère 2010 - Source : Technocrati
 ### Classement des 10 premiers blogs à forte audience selon leurs plateformes (2009)
 
 **Nom du blog       Rang   Plateforme **

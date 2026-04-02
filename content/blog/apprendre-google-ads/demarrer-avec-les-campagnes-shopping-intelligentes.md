@@ -5,13 +5,14 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "demarrer-avec-les-campagnes-shopping-intelligentes"
+image: "/images/blog/campagne-shopping-intelligentes.jpg"
 ---
 
 Le principe des campagnes d’une [smart shopping](https://support.google.com/google-ads/answer/7674739?hl=fr)  (campagnes shopping intelligentes) pour rappel consiste à faire afficher le catalogue produit du marchand sur le moteur de recherche, Gmail, YouTube et réseau display de Google via sa plateforme Google Merchant center , gestionnaire du flux produits. Les plateformes tierces d'optimisation du flux ont sans doute du souci à se faire dans un proche avenir, google ads intégrant nativement des algos d'optimisation de plus en plus performants.
 
 ## **Conditions pour démarrer une campagnes Smart Shopping**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/12/demarrer-campagne-smart-shopping.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/demarrer-campagne-smart-shopping.gif)
+[![Image](/images/blog/demarrer-campagne-smart-shopping.gif)](/images/blog/demarrer-campagne-smart-shopping.gif)
 
  	- Avoir enregistré au moins 20 conversions au cours des 45 derniers jours dans les campagnes Shopping existantes.
 
@@ -73,4 +74,4 @@ Bon, parfois oui , parfois non, certains collègues me disent que cela marche, s
 
 Un exemple de performances sur des paramètres de campagne et produits similaires sur 90 jours. Ici, les smart sont sous performantes...
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/12/smart-vs-classique-shopping-campagne-502x61.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/smart-vs-classique-shopping-campagne.jpg)
+[![Image](/images/blog/smart-vs-classique-shopping-campagne-502x61.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/12/smart-vs-classique-shopping-campagne.jpg)

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "vers-une-unification-des-tags-de-tracking"
+image: "/images/blog/gtag-js-de-google.jpg"
 ---
 
 Google vient de créer une nouvelle méthode globale de tracking. Avant que cela soit déployé sur tous les comptes, il va encore se passer un peu de temps ! Mais pas d’affolement à avoir, apparemment aucun changement ou migration à terme n’est à prévoir dans les comptes de Google analytics par exemple.
@@ -13,7 +14,7 @@ Google vient de créer une nouvelle méthode globale de tracking. Avant que cela
 
 Profitons-en pour faire un petit historique sur les différents librairies qui collectent la data et produisent les rapports d’analyse d’audience.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/histoire-librairies-js-502x263.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/histoire-librairies-js.jpg) Histoire librairies js de google
+[![Image](/images/blog/histoire-librairies-js-502x263.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/histoire-librairies-js.jpg) Histoire librairies js de google
 ## ***Comment installer Gtag.js sur un site web ?***
 
 Ne faites rien pour l’instant, sauf des tests éventuels, rien d’obligatoire du tout et loin de là. Sinon, sur toutes les pages du site, il faudra pose ce tag, la base pour collecter les pages vues, les évènements, voir plus bas pour les nouveautés, les pages d’écrans d’applications (rapprochement avec firebase), les temps de chargement, des exceptions (crash ou erreurs du site).

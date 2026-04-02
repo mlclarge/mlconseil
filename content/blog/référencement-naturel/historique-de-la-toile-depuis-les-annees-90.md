@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "historique-de-la-toile-depuis-les-annees-90"
+image: "/images/blog/historique-moteurs-recherch.jpg"
 ---
 
 Petit retour cette semaine  sur une  **histoire de l'internet et des moteurs de recherche** .  La connaissance du passé nous fait mieux comprendre ce qui se déroule aujourd’hui  et participe à une meilleure  anticipation de  ce qu’il va advenir ! Voilà pour la bonne parole :) . Parler d’**optimisation pour les moteurs de recherche**, c’est d’abord parler des ** moteurs** en eux même puis ensuite des usages que vont en faire ses utilisateurs  depuis le début des années 2000 (référenceurs entre autres).  Tout un écosystème encore en pleine adolescence  et qui doit sans cesse se renouveler* (la disparition de l'authorship dernièrement en témoigne).*
@@ -93,7 +94,7 @@ J’ai partagé en 2 périodes, pour des raisons pratiques de largeur de timelin
 
  	- 2012 : Mesures sur excès d'Affichage publicitaire au-dessus lignes de flottaison (google fait la loi ici, il est juge et partie).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/09/2011-2015-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/2011-2015.jpg) Evolution Algorithme recherche G. 2011-2015
+[![Image](/images/blog/2011-2015-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/09/2011-2015.jpg) Evolution Algorithme recherche G. 2011-2015
 
  	- 2012 : **Venice (Seo local)** : apparition de pages  organiques localisées qui ouvrent un champ plus grand au **seo local**.
 

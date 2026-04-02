@@ -5,16 +5,17 @@ author: "admin"
 categories: ["Réseaux sociaux"]
 tags: []
 slug: "facebook-business-manager"
+image: "/images/blog/FACEBOOK-BUSINESS-MANAGER-2-1.jpg"
 ---
 
 Au cours des dernières années, les médias sociaux se sont profondément intégrés à toutes les sphères de notre vie et la plupart des activités se sont déplacées en ligne, les personnes obtenant toutes les informations pertinentes en un seul clic. Selon des études récentes, non seulement les internautes utilisent les médias sociaux pour se divertir, mais ils consacrent  37% de leur temps total à l'achat de certains produits par le biais de publicités personnalisées. Les médias sociaux sont désormais devenus des plateformes de vente en ligne, et [Facebook](https://www.facebook.com/), l'une de ces plates-formes de médias sociaux les plus populaires avec plus de 2,32 milliards d'utilisateurs actifs mensuel.  Le **gestionnaire de publicités** Facebook répondrait aux besoins exacts de 48% des utilisateurs qui effectuent des achats en ligne.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/facebook-publicité-anicen-business-manager.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/facebook-publicité-anicen-business-manager.jpg) Ancienne interface business manager facebook
+[![Image](/images/blog/facebook-publicité-anicen-business-manager.jpg)](/images/blog/facebook-publicité-anicen-business-manager.jpg) Ancienne interface business manager facebook
 ## **A quoi sert le business manager de Facebook ?**
 
 Avec** Facebook Ads Manager**, il devient beaucoup plus organisé de créer et de gérer des annonces. Dans Facebook Ads Manager, vous pouvez créer des campagnes, allouer des budgets, sélectionner des paramètres de campagne tels que "audience", rédiger une copie d'annonce, modifier plusieurs annonces en une fois, acheter et publier des annonces, gérer et analyser toutes vos annonces en temps réel.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/business-manager-ecran-accueil.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/business-manager-ecran-accueil.jpg) Nouveau Facebook Business Manager Ecran accueil
+[![Image](/images/blog/business-manager-ecran-accueil.jpg)](/images/blog/business-manager-ecran-accueil.jpg) Nouveau Facebook Business Manager Ecran accueil
 
 Vous pouvez également personnaliser les graphiques et les tableaux de n'importe où et renforcer votre campagne avec des tendances, entre autres, en choisissant l'un des deux choix possibles pour créer une annonce, à savoir la création guidée ou la sélection rapide.
 
@@ -63,7 +64,7 @@ Conversions personnalisées*
 
 Vous pouvez ajouter ces ressources à un groupe de ressources professionnelles, mais les autorisations ne seront pas accordées au niveau du groupe. Vous devrez accorder les autorisations pour ces ressources au cas par cas.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/facebook-groupe-de-ressources-professionnelles.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/facebook-groupe-de-ressources-professionnelles.jpg) Facebook Groupes de ressources professionnelles
+[![Image](/images/blog/facebook-groupe-de-ressources-professionnelles.jpg)](/images/blog/facebook-groupe-de-ressources-professionnelles.jpg) Facebook Groupes de ressources professionnelles
 
 Faire des affaires n’est pas si facile quand d’autres acteurs du marché offrent des outils marketing concurrentiels pour rester au pair. Ainsi, Facebook a récemment annoncé des améliorations dans Facebook Ads Manager pour rendre l'outil plus facile à utiliser pour les entreprises de toutes tailles.
 
@@ -87,7 +88,7 @@ La liste de ces raccourcis vers les fonctionnalités fréquemment utilisées s'a
 
 Facebook a également introduit un nouveau système de conception afin d'améliorer la cohérence et l'efficacité du gestionnaire de publicités sur Facebook. Le nouveau système de création met à niveau les couleurs, les formes, les polices de caractères et les icônes existants pour rendre l'interface plus conviviale et intuitive.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/3-principales-améliorations-du-business-manager.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/3-principales-améliorations-du-business-manager.jpg) 3-principales-améliorations-du-business-manager
+[![Image](/images/blog/3-principales-améliorations-du-business-manager.jpg)](/images/blog/3-principales-améliorations-du-business-manager.jpg) 3-principales-améliorations-du-business-manager
 
 Les formulaires de remplissage deviennent plus clairs et les actions sont plus prévisibles afin que rien ne soit oublié lors de leur remplissage. Tout cela finit par réduire le nombre de clics d'un utilisateur, ce qui se traduit par une meilleure expérience et une approche logique lors du traitement du flux de travail.
 
@@ -95,7 +96,7 @@ Les formulaires de remplissage deviennent plus clairs et les actions sont plus p
 
 Ce gestionnaire de publicités Facebook se réorganise au fil de cette année  2019. Il devient plus rapide et plus pratique pour les agences tout en intégrant les campagnes de leurs clients sur Facebook. Les modifications sont axées sur la gestion de la clientèle via des rapports historiques et une organisation des actifs au sein du compte Business Manager.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/gestionnaire-de-publicite-facebook.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/gestionnaire-de-publicite-facebook.jpg) Nouveau look du business manager facebook
+[![Image](/images/blog/gestionnaire-de-publicite-facebook.jpg)](/images/blog/gestionnaire-de-publicite-facebook.jpg) Nouveau look du business manager facebook
 ## Gestion des utilisateurs
 
 Une refont de la gestion es autorisations fait également partie des modifications de l'interface utilisateur dans le gestionnaire.
@@ -105,7 +106,7 @@ Une section "Partenaires" sous "Utilisateurs" dans les paramètres de l'entrepri
 Les boutons n'ont pas un look ostentatoire et sont parfois pas très visible dans ce nouveau design, mais une fois repérés et trouvés, ils se mémorisent.
 Dans la section "Personnes", vous verrez les personnes qui ont accès à votre compte Business Manager. En cliquant sur leurs noms, vous obtenez une liste des rôles qui leur ont été attribués. De là, vous pouvez cliquer sur le bouton « Ajouter un rôle » à droite et attribuer rapidement des rôles et des autorisations à cette personne.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/08/accès-raccourcis-business-manager-facebook.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/08/accès-raccourcis-business-manager-facebook.jpg) Accès  aux raccourcis Business manager facebook
+[![Image](/images/blog/accès-raccourcis-business-manager-facebook.jpg)](/images/blog/accès-raccourcis-business-manager-facebook.jpg) Accès  aux raccourcis Business manager facebook
 
 Les modifications sont censées faciliter le contrôle de l'accès, ainsi que l'obtention et l'octroi de l'accès aux pixels, comptes publicitaires, pages, catalogues de produits, etc.
 

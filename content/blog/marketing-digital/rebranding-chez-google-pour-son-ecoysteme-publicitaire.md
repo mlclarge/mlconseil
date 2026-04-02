@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "rebranding-chez-google-pour-son-ecoysteme-publicitaire"
+image: "/images/blog/google-ads.jpg"
 ---
 
 Google déboule avec cette annonce d'une nouvelle histoire pour son **écosystème  publicitaire** avec un objectif , simplifier son offre de plateformes centrée autour de 3 produits :
@@ -19,7 +20,7 @@ https://www.youtube.com/watch?65=&v=S-O_EkR7tpc
 
  	- pour les éditeurs de site, unification des ventes et monétisation des espaces publicitaires (programmatique) avec **Google Ad manager**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/google-ads-manager.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/google-ads-manager.jpg)
+[![Image](/images/blog/google-ads-manager.jpg)](/images/blog/google-ads-manager.jpg)
 
 Nous avons lancé AdWords il y a presque 18 ans avec un but simple en tête : permettre aux personnes d'interagir facilement avec les entreprises sur Internet. Nous profitions alors des recherches effectuées par les utilisateurs (par exemple, pour du papier à lettre écologique , des articles de matelassage 
 

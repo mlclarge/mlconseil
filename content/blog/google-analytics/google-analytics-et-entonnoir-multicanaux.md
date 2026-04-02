@@ -42,11 +42,11 @@ L’attribution d’une source de visite génère **3 types de mesure** selon le
 
 Essayons de comprendre le concept d’entonnoir multicanal et revenons sur la mesure multicanal online. La trame online des opérations de webmarketing peuvent se résumer à un processus en 3 phases : Attraction, Argumentation et Persuasion et Conversion.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.1-Entonnnoir-de-conversion-253x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.1-Entonnnoir-de-conversion.png) Fig.1 Entonnnoir de conversion
+[![Image](/images/blog/Fig.1-Entonnnoir-de-conversion-253x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.1-Entonnnoir-de-conversion.png) Fig.1 Entonnnoir de conversion
 
 A cette trame correspond, généralement, des phases d’actions webmarketing. J’ai repris et traduit pour illustration le tunnel de conversion de la compagnie américaine seomoz.org (merci !)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.2-tunnel-emarketing-multicanal-310x281.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.2-tunnel-emarketing-multicanal.png) Fig.2 tunnel-emarketing-multicanal
+[![Image](/images/blog/Fig.2-tunnel-emarketing-multicanal-310x281.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.2-tunnel-emarketing-multicanal.png) Fig.2 tunnel-emarketing-multicanal
 
 Pour résumer et dégrossir l’idée de ce tunnel de conversion on peut dire, sans faire de généralité bien sûr, qu’en haut du tunnel, on retrouve le canal display (affichage)  et du trafic organique pour attirer le chaland, puis dans une phase intermédiaire, les liens sponsorisés  qui argumentent et persuadent de la bonne affaire en captant les requêtes ciblées de l’internaute en phase d’achat. Du retargeting peut le ramener s’il s’échappe de l’entonnoir. Enfin, une belle page de destination dont la source peut provenir d’un affilié  scellera la conversion. Maintenant, quel outil utiliser pour mesurer ce cheminement ?
 
@@ -56,24 +56,24 @@ Pour résumer et dégrossir l’idée de ce tunnel de conversion on peut dire, s
 
 Cette application va aider à comprendre ce qui a bien pu se passer avant le passage à la conversion. Normalement, GA attribue la conversion au dernier canal, soit dans l’exemple cité plus haut, au lien de l’affilié, mais quid de ce qui s’est passé avant ? Le suivi des interactions se fait pendant 30 jours, et GA compte tous les chemins de conversions et les compile afin d’avoir des rapports lisibles. Chaque canal est égal à une source (organique, emailing..)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.3-interface-multicanal-ga-310x248.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.3-interface-multicanal-ga.png) fig.3 Interface-multicanal-ga
+[![Image](/images/blog/fig.3-interface-multicanal-ga-310x248.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/fig.3-interface-multicanal-ga.png) fig.3 Interface-multicanal-ga
 
 Le menu de cet entonnoir est constitué de 2 sous parties. Les conversions indirectes, ce sont les canaux attribués par GA comme faisant partie du cheminement de conversion, ils ont contribué à la conversion, même s’ils n’ont pas été les derniers clics avant l’acte final. Dans le cas où ils sont présents comme canal indirect et direct, ils seront comptabilisés 2 fois en valeur. C’est un des biais de la mesure.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.4-Conversions-indirectes-1-310x126.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.4-Conversions-indirectes-1.png) Fig.4 Conversions indirectes
+[![Image](/images/blog/Fig.4-Conversions-indirectes-1-310x126.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.4-Conversions-indirectes-1.png) Fig.4 Conversions indirectes
 **Méthode pour avoir un entonnoir multicanal fiable**
 
 	- Paramétrer des objectifs (avec valeurs), un panier e-commerce (transactions), bref jalonner le parcours. Si ces éléments n’y sont pas, l’entonnoir multicanal restera muet, avec un encéphalogramme plat J .
 
 	- Laisser remonter les données et observer les groupes de canaux par défaut. Si ces derniers laissent apparaître des zones pas très explicites, constituer son propre groupe de canaux (fig.5).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.5-Modification-canal-GA-294x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.5-Modification-canal-GA.png) Fig.5 Modification canal GA
+[![Image](/images/blog/Fig.5-Modification-canal-GA-294x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.5-Modification-canal-GA.png) Fig.5 Modification canal GA
 
 	- Toujours utiliser  cette fonctionnalité sur un profil vierge de tout filtre, sinon les données seront tronquées.
 
 	- Consulter GA en faisant des corrélations  : les chemins les plus fréquents, pendant 30 jours,   corrélé au chemin des mots clés par exemple (dans le cadre de cpc), cela peut aider à mieux discerner ceux qui manquent ou qui pourraient compléter une visibilité dans une campagne de liens sponsorisés. (fig. 6)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.6-Chemin-fréquents-ganalytics-310x50.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.6-Chemin-fréquents-ganalytics.png) Fig.6-Chemin-fréquents-ganalytics
+[![Image](/images/blog/Fig.6-Chemin-fréquents-ganalytics-310x50.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.6-Chemin-fréquents-ganalytics.png) Fig.6-Chemin-fréquents-ganalytics
 
 Niveau avancé (premium)
 
@@ -81,11 +81,11 @@ L’entonnoir multicanal, permet donc de se rendre compte des différentes inter
 
 En effet, selon son marché (b to b / b to c), sa stratégie (marque, conversion directe..), vaut-il mieux  pas plus focaliser  ses mesures sur le premier canal (ou point de contact), ou bien  le dernier, et pour ceux intermédiaires, le reste ? C’est ce que l’on appelle des modèles d’attributions. Cela peut aboutir à donner une répartition comme celle-ci (fig. 7 Source : aide Google analytics)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.7-Modele-attribution-301x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.7-Modele-attribution.png) Fig.7 Modele attribution (source Google Analytics)
+[![Image](/images/blog/Fig.7-Modele-attribution-301x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.7-Modele-attribution.png) Fig.7 Modele attribution (source Google Analytics)
 
 Ce paramétrage n’est possible que dans la version payante de Google analytics (fig.8).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.8-model-attribution-ganalytics-310x163.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.8-model-attribution-ganalytics.png) Fig.8 model attribution ganalytics                                            (source havinash KausHik)
+[![Image](/images/blog/Fig.8-model-attribution-ganalytics-310x163.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/09/Fig.8-model-attribution-ganalytics.png) Fig.8 model attribution ganalytics                                            (source havinash KausHik)
 ### Conclusion sur les rapports de l'analyse multicanal
 
 Selon les **modèles d’attribution**, les combinaisons de canaux, leurs segmentations, l’analyse multicanal peut être très personnalisée.  A partir de ces rapports de cheminement vers la conversion, il est possible d'ébaucher   le montant total des canaux digitaux (CPCs + emailing + commissions + Seo) qui ont amené à 1 conversion.  Mais attention à ne pas trop se focaliser sur ce seul  aspect car il ne constitue qu’une pièce du puzzle de l’analyse marketing.

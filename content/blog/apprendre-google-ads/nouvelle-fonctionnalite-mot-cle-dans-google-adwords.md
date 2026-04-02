@@ -66,7 +66,7 @@ C’est le nec plus ultra en terme de précision, **aucune variante**  n’est 
 5/ **Mot clé à exclure**
 
 Ce paramétrage permet d’exclure un terme pour lequel on ne souhaite pas voir apparaître l’annonce. Il est configurable au niveau du groupe d’annonce ou de la campagne (fig1.).
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig1-Mots-cles-exlure-300x134.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig1-Mots-cles-exlure.png)
+[![Image](/images/blog/fig1-Mots-cles-exlure-300x134.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig1-Mots-cles-exlure.png)
 
 Cette liste peut être aussi  importante voir, plus longue que la liste principale. Elle dépend également du type de correspondance choisie, dans le cadre d’un choix d’une liste de mots clés exacts, par exemple, les mots  à exclure n’ont pas lieu d’être.
 
@@ -86,7 +86,7 @@ On s’aperçoit donc que travailler ces mots clés en expression ou en exact im
 ## La nouveauté : option de correspondance de Mot clé (6)
 
 Cette fonctionnalité vient résoudre ce que j’évoqué précédemment, à savoir, pallier le fait qu’il faille ajuster,  lors de correspondances de mots clés en expression  et/ou en  exact, le pluriel, les fautes d’orthographes, les acronymes, les dérivées d’un  même radical, les abréviations et autres accents. Google indique que 7%  des recherches incluent ce genre de variantes et selon les tests effectués, cela aboutit à une augmentation de 3 % des clics.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig2-parametragesAdwords-300x207.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig2-parametragesAdwords.png)
+[![Image](/images/blog/fig2-parametragesAdwords-300x207.png)](https://www.mauricelargeron.com/wp-content/uploads/2012/05/fig2-parametragesAdwords.png)
 
 Comme tout changement, cela appel à des commentaires sur l’intérêt de cette amélioration. Certains annonceurs favorables y voient une facilité d’utilisation supplémentaire  un gain de temps, et de plus,  n’affecte pas le score de qualité.  Ses pourfendeurs argumentent en revanche :
 

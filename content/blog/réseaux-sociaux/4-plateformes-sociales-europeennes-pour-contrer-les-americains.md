@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réseaux sociaux"]
 tags: []
 slug: "4-plateformes-sociales-europeennes-pour-contrer-les-americains"
+image: "/images/blog/reseaux-sociaux-francais.jpg"
 ---
 
 Fin 2018, un collectif de DSI (directeurs des services informatiques) poussait plusieurs coups de Gueule au sein d’un rapport « L’Open source- ou Logiciel libre- alternative aux grands fournisseurs ».Souvent venus des US, Oracle, MSN et consorts sont pointés du doigt par leur emprise sur les grandes organisations avec principalement des hausses de licence, frais de consulting, mises à jour etc…Les administrations françaises montrent l’exemple que les grands comptes sont prêts à suivre à leur tour. Sur un autre aspect, celui de la protection des données, RGPD oblige, les plateformes américaines et notamment sociales ne sont pas à la fête non plus. Facebook a vécu une année 2018 assez rocambolesque en témoigne cette parodie de « Vidéo de l’année » à la mode Facebook, édité par le journal anglais the « Guardian ». Selon le créateur de whaller entendu sur Bfm récemment, ce n’est pas moins de 31 affaires en 2019 sur le 1er réseau social mondial !
@@ -21,7 +22,7 @@ La start-up est née en 2013. Whaller, plateforme de réseaux collaboratifs pas 
 
  	- La contextualisation de leurs échanges dans des sphères thématiques étanches.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/adn-whaller-reseau-social-open-source-276x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/adn-whaller-reseau-social-open-source.jpg) adn whaller reseau social open source
+[![Image](/images/blog/adn-whaller-reseau-social-open-source-276x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/adn-whaller-reseau-social-open-source.jpg) adn whaller reseau social open source
 
 ### ***Usages, fonctionnalités et architecture du réseau social Français***
 
@@ -57,7 +58,7 @@ Enfin, Whaller a été conçu selon une arborescence à trois niveaux
 
  	- Des Intégrations sur des applications externes sont possible, comme la suite bureautique de Google, Microsoft, zapier même si cela parait un peu schizophrène de pouvoir à la fois se démarquer des travers de certaines plateformes et de l’autre , pouvoir s’y connecter pour des raisons pratiques et d’enrichissement de fonctionnalités.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/spheres-et-organisation-479x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/spheres-et-organisation.png) Whaller autour de 3 ensembles :  spheres ,  organisations et fédérations
+[![Image](/images/blog/spheres-et-organisation-479x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/spheres-et-organisation.png) Whaller autour de 3 ensembles :  spheres ,  organisations et fédérations
 
 Pour comprendre le projet whaller rien n’est mieux que d’écouter son fondateur qui s’exprimait voilà quelques jours au micro de techco sur Bfm Business. Elle compte porter la dragée haute à [Workplace](https://www.mauricelargeron.com/formation-reseaux-sociaux-bordeaux/facebook-workplace-devient-populaire/) de Facebook , Teams de Microsoft.
 
@@ -72,7 +73,7 @@ https://www.youtube.com/watch?v=2ku5q4pv44s
 
 Mastodon a été créé en 2016, né au sein de la communauté open source et historiquement issu de 2 projets qui ont fusionnés (GNU social). Son créateur Eugen Rochko Allemand d’origine, n’est pas le profil du Geek Tech de la silicon Valley. Sans recherche de gloire ni de célébrité. A son lancement, 800000 utilisateurs l’utilisaient.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/identite-mastodon-500x300.jpeg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/identite-mastodon.jpeg) Logo et créateur Mastodon source : bfm business
+[![Image](/images/blog/identite-mastodon-500x300.jpeg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/identite-mastodon.jpeg) Logo et créateur Mastodon source : bfm business
 
 Son architecture est à l’image des valeurs de la plateforme, elle repose sur un réseau décentralisé de serveurs (plus de 2000 à son départ). Elle ne garantit pas une intégrité totale en termes de sécurité mais en revanche, confirme qu’aucune collecte de données n’est faite à des fins publicitaires. Quid du modèle économique ?
 
@@ -118,7 +119,7 @@ https://www.youtube.com/watch?v=Ias8FHihX_4
 
 Un aperçu de l'interface ...
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/jollyclic-340x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/jollyclic.jpg) Jollyclic le reseau social des entrepreneurs
+[![Image](/images/blog/jollyclic-340x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/jollyclic.jpg) Jollyclic le reseau social des entrepreneurs
 
  
 

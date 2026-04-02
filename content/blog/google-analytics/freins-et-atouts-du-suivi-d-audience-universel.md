@@ -9,14 +9,14 @@ slug: "freins-et-atouts-du-suivi-d-audience-universel"
 
 Faut-il passer à  Google  analytics universel ? Quelle  est l'utilité de migrer un compte « classique »  Google analytics  (GA) vers **Universal Analytics** (GUA) ? , ou, lors d’une nouvelle implémentation d’un suivi d’audience, vers quelle  solution s’orienter (premiers paramétrages ici) ? Je n’ai  pas la réponse, mais des éléments qui peuvent aider à prendre une décision, au cas par cas.  Voyons ce qui des points communs, des différences, et des atouts et perspectives du nouveau code universel, peut faire pencher la balance vers un changement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/CHOIX-GA-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/CHOIX-GA.jpg) Quelle option choisir ?
+[![Image](/images/blog/CHOIX-GA-310x205.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/CHOIX-GA.jpg) Quelle option choisir ?
 ## **Classique or Not Classique ?**
 
 *Code classique GA et Universal : le même socle de base*
 
 Les 2 codes collectent par défaut les mêmes indicateurs et donnent donc le **même reporting dans l’interface GA (pour l'instant)**, dont l’audience  (les Visiteurs, Nombre de visites, Pages vues), les sources de trafic (directe, référents, moteurs, campagnes, réseaux sociaux), le contenu (pages vues, vitesse du site, analyse de page), tableau de bords, raccourcis, évènements d’alertes et personnalisation compris.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/code-suivi-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/code-suivi.jpg) Seules diffrences visibles dans interface GA
+[![Image](/images/blog/code-suivi-310x150.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/code-suivi.jpg) Seules diffrences visibles dans interface GA
 
 Mêmes interfaces depuis l’admin.  comme la configuration d’évènements via l’onglet « objectifs ». Les paramètres du site, des réseaux sociaux, le remarketing ou les définitions personnalisées. La comparaison s’arrête là ! Ensuite tout diffère..
 
@@ -42,26 +42,26 @@ Dans le cadre d’une migration vers ce nouveau suivi, pour un usage avancé,  
 
 Donc, dans le cas d’une migration, prévoir à l’avance du temps pour appréhender la nouvelle librairie. Voici, présenté sous une forme agréable, les principales portions de codes à connaître. Je remercie son auteur, mais j’ai zappé la source (autant pour moi, je corrigerais si je la retrouve).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide.jpg) [outil de synthèse de GUA](https://docs.google.com/spreadsheet/ccc?key=0ApP4sgBxVMsrdGcyMmtKMURncl8zUXBqZThPUk9WN3c&usp=sharing)
+[![Image](/images/blog/universal-shett-guide-310x219.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide.jpg) [outil de synthèse de GUA](https://docs.google.com/spreadsheet/ccc?key=0ApP4sgBxVMsrdGcyMmtKMURncl8zUXBqZThPUk9WN3c&usp=sharing)
 
 Pour ceux qui souhaitent aller plus loin dans la possibilité de développement il y a cette ressource qui rentre un peu plus dans le [détail](http://www.thyngster.com/2012/12/17/google-analytics-measurement-protocol-cheat-sheet/) des items.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide-2-268x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide-2.jpg) Grille Détaillé Code analytics.js
+[![Image](/images/blog/universal-shett-guide-2-268x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/universal-shett-guide-2.jpg) Grille Détaillé Code analytics.js
 ## **Quelles sont les bonnes raisons de basculer vers la nouvelle version alors ?**
 
 ### **L’universalité**
 
 Choisissons 1 bonne raison, c’est sa possibilité de tracking universel bien sûr ! Pouvoir suivre un utilisateur au travers de ces usages de plateformes (côté client avec le  userId pas encore disponible) : smartphone, tablette, pc. La nouvelle librairie Javascript (UA) permet de suivre cela.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid-0-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid-0.jpg) Prococole de mesure : un des atouts de GUA
+[![Image](/images/blog/protocole-client-uid-0-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid-0.jpg) Prococole de mesure : un des atouts de GUA
 
 Elle permet une analyse visiteur et multicanal  plus proche de la réalité où le online rencontre le offline.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid.jpg) Un suivi concret visiteur avec UserId
+[![Image](/images/blog/protocole-client-uid-310x194.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/protocole-client-uid.jpg) Un suivi concret visiteur avec UserId
 
 L’intégration des **données externes  vers Google analytics** (côté serveur) est l’atout complémentaire qui s’effectue grâce au Protocol multiplateforme de mesure (MP).  Au-delà des Smartphones, pc, tablettes, il devient possible d’envoyer depuis des crm, caisses, imprimés (coupons), d’une cafetière.. des données à GA qui sont agrégées ensuite par visiteur. Un exemple dans le cas d'un suivi d'acquisition de prospects (leads).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/06/schema-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/schema.jpg) Suivi GUA avec Client ID
+[![Image](/images/blog/schema-310x176.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/06/schema.jpg) Suivi GUA avec Client ID
 ### **Un exemple amusant qui vous vient d'Australie !**
 
 Une illustration du tracking à base de puce Rfid paramétrée par  utilisateur et connecté à  l'accès à la cafetière, frigo qui est poussé vers les Google analytics universel grâce au protocole de mesure. Bon , c'est en anglais, mais cela est intéressant !

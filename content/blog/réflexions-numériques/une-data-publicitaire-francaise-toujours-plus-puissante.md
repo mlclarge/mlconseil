@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réflexions numériques"]
 tags: []
 slug: "une-data-publicitaire-francaise-toujours-plus-puissante"
+image: "/images/blog/alliancepublicitaire.jpg"
 ---
 
 Toujours plus ! Les **alliances des médias** pour contrecarrer la domination sur le marché de la [**publicité en ligne de  Google et Facebook** ](https://www.emarketer.com/Article/Google-Facebook-Increase-Their-Grip-on-Digital-Ad-Market/1015417)font l’actualité pour les marketeurs ces temps-ci !  Les grands médias s’unissent pour faire front contre les géants américains. Profitons de voir quelques chiffres sur ce marché, les nouvelles alliances, et quelques aspects d'un modèle digital publicitaire qui se cherche...
@@ -15,7 +16,7 @@ Toujours plus ! Les **alliances des médias** pour contrecarrer la domination s
 
 Selon** Zenithmedia**, les 2 grands collecteraient **20% du marché global mondial de la publicité** (marché évalué  500 milliards selon MAGNA INTELLIGENCE ) et 62% de la croissance de ce marché entre 2012 et 2016 ! Mais Google fait office de grand frère par rapport à Fbook, captant 3 fois plus de revenus, 80 milliards de dollars contre 27 pour le réseau social. Depuis 10 zenith publie un classement  du top 30 des plus grosses entreprises de ce marché. On retrouve dans ce top 3 Alphabet , Facebook, et Comcast. Aucun Français n’y figure, enfin si, JC Decaux ! On notera qu’indirectement, TF1 est présente en 26ème position avec le groupe allemand ProSiebenSat.1 Group avec lequel un rapprochement s’est effectué en début d’année pour renforcer sa position sur le marché de l’audience vidéo sur YouTube.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/07/marche-publicite-global-322x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/marche-publicite-global.jpg) Top 30 du marché publicitaire mondial
+[![Image](/images/blog/marche-publicite-global-322x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/marche-publicite-global.jpg) Top 30 du marché publicitaire mondial
 
 Sur le digital, au US, les 2/3 des dépenses iraient dans la poche de G. et Fbook, reste à vérifier ces chiffres souvent donnés par des journalistes sans citer leur source.
 
@@ -23,7 +24,7 @@ Sur le digital, au US, les 2/3 des dépenses iraient dans la poche de G. et Fboo
 
 Le** cabinet PWC avec l’IREP** publie chaque année des chiffres aussi sur le marché français de la publicité, évalué à 10 milliards d’euros. Dont 1/3 sur le digital et de ce tiers, donc sur 3.5 Milliards, 2 sont pris par les 2 géants US ! A eux seuls, c'est 600 millions de connexions jours *(entendu sur débat bfm Business du 3 mai)*. Les relais de croissance se font essentiellement sur le Search et les réseaux sociaux (là où se trouve la bonne audience, hé hé ! ) . Ah là cela suffit,  nos médias Français, dans leur course effrénée à l’audience,  donc à toujours plus de de CA, s’unissent en créant des alliances pour faire front !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/07/predominance-du-marche-search-and-rs-502x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/predominance-du-marche-search-and-rs.jpg) Predominance du marche Search and Réseau social (étude 2017 PWC/Irep)
+[![Image](/images/blog/predominance-du-marche-search-and-rs-502x287.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/predominance-du-marche-search-and-rs.jpg) Predominance du marche Search and Réseau social (étude 2017 PWC/Irep)
 ## **Les nouvelles alliances contre Google et Facebook**
 
 ### ***Gravity, 11 acteurs et une puissance inégalée ***
@@ -75,7 +76,7 @@ Soyons pas dupes, ces groupes médias dominent encore de loin en France, les pur
 
 Les plateformes américaines pourtant ne produisent rien, elles ne font que relayer et donner les pelles à nous tous consomm- acteurs.  Consciemment ou non, nous donnons nos informations personnelles, partageons nos vies à longueur de journée, de la data pertinente bien comprise par les marques ! Mais la faille de ces géants reste leur capacité à filtrer le bon grain de l’ivraie, les recentes affaires de  **fakenews sur le réseau social** et sur le** ciblage publicitaire Youtube**   marquent bien un déficit qualitatif de ces pseudo-médias.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/07/audience-publicitaire-186x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/audience-publicitaire.jpg) Audiences mensuelles France Internet et Mobile
+[![Image](/images/blog/audience-publicitaire-186x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/07/audience-publicitaire.jpg) Audiences mensuelles France Internet et Mobile
 
 Neanmoins, c’est dans ces usages là que doivent se focaliser nos médias et grosses agences de pub. françaises qui ne regardent que les compteurs de pages vues dans leur monétisation ou reporting,  au détriment d’une expérience utilisateur souvent oubliée par des intrusions intempestives encore bien présentes en 2017.
 

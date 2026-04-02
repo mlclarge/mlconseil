@@ -12,7 +12,7 @@ slug: "facebook-workplace-devient-populaire"
 **Facebook Workplace** , c'est **un réseau social d’entreprise** (RSE),  clef en main qui fête sa 4 ème année en 2020 . A peine 14 000 après un semestre de lancement, c’est plus de 30000 entreprises aujourd’hui qui l’on adopté en cette fin d’année.  Des entreprises comme Century 21, illiad, Sncf (pour certains de leurs services), Danone (90 000 salariés). Ce  n’est pas fait non plus que pour des énormes sociétés Facebook workplace,  déjà bon nombre de start-ups Françaises comme My little Paris, Iadvize, Sigfox l’on adopté vu sa simplicité d’intégration dans les équipes.
 
 Sinon, pour ceux qui souhaitent connaître les acteurs du marché des RSE, voici une matrice qui positionne chacun d’entre eux.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/rse-306x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/rse.jpg) L'univers des réseaux sociaux d'entreprises par Lecko
+[![Image](/images/blog/rse-306x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/rse.jpg) L'univers des réseaux sociaux d'entreprises par Lecko
 ## **Facebook Workplace c'est quoi ? **
 
 ### ***Les fonctionnalités de Facebook Workplace qui décrivent le mieux l'outil***
@@ -41,7 +41,7 @@ Pour ceux qui sont déjà adeptes de Facebook, Workplace est identique avec sans
 
 - Video live nativement intégrée
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/workplace-by-facebook-480x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/workplace-by-facebook.png) Workplace par Facebook c'est quoi ?## **Comment être sur Workplace en 7 étapes ?**
+[![Image](/images/blog/workplace-by-facebook-480x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/workplace-by-facebook.png) Workplace par Facebook c'est quoi ?## **Comment être sur Workplace en 7 étapes ?**
 
  
 
@@ -57,7 +57,7 @@ Rien de plus simple pour le mettre en route, il suffit de
 
 - **Recruter des salariés, partenaires **: Différents moyens sont possibles soit de manière manuelle ou alors automatique, à vous de choisir. La phase 3/ ou 4/ peut s’intervertir, le principal c’est de démarrer avec des personnes motivées et de les intégrer dans des ensembles cohérents qui font sens pour l’entreprise
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/11/FACEBOOK-WORKPLACE-502x276.gif)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/FACEBOOK-WORKPLACE.gif) Facebook Workplace en 7 étapes **(cliquez et cela défile tout seul)**
+[![Image](/images/blog/FACEBOOK-WORKPLACE-502x276.gif)](https://www.mauricelargeron.com/wp-content/uploads/2017/11/FACEBOOK-WORKPLACE.gif) Facebook Workplace en 7 étapes **(cliquez et cela défile tout seul)**
 
 - **Communiquer** : le super avantage de la solution est son modèle prêt pour la mobilité. Avec des applications qui viennent se greffer comme workChat, mais aussi les lives, bots, visioconférences déjà intégré dans l’interface native de workplace.
 
@@ -113,4 +113,4 @@ Rien de plus simple pour le mettre en route, il suffit de
 - [Réseaux sociaux, état des lieux](https://www.mauricelargeron.com/formation-reseaux-sociaux-bordeaux/rudiments-pour-demarrer-sur-les-reseaux-sociaux/)
 
 ** En dehors de Facabook ma spécialité dans le domaine du marketing digital, est la formation google adwords (recherche sur google, réseau display, google shopping). Les infos sur la gestion des campagnes de référencement payant sont disponibles ci-dessous !**
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/11/formateur-consultant-google-ads-310x128.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/formateur-consultant-google-ads.png) Formation Google Adwords - Ads 2020
+[![Image](/images/blog/formateur-consultant-google-ads-310x128.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/11/formateur-consultant-google-ads.png) Formation Google Adwords - Ads 2020

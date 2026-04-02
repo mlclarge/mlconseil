@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Non classé"]
 tags: []
 slug: "que-sont-les-networks-sur-youtube"
+image: "/images/blog/raccourcisseurUrls.jpg"
 ---
 
 [**YouTube**](https://www.youtube.com) a généré depuis sa création en 2005 des modèles de Business inattendus. Les Networks font partis de ceux-là. Pour en discuter, je vous propose une illustration via un format inhabituel pour ma part, celui du podcast "enrichi". L'idée est de synthétiser, d'illustrer  les propos de l'interview par des visuels, commentaires, animations. L'idée est aussi parfois d'accélérer le rythme des voix afin de gagner en durée :).

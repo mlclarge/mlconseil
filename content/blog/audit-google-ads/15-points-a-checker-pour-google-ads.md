@@ -5,6 +5,7 @@ author: "admin"
 categories: ["audit google ads"]
 tags: []
 slug: "15-points-a-checker-pour-google-ads"
+image: "/images/blog/CHECKLIST-GOOGLE-ADS.jpg"
 ---
 
 Voici les points principaux lors de la prise en main de la [**plateforme publicitaire Google ads**](https://ads.google.com/i). Une liste qui résume ce à quoi il faut s’atteler ou penser lors du projet de campagnes sur l’écosystème Google. Catégorisée par thème  cette checklist aborde les points suivants : audit avant le lancement, aspects stratégiques au moment du lancement, prise en main de l’outil et les premiers paramétrages au niveau du compte.
@@ -33,7 +34,7 @@ D’autres listes viendront se rajouter plus axées sur des aspects [opérationn
 - **Utiliser des outils de diagnostic concurrentiel** **Sea** extérieurs à Google ads comme SemRush, Yooda insight, TwinWord pour avoir des statistiques sur la concurrence.
 
 ****
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/audit-serp-recherche-a-la-marque.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/audit-serp-recherche-a-la-marque.jpg) Audit serp recherche à  la marque
+[![Image](/images/blog/audit-serp-recherche-a-la-marque.jpg)](/images/blog/audit-serp-recherche-a-la-marque.jpg) Audit serp recherche à  la marque
 ## **Stratégie de lancement de campagne**
 
 ****
@@ -48,7 +49,7 @@ D’autres listes viendront se rajouter plus axées sur des aspects [opérationn
 
 - **Paramétrage technique des conversions** : les actions que l'on souhaite faire accomplir par l'internaute doivent être enregistrées par Google Ads pour utiliser et optimiser les systèmes d'enchères automatiques. Cette phase utilise soit le code natif de Google ads, soit l'association de Google analytics, soit le TMS Google tag manager, au choix selon les compétences de développement web de l'organisation. ****
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/persona-tunnel-de-vente-et-requetes-google-ads.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/persona-tunnel-de-vente-et-requetes-google-ads.jpg) Persona tunnel de vente et requetes google ads source Hubspot modifié par Mlconseil
+[![Image](/images/blog/persona-tunnel-de-vente-et-requetes-google-ads.jpg)](/images/blog/persona-tunnel-de-vente-et-requetes-google-ads.jpg) Persona tunnel de vente et requetes google ads source Hubspot modifié par Mlconseil
 ## **Prise en main du compte Google Ads**
 
 ****
@@ -69,7 +70,7 @@ D’autres listes viendront se rajouter plus axées sur des aspects [opérationn
 
 - **Importation de fichiers clients** : là encore réservé pour un certain profil d'annonceurs dont l'historique entre autre fait apparaître un seuil de dépense minimum de 50 000 euros, comme Facebook, il est possible d'importer des profils d'utilisateurs de la marque à des fins de ciblage d'audience déjà connue par l'annonceur.****
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/02/parametrages-compte-google-ads.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/02/parametrages-compte-google-ads.jpg) Parametrages compte google ads sous l'onglet "paramètres du compte"
+[![Image](/images/blog/parametrages-compte-google-ads.jpg)](/images/blog/parametrages-compte-google-ads.jpg) Parametrages compte google ads sous l'onglet "paramètres du compte"
 
 Ces quelques items évoqués ci-dessus éviteront bien des maladresses lors de lancement de campagnes. Si on devait résumer : observer (auditer, tout est montré sur l’internet), agir en fonction du contexte observé (strategie), comprendre l’outil  (prise en main et 1er paramétrages).
 

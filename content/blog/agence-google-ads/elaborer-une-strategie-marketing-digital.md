@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Agence google ads"]
 tags: []
 slug: "elaborer-une-strategie-marketing-digital"
+image: "/images/blog/strategie-de-marketing-digi.jpg"
 ---
 
 Je prends un peu de la hauteur de vue cette semaine pour aborder autre chose que les outils  webmarketing promotionnels habituels (seo, sea, réseaux sociaux). Si nous parlions un peu de stratégie, et plus particulièrement de **stratégie marketing  digital** que l'on peut utilier en [agence google ads](https://www.mauricelargeron.com/le-nouveau-programme-google-partner-2022-est-arrive/) 360 dans un monde de plus en plus numérisé.
@@ -17,7 +18,7 @@ Il suffit de consulter les études, classements, benchmarks d’agences ou d’i
 
 Pour repères, Interbrand a sorti récemment un index de marques les plus attractives sur internet  On y retrouve 20 marques dont les 3 1ere sont : Samsung, L’Oréal et Lidl.              12 marques françaises sont présentes avec une forte présence des opérateurs télécom (SFR, orange, Bouygues).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/classement-index-interbrand-digital-290x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/classement-index-interbrand-digital.jpg) classement index interbrand marques populaires
+[![Image](/images/blog/classement-index-interbrand-digital-290x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/classement-index-interbrand-digital.jpg) classement index interbrand marques populaires
 ### ***Sur les E-commerçants***
 
 Sinon la Fevad et son palmarès  issu de la nuit des favori’s , le top classement de l’ecommerce fin 2017 :
@@ -44,32 +45,32 @@ Le trio gagnant :
 
 Amazon, Cdiscount, Fnac..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/audience-top-15-sites-web-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/audience-top-15-sites-web.jpg) audience top 15 sites web
+[![Image](/images/blog/audience-top-15-sites-web-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/audience-top-15-sites-web.jpg) audience top 15 sites web
 ## **Quelle est la méthodologie employée par ces marques pour déployer une stratégie efficace ?**
 
 ### ***Une démarche classique avant tout***
 
 En quelques mots rien de change en terme de méthode sur le fond par rapport à une stratégie globale classique.  Les phases du projet doivent suivre une suite logique mais axée sur l’univers digital de l’organisation. Cela  part du diagnostic de la marque (cartographie de son identité, ses valeurs), de son offre (sa valeur ajoutée originale, unique)  par rapport à son marché (concurrence, benchmarking). Etudier ses forces et ses faiblesses (Swot). De là faire un plan d’actions avec des objectifs, puis  passer à l’opérationnel (la mise en œuvre). Enfin, évaluer (web analytics) soit collecter les Kpis (indicateurs clés) liés aux objectifs  stratégiques afin soit de les optimiser ou de pivoter (modification de la stratégie).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mercator-1-270x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mercator-1.jpg)
+[![Image](/images/blog/mercator-1-270x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mercator-1.jpg)
 
 ### ***Un préalable à toute stratégie digitale avoir une représentation juste de l'internet ***
 
 Une ebook de choix de Youmna Ovazza malgré son édition en 2011. Elle nous donne sa représentation de ce qu'est l'internet et comment une organisation doit s'y prendre afin d'éviter de s'y disperser. A consulter absolument ! : [Comment construire une stratégie digitale ?](http://www.butter-cake.com/wp-content/uploads/2013/11/Ebook-Strat%C3%A9gie-Digitale-YOvazza-Mai11.pdf)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/comment-batir-une-strategie-digitale-310x187.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/comment-batir-une-strategie-digitale.jpg)
+[![Image](/images/blog/comment-batir-une-strategie-digitale-310x187.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/comment-batir-une-strategie-digitale.jpg)
 ### ***Le planning Stratégique de l'agence My Client Is rish***
 
 J’apprécie la vision de l’[agence 360  MyClientIsRich](https://www.myclientisrich.com) dans sa méthode simple pour rendre ses clients toujours plus riches ! Derrière cinq étapes principales, leur expertise leur permet d’élaborer un planning stratégique cohérent. Cette méthode apporte  visibilité et business à la marque grâce à une communication globale cohérente ! Le numérique ou digital n’est pas seulement à l’honneur mais fait partie d’un tout dans l’univers de la Marque.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mcir-planning-strategique-methodo-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mcir-planning-strategique-methodo.jpg) Mcir Entonnoir et planning strategique
+[![Image](/images/blog/mcir-planning-strategique-methodo-310x235.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/mcir-planning-strategique-methodo.jpg) Mcir Entonnoir et planning strategique
 ## **Focus sur 6 cas de Stratégie Marketing  *(6 Doc pdfs)***
 
 Selon l’importance de l’organisation, le projet de marketing stratégique peut se focaliser sur un des aspects la marque. A chaque questionnement, une solution, résumée ci-dessous avec les etudes de cas disponibles (Merci à leurs auteurs).
 
 ### ***Samsung***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/samsung-strategie-310x129.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/samsung-strategie.jpg) Samsung et Contenu de Marque
+[![Image](/images/blog/samsung-strategie-310x129.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/samsung-strategie.jpg) Samsung et Contenu de Marque
 
  	- Problématique Samsung : Valoriser l’expertise de la marque via des contenus remarquables
 
@@ -79,7 +80,7 @@ Selon l’importance de l’organisation, le projet de marketing stratégique pe
 
 ### ***L’occitane***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/occitane-310x207.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/occitane.jpg) Occitane et mondialisation Marketing !
+[![Image](/images/blog/occitane-310x207.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/occitane.jpg) Occitane et mondialisation Marketing !
 
  	- Problématique : Impulser au niveau mondial, auprès du service marketing de la marque, une culture «holistique » du client.
 
@@ -89,7 +90,7 @@ Selon l’importance de l’organisation, le projet de marketing stratégique pe
 
 ### ***Photobox***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/strategie-de-marque-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/strategie-de-marque.jpg) Photobox et stratégie Data Driven
+[![Image](/images/blog/strategie-de-marque-310x160.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/strategie-de-marque.jpg) Photobox et stratégie Data Driven
 
  	- Problématique :  Qualifier les audiences de Photobox pour offrir aux prospects et clients de la marque une expérience média personnalisée et scénarisée, sans négliger le contrôle de la répétition du message.
 
@@ -99,7 +100,7 @@ Selon l’importance de l’organisation, le projet de marketing stratégique pe
 
 ### ***Hérault Tourisme***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/herault-tourisme-strategie-marketing-310x197.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/herault-tourisme-strategie-marketing.jpg) Herault Tourisme et plan marketing
+[![Image](/images/blog/herault-tourisme-strategie-marketing-310x197.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/herault-tourisme-strategie-marketing.jpg) Herault Tourisme et plan marketing
 
  	- Problématique : Comment  communiquer, vendre  la destination du département de l’Hérault pour les années à venir (2018/2021) ?
 
@@ -109,7 +110,7 @@ Selon l’importance de l’organisation, le projet de marketing stratégique pe
 
 ***LaRedoute***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/laredoute-strategie-de-marque-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/laredoute-strategie-de-marque.jpg) la Redoute et démarche de Brand Advocacy
+[![Image](/images/blog/laredoute-strategie-de-marque-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/laredoute-strategie-de-marque.jpg) la Redoute et démarche de Brand Advocacy
 
  	- Problématique : Faire accepter le changement radical de stratégie marketing observée par la société depuis 2011 et anticiper les besoins et parfaire les compétences des collaborateurs afin de rivaliser avec les leaders pure player de l’ecommerce. Nous ne sommes pas ici dans un marketing traditionnel BtoC mais plutôt dans la Marque Employeur où les collaborateurs font aussi partie de la  stratégie globale de conquête de d’entreprise.
 
@@ -119,7 +120,7 @@ Selon l’importance de l’organisation, le projet de marketing stratégique pe
 
 ### ***Omega : bien plus Offline que Online mais bon, c'est la démarche qui est intéssante !***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/06/2018-06-28_10-07-48-310x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/2018-06-28_10-07-48.jpg) Une stratégie de montée de gamme via le Storytelling
+[![Image](/images/blog/2018-06-28_10-07-48-310x233.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/06/2018-06-28_10-07-48.jpg) Une stratégie de montée de gamme via le Storytelling
 
  	- Problématique : Comment passer de la montre accessoire à la montre horlogère ?
 

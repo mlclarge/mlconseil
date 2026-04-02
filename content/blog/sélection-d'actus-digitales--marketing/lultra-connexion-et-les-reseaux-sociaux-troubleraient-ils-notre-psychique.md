@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "lultra-connexion-et-les-reseaux-sociaux-troubleraient-ils-notre-psychique"
+image: "/images/blog/file-20171016-31016-1n4v24s-1.jpeg"
 ---
 
 Les études le prouvent apparemment, l'utra-connexion, ce sentiment d'ubiquité nous engendrerait-il un mal-être. C'est ce que tente d'analyser cette article au filtre d'enquêtes sur le sujet.

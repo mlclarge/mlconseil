@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "classement-de-170-marques-sur-9-secteurs"
+image: "/images/blog/screen-desktop-placeholder.png"
 ---
 
 A découvrir ce **Baromètre social média** édité par la société Brandwatch.

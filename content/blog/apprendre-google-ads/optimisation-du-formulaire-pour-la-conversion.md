@@ -40,54 +40,54 @@ Il faut tenter également de provoquer l’action, l’utilisation de l’impér
 
 	- Laissez un message etc…
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/call-to-action-cta-formulaire-133x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/call-to-action-cta-formulaire.jpg) Exemples de Call to Action
+[![Image](/images/blog/call-to-action-cta-formulaire-133x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/call-to-action-cta-formulaire.jpg) Exemples de Call to Action
 ### **Offrir du contenu, de l’espoir, du service pour le lea*d***
 
 Allécher le chaland par une  mise en scène pour donner envie  : **organisation de jeux concours,  distribution de livre blancs,  pseudo enquêtes** (gain par tirage au sort, ou gratuité des résultats), invitation webinar,  services  en tout genre comme le calcul de devis immédiat (business du lead, fournitures de contact),  des ventes privées (ou avant-première). Cela peut être aussi seulement une page de destination unique où la place du formulaire aura une importance.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/formulaire-incentive-310x273.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/formulaire-incentive.jpg) Invitation à donner son numéro pour avoir un devis
+[![Image](/images/blog/formulaire-incentive-310x273.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/formulaire-incentive.jpg) Invitation à donner son numéro pour avoir un devis
 
  
 ## **UX au service de la conversion**
 
 Les études sont souvent anglo-saxonnes, mais l’expérience elle, est bien universelle. A trop vouloir demander d’information, on obtient rien ou du moins, des taux de conversion très bas. Le **nombre de champs** va bien sûr d’un seul à  plus soif ! mais  4-5 reste celui le plus standard acceptable, mais on est loin de la réalité ou bien souvent une dizaine de champs demandant l’âge du capitaine et de sa sœur éventuellement ne fait pas peur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/form-fileds-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/form-fileds.jpg) Nombre optimum de champs
+[![Image](/images/blog/form-fileds-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/form-fileds.jpg) Nombre optimum de champs
 
 Lorsque l'on enregistre des sessions utilisateurs, le cheminement parfois est surprenant, donc , comme tout interface, la complexité est à l'oeuvre.Les points rouges ci dessous matérialisent les clics des utilisateurs. Pour éviter les déperditions éviter donc de donner à réfléchir au visiteur !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/complexite-formulaire1-310x181.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/complexite-formulaire1.jpg) Complexité dans l'usage par l'utilisateur
+[![Image](/images/blog/complexite-formulaire1-310x181.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/complexite-formulaire1.jpg) Complexité dans l'usage par l'utilisateur
 **Style de formulaires**
 
 	- Simple – minimalistes :Les formulaires les plus simples sont les meilleurs (lokatme)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/meilleure-formulaire-283x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/meilleure-formulaire.jpg) Simple Classique
+[![Image](/images/blog/meilleure-formulaire-283x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/meilleure-formulaire.jpg) Simple Classique
 
 	- Les faux formulaires : Ici, on dissuade le  visiteur de remplir le questionnaire, on lui propose plutôt la plateforme d’appel, lead entrant plus valorisé. (kaufmann)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/mise-en-valeur-numéro-vert-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/mise-en-valeur-numéro-vert.jpg) Vrai Faux formulaire !
+[![Image](/images/blog/mise-en-valeur-numéro-vert-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/mise-en-valeur-numéro-vert.jpg) Vrai Faux formulaire !
 
 	- Donnant-donnant :  le site donne des garanties, de la sécurité, et en échange,  demande  des informations de valeur au visiteur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formulaire-complet-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formulaire-complet.jpg) Donnant Donnant
+[![Image](/images/blog/formulaire-complet-310x272.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formulaire-complet.jpg) Donnant Donnant
 
 	- Formulaire jeux :  facebook vient en aide au CTA et rend le remplissage facilité (center parc)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/jeu-concours-formulaire-170x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/jeu-concours-formulaire.jpg) Jeu concours
+[![Image](/images/blog/jeu-concours-formulaire-170x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/jeu-concours-formulaire.jpg) Jeu concours
 
 	- Semi assisté : une partie est accompagné , l'autre  non..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formualire-incentif-295x300.gif)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formualire-incentif.gif) Formulaire semi assisté
+[![Image](/images/blog/formualire-incentif-295x300.gif)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/formualire-incentif.gif) Formulaire semi assisté
 
 	- Ultra dynamique : c’est mon préféré du moment,  geek et social à la fois !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/2-310x265.gif)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/2.gif) Dynamique
+[![Image](/images/blog/2-310x265.gif)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/2.gif) Dynamique
 
 ***Post formulaire** : continuer tant le visiteur est chaud*
 
 	- Au lieu d’une simple page de remerciement pour dire au revoir, l’offre continue par une nouvelle proposition qui propose soit de continuer la visite, soit d’aller sur une autre demande.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/08/offre-addtionnelle-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/offre-addtionnelle.jpg) offre addtionnelle avec remerciement
+[![Image](/images/blog/offre-addtionnelle-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/08/offre-addtionnelle.jpg) offre addtionnelle avec remerciement
 **Faciliter la saisie c’est encourager la validation !**
 Je reprends ici en partie le cahier des charges de l’ouvrage « qualité web », enrichi de quelques items  à savoir :
 
@@ -146,7 +146,7 @@ Ensuite il pourra être utile de poser quelques indicateurs sur  le comportemen
 
 	- Taux de re remplissage
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/07/analyse-formulaire-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/analyse-formulaire.jpg) Analyse des champs de formulaire avec l'appli. hotjar
+[![Image](/images/blog/analyse-formulaire-310x141.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/07/analyse-formulaire.jpg) Analyse des champs de formulaire avec l'appli. hotjar
 
 	- **Véracité des informations** : L'univers des **web services** peut aussi servir à vérifier l'**exactitude des données saisies.** Pour le champs téléphone par exemple, certains référentiels comme celui de l'annuaire universel sert à matcher une fausse insertion et ainsi évite de traiter des saisies obsolètes. Il en va de même pour  les champs email,  siret.  Pour éviter de coder à la main tout cela, des services externes existent et peuvent faciliter la tâche.
 

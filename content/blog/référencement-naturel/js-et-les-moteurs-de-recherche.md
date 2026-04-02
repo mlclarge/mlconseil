@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "js-et-les-moteurs-de-recherche"
+image: "/images/blog/seo-et-js.jpg"
 ---
 
 Depuis l’invention du [JavaScript](https://fr.wikipedia.org/wiki/JavaScript) par **Brendan Eich ***(ex CEO  évincé pour la petite histoire de la direction de FIrefox en 2014 à laquelle il a contribué depuis 1998)*** ** en 1995  lorsqu’il était Développeur chez Netscape   ex-leader en son temps des navigateurs (l’équivalent de l’actuel navigateur le plus prisé Chrome) ce** langage de programmation côté client** (cad qui s’exécute depuis la machine du visiteur) a subit de multiples évolutions. Mesurons aujourd’hui son impact sur les contenus et notamment en matière de pratiques seo.
@@ -40,7 +41,7 @@ Pour résumer, les  **Google bots** (il y en a[ 9](https://support.google.com/w
 
 ## **Utilisation de Framework Js modernes (MVC, MVP, MVVM) : Focus sur angularJs le Framework G. !**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/seo-et-javascript-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/seo-et-javascript.jpg) Web Serveur VS Client
+[![Image](/images/blog/seo-et-javascript-310x277.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/seo-et-javascript.jpg) Web Serveur VS Client
 
 **AngularJs,**  Ember.js,  backbone.js etc…sont des solutions qui optimisent l’expérience utilisateur et la gestion des ressources. AngularJS est poussé par Google, il permet de construire des applications web mais peut également servir à créer de site web de toute pièce. C’est un manipulateur du DOM comme le sont ces confrères. Malgré les possibilités de Google Bot, certains conservateurs indiquent que pour être Seo friendly l’utilisation d’une version « flat » pilotée via des « vues »  coté serveur  reste néanmoins d’actualité ! A l’aide d’urls dédiés, de middlewares comme prerender.io  ou brombone facilitent la gestion des crawls pour les « spiders ». Tous les crawlers ne sont pas JS  friendly made, donc il faut aussi penser aux autres !
 
@@ -48,7 +49,7 @@ Pour résumer, les  **Google bots** (il y en a[ 9](https://support.google.com/w
 
 Voici ici **une source de sites**   web construit en AngularJS : https://www.madewithangular.com/#/. Sinon **exemple de site : http://jobfoundry.com/** faire clic droit pour lecture du code source, il n'y a pas grand chose !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/fait-avec-angularJs-310x185.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/fait-avec-angularJs.jpg) https://www.madewithangular.com
+[![Image](/images/blog/fait-avec-angularJs-310x185.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/fait-avec-angularJs.jpg) https://www.madewithangular.com
 
 **Des scripts à optimiser  JS et autres manipulations du DOM**
 
@@ -58,11 +59,11 @@ Le Search engine optimisation passe aussi par :
 
  	- **Optimisation du poids des pages **: prenons l’information du JDN qui relate l’étude de Dareboost pour le site Edf je cite : «*EDF ne compresse pas certains de ses fichiers JavaScript, ce qui pourrait pourtant faire gagner près de 15% du poids total de ce type de ressources. On remarque d’ailleurs d’autres efforts intéressants pour ces contenus, puisque près de **500ko de JavaScript** sont nécessaires pour permettre le début de l’affichage de la page. »*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/jdn-classement-dareboost-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/jdn-classement-dareboost.jpg) jdn classement Dareboost
+[![Image](/images/blog/jdn-classement-dareboost-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/jdn-classement-dareboost.jpg) jdn classement Dareboost
 
  	- **Parallax et balisages Urls** : marquage des principales balises de la page : peu importe comment est généré le contenu d’une page, il faut que les différents états de cette page soit marqués entre l’entête statique et le footer. Voici un exemple avec cette url ou sans changer de page, les 3 urls qui défilent dans la barre d’adresse seront indexées individuellement dans Google : http://parallax.iprospectcontent.co.uk/the-jquery-engine
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/contenu-et-js-256x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/contenu-et-js.jpg) Technos Onpage pour pousser du contenu
+[![Image](/images/blog/contenu-et-js-256x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/contenu-et-js.jpg) Technos Onpage pour pousser du contenu
 
 L’ingénierie de cette page s’articule autour de 2 piliers : l’écoute  du scrolling et la génération dynamique des urls (3) via Jquery.
 

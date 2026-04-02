@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "10-etapes-pour-debuter-avec-google-adwords"
+image: "/images/blog/debuter-avec-adwords.jpg"
 ---
 
 Allez consultez cette petite **infographie **sur le site de Cédric, utilise pour tous ceux qui débutent avec la plateforme de liens sponsorisés de google.  10 Conseils sous forme de méthode chronologique pour bien débuter avec google AdWords.

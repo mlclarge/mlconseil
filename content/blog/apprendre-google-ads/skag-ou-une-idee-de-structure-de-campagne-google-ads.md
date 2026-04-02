@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Apprendre Google Ads", "Campagne google ads"]
 tags: []
 slug: "skag-ou-une-idee-de-structure-de-campagne-google-ads"
+image: "/images/blog/crossdevices.jpg"
 ---
 
 Etre au plus près de la requête du visiteur avec la bonne correspondance du mot clé,  au meilleur prix, c’est un peu l’obsession du gestionnaire de [campagne,](https://www.mauricelargeron.com/comment-suivre-ses-sources-de-trafic-dans-google-ads/) sur la recherche pure  Google ou  sur du "shopping". Une des méthodes  d'optimisation s'intitule **SKAG**  adaptable facilement sur une campagne search ou sur le comparateur de prix de [Google ads.](https://fr.wikipedia.org/wiki/AdWords) La granularité est au centre de cette stratégie, où l'on pousse au plus fin  l'éventail de la sémantique afin d'offrir un maximum de couverture au potentiel de la thématique de l'annonceur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/granularité-des-annonces.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/granularité-des-annonces.jpg) Granularité = Une part du succès
+[![Image](/images/blog/granularité-des-annonces.jpg)](/images/blog/granularité-des-annonces.jpg) Granularité = Une part du succès
 ## **Qu’est-ce qu’une structure en groupe d’annonces par mot clé et pourquoi la mettre en place ? **
 
 -> single keyword ad group| groupe unique d’annonces par mot clé
@@ -20,7 +21,7 @@ Un mot clé = Un groupe d’annonces afin de coller à la requête du visiteur a
 
 La structure des campagnes ressemblent donc à cela …
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/structure-skag.gif)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/structure-skag.gif)
+[![Image](/images/blog/structure-skag.gif)](/images/blog/structure-skag.gif)
 
 Le choix ici des correspondances est triple pour simplifier ! Oui, afin d’orienter sur chaque requête un coût maitrisé qui consiste à payer plus cher sur des termes qui convertissent  (termes exacts) et payer moins sur des mots clés plus ouverts (larges modifiées, expressions). Sur des termes à socle commun dont la variable est une couleur par exemple, il faudra faire des exclusions des termes à variantes dans les groupes d’annonces concernés.
 
@@ -28,7 +29,7 @@ Le choix ici des correspondances est triple pour simplifier ! Oui, afin d’ori
 
 Le taux de clic (CTR) se trouve amélioré, ce qui entraîne des couts par clic moins élevés etc….  la musique on la connait !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/skag.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/skag.jpg) exemple de performances
+[![Image](/images/blog/skag.jpg)](/images/blog/skag.jpg) exemple de performances
 ### ***Limites des SKAG dans une campagne ***
 
  	- Temps de mise en place (du mot clé à la page de destination)
@@ -70,6 +71,6 @@ https://www.youtube.com/watch?v=iXW-A_xDgQI
 
 **Spaceboost **une plateforme  avancée, je dirai plus « globale » qui ne fait pas « que » de la structuration de SKAG mais aussi fait de la gestion de flux pour la **construction de campagnes shopping** à partir de l’importation d’un catalogue produits. Depuis cet import , cet outil élabore des campagnes sérac « produit » d’une manière dynamique dont une structure **SPAG** pour single Product ad group. Même principe que pour la campagne recherche, sauf qu’ici, ce sont les produits qui font office de  mots clés sur lesquels on affecte un unique groupe d’annonces.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/06/spag-spaceboost-google-shopping.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/06/spag-spaceboost-google-shopping.jpg) SpaceBoost une plateforme d'optimisation facile d'accès
+[![Image](/images/blog/spag-spaceboost-google-shopping.jpg)](/images/blog/spag-spaceboost-google-shopping.jpg) SpaceBoost une plateforme d'optimisation facile d'accès
 
 Autant de structures que de campagnes ! A vos claviers….

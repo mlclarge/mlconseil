@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réflexions numériques"]
 tags: []
 slug: "mobilite-communication-et-assistance-pour-google-io-2016"
+image: "/images/blog/google-io-2016.jpg"
 ---
 
 [Google** I/O 2016**](https://events.google.com/io2016/) s’est tenu il  y a 15 jours, le 10eme du nom !  C’est la **conférence dédiée aux développeurs**, grande messe  pour annoncer les principales nouveautés  et le futur des plateformes Google sur lesquelles les développeurs pourront jouer pour créer des applications via les APIs du géant américain. Pas de réelle annonce fracassante côté hardware, mais c’est plutôt du software de l’écosystème Android mais d’autres surprises sont aussi arrivées là où on les attendait pas..Je  me suis lâché pour les vidéos ! :)
@@ -23,7 +24,7 @@ https://www.youtube.com/watch?v=p5DVeDWtA5U
 
 Fini les mots de passe, l’empreinte digitale de nos usages via différents devices et applications peuvent suffire pour s’identifier sur un appareil connecté. C’est véritablement une rupture technologique que vous propose Google.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/abacus-google-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/abacus-google.jpg) Projet Abacus
+[![Image](/images/blog/abacus-google-310x162.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/abacus-google.jpg) Projet Abacus
 ## **Les messageries  pour communiquer**
 
  	- **Allo : **une messagerie qui vient concurrencer WhatsApp ou Messenger avec cryptage, chats, notification relié donc à un numéro de téléphone et non à un compte Google donc disponible  pour Android mais aussi iPhone.
@@ -59,11 +60,11 @@ L’os pour les montres se refait une santé avec 5 nouveautés :
 
  	- Plus d’interactions physique avec la montre : clavier
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/05/google-android-wear-2.0.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/05/google-android-wear-2.0.jpg) Nouvelles fonctionnalités adroid wear 2.0
+[![Image](/images/blog/google-android-wear-2.0.jpg)](/images/blog/google-android-wear-2.0.jpg) Nouvelles fonctionnalités adroid wear 2.0
 
 ***Applications pour chrome OS*** : Les possesseurs de chromebook vont se réjouir avec l’arrivée des applications Android pour le système d’exploitation de chrome (2eme Os en Amérique du nord !). Donc un Play store natif pour chrome, rien que ça !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/application-android-pour-chrome-os-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/application-android-pour-chrome-os.jpg) PlayStore pour ChromeBook
+[![Image](/images/blog/application-android-pour-chrome-os-310x228.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/application-android-pour-chrome-os.jpg) PlayStore pour ChromeBook
 ### ***L’instant apps : tester une application sans l’installer !***
 
 C'est vraiment une vraie innovation là ! Une prévisualisation de l'application sans être obligé de télécharger et d'installer l'application.
@@ -72,7 +73,7 @@ https://www.youtube.com/watch?v=cosqlfqrpFA
 
 ***Google home* : **lui est consacré à l’univers de la maison, c’est du hardware, son concurrent direct est Alexa du produit Amazon eco. Il se place dans la maison et donc écoute et répond aux questions diverses génériques météo, musique, prise de rendez-vous..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/06/home.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/06/home.jpg) Google Home
+[![Image](/images/blog/home.jpg)](/images/blog/home.jpg) Google Home
 ### ***Project Ara***
 
 L’idée d’un smartphone modulaire avec des composants à assembler, projet qui date de 2013,  qui peut s’assembler selon ses désirs, la vidéo raconte la suite..

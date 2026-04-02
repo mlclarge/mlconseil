@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "barometre-des-services-entre-particuliers-en-france-en-2017"
+image: "/images/blog/econoimie-collaborative.jpg"
 ---
 
 Si si vous connaissez cette nouvelle économie du "Car Boot sale" comme disent les anglais, ou du "vide grenier" virtuel pour ce qui intéresse la vente de produits, mais il y a aussi tous les services d'entraides entre particuliers , locations de voiture, d' objets en tout genre, des boîtes comme e_loue, blablacar, le bon coin font parties désormais de notre univers quotidien.

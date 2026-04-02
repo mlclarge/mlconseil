@@ -63,20 +63,20 @@ Bien évidemment, la base de départ c’est déjà savoir ce que l’on cherche
 
 L’aide sur la table « display par thème » supporte 50 champs dont ceux des « clics » et des « cpm moyen »
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/etape1-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/etape1.jpg) Table et champ"display" de la base Adwords
+[![Image](/images/blog/etape1-310x179.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/etape1.jpg) Table et champ"display" de la base Adwords
 
 Je vais donc pouvoir m’en inspirer lors de la requête depuis la console de l’outil.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/tutoriel-awql-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/tutoriel-awql.jpg) Console Awql.me et principe de requêtage
+[![Image](/images/blog/tutoriel-awql-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/tutoriel-awql.jpg) Console Awql.me et principe de requêtage
 ### **Rapprocher Adwords et AWQL.me**
 
 Autre exemple où cette fois-ci, je souhaite avoir depuis la table « campaign performance report » accès au** numéro de campagne et à ses clics**, j’obtiens un tableau qui me donne sur 2 colonnes les items demandés.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/parIddeCampagne-les-clicks-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/parIddeCampagne-les-clicks.jpg) Requête depuis la console
+[![Image](/images/blog/parIddeCampagne-les-clicks-310x282.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/parIddeCampagne-les-clicks.jpg) Requête depuis la console
 
 Je vérifie dans Adwords pour être sûr de mon coup.., je suis comme Saint Thomas, je veux être sûr que cet outil me restitue les vraies données source ..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/05/dans-adwords-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/dans-adwords.jpg) Le même rapport dans Adwords
+[![Image](/images/blog/dans-adwords-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/05/dans-adwords.jpg) Le même rapport dans Adwords
 
 Un grand merci donc aux concepteurs et une longue vie à leur outil de reporting [Sunnyreports](https://www.sunnyreports.com/).
 

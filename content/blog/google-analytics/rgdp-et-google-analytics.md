@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Google Analytics"]
 tags: []
 slug: "rgdp-et-google-analytics"
+image: "/images/blog/rgdp-2018-gOOGLE-ANALYTICS.jpg"
 ---
 
 In **the wake** of the scandal of the Facebook (Cambridge Analytica) case, Google Analytics as **part of the RGDP** has just announced a new feature that is part of its [policy of security and confidentiality of data](https://support.google.com/analytics/topic/2919631?hl=fr&ref_topic=1008008) . The company that collects information via the Google Analytics application is given a new latitude to support its policy of collecting visitor information vis-à-vis the regulator. This European regulation decisively moves the Americans in their power of capturing data.
@@ -25,7 +26,7 @@ It is available from the central column, the property management level, in the '
 
  	- No automatic expiration
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/04/rgdp-25-mai-2018-502x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/rgdp-25-mai-2018.jpg) Functionality in Google Analytics
+[![Image](/images/blog/rgdp-25-mai-2018-502x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/04/rgdp-25-mai-2018.jpg) Functionality in Google Analytics
 ### ***With an option on the retention mode***
 
 An option is provided on the automatic restart of data retention in case of a new session. In other words, if the user is stuck on a retention period of 26 months, each new monthly visit, the duration is relaunched in a slippery manner. So the period is automatically extended unable to reach the 26 th month.

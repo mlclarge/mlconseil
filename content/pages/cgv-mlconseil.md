@@ -11,7 +11,7 @@ slug: "cgv-mlconseil"
 
 ### Article 1 – OBJET
 
-![Image](https://www.mauricelargeron.com/wp-content/uploads/2020/12/mlc-logo-227x300.png)Les missions de formation réalisées par MLconseil  ont pour but d’accompagner toute organisation soucieuse de se former à la plateforme google ads , google analytics, référencement naturel et réseaux sociaux.
+![Image](/images/blog/mlc-logo-227x300.png)Les missions de formation réalisées par MLconseil  ont pour but d’accompagner toute organisation soucieuse de se former à la plateforme google ads , google analytics, référencement naturel et réseaux sociaux.
 
 Les missions confiées à MLConseil sont régies par les présentes conditions générales, complétées par les conditions particulières de la convention de formation remis lors de chaque prestation de formation.
 ### Article 2 – APPLICATION DES CGV

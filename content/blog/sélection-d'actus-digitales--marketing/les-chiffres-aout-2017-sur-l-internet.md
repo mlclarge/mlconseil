@@ -5,6 +5,7 @@ author: "MrVeilleurCurateur"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "les-chiffres-aout-2017-sur-l-internet"
+image: "/images/blog/mediametrie.png"
 ---
 
 Médiamétrie publie chaque mois des données publiques, gratuites donc, nécessitant pas d'abonnement, voici les dernières statistiques d'audience en France.

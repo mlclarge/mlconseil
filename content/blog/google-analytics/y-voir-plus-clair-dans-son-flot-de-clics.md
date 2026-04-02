@@ -19,11 +19,11 @@ Tout simplement pour avoir une vision plus précise de qui fait quoi sur le site
 
 Prenons un petit exemple simple, la catégorie audience nous donne des données démographiques et notamment  par tranches d’âges (18-24/25-34/35-44/45-54)  pour 5,71 % des visites,  certes ce n’est pas représentatif, mais c’est un début,  36,9 % sont des hommes et 63,1% des femmes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie.jpg)
+[![Image](/images/blog/demographie-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie.jpg)
 
 Si je considère que mon cœur de cible sont les  femmes de 25-44 ans comment connaître  sa proportion ici ?  Un segment personnalisé va me permettre de le découvrir
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie-segmentation-femmes-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie-segmentation-femmes.jpg) Avec un segment ciblé sur 1 cible précise
+[![Image](/images/blog/demographie-segmentation-femmes-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/demographie-segmentation-femmes.jpg) Avec un segment ciblé sur 1 cible précise
 ### **3 niveaux de segmentation ***
 
 Jusqu’à peu de temps, Google analytics ne permettait que de segmenter sur 2 niveaux de la visite ou session, représentée par un cookie de 30mn. Dorénavant, il est possible de représenter un ensemble de visiteurs au travers leur différente visite. Donc 3 niveaux de mesures pour analyser son trafic.
@@ -91,7 +91,7 @@ Tout d’abord, gardons aussi à l’esprit que cette segmentation est transvers
 
 Il faudra passer par un rapport personnalisé avec un filtre plus  adapter  un éventuel segment sur ce nouveau rapport, comme par exemple la part de trafic venant de facebook.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/detail-page-analytics-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/detail-page-analytics.jpg) Page dans rapport personnalisé + 1 segment
+[![Image](/images/blog/detail-page-analytics-310x177.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/detail-page-analytics.jpg) Page dans rapport personnalisé + 1 segment
 ## **Cas d’usages**
 
 ### **RFM***
@@ -100,12 +100,12 @@ Les anglo saxons appellent récence, (recensy)  fréquence (fréquency), et rev
 
 Déterminer le profil visiteur de ceux qui viennent récemment et  une cadence régulière avec un panier d’achat minimum. Ici les leviers actionnables sont ceux du comportement et des achats dans l’outil.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/frm-analytics-310x256.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/frm-analytics.jpg) Récence-Fréquence-Revenus
+[![Image](/images/blog/frm-analytics-310x256.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/frm-analytics.jpg) Récence-Fréquence-Revenus
 ### **Cohortes**
 
 L’usage ancien de ce terme marketing est revenu d’actualité ! La sélection sur une période donnée (1 mois maxi pour l’instant) permet d’avoir une vue d’ensemble sur un groupe de visiteurs, ici 33 % des utilisateurs proviennent du trafic organique ou direct entre le 1 et 31 octobre  représentant 33 % du trafic d’ensemble.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2013/11/cohortes-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/cohortes.jpg) Création de cohortes (ensembles homogênes)
+[![Image](/images/blog/cohortes-310x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2013/11/cohortes.jpg) Création de cohortes (ensembles homogênes)
 
 Les cas d’usages sont à adapter en fonction des problématiques de chacun et selon son propre modèle économique.
 

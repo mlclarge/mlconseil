@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Réflexions numériques"]
 tags: []
 slug: "corse-ecosysteme-digital-a-decouvrir"
+image: "/images/blog/corse-ville-digitale.jpg"
 ---
 
 C’est presque encore les vacances, pour ceux qui viennent de rentrer, consultez cette [revue de presse](https://www.mauricelargeron.com/revue-de-presse-webmarketing-estivale-2017/) . Pour les autres, replongeons-nous en …[Corse ](https://fr.wikipedia.org/wiki/Corse)! Lors d’un bref séjour en terre napoléonienne cet été, j’ai découvert l’écosystème numérique très Tech. de la Corse lors d'une visite au Campus Plex d’Ajaccio. J’ai été reçu par Jiann Venturini, Project Manager chez GoodBarber, solution de création d’application web, canal **webmarketing** d’acquisition ou business model à part entière selon sa stratégie. Jiann a pu me révéler au cours de l’entretien,  que la Corse n’est pas la dernière en terme d’innovation digitale…
@@ -18,19 +19,19 @@ C’est Michel Valdrighi, Corse,  qui en 2001 après avoir été inspiré de la
  
 ### ***La Création du moteur de recherche Qwant***
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/wp-qwant-copie-502x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/wp-qwant-copie.jpg)
+[![Image](/images/blog/wp-qwant-copie-502x236.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/wp-qwant-copie.jpg)
 
 Eric Léandri est le Co-fondateur du moteur de recherche Français, il parle un peu de son attachement à la langue corse dans cette courte vidéo produite par Corse Net Infos, média pure Player de Corse.
 
 https://www.youtube.com/watch?v=hlBTffqrJNM
 
 Mais son créateur ne s’arrête pas là, il souhaite aussi participer à la dynamique territoriale numérique qui est en train de prendre un nouvel élan depuis le démarrage de la FrenchTech, même si l’île ne fait pas partie officiellement de cette appel à projet. L’inauguration des bureaux de Qwant Music à Ajaccio en cette fin de juillet dernier, sur le port de la ville de l’empereur,  participe à cet ancrage territorial numérique que souhaite Eric Léandri.  QMusic propose donc **un moteur de recherche musical**.
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/qwantmusic-463x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/qwantmusic.jpg)
+[![Image](/images/blog/qwantmusic-463x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/qwantmusic.jpg)
 ## **L’ Ecosytème numérique Corse**
 
 ### *Une Corse du Nord qui s’affirme *
 
-Un arsenal d’outils pour l’île de beauté existe et au sein de l’île,   qui affirme son dynamisme avec les villes d’Ajaccio et  Bastia. Cette dernière organise depuis 2011 l’évènement « Bastia ville digitale » dont le programme devrait sortir sous peu.[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/bastia-ville-digitale-310x188.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/bastia-ville-digitale.png)
+Un arsenal d’outils pour l’île de beauté existe et au sein de l’île,   qui affirme son dynamisme avec les villes d’Ajaccio et  Bastia. Cette dernière organise depuis 2011 l’évènement « Bastia ville digitale » dont le programme devrait sortir sous peu.[![Image](/images/blog/bastia-ville-digitale-310x188.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/bastia-ville-digitale.png)
 4 Dispositifs principaux soulignent cet élan numérique  :
 
  	- **Corsican Tech.** sur Bastia, 2015, un label associatif pour parodier sans doute la FrenchTech du continent. Ce label rassemble pas moins d’une quarantaine de start-ups. Cet écosystème travaille en étroite collaboration avec l’accélérateur Ekito de Toulouse, son président Jean Leccia, souhaite augmenter d’ici 2020, de 30% le nombre de Start-ups !
@@ -52,7 +53,7 @@ Voici une liste non exhaustive des start-ups corses que j’ai pu trouver sur my
 
  	- Tralonca (proche Corte) : lulishop
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/carte-startups-corse-236x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/carte-startups-corse.jpg)
+[![Image](/images/blog/carte-startups-corse-236x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/carte-startups-corse.jpg)
 ## **Campus Plex d’ajaccio**
 
 Revenons à notre introduction sur le Campus Plex, lieu où j’ai pu m’entretenir avec Jiann Venturini. Ce lieu a été créé par Sébastien Simoni et le choix du nom de son enseigne est un clin d’œil au Google Plex du Californien ;) . Il né en 2009 et se veut un espace d’accueil , un lieu de vie pour des jeunes entreprises mais aussi des startups bien établies comme DuaApps qui édite la solution GoodBarber dont nous verrons prochainement les atouts, Wmaker et Mapize.  Il accueille aujourd’hui environ une trentaine de collaborateurs.
@@ -69,6 +70,6 @@ Voici une liste des actuelles sociétés présentes :
 
  	- Stéphanie Conjard (directrice artistique freelance) :  [https://www.behance.net/stephaniec91d](https://www.behance.net/stephaniec91d)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/09/campus-plex-ajaccio-267x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/campus-plex-ajaccio.jpg)
+[![Image](/images/blog/campus-plex-ajaccio-267x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/09/campus-plex-ajaccio.jpg)
 
 **La #Corsican Tech** comme l’aime la nommer les Geeks sera donc encore à l’honneur, dans un prochain article, où je décortiquerai la solution de la plateforme de création d’applications mobiles « GoodBarber » made in corsica ! Leader sur ce créneau de créateur d’apps , avec pas moins de 30000 applis créées à ce jour. Allez, ça và..comme disent les Corses !

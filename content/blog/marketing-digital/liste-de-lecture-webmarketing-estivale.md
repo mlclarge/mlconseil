@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "liste-de-lecture-webmarketing-estivale"
+image: "/images/blog/ete-digital.jpg"
 ---
 
 Petite pause cet été 2018 après 7 ans de blogging heddomadaire non stop .

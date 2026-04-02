@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "conference-sur-l-inbound-marketing"
+image: "/images/blog/meilleures-conferences-inbound-marketing-france-compressor-1.jpeg"
 ---
 
 Mychefcom revient sur la conférence sur l'**inbound marketing** qui s'est tenu il y a quelques semaines lors de l'IMF 2018. Mychefcom était partenaire incontournable de cet évenement **webmarketing**.

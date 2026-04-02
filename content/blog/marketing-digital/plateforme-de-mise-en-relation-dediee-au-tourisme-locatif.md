@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "plateforme-de-mise-en-relation-dediee-au-tourisme-locatif"
+image: "/images/blog/comparateurs-de-prix.jpg"
 ---
 
 Cela bouge dans la **recherche touristique online**, 3 géants du secteur s’affrontent : [TripAdvisor](https://fr.wikipedia.org/wiki/TripAdvisor) (Lafourchette.com), Priceline (Booking.com, Kayak). Expedia (Hotels.com, Trivago). Ce dernier vient d’acquérir Homeaway *(plateforme communautaire de location et de réservation de logements entre particuliers)* un concurrent airbnb pour 3.9 milliards de dollars. Voici un panel des motivations qui boostent le marché de la réservation touristique en ligne : le cout bien sûr, la facilité d'accès, la disponibilité, la rapidité..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/motivation-de-la-réservation-tourisitique-en-ligne-310x225.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/motivation-de-la-réservation-tourisitique-en-ligne.jpg) Motivations de la réservation tourisitique en ligne
+[![Image](/images/blog/motivation-de-la-réservation-tourisitique-en-ligne-310x225.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/motivation-de-la-réservation-tourisitique-en-ligne.jpg) Motivations de la réservation tourisitique en ligne
 
 Google n'est pas en reste sur ce marché, mais ce serait engagé dernièrement d'adopter une position plus impartiale. Consultez cette article pour tout savoir sur l'[histoire des comparateurs de prix](https://www.mauricelargeron.com/le-comparateurs-de-prix-un-levier-incontournable/).
 
@@ -19,7 +20,7 @@ Focus aujourd’hui dans cette catégorie des leviers webmarketing avec **Hometo
 
 [HomeTogo](https://www.hometogo.fr/) est présent dans plus de 200 pays auprès d’une clientèle cible évalué à plus de 3 millions de personnes, un des derniers pays de déploiement : les états unis. J’ai interrogé Mme **Rachel Tabellion**, Responsable France chez HomeToGo.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rachel-tabellion-hometogo.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/rachel-tabellion-hometogo.jpg) Rachel Tabellion d' Hometogo
+[![Image](/images/blog/rachel-tabellion-hometogo.jpg)](/images/blog/rachel-tabellion-hometogo.jpg) Rachel Tabellion d' Hometogo
 ### *Comment est né Hometogo.fr ?*
 
 Nos trois fondateurs ( Patrick Andrä, Wolfgang Heigl et Nils Regge), pensent que Google ne suffit pas pour faire des recherches sur Internet. C’est là qu’interviennent les metamoteurs de recherche. Ils fournissent aux utilisateurs des outils adaptés à des recherches spécifiques, afin de trouver ce qu’ils veulent d’une manière plus simple. De plus, Wolfgang a fondé le** comparateur de vols** Swoodoo, qui a depuis été racheté par KAYAK, tandis que Nils a fondé le portail de location de vacances Casamundo. Leurs discussions à ce sujet ont donc rapidement donné naissance à l’idée d’un moteur de recherche spécialisé dans les locations de vacances.
@@ -32,7 +33,7 @@ Nous sommes un **comparateur de recherche de location de vacances,** à ce titre
 
 Nos principaux atouts technologiques sont nos algorithmes. Ils aident les utilisateurs en sélectionnant dans nos inventaires les meilleures offres en termes de destination, qualité, prix, disponibilité, etc. De plus, nous avons des filtres très précis et utiles. Ils permettent d’affiner encore la recherche par équipements, type de propriété, distance à la mer / aux pistes de ski, etc. Et par dessus tout, nous lançons continuellement de nouvelles fonctionnalités techniques que personne ne propose sur un inventaire aussi important. Par exemple, nous proposons une fonctionnalité qui permet de trouver très rapidement la meilleure offre en se basant sur la distance à la mer ou aux pistes de ski, selon le besoin. Evidemment, tout cela serait inutile si nous n’avions pas notre inventaire. Grâce aux partenaires que nous intégrons régulièrement, nous sommes les seuls à proposer un tel nombre d’offres.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/11/comparateurs-de-prix-locations-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/comparateurs-de-prix-locations.jpg) Interface d'HomeToGo
+[![Image](/images/blog/comparateurs-de-prix-locations-310x202.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/11/comparateurs-de-prix-locations.jpg) Interface d'HomeToGo
 ### ***Quel est votre modèle économique ?***
 
 Le site est évidemment gratuit pour les utilisateurs. Nos revenus proviennent du trafic que nous envoyons à nos partenaires.

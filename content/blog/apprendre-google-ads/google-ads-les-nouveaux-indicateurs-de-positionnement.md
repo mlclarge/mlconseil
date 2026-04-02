@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "google-ads-les-nouveaux-indicateurs-de-positionnement"
+image: "/images/blog/position-moyenne-google-2.jpg"
 ---
 
 **Google Ad**s a annoncé qu'il supprimerait l'indicateur de la **[position moyenne](https://support.google.com/google-ads/answer/9263492?hl=fr),** un indicateur historique pour Google ! La lecture d'un article sur Wordstream m'a inspiré pour en faire un sujet à part entière car il souligne indéniablement la voie déjà bien engagé du tout automatique du pilotage des campagnes.
@@ -13,7 +14,7 @@ slug: "google-ads-les-nouveaux-indicateurs-de-positionnement"
 
 Lorsque vous participez à la mise aux enchères pour les annonces Google, un classement dit "ad rank" des annonces vous est attribué en fonction du niveau de votre enchère et de votre niveau de qualité. Le scoring de ce classement détermine l'emplacement de votre annonce dans les résultats de recherche payé, c'est la position de votre annonce.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/ad-rank-google-ads.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/ad-rank-google-ads.jpg) Calcul du classement de l'annonce sur Google
+[![Image](/images/blog/ad-rank-google-ads.jpg)](/images/blog/ad-rank-google-ads.jpg) Calcul du classement de l'annonce sur Google
 
 La position de l'annonce fait référence à l'ordre mais pas à l'emplacement des résultats de recherche payés. En d'autres termes, si vous atteignez la première position d'annonce (1) dans une enchère donnée, cela ne signifie pas nécessairement que votre annonce s'affiche en haut du SERP de google mais peut être en dessous des résultats de recherche naturelle.
 
@@ -25,7 +26,7 @@ Alors pourquoi Google décide de supprimer un tel indicateur ? Pour faire court,
 
 Depuis novembre dernier, Google Ads a déployé une série de statistiques nouvelles relatives aux performances des enchères et à la visibilité dans les Serps. Il existe 5 indicateurs à ne pas manquer ...
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/position-moyenne-google.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/position-moyenne-google.jpg) Position tout en haut et au dessus du Seo
+[![Image](/images/blog/position-moyenne-google.jpg)](/images/blog/position-moyenne-google.jpg) Position tout en haut et au dessus du Seo
 
 1/** % tout en haut** :
 Le pourcentage d'impressions de haut de page sur le Réseau de Recherche correspond au pourcentage de vos impressions diffusées en tant que toute première annonce au-dessus des résultats de recherche naturels. Cette statistique vous permet de déterminer si les variations des performances s'expliquent par des changements liés à l'emplacement de vos annonces.
@@ -46,7 +47,7 @@ L'emplacement en haut de page se situe n'importe où au-dessus des résultats de
 
 La part d'impressions en haut de page = Meilleures impressions en top / impressions éligibles en top.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/03/Un-exemple-dincateurs-de-positionnement.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/03/Un-exemple-dincateurs-de-positionnement.jpg) Un exemple d'indicateurs de positionnement
+[![Image](/images/blog/Un-exemple-dincateurs-de-positionnement.jpg)](/images/blog/Un-exemple-dincateurs-de-positionnement.jpg) Un exemple d'indicateurs de positionnement
 ## **Qu'en disent les trafic managers du monde du Sea  ?**
 
 Le responsable de produit chez Google Ads, Pallavi Naresh, a justifié sa décision de la manière suivante: "Ces nouveaux paramètres vous permettent de mieux visualiser une visibilité sur la page que la position moyenne"

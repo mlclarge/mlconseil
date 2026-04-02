@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Sélection d'Actus Digitales & Marketing"]
 tags: []
 slug: "visibilite-des-marques-en-ligne"
+image: "/images/blog/100-marques-les-plus-visibles-2017.jpg"
 ---
 
 BrandWatch, outil de veille, publie de temps à autre des contenus générique sur ce qui se passe sur le web. En voici un qui donne une idée des principales marques qui dominent le web...

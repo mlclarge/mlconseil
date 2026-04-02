@@ -15,11 +15,11 @@ La **vidéo**, l’avenir de l’internet ? Ben voyons !  Alors que certains 
 
 Les **services marketing**, selon la dernière étude de Régalix (société californienne fondée en 1998)  auprès d’acteurs important du marché US (ok c'est pas pareil chez nous mais bon) , donne  une tendance sur les projections d’investissements sur les différents **leviers marketing**. L’année 2014 est l’année où la vidéo sera un **principal support de communication**, pas moins de 94% des interrogés prévoient une croissance dans les dépenses vidéos !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/etude-regalix-prevision-investissemen-video-310x261.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/etude-regalix-prevision-investissemen-video.jpg) Investissements 2014 dans différents leviers online
+[![Image](/images/blog/etude-regalix-prevision-investissemen-video-310x261.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/etude-regalix-prevision-investissemen-video.jpg) Investissements 2014 dans différents leviers online
 
 En France, quasiment 1 internaute sur 2 a consulté  en moyenne une **vidéo par jour** d’après Médiamétrie/Netratings et 15 plateformes dominent le marché avec sur le podium Google (largement dominant), Dailymotion, et TF1.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/plateforme-videos-310x294.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/plateforme-videos.jpg) Principales Audiences Vidéos en France
+[![Image](/images/blog/plateforme-videos-310x294.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/plateforme-videos.jpg) Principales Audiences Vidéos en France
 ## Optimisation  vidéo pour les moteurs de recherche (seo :) )
 
 ### **Information pour une Indexation optimale **
@@ -53,12 +53,12 @@ Processus de  mise en enchères sur le réseau display.  Merci pour la productio
 
 Les requêtes « comment + verbe d’action » déclenchent souvent des résultats sur des vidéos. Prenons exemple « **comment déguster du vin **», l’avantage est que le snippet vidéo s’affiche et incite au clic. A ce sujet, les Taux de clics sur des vidéos, même placés en dehors du Top 3 sont bien meilleures que les résultats de liens organiques traditionnels.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-et-seo-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-et-seo.jpg) Des Serp Google sur Vidéos souvent en haut de page..
+[![Image](/images/blog/video-et-seo-310x226.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-et-seo.jpg) Des Serp Google sur Vidéos souvent en haut de page..
 ### **Test provisoire de Google sur les Serp vidéos ?**
 
 Lu dans le très sérieux site « search engine land », il rapporte l’apparition d’un résultat avec abandon de la mignature vidéo. Espérons que ce n’est qu’un test  :) .
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/snippets-videos-test-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/snippets-videos-test.jpg) Test de Snippet sans mignatures !
+[![Image](/images/blog/snippets-videos-test-310x161.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/snippets-videos-test.jpg) Test de Snippet sans mignatures !
 ### **Choix de sa plateforme de diffusion**
 
 Selon le type de budget alloué à la création d’une vidéo, et ses objectifs, 2 alternatives peuvent se présenter.
@@ -79,26 +79,26 @@ http://mauricelargeron.wistia.com/medias/zupnfi2c5j?embedType=popover&popoverHei
 
 Il est possible d’affecter une UA-xxxxxx de tracking dédié à une chaine Youtube dans GA, mais ce n’est pas extraordinaire car, seul les clics sur les pages de la chaîne sont remontés, pas les interactions sur les vidéos. Néanmoins, pour que cela fonctionne, il suffit d’aller dans sa chaine YT, puis « Options avancées » et de copier-coller le numéro UA préalablement créé pour l’occasion.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-ga-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-ga.jpg) Intégration GA dans YT
+[![Image](/images/blog/youtube-et-ga-310x220.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-ga.jpg) Intégration GA dans YT
 
 Le résultat des clics , observés ici en temps réel..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-analytics-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-analytics.jpg) Chaine/Pages YT dans GAnalytics
+[![Image](/images/blog/youtube-et-analytics-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-et-analytics.jpg) Chaine/Pages YT dans GAnalytics
 ### **Analyser ses campagnes de pub  vidéo**
 
 Alors que le not provided apparait dans les résultats de campagne payante de Google analytics (info JvWeb), voici un nouveau reporting des **campagnes vidéos adwords** dans Google analytics.  Pratique pour avoir tout de centralisé dans un seul et même endroit.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-campagne-adwords-310x227.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-campagne-adwords.jpg) Nouveau rapport GA  pour les Vidéos
+[![Image](/images/blog/video-campagne-adwords-310x227.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/video-campagne-adwords.jpg) Nouveau rapport GA  pour les Vidéos
 ### **Obtenir des éléments plus poussés sur l’engagement du « visionneur »**
 
 Ou alors configurer selon sa plateforme, un **écouteur de clics** sur les boutons du **player vidéo.** Ici les résultats d’un tracking , dans Google analytics,  avec l’aide de cette méthode élaborée par [stéphane Hamel](http://www.cardinalpath.com/youtube-video-tracking-with-gtm-and-ua-a-step-by-step-guide/). Pour lire ce rapport, il faut se rendre dans Comportement > Principaux évènements > et cela rend compte :
 
 	- Pause, play, taux de lecture (de 25 à 100 %)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/google-analytics-evenements-video-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/google-analytics-evenements-video.jpg) Reporting par "évènements" GA
+[![Image](/images/blog/google-analytics-evenements-video-310x151.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/google-analytics-evenements-video.jpg) Reporting par "évènements" GA
 ### **Ou alors dans Google adwords..**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/adwords-rapport-video-310x52.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/adwords-rapport-video.jpg) Rapport Natif dans Adwords
+[![Image](/images/blog/adwords-rapport-video-310x52.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/adwords-rapport-video.jpg) Rapport Natif dans Adwords
 ### **Dans le reporting de la plateforme Youtube Analytics**
 
 Cette plateforme sait attirer le chaland avec son « analytics » très riche en données d’audience, avec 2 parties :
@@ -122,7 +122,7 @@ Participation (engagement):
 
 	- Favoris, commentaires, partages et annotations.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-analytics-310x148.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-analytics.jpg) Analytics de Youtube
+[![Image](/images/blog/youtube-analytics-310x148.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/04/youtube-analytics.jpg) Analytics de Youtube
 
 Voir cet article complet qui en décrit les [fonctionnalités](http://fr.shopify.com/blog/10472577-youtube-analytics-10-facons-de-suivre-la-performance)
 ## **Outils pratiques vidéos**

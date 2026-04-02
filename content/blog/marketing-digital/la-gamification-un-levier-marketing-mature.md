@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "la-gamification-un-levier-marketing-mature"
+image: "/images/blog/gamification.jpg"
 ---
 
 Et si on définissait en quelques lignes la [**gamification**](http://www.elgamificator.com/gamification/gamification-definition), véritable phénomène de société en attendant les vacances ? Bien que le jeu remonte à l’aube de l’humanité, la **conquête client** par l’advertgame est très récente, certains voient son réel ancrage depuis 5 ans alors que depuis plus de 40 ans   déjà  des signaux faibles apparaissaient sur ce levier marketing.  La croissance de ce marché selon l’étude Markets&Markets serait à 2 chiffres et le  marché évalué à 5.5 milliards de dollars d’ici 2018. **Breaking News !  **Retrouvez  cet article intéressant sur la [stratégie de Nintendo ](http://siliconvalley.blog.lemonde.fr/2016/07/12/niantic-la-petite-start-up-derriere-le-succes-de-pokemon-go/)qui se cache derrière le succès de **Pokemon GO** .
@@ -15,11 +16,11 @@ Et si on définissait en quelques lignes la [**gamification**](http://www.elgami
 
 Pour tenter de définir le terme de gamification, je ne  prendrai pas Wikipédia  dont la définition française  est incorrecte.  Elle traduit littéralement le terme par ludification, ce qui est une erreur.  La gamification n’est pas un jeu, mais,  comme le précise  Charlotte MICHALSKA, Thierry DELECOLLE, Gachoucha KRETZ, auteurs de la  publication « **La gamification et la relation marque consommateur **», Ce qui différencie  la gamification du jeu c’est qu’elle doit être conçue pour apporter des éléments représentatifs du jeu plutôt que de créer un véritable jeu. La gamification utilise seulement 1 ou plusieurs éléments caractéristiques du jeu mais pas la totalité (qui en comporte 5 : interface, mécanique, expérience, caractéristique ludiques, typologie des processus).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2.jpg) Univers du jeu et place de la Gamification
+[![Image](/images/blog/definition-du-terme-gamification-2-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2.jpg) Univers du jeu et place de la Gamification
 
 La publication cite **Foursquare** qui est une application gamifiée mais pas un jeu au sens strict du terme.   On jouera plutôt  avec Swarm (application créée par Fourquare et associée) pour se géolocaliser et gagner des points, badges etc alors que foursquare se dédie aux bons plans et affaires des commerces de proximité. Autres termes associés à gamification est celui de serious game (jeu sérieux pour acquérir des connaissances), et enfin de jouet (cible jeune public).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2.jpg) Elements de définition du terme Gamification
+[![Image](/images/blog/definition-du-terme-gamification-2-310x237.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/definition-du-terme-gamification-2.jpg) Elements de définition du terme Gamification
 ### ***Histoire de la gamification***
 
 Un des  premiers signes de la gamification est apparu avec l’usage des compagnies aériennes dans leur **stratégie de fidélisation** avec le système des miles. On voit bien ici, que l’opération n’est pas ludique pour le client mais incitatrice uniquement. Au fil des Années, la gamification va emprunter les codes des jeux, et principalement, ceux  des jeux vidéo.   Si l’on regarde de près, c’est les américains qui vont populariser la technique à travers la création de jeux vidéo populaires.
@@ -36,7 +37,7 @@ Quelques dates à retenir …
 
  	- 2013 : La gamification devient réalité pour les organisations (marque nike, université.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/histoire-gamification-262x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/histoire-gamification.jpg) Grandes dates Gamification et Jeux vidéo
+[![Image](/images/blog/histoire-gamification-262x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/histoire-gamification.jpg) Grandes dates Gamification et Jeux vidéo
 ## **Cas d’usages de la Gamification**
 
 ### ***Marketing mais pas que..***
@@ -51,7 +52,7 @@ https://www.youtube.com/watch?v=jUWY15IfVuA
 
 Ou alors celui de la marque Volkswagen qui propose un site dédié afin de configurer, à partir d’un choix d’images, la voiture qu’il vous faut.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/07/site-web-et-gamification-277x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/site-web-et-gamification.jpg) Site web et gamification
+[![Image](/images/blog/site-web-et-gamification-277x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/07/site-web-et-gamification.jpg) Site web et gamification
 
 Sinon, d’autres champs peuvent aussi être explorés, notamment dans le domaine public. Comment inciter les usagers à utiliser les escaliers dans les transports en commun ?  Un escalier sous forme de piano !
 

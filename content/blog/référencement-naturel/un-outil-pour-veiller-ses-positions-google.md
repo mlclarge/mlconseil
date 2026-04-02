@@ -25,57 +25,57 @@ Voilà pour rappel les principaux résultats à suivre dans google, avec un taux
 
  	- **Knowledge graph** : 59%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kowledge-graph-502x281.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kowledge-graph.jpg)
+[![Image](/images/blog/kowledge-graph-502x281.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kowledge-graph.jpg)
 
  	- **Cartes enrichies** : 13 %
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/rich-snippets-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/rich-snippets.jpg)
+[![Image](/images/blog/rich-snippets-304x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/rich-snippets.jpg)
 
  	- **Pack local** : 25%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kg-local-243x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kg-local.jpg)
+[![Image](/images/blog/kg-local-243x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/kg-local.jpg)
 
  	- **Google Actualités** : 15%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/a-la-une-news-326x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/a-la-une-news.jpg)
+[![Image](/images/blog/a-la-une-news-326x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/a-la-une-news.jpg)
 
  	- **Google Images** : 12 %
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/images-457x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/images.jpg)
+[![Image](/images/blog/images-457x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/images.jpg)
 
  	- **Tweets Box** : 7%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/twitter-box-serp-google-417x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/twitter-box-serp-google.jpg)
+[![Image](/images/blog/twitter-box-serp-google-417x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/twitter-box-serp-google.jpg)
 
  	- **Autres questions posées **: 30% et** featured Snippets**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/reponse-instantanée-et-questions-posées-295x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/reponse-instantanée-et-questions-posées.jpg)
+[![Image](/images/blog/reponse-instantanée-et-questions-posées-295x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/reponse-instantanée-et-questions-posées.jpg)
 
  	- **Vidéos :** 10%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/video-392x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/video.jpg)
+[![Image](/images/blog/video-392x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/video.jpg)
 
  	- **Liens de sites** : 20%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sitelinks-serp-336x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sitelinks-serp.jpg)
+[![Image](/images/blog/sitelinks-serp-336x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/sitelinks-serp.jpg)
 
  	- **Avis consommateurs **: 39%
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/avis-serp-google-385x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/avis-serp-google.jpg)
+[![Image](/images/blog/avis-serp-google-385x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/avis-serp-google.jpg)
 
  	- **Annonces Top et Bas de page** : 57 % et 25 %
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/top-and-bottom-annonces-adwords-200x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/top-and-bottom-annonces-adwords.jpg)
+[![Image](/images/blog/top-and-bottom-annonces-adwords-200x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/top-and-bottom-annonces-adwords.jpg)
 
  	- **Google shopping :** 15 %
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/shopping-google-494x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/shopping-google.jpg)
+[![Image](/images/blog/shopping-google-494x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/shopping-google.jpg)
 ## **SeoPowersuite facilite le monitoring des Serp**
 
 Rank Tracker de SeoPowersuite, est pratique pour les petits projets seo, depuis des années, il s’enrichit de fonctionnalités sans cesse renouvellées avec cette possibilité d’avoir la nature de son spot dans google donc évoqués plus haut, mais aussi d’avoir celle de la pole position ! Pratique non ? C’est sans doute pas le seul outil à le faire mais certainement le moins cher du marché.
 
 Lorsque je fais mes relevés, je suis surpris que dans le domaine du **webmarketing**, pas moins d’une dizaine de Serp différentes ressortent ! Images, vidéos, Knowledge graph, avis, cartes enrichies, actus, publicités, réponses directes…
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/RELEVES-DE-POSITION-SERP-GOOGLE-469x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/RELEVES-DE-POSITION-SERP-GOOGLE.jpg) RELEVES DE POSITION SERP GOOGLE
+[![Image](/images/blog/RELEVES-DE-POSITION-SERP-GOOGLE-469x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/RELEVES-DE-POSITION-SERP-GOOGLE.jpg) RELEVES DE POSITION SERP GOOGLE
 
 A vous de jouer donc dans vos projets de monitoring seo, de control de positiions, de ranking dans google.

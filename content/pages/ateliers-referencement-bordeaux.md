@@ -16,7 +16,7 @@ Ces différents modules de webmarketing et webmastering se présentent sous form
 Un diagnostic des attentes est effectué afin d'établir un programme de formation adapté. Selon votre statut, entreprise (formation continue) , individuel salarié (CPF), ou particulier,  des solutions de financement sont toujours possibles. MLConseil est organisme de formation, vérifié par l'Etat, donc toutes les formations sont éligibles à des financements provenant  de votre OPCA. Pour les demandeurs d'emploi, la nouvelle législation dans ce secteur  voit, avec  le **compte personnel de formation**, les droits de l'ancien DIF , transférés sur un compte personnalisé.  Les heures acquises permettent de suivre des formations  éligibles issues du  RNCP (répertoire national des certifications professionnelles) , ou alors dont l'objet est une certification labellisée , ou  enfin dont l'objectif est le perfectionnement du socle de base de connaissances (anglais, mathématiques) . En outre, le pole emploi se réserve néanmoins le droit de [valider des formations  courtes comme celles sur le SEA (search engine marketing)](https://www.mauricelargeron.com/formation-google-ads/) et de les abonder si elles  sont en adéquation avec le projet professionnel du demandeur d'emploi. Demandez à MLConseil un devis et programme de formation qui vous aidera dans la réalisation de votre projet.
 ## **Exemple de formations Webmarketing**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/10/referencement.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/referencement.jpg)
+[![Image](/images/blog/referencement.jpg)](/images/blog/referencement.jpg)
 ### Création site & Référencement
 
 - Audit de site *(positionnement local & national par mot clé, points positifs& négatifs sur architecture du site,le  rédactionnel, et enfin les freins techniques : hébergement, domaine etc..)*
@@ -27,7 +27,7 @@ Un diagnostic des attentes est effectué afin d'établir un programme de formati
 
 - Atelier initiation aux outils Google *(outils webmaster, analytics, adresses, adwords)*
 
-*[![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/10/adwords-logo-2.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/adwords-logo-2.png)*
+*[![Image](/images/blog/adwords-logo-2.png)](/images/blog/adwords-logo-2.png)*
 ### **Publicité en ligne
 **
 
@@ -37,7 +37,7 @@ Un diagnostic des attentes est effectué afin d'établir un programme de formati
 
 - Optimiser sa campagne publicitaire .
 
-## [![Image](https://www.mauricelargeron.com/wp-content/uploads/2011/10/analytics-logo-1.png)](https://www.mauricelargeron.com/wp-content/uploads/2011/10/analytics-logo-1.png)
+## [![Image](/images/blog/analytics-logo-1.png)](/images/blog/analytics-logo-1.png)
 
 ### Audit de site internet
 

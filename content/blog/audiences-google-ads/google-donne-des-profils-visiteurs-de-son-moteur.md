@@ -5,6 +5,7 @@ author: "admin"
 categories: ["audiences google ads"]
 tags: []
 slug: "google-donne-des-profils-visiteurs-de-son-moteur"
+image: "/images/blog/audiences-similaires-adwords.jpg"
 ---
 
 **Google Adwords** retire des fonctionnalités d’un côté comme par exemple depuis quelques années la possibilité de cibler à sa guise les impressions des mots clés. Je vous invite,  à ce sujet d’ailleurs,   à lire le post de Smaîne  [ici](https://www.fr.advertisercommunity.com/t5/Nouveautes/Mars-2017-Nouveautes-Google-Adwords/bc-p/81920#M20) sur le dernier épisode de ce long serpent de mer ou au final, Google souhaite maitriser le plus possible **le robinet à impressions des annonceurs.** Mais, pour compenser, et suite à la pression forte des campagnes issus des leviers sociaux, Google cède de la précieuse data à qui veut bien l’utiliser. Cette fois le cadeau concerne le **search** (merci à [Wordstream](https://www.wordstream.com/) ce post)
@@ -13,13 +14,13 @@ slug: "google-donne-des-profils-visiteurs-de-son-moteur"
 
 Après les profils similaires associés au Google display network pour les annonceurs qui souhaitent recibler les visiteurs de site, Google débarque avec cette fois ci une nouvelle possibilité de ciblage, après celle du « customer match », des  rsla, et démographique, la famille s’agrandit avec celle de l’[audience similaire](https://www.mauricelargeron.com/disparition-des-audiences-similaires-google-ads/). Cette fonctionnalité de ciblage ajoute au potentiel des visiteurs déjà venus sur le site web à de nouvelles cibles  qui elles ne sont jamais venues.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/04/potentiel-audience-pour-les-campagnes-avec-audiences-similaires-488x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/potentiel-audience-pour-les-campagnes-avec-audiences-similaires.png) potentiel audience pour les campagnes avec audiences similaires
+[![Image](/images/blog/potentiel-audience-pour-les-campagnes-avec-audiences-similaires-488x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/potentiel-audience-pour-les-campagnes-avec-audiences-similaires.png) potentiel audience pour les campagnes avec audiences similaires
 
 Les premiers retours selon le site Word Stream, basés sur 23 campagnes d’annonceurs en mars 2017,  annoncent des chiffres alléchants avec des taux de conversions nettement supérieurs à celle des audiences directes pourraient – on dire, les Taux de clics sont aussi sur cette même tendance. Des taux d’audience 7 fois supérieurs aux audiences directes, des Ctr a + 65%. On constate également que la qualification de ce genre d’audience est supérieure dans la qualité par rapport au profil du premier visiteur lambda.
 
 En terme de stratégie d’enchères, l’agence américaine conseille de tester modestement « enchères seulement » de laisser s’agrandir l’audience  puis ensuite  selon les résultats d’y consacrer un budget dédié dans une campagne calibrée sur mesure.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ctr-pour-rdsa-vs-dsa-480x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ctr-pour-rdsa-vs-dsa.png) Ctr pour rdsa-vs-dsa
+[![Image](/images/blog/ctr-pour-rdsa-vs-dsa-480x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/04/ctr-pour-rdsa-vs-dsa.png) Ctr pour rdsa-vs-dsa
 
 Autre fait notoire, l’application aux Campagne dynamiques sur le réseau de recherche, de liste d’audience similaire, ce type de campagne sans mots  clés ouvrent un nouveau potentiel dont les résultats souligne Word Stream sont impressionnants.
 

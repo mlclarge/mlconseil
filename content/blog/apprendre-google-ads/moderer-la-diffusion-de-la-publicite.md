@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Apprendre Google Ads"]
 tags: []
 slug: "moderer-la-diffusion-de-la-publicite"
+image: "/images/blog/brave-navigateur.jpg"
 ---
 
 Les [navigateurs internet](https://fr.wikipedia.org/wiki/Navigateur_web) constituent un objet bien utile pour deviner ou construire un  profil utilisateur  et **qualifier une audience**.  On peut se demander d’ailleurs comment  Google utilise Chrome pour aspirer de la data utilisateur :s . La récente actualité sur les ad-blockers est directement liée au sujet de cette semaine où  une perte  de plus de  40 milliards de dollars est évaluée côté éditeurs de sites web. Alors comment trouver un juste équilibre et garantir **un web gratuit respectueux des internautes** ? «**  Brave** »  apporte sans doute un début de réponse sur ce marché déjà bien mature.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/part-de-marche-des-navigateurs-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/part-de-marche-des-navigateurs.jpg) Part de marche des navigateurs Pc et Mobile
+[![Image](/images/blog/part-de-marche-des-navigateurs-310x178.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/part-de-marche-des-navigateurs.jpg) Part de marche des navigateurs Pc et Mobile
 ## **Brave, un navigateur responsable ?**
 
 J’ai pu déjà citer le nom de * [Brendan Eich](https://www.mauricelargeron.com/js-et-les-moteurs-de-recherche/)*, créateur du JS et ex CEO de Firefox Corporation, et le revoilà à niveau dans ce projet de Navigateur durable, fondée sur le noyau open source **Chromium** crée par Google. Son origine tient sans doute sur le fait que les éditeurs, médias, sont allés trop loin dans l’intrusivité  de la publicité. Pop-ip envahissantes, vidéos imposées, impossibilité pour l’internaute que de fermer sa page ,  et d’installer  un bloqueur de pub : un** ad-block**, ou de jeter son pc par la fenêtre.
@@ -24,7 +25,7 @@ https://www.youtube.com/watch?v=kHWf6hRV-GM
 
  	- **Sécurité **: la technologie « **https everywhere **» sera embarquée par défaut sur le navigateur, elle garantit une sécurité renforcée sur des sites vulnérables dont l’https n’est pas optimisé.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/navigation-plus-sure-310x62.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/navigation-plus-sure.jpg) Techno. "Https EveryWhere"
+[![Image](/images/blog/navigation-plus-sure-310x62.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/navigation-plus-sure.jpg) Techno. "Https EveryWhere"
 
 Selon l’équipe de conception de Brave, le modèle économique reposera sur au minimum 7 millions d’utilisateurs. Au même titre d’edge de microsoft, firefox qui imposent de plus en plus de sécurité côté utilisateur, Brave place t-il la barre plus haute ?
 
@@ -32,11 +33,11 @@ Selon l’équipe de conception de Brave, le modèle économique reposera sur au
 
 En guise de test, non scientifique :)  , j’ai téléchargé la version developer de ce nouveau navigateur qui n’offre pas de configuration personnalisée pour l’instant. J’ai souhaité me rendre compte de sa rapidité et observer le trafic envoyé entre ma machine et le serveur. J’ai fait donc la comparaison sur une requête « [formation webmarketing Bordeaux](https://www.mauricelargeron.com/ateliers-referencement-bordeaux/) » sur  Google avec Chrome (en  navigation privée, vidée des addons, cache etc..)  et sur Brave.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-brave-chromium-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-brave-chromium.jpg) Web trafic depuis Brave chromium
+[![Image](/images/blog/web-traffic-from-brave-chromium-310x166.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-brave-chromium.jpg) Web trafic depuis Brave chromium
 
 J’ai pu constater une vitesse de chargement sensiblement équivalente entre les 2 browsers. Pour ce qui est de la data passée par les navigateurs, la comparaison est plus nuancée.  Fiddler, un outil de développement JS qui intercepte les flux entre client et serveur démontrerai que **G. Chrome serait plus gourmand d’informations**. Sans rentrer techniquement dans les appels de données, 20 lignes sont enregistrées par G. Chrome et seulement 8 pour Brave avec aucune donnée en cache à priori stockée localement.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-google-chrome-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-google-chrome.jpg) Data Google Chrome
+[![Image](/images/blog/web-traffic-from-google-chrome-310x215.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/01/web-traffic-from-google-chrome.jpg) Data Google Chrome
 
 Mais au fait, **que se passe–t-il lors d’une connexion sur l’internet ?** Où autrement dit, quelle est la nature du dialogue entre le Browser de l’ ordinateur, pc et le serveur ?
 

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "30-criteres-a-ne-pas-oublier-pour-une-strategie-dacquisition"
+image: "/images/blog/persuasion-acquisition-fidé.jpg"
 ---
 
 Je prends un peu de hauteur pour revenir sur des éléments classiques du **marketing** qui jalonnent tout le cycle de vie du parcours client depuis son état de prospect jusqu’à son statut d’ex-client. Alors on va énumérer, les grands principes de la psychologie humaine à des fins de **persuasion**, éléments préalables à connaître afin de mettre en place une **stratégie d’acquisition** (campagne, plan, CRM), dont le but essentiel, dès le départ sera d’engager une relation pérenne basée sur la valeur globale d’un client (**fidélisation, cycle de vie**). Vaste programme.
@@ -15,7 +16,7 @@ Je prends un peu de hauteur pour revenir sur des éléments classiques du **mark
 
 Nous sommes des êtres à la fois **rationnels et irrationnels**. Nos décisions sont prises sur la base de choses tangibles mais nous sommes prêts à passer à l’acte d’achat sur des détails qui touche notre inconscient. Nous sommes guidés par nos émotions et pourtant nous sommes animés par la raison tout à la fois. Ce qui fait ne nous des êtres complexes.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/10/ERA-502x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/10/ERA.jpg)
+[![Image](/images/blog/ERA-502x268.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/10/ERA.jpg)
 Emotion Raison Action
 ### ***Des Biais Cognitifs à combler***
 
@@ -60,7 +61,7 @@ Voici 13 biais sur la psychologie humaine résumés, à retenir à chaque fois q
 
  
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/10/codex-biais-cognitifs.png)](https://www.mauricelargeron.com/wp-content/uploads/2018/10/codex-biais-cognitifs.png) Codex Biais Cognitifs En savoir plus ici : https://inertian.wixsite.com/codexbiais
+[![Image](/images/blog/codex-biais-cognitifs.png)](/images/blog/codex-biais-cognitifs.png) Codex Biais Cognitifs En savoir plus ici : https://inertian.wixsite.com/codexbiais
 ### 
 
 ### 
@@ -112,7 +113,7 @@ Voici 13 biais sur la psychologie humaine résumés, à retenir à chaque fois q
 Je me base sur cette partie sur des principes que l’on retrouve partout dans la littérature marketing. Sont basés sur du bon sens, mais autant fait-il les synthétiser et c’est ce que a très bien fait Robert Cialdini. Notre cerveau tente de rationaliser sa décision d’achat par son esprit logique. J'ai acheté  cet abonnement annuel presse car les 3 mois gratuit représentent une économie de 3 mois d'achat sans  abonnement. En ai-je réellement besoin cependant ? (Après réflexion je me rends compte que sur 12 mois je n'achète que sporadiquement à des moments qui eux sont réguliers  (rentrée, début d’année)) pourtant cette offre m'a influencé !
 En dehors de l’élément prix, dans les **écoles  de vente**,  on dit toujours  qu'il faut articuler son argumentaire  selon les caractéristiques du produit, en raconter du coup les bénéfices,  afin d'en dégager des atouts uniques.  Je propose un modèle de basket personnalisable (couleurs, lacets), la paire devient unique, vous vous démarquez des modèles standards du marché. Vous êtes unique comme le dit le slogan de la célèbre banque.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/10/influence-et-persuasion-principes-Robert-Cialdini.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/10/influence-et-persuasion-principes-Robert-Cialdini.jpg) Influence et Persuasion principes Robert Cialdini
+[![Image](/images/blog/influence-et-persuasion-principes-Robert-Cialdini.jpg)](/images/blog/influence-et-persuasion-principes-Robert-Cialdini.jpg) Influence et Persuasion principes Robert Cialdini
 
 Voici synthétisé les **6  principes de la persuasion selon Robert Cialdini chercheur en sciences sociales**
 
@@ -134,7 +135,7 @@ Une fois la psychologie prospect!/client acquise, la marque imprégnée des desi
 
 Les méthodes de vente résumées dans deux sous-ensembles, **Outbound** (mass médias :tv, print, salons, forces de ventes), **Inbound** (marketing de contenu).  Les 2 sont complémentaires mais peuvent aussi être autonomes. S'ils agissent concomitamment, l'articulation du Marketing et des Ventes doit être pensé selon des processus partagés par les 2 services qui partent de la méthode vieille école à celle du content marketing.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-ventes-marketing-400x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-ventes-marketing.jpg) Tunnel et leviers de ventes marketing
+[![Image](/images/blog/tunnel-de-ventes-marketing-400x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-ventes-marketing.jpg) Tunnel et leviers de ventes marketing
 
 Le tunnel ci-dessus est intéressant par la présence des 3 modes classiques d'acquisition.
 
@@ -142,7 +143,7 @@ Chaque strate d'un entonnoir sera munie d’un dispositif mûrement réfléchi.
 
 Autre type de tunnel que l'on retrouve plus souvent dans le monde des purs Player, qui rime avec le terme de growthacking, c'est l AARRR.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/aarrr_tunnel_growth-hacking-480x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/aarrr_tunnel_growth-hacking.jpg) Tunnel AARRR Growth Hacking
+[![Image](/images/blog/aarrr_tunnel_growth-hacking-480x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/aarrr_tunnel_growth-hacking.jpg) Tunnel AARRR Growth Hacking
 
  	- **Acquisition** : traffic (Découverte et considération de la marque)
 
@@ -164,7 +165,7 @@ Autrement dit aussi c'est l'imbrication du Paid Own Earn Média (Poem).
 
  	- **Earn** : Retombées des 2 précédents,  ambassadeurs, relais d'opinion font parler la marque.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-vente-online-to-offline-471x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-vente-online-to-offline.jpg) Tunnel de vente online to offline
+[![Image](/images/blog/tunnel-de-vente-online-to-offline-471x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/tunnel-de-vente-online-to-offline.jpg) Tunnel de vente online to offline
 
 Mais ces modèles sont incomplets. Il manque celle consacrée à l'attention que l'on peut apporter au cycle de vie du client. Difficile à placer car elle est transversale aux tunnels de. Vente. Tentons de détailler cette partie.
 ## Comment pérenniser la relation client ?  
@@ -173,7 +174,7 @@ Mais ces modèles sont incomplets. Il manque celle consacrée à l'attention q
 
 Eviter d’avoir un **taux de Churn** élevé, les produits télécoms sont un bon exemple pour cela, où le marché basé sur un oligopole amène des stratégies stupides de meilleurs offres » selon des calendriers bien rodés. Perdus d’un coté 1 jours, mais retrouvé 1 autre jour grâce à des prix cassés.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/cycle-de-vie-client-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/cycle-de-vie-client.jpg) cycle de vie client
+[![Image](/images/blog/cycle-de-vie-client-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/cycle-de-vie-client.jpg) cycle de vie client
 ***Eléments stratégiques***
 
  	- Considérer la** relation client** non comme une obligation mais comme un réel atout à forte valeur ajoutée.

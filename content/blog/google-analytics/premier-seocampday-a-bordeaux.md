@@ -9,11 +9,11 @@ slug: "premier-seocampday-a-bordeaux"
 
 Cette semaine sera consacrée à l’**histoire de l’analyse web,** sujet que j’ai pu présenter lors du **1er seocampday de Bordeaux**. Cet évènement s’est tenu dans les locaux de l’inseec *(merci à Laurent Bergeruc directeur de cette business school*)  qui nous a aimablement accueillis pour cette journée .  Le programme fut riche et varié avec pas moins de 8 conférences !  Qui a dit qui ne se passait rien sur le [webmarketing à Bordeaux](https://www.mauricelargeron.com/ateliers-referencement-bordeaux/) ? Je reviendrai aujourd’hui qu’égoïstement que sur mon sujet vu que je ne possède pas encore à l’heure de ce billet les différentes présentations des autres orateurs et n'ai pris aucune notes !  Je remercie encore Hasni (président de SeoCamp), Nathalie Couture (organisatrice de l’antenne locale sur Bordeaux) pour leur investissement lors de cette journée ainsi qu' Eric Garletti pour son coup de pouce avec la direction de l’Inseec  qui a accepté d'accueillir  l’association Seocamp pour cette journée . Les bordelais saluent aussi la forte présence du pays basque (Mathieu , Neil)  et de Toulouse-Albi (j'en oublie , c'est sûr !) . Ouf !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/inseec-bordeaux-197x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/inseec-bordeaux.jpg)
+[![Image](/images/blog/inseec-bordeaux-197x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/inseec-bordeaux.jpg)
 
 ## **Premier Seocamp Day Bordeaux**
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2014/10/orateurs-seo-camp-bordeaux-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/orateurs-seo-camp-bordeaux.jpg)
+[![Image](/images/blog/orateurs-seo-camp-bordeaux-310x102.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2014/10/orateurs-seo-camp-bordeaux.jpg)
 
 ### les orateurs (de la gauche vers la droite , ordre chronologique d'intervention) et thèmes des conférences :
 

@@ -5,6 +5,7 @@ author: "admin"
 categories: ["audiences google ads"]
 tags: []
 slug: "guide-des-audiences-google-ads"
+image: "/images/blog/guide-audiences-google-ads.jpg"
 ---
 
 Poussé par la concurrence des réseaux sociaux, et notamment de Facebook, Google s’est mis depuis 2013 à  proposer des [audiences](https://support.google.com/google-ads/answer/2497941?hl=fr) pour améliorer le ciblage des annonceurs et au sein des agences partner.  A l’époque, pas si lointaine, un nouveau challenge s’invite dans le quotidien des marketeurs. Ne plus réserver uniquement des inventaires sur des emplacements thématiques, mais toucher des audiences, c’est-à-dire des centres d’intérêts, des désirs tout au long du processus d’achat. Cela devient possible par une technologie publicitaire plus agile que jamais, poussée par un réseau internet plus puissant. Amusons nous à faire un inventaire des audiences de Google ads pour bien démarrer l’année. Historique, collecte, catégories, stratégies, et performances seront les grandes parties de ce panorama autour de cette caractéristique incontournable aujourd'hui que compose une [**audience**](https://www.mauricelargeron.com/disparition-des-audiences-similaires-google-ads/).
@@ -19,7 +20,7 @@ Poussé par la concurrence des réseaux sociaux, et notamment de Facebook, Googl
 
  	- 2014 va offrir un élément de plus dans la personnalisation de sa cible, avec **les audiences d’affinité personnalisées**, toujours sur le réseau display. Elle permet d’indiquer par sa propre connaissance du marché côté annonceur, les sites, les intérêts susceptibles de qualifier une audience.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/timeline-audiences-502x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/timeline-audiences.jpg) Timeline Europe sur création audiences
+[![Image](/images/blog/timeline-audiences-502x203.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/timeline-audiences.jpg) Timeline Europe sur création audiences
 
  	- 2015 est une année prospère en terme d’audience chez Google. Elle marque l’arrivée  d’abord d’une nouvelle ère d’audiences, celles qui touchent son moteur de recherche. La possibilité de cibler, en ayant les prérequis comme  au mini une liste de 1000 cookies de 1ere partie. Ce sont les **RSLA**, le e-marketing sur son moteur de recherche, pouvoir cibler, ou pas (exclusion) des visiteurs, déjà venus sur le site, suite à une nouvelle recherche sur le moteur Google.
 
@@ -86,7 +87,7 @@ Sur le site youronlinechoices.com depuis un compte Google sur [https://adssettin
 
  	- **Traitement** sur ses data center pour faire du reporting Google analytics et du  profilage à partir des cookies et profils authentifiés sur ses propres plateformes évoqués plus haut.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audience-affinités-google-405x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audience-affinités-google.jpg) Creation profil audience affinités google
+[![Image](/images/blog/creation-audience-affinités-google-405x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audience-affinités-google.jpg) Creation profil audience affinités google
 
  	- **Apprentissage personnalisé** **du visiteur** selon les objectifs de conversions sur Google analytics ou Google Ads, DoubleClick via ses algos de machine learning. Exemple : les visiteurs situés en France, muni d’un smartphone Android ou autre, rentrés 1 1ere fois par le canal de l’email, puis revenu par le search après avoir vu un site qui parle de, constitue 1 profil à forte valeur ajoutée à mettre dans une audience (appelés dans GA : objectifs intelligents) à recibler dans une campagne d’acquisition. Cu dessous, depuis myactivity.google.com lié à mon compte Google,  j'ai accès à l'ensemble des contenus consultés, ici, pour "aujourd'hui" :
 
@@ -100,14 +101,14 @@ Aujourd’hui le script global gtag.js permet aussi à la plateforme Google ads 
 
 Selon les métiers ecommerce, acquisition de leads, btob  la marque peut définir ses propres audiences qui ressentent comme judicieuses et que tout bon machine learning de Google ne peut déceler.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audiences-google-analytics-502x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audiences-google-analytics.jpg) Creation audiences google analytics
+[![Image](/images/blog/creation-audiences-google-analytics-502x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/creation-audiences-google-analytics.jpg) Creation audiences google analytics
 ## **4 grandes catégories d’audiences chez Google**
 
  	- **Interactions avec utilisateurs de l’entreprise** : visiteurs du site web, les listes combinées, les audiences similaires, les utilisateurs de YouTube direct et « similaires à », les utilisateurs d’applications..
 
  	- **Les Intentionnistes sur le marché** : audiences sur le marché, les intentions personnalisées, les évènements de la vie. Ce que les profils prévoient *«  d’acheter dans une avenir proche »*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/typologie-utilisateurs-474x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/typologie-utilisateurs.jpg) 4 Catégories Audiences
+[![Image](/images/blog/typologie-utilisateurs-474x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/typologie-utilisateurs.jpg) 4 Catégories Audiences
 
  	- **Les centres d’intérêts et habitudes des utilisateurs** : *« les passionnés de »*
 
@@ -119,16 +120,16 @@ Selon les métiers ecommerce, acquisition de leads, btob  la marque peut défin
 
 Le message à véhiculer est l’un des premiers ajustements à orchestrer. Il faut ajuster la communication selon le niveau de maturité des prospects. Ne pas répéter la même chose plusieurs fois, à son audience.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/message-selon-niveau-du-tunnel-426x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/message-selon-niveau-du-tunnel.jpg) Message selon niveau du tunnel
+[![Image](/images/blog/message-selon-niveau-du-tunnel-426x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/message-selon-niveau-du-tunnel.jpg) Message selon niveau du tunnel
 ### ***Miser sur des CPA en corrélation avec la cible***
 
 Toutes les listes n’ont pas la même valeur. Celles les plus proches de l’entreprise, comme les clients existants à réactiver (Customer match), ceux qui sont déjà venus sur le site en phase d’achat (rsla), les segments d’audiences personnalisés des  propres visiteurs de la marque sont à privilégier (abandon de panier, visiteur déjà convertis).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-typologie-502x83.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-typologie.jpg) Qualité des audiences
+[![Image](/images/blog/audiences-typologie-502x83.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-typologie.jpg) Qualité des audiences
 
 Ensuite celle fournit par Google analytics (smart goals), et les listes automatiques de Google ads, audiences sur le marché sur le réseau de recherche, peuvent enrichir les volumes de conversions, mais à des couts par acquisition souvent plus élevés.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-dans-le-tunnel-2-502x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-dans-le-tunnel-2.jpg) Stratégies d'enchères selon audiences dans le tunnel
+[![Image](/images/blog/audiences-dans-le-tunnel-2-502x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/audiences-dans-le-tunnel-2.jpg) Stratégies d'enchères selon audiences dans le tunnel
 
 Enfin, les audiences similaires et celles construites sur l’intuition (intentions personnalisées) pourront apporter une cerise sur le gâteau mais aussi à des coûts supplémentaires.
 
@@ -136,7 +137,7 @@ Enfin, les audiences similaires et celles construites sur l’intuition (intenti
 
 J’aborderai dans un prochain article la performance selon les catégories d’audiences et la stratégie d’acquisition mise en œuvre (budget et enchères). Mais en général, toutes choses étant égales par ailleurs, les listes qui fonctionnent le mieux sont par ordre d’importance selon le volume et le cpa  :
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2019/01/the-impact-of-in-market-audiences-for-search-ads-495x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/the-impact-of-in-market-audiences-for-search-ads.png) Selon Wordstream impact des audiences sur le marché côté moteur google
+[![Image](/images/blog/the-impact-of-in-market-audiences-for-search-ads-495x300.png)](https://www.mauricelargeron.com/wp-content/uploads/2019/01/the-impact-of-in-market-audiences-for-search-ads.png) Selon Wordstream impact des audiences sur le marché côté moteur google
 
  	- Celles des visiteurs du site web et listes importées
 

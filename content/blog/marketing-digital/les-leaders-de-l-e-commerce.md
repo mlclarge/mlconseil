@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "les-leaders-de-l-e-commerce"
+image: "/images/blog/ecommerce2017.jpg"
 ---
 
 Les chiffres  de l’e-commerce sont sous les feux de la rampe ces temps-ci. [Amazon](https://www.amazon.fr/) vient de déclarer un chiffre d’affaires de 135 milliards de dollars, une paille -> environ 35 fois le CA de cdiscount, soit aussi légèrement moins que son concurrent chinois Alibaba (environ 150 milliards de $).  Jumia numéro 1 africain, vient de refondre sa plateforme  design "front", mais reste loin derrière dans l'échiquier financier mondial après un sévère chute en 2016 ( 75 millions de dol. ) . Aussi, profitons de ces informations pour faire un point cette semaine sur ces **acteurs du commerce en ligne dans le monde et en France** en examinant les derniers classements. Rappelons que la part de chiffre d’affaires dégagée en ligne pour le commerce de détail global reste toujours sous la barre des 10 % !
@@ -47,7 +48,7 @@ Le panier moyen quant à lui baisse pour atteindre 70 € soit une baisse de 7 %
 
 La progression des transactions effectuées sur les Smartphones est fulgurante, plus de 30 % par rapport à 2015 et la tendance devraient continuer en 2017 selon Médiamétrie.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/02/top-ecommerce-desktop-2016.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/top-ecommerce-desktop-2016.jpg) Top sites ecommerce
+[![Image](/images/blog/top-ecommerce-desktop-2016.jpg)](/images/blog/top-ecommerce-desktop-2016.jpg) Top sites ecommerce
 ## **Le site numéro 1  préféré des français est un site ecommerce..américain !**
 
 **Baromètre NetObserver** de la préférence des sites web pour les français par Harris intéractive
@@ -74,7 +75,7 @@ La progression des transactions effectuées sur les Smartphones est fulgurante, 
 
 Sinon, si on fait un focus sur les sites dans la catégorie  "**Vente de produits multimédia et culturels**"  avec toujours sur le podium Amazon sur la première marche.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/02/10-sites-preferes-des-francais.png)](https://www.mauricelargeron.com/wp-content/uploads/2017/02/10-sites-preferes-des-francais.png) 10 sites preferes des francais
+[![Image](/images/blog/10-sites-preferes-des-francais.png)](/images/blog/10-sites-preferes-des-francais.png) 10 sites preferes des francais
 ## **Qualité des contenus sur les sites ecommerce, facteur déterminant de la conversion**
 
 Enfin pour clore cet article, relevons les enseignements de l'**étude américaine "Shortfarm product information report"** sur 1500 consommateurs interrogés sur leur ressenti face à l'offre de contenus informatifs sur les sites ecommerce, 6 points à retenir :
@@ -95,4 +96,4 @@ Enfin pour clore cet article, relevons les enseignements de l'**étude américai
 
 Etude Fast 50 Deloitte : [https://www2.deloitte.com/fr/fr/footerlinks/technology-fast-50.html](https://www2.deloitte.com/fr/fr/footerlinks/technology-fast-50.html)
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/10/amazon-marketing-digital.jpg)](https://www.amazon.fr/gp/search?ie=UTF8&tag=formationsweb-21&linkCode=ur2&linkId=c97d585d6cf9c6af19c9379233e2daad&camp=1642&creative=6746&index=books&keywords=Marketing digital)[Exclusif 1 sélection spéciale de livres sur le Marketing Digital !](https://www.amazon.fr/gp/search?ie=UTF8&tag=formationsweb-21&linkCode=ur2&linkId=c97d585d6cf9c6af19c9379233e2daad&camp=1642&creative=6746&index=books&keywords=Marketing digital)![Image](//ir-fr.amazon-adsystem.com/e/ir?t=formationsweb-21&l=ur2&o=8)
+[![Image](/images/blog/amazon-marketing-digital.jpg)](https://www.amazon.fr/gp/search?ie=UTF8&tag=formationsweb-21&linkCode=ur2&linkId=c97d585d6cf9c6af19c9379233e2daad&camp=1642&creative=6746&index=books&keywords=Marketing digital)[Exclusif 1 sélection spéciale de livres sur le Marketing Digital !](https://www.amazon.fr/gp/search?ie=UTF8&tag=formationsweb-21&linkCode=ur2&linkId=c97d585d6cf9c6af19c9379233e2daad&camp=1642&creative=6746&index=books&keywords=Marketing digital)![Image](//ir-fr.amazon-adsystem.com/e/ir?t=formationsweb-21&l=ur2&o=8)

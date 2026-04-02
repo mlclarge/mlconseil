@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Emailing"]
 tags: []
 slug: "html-et-marketing-pour-une-campagne-emailing"
+image: "/images/blog/emailing-et-html.jpg"
 ---
 
 Les derniers chiffres de [Radicati](http://www.radicati.com) sur le marché de l’email 2017-2021  sont sans appel. Tant en termes d’utilisateurs que de chiffre d’affaires généré. 3.7 Milliards de personnes utilisent l’email et ce chiffre passera à 4.1 d’ici 2021, c’est un marché à 23.8 milliards d’euros. Tous les jours, 269 milliards de mail sont échangés en 2017 ! Bon alors l’email est encore bien présent, tant qu’il restera le canal d’authentification principal, seul les nouveaux usages de reconnaissances biométriques qui bypass l’email, pourront faire infléchir ces chiffres sans cesse en croissance. Nous passerons sur les **points techniques de délivrabilité** évoqués [ici](https://www.mauricelargeron.com/fondamentaux-techniques-de-lemailing/) et de **gestion des données** vus dans cet [article](https://www.mauricelargeron.com/donnees-et-qualite-dune-campagne-emailing/) pour se concentrer aujourd’hui, sur les aspects principaux html de **rédaction-présentation** des contenus et des "codes" marketing !
@@ -45,7 +46,7 @@ Blabla !
 
  	- *Navigateur/web/cloud/saas (*** **Gmail Office 365 Outlook.com Yahoo! *)*
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/06/tester-les-emails-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/tester-les-emails.jpg) Outil testeur à l'intérieur de la plateforme mailchimp
+[![Image](/images/blog/tester-les-emails-310x165.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/tester-les-emails.jpg) Outil testeur à l'intérieur de la plateforme mailchimp
 
  	- Tester le code à l'aide d'outils dédiés (utiliser le standard spam assassin)
 
@@ -67,7 +68,7 @@ Blabla !
 
 Juste un rappel ici des questions à se poser, les responsables marketing regorgent d’idées pour faire mouche !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/06/no-scroll-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/no-scroll.jpg) Exemple d'email réussi !
+[![Image](/images/blog/no-scroll-310x180.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/06/no-scroll.jpg) Exemple d'email réussi !
 
  	- L’Adresse mail avec un vrai nom de domaine ?
 

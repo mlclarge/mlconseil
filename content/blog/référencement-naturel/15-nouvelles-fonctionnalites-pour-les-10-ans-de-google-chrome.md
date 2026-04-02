@@ -5,11 +5,12 @@ author: "admin"
 categories: ["Référencement naturel"]
 tags: []
 slug: "15-nouvelles-fonctionnalites-pour-les-10-ans-de-google-chrome"
+image: "/images/blog/chrome-10-ans.jpg"
 ---
 
 Google créé voilà une décennie le **navigateur chrome**. En ce temps-là l’arrivée de ce nouveau navigateur était un réel changement dans le paysage de la navigation Web. Le seul navigateur prétendant était opéra. Internet Explorer avait connu ses heures de gloire et Firefox commencer à ramer. Aujourd’hui le marché a bien changé. Les internautes sont devenus plus exigeants et Firefox a fait énormément de progrès. Chrome a vieilli et Google a dû mettre les bouchers doubles pour souffler cette 10e bougie avec pas moins de 15 nouvelles fonctionnalités ! Un **outil ** bien apprécié des référenceurs, développeurs car quantités d'informations transitent par cet objet hautement technologique ...
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/part-de-marche-navigateurs-web-458x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/part-de-marche-navigateurs-web.jpg) Evolution part de marche navigateurs web 2018
+[![Image](/images/blog/part-de-marche-navigateurs-web-458x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/part-de-marche-navigateurs-web.jpg) Evolution part de marche navigateurs web 2018
 ## **Un marché navigateurs web plus exigeant**
 
 Firefox a subi depuis toutes ces années de profondes modifications au sein même de son code source, pour en  faire moteur non seulement rapide mais également soucieux des données personnelles. De plus des versions adaptées à des appareils ont fait leur apparition.
@@ -20,7 +21,7 @@ Les tentatives comme celle de [Brave](https://www.mauricelargeron.com/moderer-la
 
 Google se devait donc de réagir.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/nouveau-chrome-2018-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/nouveau-chrome-2018.jpg) 10 ans et Nouveau chrome 2018
+[![Image](/images/blog/nouveau-chrome-2018-502x221.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/nouveau-chrome-2018.jpg) 10 ans et Nouveau chrome 2018
 ## **Les principales nouveautés visibles et invisibles **
 
 Dans l’ensemble, un nouveau look et une rapidité accrue un nouveau design sont par de ce navigateur pièce stratégique dans l’écosystème de Google. Nouvelle forme des onglets,  redéfinition de la barre d’adresse. On reste en plein dans la stratégie matérielle design 2  avec de l’élégance et le minimum de fioritures.
@@ -31,7 +32,7 @@ Dans l’ensemble, un nouveau look et une rapidité accrue un nouveau design son
 
  	- Un gestionnaire de mots de passe entièrement revue avec une gestion sur la création et le remplissage automatique des formulaires
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/Chrome_passwords-1.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/Chrome_passwords-1.gif)
+[![Image](/images/blog/Chrome_passwords-1.gif)](/images/blog/Chrome_passwords-1.gif)
 
  	- La disparition du sous domaine dans l’omnibox, ce qui crée la polémique
 
@@ -43,7 +44,7 @@ Dans l’ensemble, un nouveau look et une rapidité accrue un nouveau design son
 
  	- Une fonction « switch to tab » que je n’ai pas trop compris, mais qui permet de rechercher parmi les onglets déjà ouverts dans le navigateur, sans doute utile quand on sait plus ou l’on en est avec des dizaines d’onglets …
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/Chrome_Omnibox.gif)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/Chrome_Omnibox.gif)
+[![Image](/images/blog/Chrome_Omnibox.gif)](/images/blog/Chrome_Omnibox.gif)
 ### ***Pour la Partie invisible***
 
  	- Un filtre publicitaire pour vous protéger de Les publicités douteuses
@@ -65,7 +66,7 @@ Dans l’ensemble, un nouveau look et une rapidité accrue un nouveau design son
 https://www.youtube.com/watch?12=&v=WF2IjH35w8o
 ## Un navigateur prêt pour demain ?
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/09/rahul-roy-chowdhury.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/09/rahul-roy-chowdhury.jpg)
+[![Image](/images/blog/rahul-roy-chowdhury.jpg)](/images/blog/rahul-roy-chowdhury.jpg)
 
  
 

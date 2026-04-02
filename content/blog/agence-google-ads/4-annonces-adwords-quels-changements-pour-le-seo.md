@@ -15,7 +15,7 @@ Cette semaine , tentons de mesurer l’impact sur le **[SEO](https://fr.wikipedi
 
 A priori il n’y a pas péril en la demeure, principalement les **requêtes concurrentielles** se voient reléguées un cran plus bas forcément et passent sur certains devices, principalement les mobiles et tablettes en dessous de la ligne de flottaison, selon le mode d’utilisation (paysage ou portrait). Dans tous les cas, c’est adwords qui est le plus impacté en nombre de présentation d’annonces car on passe souvent dans le cadre d’impressions à 12 annonces, à un nombre moyen de 7.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ligne-de-flottaison-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ligne-de-flottaison.jpg) Ligne de flottaison et liens Organiques
+[![Image](/images/blog/ligne-de-flottaison-310x123.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ligne-de-flottaison.jpg) Ligne de flottaison et liens Organiques
 ### ***Cannibalisation, un vieux débat qui refait surface***
 
 Soyons concis, et enfonçons une porte ouverte, s’il n’y avait **pas de publicité, il n’y aurait pas de lien organique non plus**, ou du moins pas sous la forme que nous connaissons aujourd’hui.  Il faut bien se faire une raison et ne pas nier l’évidence, la poussée des réseaux sociaux a des effets sur la portée des moteurs de recherche, vu que nous nous informons différemment mais nous recherchons toujours en revanche une information, alors acceptons une fois de plus, les changements de Google.
@@ -24,19 +24,19 @@ Soyons concis, et enfonçons une porte ouverte, s’il n’y avait **pas de publ
 
 Observons les données de l’outil de monitoring d’advanced web analytics sur les taux de clics seo selon la présence ou non de liens sponsorisés sur des requêtes dîtes « commerciales » sur un ensemble de sites (11 000 à 28 000 mots clés  sur 3 à 6000 domaines).   Le CTR passe de 28% sans le bloc 3 de pubs à  13%, avec un pallier intermédiaire à 20% s’il y a des publicités sur la zone de droite. Ces données datent de décembre 2015, et l’outil va devoir se caler sur la nouvelle configuration, mais cela donne néanmoins un aperçu du comportement visiteur.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ctr-seo-serp-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ctr-seo-serp.jpg) Cannibalisation Sea
+[![Image](/images/blog/ctr-seo-serp-310x173.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/ctr-seo-serp.jpg) Cannibalisation Sea
 
 Prenons  un autre exemple, cette fois – ci appliqué à un site internet d’un annonceur, avec **le rapport que Google adwords** fournit sur les impressions générées à la fois en Seo et en Sea. Il faut pour avoir ce rapport, associer le compte Google search console, il est disponible sous l’onglet variable dans une campagne. Un extrait du rapport ci-dessous est basé sur 197 requêtes intitulé « les deux » ce qui signifie 2 impressions (annonce + lien organique sur une même requête). On peut remarquer que le contexte est marqué par une position moyenne Sea des annonces entre 3 et 4  (majoritairement en premium sur les requêtes ici dont concurrentielles), et de plus de 7 pour les liens organiques, un CTR gagnant pour le Sea de plus du double. Comment interpréter ce fait là ? On peut s’imaginer qu’avec moins de publicité, les positions organiques seraient sans doute plus cliquées.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/03/canibalisation-seo-sea-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/canibalisation-seo-sea.jpg) Rapport Ctr Sea - Seo
+[![Image](/images/blog/canibalisation-seo-sea-310x135.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/canibalisation-seo-sea.jpg) Rapport Ctr Sea - Seo
 
 Regardons l’exemple de l’étude de l’**[agence Primelis](https://www.primelis.com/)**, plus factuel  et se basant sur 4 sites web sur 256 mots clés. Elle  regarde les CTR seo suite à l’ajout de la 4 eme annonce. Une baisse des clics est observée mais reste légère et pas très impactante.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/03/etude-blog-primelis-310x292.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/etude-blog-primelis.jpg) Relevé Ctr suite suppression colonne droite
+[![Image](/images/blog/etude-blog-primelis-310x292.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/etude-blog-primelis.jpg) Relevé Ctr suite suppression colonne droite
 
 Pour terminer, les données de l[’agence](https://www.mauricelargeron.com/le-nouveau-programme-google-partner-2022-est-arrive/) Merkle sur l’évolution des visites provenant d’ordinateur de bureau souligne une certaine stabilité dans le temps. Donc pas de quoi fouetter un chat !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2016/03/repartition-des-clics-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/repartition-des-clics.jpg) Evolution Visite Seo suite rhs
+[![Image](/images/blog/repartition-des-clics-310x204.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2016/03/repartition-des-clics.jpg) Evolution Visite Seo suite rhs
 
 Ensuite, comme toute observation Seo, pas trop de généralisation hâtive, car c’est souvent du cas par cas, et certain cas particulier pourrait aussi facilement démonter les données présentées ici.
 

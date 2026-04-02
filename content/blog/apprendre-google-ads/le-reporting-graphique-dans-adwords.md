@@ -15,49 +15,49 @@ Google semble vouloir s’imposer sur le marché de l’automobile avec la reche
 
 Google innove principalement dans l’automobile. Deux formats d’annonces pour automobiles dédiés à la recherche d’un modèle, et d’un revendeur (géolocalisation et appel direct).  Au lieu d’une annonce textuelle traditionnelle, s’affiche une image directement dans le moteur de recherche avec en plus la possibilité de faire glisser  différentes photos de gauche à droite, au clic, des éléments donne plus amples détails de ce modèle. Ensuite, si l’on recherche un revendeur, par géolocalisation, une annonce affiche le vendeur le plus proche avec appel direct. Disponible sur demande, uniquement aux  US pour l’instant.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-auto-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-auto.jpg) Format mobiel annonce auto
+[![Image](/images/blog/format-annonce-auto-310x170.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-auto.jpg) Format mobiel annonce auto
 ### ***Services Financiers***
 
 Alors que Google reste dans le viseur de l’**Europe** pour mise en avant de ses propres services, l’américain renforce la position de ces comparateurs spécialisés dans le domaine financier : Assurance, Service de cartes de crédit, Prêts bancaires. Ces services comparatifs offre des formats adaptés aux mobiles intuitifs et informatifs. Dans le domaine de l’assurance auto, uniquement lancé en Californie courant 2014, l’année 2015 verra un déploiement de ce style d’annonce sur divers états US. Ces comparateurs directement dans le moteur des caractéristiques d’avis, d’offres spéciales, et possibilité d’appel immédiat bien sûr.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-finance-auto-310x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-finance-auto.jpg) Comparateur financier
+[![Image](/images/blog/format-annonce-finance-auto-310x216.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/format-annonce-finance-auto.jpg) Comparateur financier
 ### ***Display : des formats responsive !***
 
 Les **formats de bannières** s’épurent avec l’arrivée de 3 formats de base qui serviront pour l’ensemble des formats existants disponibles sur le réseau de sites de Google (Gdn) . Cela simplifie grandement le mise en œuvre !
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/bannniere-responsive-display-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/bannniere-responsive-display.jpg) Banniere responsive Display
+[![Image](/images/blog/bannniere-responsive-display-310x211.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/bannniere-responsive-display.jpg) Banniere responsive Display
 ## **Campagne , simulateurs et reporting innovants !**
 
 ### ***Campagne dynamique relookées***
 
 Ce type de campagnes « sea-seo », dédiées aux sites importants en volume de pages,  permet de récupérer sur le site de l’annonceur d’éventuels trous, niches où des pages peuvent être servies par des **annonces construites automatiquement**, et sans mots clés. Jusqu’ici, l’interface était plutôt rébarbative, elle est revue avec une présentation catégorisée du site plus aérée qui permet de construire lisiblement le ciblage des enchères reliées à la page de destination (estimation du cout par clic et prévisualisation incluses).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/dsa-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/dsa.jpg) Nouvelle interface Dsa
+[![Image](/images/blog/dsa-310x208.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/dsa.jpg) Nouvelle interface Dsa
 ### ***Simulation d’enchères pour CPA***
 
 Pas mal là aussi, avec la fonctionnalité de **simulation d’enchères**, jusqu’ici disponible uniquement pour les ccp, valable aussi pour les CPA  dans un futur proche (option d’enchères automatisée basée sur un coût global d’acquisition).
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/simultion-cps-adwords-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/simultion-cps-adwords.jpg) Simulation cpa adwords
+[![Image](/images/blog/simultion-cps-adwords-310x255.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/simultion-cps-adwords.jpg) Simulation cpa adwords
 ### ***Rapports améliorés : vive la visualisation !***
 
 J’aurais pu en parler au niveau des nouveautés dernièrement, mais j’attendais d’avoir plus d’infos sur les avancements du  reporting adwords en global. A noter donc aujourd’hui d’une part,  la présence d’un tableau de bord récapitulatif et d’évolution dans le temps des stratégies d’enchères dans les comptes et permet de juger en un clin d’œil de l’évolution des **stratégies d’enchères par un graphique cumulé **croisé des performances cpc avec clics, impressions, position moyennes etc..
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/strategie-dencheres-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/strategie-dencheres.jpg) Tab. Bord Stratégies enchères
+[![Image](/images/blog/strategie-dencheres-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/strategie-dencheres.jpg) Tab. Bord Stratégies enchères
 
 D’autre part, disponible dans certains comptes, l’onglet « rapport » constitue un véritable tournant dans le reporting adwords ! Deux façons de créer son reporting :  Défini (standard) et manuel (personnalisé).  L’interface offre ensuite un plan pour constituer son graphique selon ses besoins.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/rapports-adwords-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/rapports-adwords.jpg) Rapports perso. adwords
+[![Image](/images/blog/rapports-adwords-310x163.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/rapports-adwords.jpg) Rapports perso. adwords
 ## ***Indicateurs avancés de conversions***
 
 ### ***Modèle d’attribution dans adwords***
 
 Après avoir acheté la techno via la start up« **Adometry** » , Google implémente dans adwords cette fonctionnalité d’attribution (déjà connue dans Google analytics) d’ajustement de la valeur basée sur les chemins d’achats de mots clés  empruntés par le visiteur et qui ont aboutis à  une conversion.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/data-driven-310x298.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/data-driven.jpg) Modèle Data Driven
+[![Image](/images/blog/data-driven-310x298.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/data-driven.jpg) Modèle Data Driven
 
 La technique du dernier clic étant assez commune, celle du « **data driven **» est un « plus » qui permettra de piloter l’attribution des **conversions par les performances réelles de combinaisons** de mots clés liées au business de l’annonceur. Bon, à tester quand la fonction sera déployée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2015/05/model-attribution-adwords-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/model-attribution-adwords.jpg) Paramétrages Conversion Data Driven
+[![Image](/images/blog/model-attribution-adwords-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2015/05/model-attribution-adwords.jpg) Paramétrages Conversion Data Driven
 ### ***Autres indicateurs avancés liés au parcours multi-appareils à venir***
 
 Adwords annonce une amélioration de la statistique des conversions ‘cross devices’ qui intégrerait les campagnes avec enchères automatisées avec l’adjonction de l’indicateur « **visites en magasin** ». Ces mesures seront déployées sur demande sur 10 nouveaux pays courant 2015. Enfin, les campagnes « brouillons » et « test s (draft and experiment) devraient arrivées fin de semestre.

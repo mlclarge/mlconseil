@@ -5,6 +5,7 @@ author: "admin"
 categories: ["Marketing Digital"]
 tags: []
 slug: "reglementation-generale-sur-la-protection-des-donnees"
+image: "/images/blog/rgpd-gdpr-2018.jpg"
 ---
 
 Le 25 mai 2018 prochain est le début du commencement pour les organisations pour la **Règlementation Générale des Données Personnelles** ([RGPD](https://www.cnil.fr/fr/reglement-europeen-sur-la-protection-des-donnees-ce-qui-change-pour-les-professionnels)) ou GDPR (Général Data Protection Regulation,   pour les anglo-saxons). Autant les professionnels du BtoC que du BtoB, petits ou grands, sont concernés par cette règlementation européenne adoptée en avril 2016. Le** WebMarketing** n’est pas épargné.  Tout bon marketeur n’est censé ignorer la loi ! Sur le bien fondé de cette initiative européenne, je ne rentrerai pas dans le débat, retenons que 2 camps s'affrontent : les "pour" qui disent que cela va freiner les géants de la data (souvent Américains), et les "contre" qui argumentent que l'on se tire une balle dans le pieds. En effet,  les géants s'adapteront toujours,  leur "aura" est telle que l'on peut difficilement se passer de leur service.  Pour  les petites et moyennes organisations , elles auront  plus de mal à se mettre en conformité avec les exigences de cette mesure européenne trop exigeante et technique.
@@ -17,11 +18,11 @@ Toute organisation en interne  ou en externe  est concernée par ce règlement q
 
 Le processus aussi simple que celui décrit dans cette illustration du livre blanc de Kaméleoon, est le principal à retenir dans le cas d’un site web, mais la RGPD va bien au-delà que le cas du visiteur ou client d’un site internet, il concerne l’ensemble des individus relié à son contexte digital, au travail et dans sa vie privée.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/schema-rgpd-2018-297x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/schema-rgpd-2018.jpg) Source : illustration de l'ebook Kaméléoon
+[![Image](/images/blog/schema-rgpd-2018-297x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/schema-rgpd-2018.jpg) Source : illustration de l'ebook Kaméléoon
 
 Un site e-commerce, une organisation faisant une campagne de prospection par e-mailing par exemple, ou procédant à une collecte de données suite à l'ouverture d'un compte où à l'inscription d'une newsletter, la loi s'applique. Sarbacane Software, société spécialisée dans les solutions d'e-mailing a créé une infographie simple qui résume bien la situation.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/infographie-gdpr-rgpd-2018-49x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/infographie-gdpr-rgpd-2018.jpg)
+[![Image](/images/blog/infographie-gdpr-rgpd-2018-49x300.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/infographie-gdpr-rgpd-2018.jpg)
 
 Infographie de sarbacane : [http://blog.sarbacane.com/2017/12/21/rgpd-emailing/      ](http://blog.sarbacane.com/2017/12/21/rgpd-emailing/%09)
 
@@ -65,7 +66,7 @@ Destinée plutôt aux grandes entreprises,  je vous recommande vivement la lect
 
  	- Des conseils sur les **outils juridiques** de compliance comme le registre des activités, étude d’impact et le DPO, de confiance tels que les codes de conduite, les certifications et les règles d’entreprises contraignantes
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/cigref-gouvernance-et-sécurite-2018-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/cigref-gouvernance-et-sécurite-2018.jpg) cigref gouvernance et sécurite 2018
+[![Image](/images/blog/cigref-gouvernance-et-sécurite-2018-310x206.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/cigref-gouvernance-et-sécurite-2018.jpg) cigref gouvernance et sécurite 2018
 
 **Document du cigref** : [http://www.cigref.fr/entreprise-cle-application-reussie-gdpr-livrable-cigref-afai-tech-in-france](http://www.cigref.fr/entreprise-cle-application-reussie-gdpr-livrable-cigref-afai-tech-in-france)
 
@@ -73,7 +74,7 @@ Destinée plutôt aux grandes entreprises,  je vous recommande vivement la lect
 
 **REVER** (solution technique) et **Actecil** (solution métier) ont mutualisé leurs compétences et proposent une solution logicielle  qui permet à chacun des collaborateurs de l'entreprise (CDO, DPO) de pouvoir collaborer à la mise en place de la conformité à cette règlementation.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2017/12/solution-logicielle-rgpd-gdpr-2018-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/solution-logicielle-rgpd-gdpr-2018.jpg) solution logicielle rgpd gdpr 2018
+[![Image](/images/blog/solution-logicielle-rgpd-gdpr-2018-310x153.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2017/12/solution-logicielle-rgpd-gdpr-2018.jpg) solution logicielle rgpd gdpr 2018
 
 Elle permet :
 
@@ -85,7 +86,7 @@ Elle permet :
 
 En Anglais, mais très simple à comprendre et en plus amusant avec des illustrations emojiques !  Le plus , c'est les mesures à prendre selon votre niveau de conformité.
 
-[![Image](https://www.mauricelargeron.com/wp-content/uploads/2018/01/quiz-rgpd-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/quiz-rgpd.jpg) Quiz RGDP Mailjet
+[![Image](/images/blog/quiz-rgpd-310x223.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2018/01/quiz-rgpd.jpg) Quiz RGDP Mailjet
 
 Passer le Quiz ici : [https://www.ultimategdprquiz.com/](https://www.ultimategdprquiz.com/)
 ## Rgdp/Gdpr , ITP et monde publicitaire même combat ?
