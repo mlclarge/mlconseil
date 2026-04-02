@@ -17,11 +17,9 @@ Google analytics s’est amélioré depuis l’année dernière déjà, et peut 
 
 Une interaction peut être aussi mesurée par **un backink** par exemple (lien venant d’un site externe) qui amènent du trafic.
 
-[![google2-310x115.jpg](/images/blog/google2-310x115.jpg) Fig. 3 Mesure du partage par un site référent dans GA
 
 Restons sur Google, **une commande simple (allinurl)** peut faire aussi remontée la présence de liens externes pointant vers le blog.
 
-[![commandes-google-310x147.jpg](/images/blog/commandes-google-310x147.jpg) Fig. 4 Commande Allinurl dans le moteur Google
 
 Certains plugins, ici addthis pour Wordpress *(dont les données sont aussi accessibles depuis Google analytics)* en dehors de l’écosystème Google, peuvent aussi aider à tracker les partages d’urls.
 

@@ -24,7 +24,6 @@ Remercions donc  les développeurs de nous donner accès à cette  plateforme 
 
 Pour expédier les rapports obtenus, il suffit de remplir dans le champ situé au bas des graphiques tout juste créés, l’adresse mail du destinataire. Et voilà ! Le compte rendu de la campagne est directement lisible dans la messagerie .
 
-[![rapportGmail1-290x300.png](/images/blog/rapportGmail1-290x300.png) Lecture Directe dans Gmail
 ## **Dashboard de synthèse des envois**
 
 Un tableau de bord récapitulatif indique le nombre de rapports expédiés et le taux de lecture.

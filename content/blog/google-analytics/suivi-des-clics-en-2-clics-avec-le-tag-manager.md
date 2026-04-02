@@ -65,7 +65,6 @@ Il va falloir pour cela créer  2 éléments *(au préalable, le code de suivi 
 
 1 balise « Google analytics (classique ou universelle) » dont le type sera celui d’évènement munie des 4 paramètres (catégorie, action, libellé, et valeur) pour enregistrer le clic. La règle invoquée celle de la macro {{event}}  égale à la valeur de GA « gtm.click ». Là aussi rien n’est à coder, il suffit de remplir les champs aux bons endroits.
 
-[![evenement-310x270.jpg](/images/blog/evenement-310x270.jpg) Misen en place 2eme balise
 
 Ensuite, directement dans la rubrique temps réel dans Google analytics, on peut observer ce que cela donne en allant sur « evènement » puis observer la colonne « action d’évèn. »  rendu par la macro paramétrée sur {{element}} dans les paramètres de la seconde balise « GA » (ci-dessus).
 

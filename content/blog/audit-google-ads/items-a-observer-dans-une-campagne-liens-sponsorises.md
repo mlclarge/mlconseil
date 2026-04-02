@@ -47,7 +47,6 @@ Ce chapitre aborde  l’exploitation même de l’interface adwords. J’y  so
 
  	- **Score de qualité** (Fig.2) : est composé de 3 paramètres dont le CTR *(j’y reviens plus tard dans l’article)*, la pertinence, la page de destination et autres facteurs.
 
-[![fig2-scoreQté-310x195.png](/images/blog/fig2-scoreQté-310x195.png) Score qualité
 
 Cet indicateur est à scruter minutieusement, une partie en  est dévoilé dans l’interface adwords. Depuis mi- avril 2012, des données supplémentaires (Fig3) comme le *taux de clic attendu*, l’expérience des **visiteurs sur la page de destination** sont proposées.
 

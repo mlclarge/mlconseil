@@ -45,7 +45,6 @@ Edit: Ces 2 pages de google vous indiquent la marche à suivre technique si vous
 Infos : Pagination
 ## Le rédactionnel : "L'esprit" de la page.
 
-[![redactionWeb1.jpg](/images/blog/redactionWeb1.jpg)
 
 Il faudra veiller :
 

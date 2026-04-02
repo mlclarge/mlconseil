@@ -56,7 +56,6 @@ Depuis l’onglet « Campagne » on accède donc à des indicateurs ou statist
 
 A partir de cet onglet pas moins d'une cinquantaine d'indicateurs sont disponibles et ainsi pour **chacun des sous onglets.**
 
-[![fig4-Indicateurs1-300x295.png](/images/blog/fig4-Indicateurs1-300x295.png)
 
 Ces indicateurs sont disponibles depuis : Adwords> colonnes > personnaliser les colonnes
 

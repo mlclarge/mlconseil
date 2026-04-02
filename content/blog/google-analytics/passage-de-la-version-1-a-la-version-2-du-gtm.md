@@ -35,7 +35,6 @@ Tout d’abord, sachez que courant janvier 2015, les possesseurs d’un compte t
 
 L’objectif ici est de migrer un compte muni d’un container GTM-XXXX v1 vers la nouvelle interface.
 
-[![processus-310x210.jpg](/images/blog/processus-310x210.jpg) Migration V1 vers V2
 
 Rien de compliquer ici, il suffit d’utiliser depuis l’ancienne interface le lien du menu de gauche export  :
 

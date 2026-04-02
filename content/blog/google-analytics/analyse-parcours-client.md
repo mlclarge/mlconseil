@@ -43,7 +43,6 @@ Principalement, au-delà du Last click, la traditionnelle, il existe d’autres 
 
  	- Puis de plus en plus, et google le fait pour Adwords, l’attribution peut être traitée algorithmiquement ! On appelle cela , data driven attribution.
 
-[![attribution-502x181.jpg](/images/blog/attribution-502x181.jpg)
 
 ## **Analyser finement la contribution de chaque levier pour la conversion**
 
@@ -65,7 +64,6 @@ Ainsi, la contribution sert à optimiser son mix marketing et à arbitrer selon 
 
 La déduplication sert à éviter de payer 2 fois pour une seule acquisition. C’est une négociation qui s’engage avec les apporteurs d’affaires qui travaillent dans un modèle à la performance. Si tu vends, je te paye. Oui mais le problème se pose, lorsque le modèle de rétribution est mal défini et où parfois, 2 affiliés remontent l’attribution d’une conversion.  Le commissionnement basé sur des règles claires doit être mise en place, pour rétribuer chacun, selon son rôle dans le déclenchement de la conversion. Alors pourquoi la déduplication ne s’applique pas au modèle cpm ou cpc ? Question piège…tout simplement le fait que ce levier ne soit pas à la performance, ou prépayé en quelque sorte, ne nécessite pas de calcul de rétribution J .
 
-[![deduplication-502x236.jpg](/images/blog/deduplication-502x236.jpg)
 
 ## **Par où commencer  alors l’optimisation du parcours client ?**
 

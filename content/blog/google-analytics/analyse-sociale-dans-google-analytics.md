@@ -9,7 +9,6 @@ slug: "analyse-sociale-dans-google-analytics"
 
 Je profite du dernier changement très utile fait dans Google analytics sur les remontées des données sociales pour faire un tour d’horizon des principales fonctionnalités et de ses dernières  nouveautés. Auparavant, les données sociales étaient  visibles dans la catégorie « Audience » chapitre intérêt/interactions. La grande amélioration vient de son regroupement, les statistiques sociales dorénavant sont accessibles  depuis la catégorie « source de trafic » puis « réseaux sociaux ».
 
-[![presentation-Fonctinnalité-Sociale-analytics1-310x163.png](/images/blog/presentation-Fonctinnalité-Sociale-analytics1-310x163.png) presentation-Fonctinnalité-Sociale-analytics
 
 Fonctionnalités sociales
 

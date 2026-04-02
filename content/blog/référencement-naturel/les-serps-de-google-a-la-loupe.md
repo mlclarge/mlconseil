@@ -279,7 +279,6 @@ Commerce ou interrogation ? : Google ne pouvant décider si je recherche des g�
 
 Si je tape le même terme mais au pluriel, alors apparaît un vrai pâtissier (pour la petite histoire), inexistant lors de ma précédente recherche. Donc prendre soin à bien peser l’orthographe dans ses pages de destination, et se poser la question, si l’on recherche plus pâtisserie au singulier qu’au pluriel par exemple !
 
-[![patisseries-local-pluriels-308x300.jpg](/images/blog/patisseries-local-pluriels-308x300.jpg) Patisseries donc au pluriel :)
 
 Ambiguïté de la requête : sur le mot clé saint exupery, l’internaute recherche-t-il un lieu répertorié localement, le romancier, un roman ?  Dans le doute, il me propose les 3. Pas mal  :)
 

@@ -14,7 +14,6 @@ Trouver les bons mots clés pour ses liens sponsorisés est un des objectifs maj
 
 Cela ne me convient pas, je fais donc utiliser une méthode qui se résume à utiliser différents outils et techniques pour allonger cette liste, sans pour autant faire du mot clé à milliers !
 
-[![processus-kw-310x205.png](/images/blog/processus-kw-310x205.png)
 
 J’utiliserai ici comme **outils** :
 

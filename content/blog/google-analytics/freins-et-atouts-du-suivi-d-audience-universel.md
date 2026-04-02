@@ -61,7 +61,6 @@ Elle permet une analyse visiteur et multicanal  plus proche de la réalité où
 
 L’intégration des **données externes  vers Google analytics** (côté serveur) est l’atout complémentaire qui s’effectue grâce au Protocol multiplateforme de mesure (MP).  Au-delà des Smartphones, pc, tablettes, il devient possible d’envoyer depuis des crm, caisses, imprimés (coupons), d’une cafetière.. des données à GA qui sont agrégées ensuite par visiteur. Un exemple dans le cas d'un suivi d'acquisition de prospects (leads).
 
-[![schema-310x176.jpg](/images/blog/schema-310x176.jpg) Suivi GUA avec Client ID
 ### **Un exemple amusant qui vous vient d'Australie !**
 
 Une illustration du tracking à base de puce Rfid paramétrée par  utilisateur et connecté à  l'accès à la cafetière, frigo qui est poussé vers les Google analytics universel grâce au protocole de mesure. Bon , c'est en anglais, mais cela est intéressant !

@@ -28,7 +28,6 @@ Un des premiers outils, est de se référer aux **fichiers journaux**, et de rep
 
 Si une page semble incriminée, une analyse de l’url avec pour but d’analyser son chargement  *(avec un outil comme par exemple http://www.webpagetest.org)*  peut apporter quelque éléments à l’analyse. On s’aperçoit que le time to first byte, le temps  de la première donnée en gros dans le header du navigateur, est de plus de 7 secondes ! D'autres outils comme [gomez ](http://www.gomeznetworks.com/custom/instant_test.html) donne des chiffres différents pour ce TTFB *(le mode de calcul est différent)*. Bref, quoiqu'il en soit, cet indicateur plus les autres, donne une idée sur la réactivité de la page portée par le serveur.
 
-[![analyse-time-to-first-byte1-310x207.jpg](/images/blog/analyse-time-to-first-byte1-310x207.jpg) Analyse de la page avec 2 outils différents
 ## Corriger pour éviter la répétition des problèmes
 
 Est-ce une défaillance  du serveur ou du site ? Le « **Time to First Byte **» souligne la connexion du navigateur au serveur au travers de 5 principales étapes : Dns look up, connexion initiale, attente, réception et fermeture. C’est le temps d’attente du navigateur de l’internaute auprès du serveur. Passé 100 ms pour des données statistiques *(html, image, css, js) *est correct, 200 à 500  pour du dynamique* (script php de liaison à la base de données, requêtes..) *l'est aussi .

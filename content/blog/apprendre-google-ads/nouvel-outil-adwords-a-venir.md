@@ -24,7 +24,6 @@ Anticipons un peu, j’ai trouvé cet article sur le [blog de  Wordstream](http
 
 Le formulaire de recherche supporte 3 types d’entrées . Il apporte les mêmes usages que ce qui prévaut actuellement,  à la différence près que la page de destination et la catégorie du métier sont axées sur le site web de l’annonceur. Une suggestion de liste de mot clé et de groupe d’annonces est fournie, jusqu’ici , rien de neuf.
 
-[![granularité-310x157.jpg](/images/blog/granularité-310x157.jpg) granularité
 
 Une sauvegarde temporaire des résultats se déroule tout au long de la session, les mots clés trouvés restent  en cache et une estimation globale peut être opérée en fin de recherche. Selon le montant personnalisé des enchères et budgets, une estimation des clics et impressions est restituée. Un petit pavé personnalisé  sur la droite donne les principaux indicateurs.
 

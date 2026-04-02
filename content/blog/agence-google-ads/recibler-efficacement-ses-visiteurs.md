@@ -42,7 +42,6 @@ Ces différents itinéraires sont autant de champs possibles pour établir des c
 
 D’autres plateformes proposent ces possibilités mais Google tout le monde connait, donc je garde cet exemple pour illustration !
 
-[![rsla-310x195.jpg](/images/blog/rsla-310x195.jpg) Reciblage des annonces sur le moteur goolle
 
 Comment ne pas parler une nouvelle fois de Google Adwords. Après la plateforme doubleclick, c’est le petit dernier à se voir doté de la possibilité de retargeter ces campagnes textuelles sur le moteur de recherche Google. Au préalable, le visiteur (du moins, son device : pc, mobile.)  a consulté un site. Ce dernier dépose un cookie, destiné à remplir une liste d’audience,  sur le navigateur du visiteur. A partir d’un certain seuil (1000 inscrits), une campagne sur le search ciblant les mots clés reliés au business du site, pourra être adressée aux abonnés de la liste. Pas mal, non ?  Pas de capping sur ce levier, trop proche de l’intention d’achat .
 ### **Reciblage sur le réseau de sites Google : le display**

@@ -12,7 +12,6 @@ Attardons-nous donc un peu plus sur cette thématique du « référencement loc
 **
 L’algorithme de Google varie selon le type de  requête, je veux dire selon la thématique locale  (ou catégorie) recherchée. La précision d’un lieu géographique donnera des résultats qui diffèrent dans leur présentation sur google. C’est ce que l’on a pu constater dans la partie 1. Il convient d’y revenir avec plus de  précisions.
 
-[![refrencementLocalBoite7résultat-310x217.jpg](/images/blog/refrencementLocalBoite7résultat-310x217.jpg) refrencement local
 
 Donc ici, 2 types de résultats, le "pack" local avec les pictos (1) et liens les uns à la suite des autres et le pack "organique" (2) dit résultats "naturels" (entourés dans un carré vert).
 

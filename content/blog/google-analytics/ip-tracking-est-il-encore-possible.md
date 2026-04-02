@@ -57,7 +57,6 @@ Une autre façon  plus rudimentaire,  de collecte  d’information sur l’IP
 
 Les données ne sont jamais nominatives et concernent des données d’enseignes ou raisons sociales, agrégées. Concernant l’anonymat des données personnelles, Google analytics précise qu’il adopte un processus [d’anonymisation de sa collecte](https://support.google.com/analytics/answer/2763052?hl=fr).
 
-[![google-analytics-310x81.jpg](/images/blog/google-analytics-310x81.jpg) Anonymisation de la collecte d'adresses IPs
 
 D’autres sociétés usent de leurs **technologies propriétaires**  basées sur les techniques de scripts déjà évoquées, en se focalisant  sur l’IP  tracking. Leur valeur ajoutée vient  du data mining appliqué sur leur collecte : croisement avec données sociales, démographiques, géolocalisées.
 

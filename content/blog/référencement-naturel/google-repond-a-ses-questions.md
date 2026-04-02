@@ -25,7 +25,6 @@ Eléments favorisant l’usage de **mots clés** :
 
 La répartition du nombre de mots clés par requêtes  ces dernières années tente à la raréfaction , j'ai extrait 2008, 2010, 2013 par exemple pour la France, plus de la moitié des requêtes seraient composées d'un seul terme (52,46%) ! Diminution également sur le nombre de requêtes à 2 et 3 mots, le reste se tient à peu près plus on évolue dans le  nombre de mots par recherche.
 
-[![mots-cles-288x300.jpg](/images/blog/mots-cles-288x300.jpg) DIminution du nombre de termes par requête
 
 Pour les référenceurs, l’époque du web unique, fut un âge d’or. Que l’on soit à Bordeaux, Paris ou ailleurs, les résultats étaient semblables  pour des recherches internautes. Depuis la géolocalisation la recherche universelle, l’identification des  navigateurs et le reste, bouleverse la donne..alors si en plus, on rajoute la tendance de requêtes plus courtes , ou va t-on ?
 

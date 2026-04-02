@@ -60,7 +60,6 @@ Deux formats d’annonces en cours de test. L’un  s’intitule «** extensio
 
 La grande nouveauté est la possibilité de créer des **listes d’audience sur le search** avec donc comme objectif inhérent, la gestion de campagne **remarketing ou de reciblage s**ur le moteur de recherche Google.  A noter, que les paramétrages s’effectuent dans adwords et non via Google analytics. Un minimum de 500 membres à une liste est requis pour lancer une opération de reciblage (100 uniquement sur le display).
 
-[![rsla-310x59.jpg](/images/blog/rsla-310x59.jpg) Liste de Retargeting sur réseau recherche
 ## **Réseau Display**
 
 ### Ad planner pour le réseau display
@@ -79,7 +78,6 @@ Affinités, des nouveaux segments à cibler disponibles
 
 80 **catégories d’affinités** ont été ajoutées à ce jour, et permettent un ciblage démographico-social associées aux catégories d’intérêts déjà présentes. Elles ont été établies statistiquement selon le type de pages vues, le temps passé. Elles permettent d’élargir une audience potentielle ([infos](https://support.google.com/adwords/answer/2497941)).
 
-[![audience-affinités-display-310x206.jpg](/images/blog/audience-affinités-display-310x206.jpg) audience-affinités-display
 
  
 ## **Google shopping **

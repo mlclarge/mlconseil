@@ -106,7 +106,6 @@ Ce guide ci dessous n'existe plus, mais c'est collector !
 
  
 
-[![4-guide-adwords-vidéos-310x224.png](/images/blog/4-guide-adwords-vidéos-310x224.png) guide-adwords-vidéos
 
  
 ## **2. Techniques de référencement pour une vidéo (SEO)**

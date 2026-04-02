@@ -37,7 +37,6 @@ Donc pour résumer nous avons une gamme de stratégie d’enchères bien établi
 
 Elles sont disponibles depuis le menu de gauche, dans la catégorie bibliothèque partagée. Il suffit de cliquer sur le lien et la configuration selon 4 choix possibles s’offre via un menu déroulant.
 
-[![interface-310x174.jpg](/images/blog/interface-310x174.jpg) Accès aux enchères flexibles
 ### Vers le tout automatique ?
 
 A ce jour, cette option d’enchères flexibles sont donc une invitation à l’automatisation des mises en enchères par Google avec néanmoins une possibilité facultative de  limite de cpc et de budget manuelle pour l’option 4 (optimiser pour les clics) qui fusionne en quelque sorte les possibilités d’enchères 1 et 2 énumérées en première partie. C’est donc un changement !
@@ -59,7 +58,6 @@ Elle propose 4 items pour acquérir des la visibilité sur la "top page" :
 
 	- Option sur budget et Qualité des mots clés
 
-[![paramètres-encheres-310x141.jpg](/images/blog/paramètres-encheres-310x141.jpg) paramètres-encheres
 
 Le positionnement des stratégies  d’optimisation de Cpc et de Cpa universelles  (le cpa ne touche pas à l’ajustement des -100% sur mobile)  restent sur les entités des campagnes et groupes d’annonces. Pour résumer, pouvoir user de plusieurs types de stratégies d’enchères sur une même campagne est un tour de force ! Elle vient concurrencer des solutions logicielles tierces développées pour pallier justement ce manque de flexibilité qu’avait adwords, le vide est comblé bien que d’autres fonctionnalités liées au ROI restent encore à être développées.
 

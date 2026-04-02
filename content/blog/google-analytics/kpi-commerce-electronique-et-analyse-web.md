@@ -33,7 +33,6 @@ J’indique *en italique* **au-dessous de chaque KPI** la façon de les retrouv
 
              * Publicité> Adwords > Campagnes -> onglet « clic »*
 
-[![roi-300x114.jpg](/images/blog/roi-300x114.jpg)
 
 	- **CA par Nouveau visiteur  & visiteur connu** ?  Utile pour juger si la nature du visiteur influe sur le montant de ses achats, selon le rapport, des actions peuvent être menées pour améliorer les performances de l’un ou l’autre profil.
 

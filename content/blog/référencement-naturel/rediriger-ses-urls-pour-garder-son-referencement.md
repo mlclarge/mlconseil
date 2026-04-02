@@ -9,7 +9,6 @@ slug: "rediriger-ses-urls-pour-garder-son-referencement"
 
 Les types de changements sur un site en dehors  des aménagements d'ergonomie web et les raisons pour occasionner un déménagement   peuvent être diverses.  Changer d’hébergement, de nom de domaine, de structure d’URLs  *(nouvelle taxonomie, catégorisation, organisation-arborescence)*, de migration de plateformes* (blog, ecommerce, cms)*  sont les raisons les plus fréquentes.  Ces modifications vont impacter sur **le référencement et **peuvent occasionner une chute de trafic brutale.
 
-[![schema-310x241.jpg](/images/blog/schema-310x241.jpg) Déménagement site : Objets, techniques et outils
 ## Hébergement & domaine à changement de toit , changement de loi !
 
 ### Préparer ses DNS, son adresse IP

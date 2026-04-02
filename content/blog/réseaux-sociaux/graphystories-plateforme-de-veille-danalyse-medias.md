@@ -24,7 +24,6 @@ Les  4  grands objectifs poursuivis par GraphyStories :
 
  	- Le suivi des interactions sur ses propres contenus, articles, marques…
 
-[![tendances-1-502x268.jpg](/images/blog/tendances-1-502x268.jpg) Tendances des recherches sur Google
 
 Quotidiennement,  GraphyStories passe en revue  plus de 80 000 000 articles et 5000 sites web et travaille avec avec LeMonde, LeFigaro, Elle, ParisMatch, Europe1, Public, RTBF, TPMP,.... mais aussi avec de nombreuses Marque et agences.
 ### *La lecture des contenus directement depuis la plateforme*

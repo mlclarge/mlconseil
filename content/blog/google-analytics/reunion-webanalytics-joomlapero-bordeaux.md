@@ -94,7 +94,6 @@ La difficulté de l’exercice tenait  au délai (1h30/2h) accordé pour parler
 
  	- Segmentation du CA par appareils :  sur mobile, tablette ce dernier mois
 
-[![ecommerçant-310x194.jpg](/images/blog/ecommerçant-310x194.jpg) ecommerçant
 ### **5/ La « Community Manager » : "Ma communauté est-elle efficace ?"**
 
  	- Tab. Bord : Valeur visite sociale,  importance du trafic

@@ -48,7 +48,6 @@ Généralement, par défaut, les **leviers  standards** sont :
 
 GA donne ensuite, tous les chemins et leurs points de contacts respectifs qui ont amené à la conversion. On observera des points de contact, ou conversions indirectes, celles qui ne sont pas situées les dernières dans l’attribution, mais qui « ont contribué à ». Elles sont matérialisées par des rectangles en forme de flèches. Les attributions de la valeur de la transaction sont matérialisées par des formes rectangulaires.
 
-[![entonnoirs-Multicanaux-310x47.gif](/images/blog/entonnoirs-Multicanaux-310x47.gif) Les chemins multicanaux
 
 L’outil de modélisation de l’attribution, fonctionnalité autrefois payante dans Google analytics, est désormais accessible sur demande. Cet outil permet justement de jouer sur l’attribution de la valeur affectée aux différents canaux. Selon sa stratégie marketing, par exemple, il est peut être utile de pondérer l’importance que chaque canal joue dans la répartition de la valeur générée par la conversion. Voici un modèle «passe partout » utilisé, celui qui donne une valeur au plus proche de la conversion.
 

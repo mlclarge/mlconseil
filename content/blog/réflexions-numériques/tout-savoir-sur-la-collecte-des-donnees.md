@@ -9,7 +9,6 @@ slug: "tout-savoir-sur-la-collecte-des-donnees"
 
 Moins de 60 minutes pour tout comprendre sur les **modes de tracking sur internet** . Cette web série d’Arte aborde le sujet de la **collecte des données  sur la toile** : sites web,  réseaux sociaux, Smartphones,  big data, objets connectés..Son format de 7 épisodes de 5 à 10 minutes chacun, originellement diffusés entre le 14 avril et le 15 juin 2015 est  depuis en accès libre sur **[Arte](http://www.arte.tv/fr)**. L’originalité du concept de cette série repose sur son interactivité, où le « spectateur » est acteur principal. Les mêmes modes de suivi de l'internaute qu’elle décrit pendant  ces sept rendez-vous *(pose de cookies, personnalisation de la présentation)* sont utilisés pour apporter une illustration concrète du propos. Retour sur ce programme insolite…
 
-[![donotrack1.gif](/images/blog/donotrack1.gif)
 
 ## **Origine de la cette série intéractive**
 

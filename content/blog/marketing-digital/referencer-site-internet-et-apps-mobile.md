@@ -9,7 +9,6 @@ slug: "referencer-site-internet-et-apps-mobile"
 
 Cet article intéressera ceux qui possèdent un site standard et qui souhaitent  assurer leur présence sur les **supports mobiles** de type tablettes, Smartphones. Création d’une **version mobile, optimisation et promotion**, et enfin **évaluation** seront les 3 chapitres de ce post.  Je vous propose donc une liste d’outils, sans pour autant entrer dans le détail de chacun d’eux, vu que leurs manipulations peuvent  faire l’objet d’un billet à eux seuls ! La pertinence d'être présent sur les terminaux mobiles n'est plus à démontrer (fig.1), et l'article de [Fred Cavazza](http://http://www.fredcavazza.net/2012/06/18/il-ny-aura-pas-de-revolution-mobile-car-elle-deja-eu-lieue) intéresse aussi ce sujet.
 
-[![0-engagement-mobilité-310x263.png](/images/blog/0-engagement-mobilité-310x263.png) engagement-mobilité
 
 ## Assurer sa présence mobile *(site + app)*
 
@@ -71,7 +70,6 @@ Des idées de thèmes, de modèles (ici adapté à WordPress)
 
 	- Voici les **10 bonnes pratiques** Googleliennes pour optimiser la version mobile
 
-[![4-pratiques-mobilité-310x235.png](/images/blog/4-pratiques-mobilité-310x235.png) pratiques-mobilité
 
 [![5-navigation-mobile-150x150.png](/images/blog/5-navigation-mobile-150x150.png) Fig.5 Navigation interface mobile
 

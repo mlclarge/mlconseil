@@ -32,7 +32,6 @@ Il faut s'habituer dans cette nouvelle interface de prendre le bon chemin, sans 
 
 Revenons sur le desktop donc ! Ce qui plaît et qui n’est pas consulté dans l’ancienne interface, ce sont les tableaux de bord par défaut généré par le système. Alors là, le persuasif design soutenu par le front matériel design de Google, nous oblige à avoir le nez sur **le pilotage des campagnes**.  Sinon, la fluidité est bluffante, comme par exemple celle qui concerne l**'intelligence artificielle** (mot à la mode) de la plateforme avec les "opportunités"...
 
-[![opportunites-adwords-1.jpg](/images/blog/opportunites-adwords-1.jpg) Look de gestion des opportunités
 ### ***Mon ressenti sur la refonte de la navigation ***
 
 En fin de compte, avec cette nouvelle interface, on a l’impression que l’on est passé de l’ ancienne plateforme ou la navigation était plutôt « horizontalisée » , avec 1er niveau d’accès aux comptes si on est sous MCC , onglets, filtres mais sans  logique arborescence,  à une navigation nouvelle plutôt « verticalisée », arborescente,  avec regroupement sur le menu latéral le plus à gauche (avec accès aux différents comptes si Mcc comme illustrée ci-dessous), avec  un menu latéral gauche (anciennement les onglets horizontaux), avec accès aux filtres clairement affichés. Certes cela demande une accoutumance, mais à la longue, cela semble plus intuitif.

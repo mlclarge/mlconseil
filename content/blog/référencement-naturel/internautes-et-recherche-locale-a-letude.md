@@ -28,6 +28,5 @@ Source : [http://www.seomoz.org/blog/eyetracking-google-serps](http://www.seomo
 
 	- Malgré cet engouement pour les requêtes locales,** seulement 37 des entreprises sont recencées localement **dans les moteurs de recherche.
 
-[![Infographic_Local_Search_Evolved_mdg_advertising_475.gif](/images/blog/Infographic_Local_Search_Evolved_mdg_advertising_475.gif)
 
 Infographic by [MDG Advertising](http://www.mdgadvertising.com/)

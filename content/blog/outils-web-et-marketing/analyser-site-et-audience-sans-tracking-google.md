@@ -140,6 +140,5 @@ Dans l’exemple  ici plus d’une dizaine d’items ont été identifiés dans
 
  	- Promos…
 
-[![botify-239x300.jpg](/images/blog/botify-239x300.jpg) Botify un outil d'aide à l'indexation
 
 Après toutes ces analyses, s’intégrant ou pas dans Google analytics,  le site n’a plus de secret, tout devient limpide ou presque pour l’analyste !  Mais attention, trop de données  peuvent cacher l’essentiel, les choix et objectifs  marketing de départ  !  A bon entendeur…

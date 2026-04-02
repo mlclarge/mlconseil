@@ -40,7 +40,6 @@ Si  vos pages ne sont pas « distinctes », il y a moyen de créer des **page
 
 Dans l’ancienne version d’analytics, les évènements étaient traités à part, en effet, ils nécessitent l’ajout** d’une portion de code au code analytics** existant avec  un paramétrage de la méthode de collecte des données. La nouvelle version 5 permet donc un paramétrage centralisé des objectifs dont les" évènements" font partis.
 
-[![evenement-300x206.png](/images/blog/evenement-300x206.png) Fig 4. Paramétrage Evènement (théorie & pratique) 
 
 Un évènement par rapport à un objectif peut se distinguer dans le but poursuivi par chacun. Un objectif a** souvent comme dessein une url**, alors qu’un **évènement s’intéressent à l’action faite** sur ...
 
@@ -58,7 +57,6 @@ Un évènement par rapport à un objectif peut se distinguer dans le but poursui
 
 Lecture dans Google analytics du rapport « Evènements » (fig. 3)
 
-[![rapport-evènements-google-analytics.png](/images/blog/rapport-evènements-google-analytics.png) nouveautésAdwords2012
 **Paramétrages avancés sur les évènements **
 
 Pour mémoire, la limite du nombre d’évènements est 500 par session !

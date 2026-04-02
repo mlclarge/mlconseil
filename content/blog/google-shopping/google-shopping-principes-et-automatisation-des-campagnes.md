@@ -67,7 +67,6 @@ Dans adwords shopping, le pilotage automatique des enchères existe et est sans 
 
 Google fournit les clés de programmation (librairie) de sa plateforme de gestion de sa plateforme technique shopping, elle permet de développer dans une interface tierce, un projet de gestion automatisée des enchères
 
-[![api-310x167.jpg](/images/blog/api-310x167.jpg) Api Google Shopping pour automatiser
 
 Cela m'amène à parler tout naturellement du dernier produit de critéo consacré à shopping. Criteo+Predictive+Search. Marine software, Kenshoo, Versafeed,  Whoopapp.com  et d’autres se sont lancées avant le roi français du retargeting avec pour objectif sans cesse une gestion plus fine et réactive de l’ensemble des entités d’une campagne Google shopping.
 

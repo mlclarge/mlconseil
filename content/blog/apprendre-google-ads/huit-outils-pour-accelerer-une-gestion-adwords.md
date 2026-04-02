@@ -35,7 +35,6 @@ Il est possible d’arbitrer par cette fonctionnalité disponible aux différent
 
 C’est le **pilote automatique d’adwords**, la main est laissée à l’algorithme d’adwords pour lui laisser gérer les campagnes. Les optimiseurs de conversions sont disponibles pour le réseau de recherche mais aussi de contenus Google. Attention quant à leurs maniements  !
 
-[![cpa1-310x143.png](/images/blog/cpa1-310x143.png) Fig.5 Optimiseurs d'enchères
 ### *Scripts adwords*
 
 On rentre ici, dans le code natif d’adwords, c’est un outil qui peut accomplir tout ce que l’on peut faire manuellement et avec les règles automatiques, mais avec plus de latitudes, et avec en plus la possibilité d' incorporer des données extérieures . Par exemple, faire des reporting ultra-personnalisés,  l'usage des scripts  conviennent bien à des campagnes d’envergure qui nécessitent une assistance automatique.
@@ -55,11 +54,7 @@ Fonctionnalité simple, mais parfois oublié, la possibilité de se faire envoye
 
 Il devient possible de **rechercher ou de remplacer du texte  **dans les champs de mots clés, annonces, groupes d’annonces et ainsi de modifier en quelques minutes une campagne. Sur des campagnes similaires, un simple copier-coller d’une campagne entière est possible et créer une campagne en quelques clics parfaitement réalisable !
 
-[![editor-rempace1-310x158.png](/images/blog/editor-rempace1-310x158.png) Fig.8 Editor fonction remplacer
 
-[![editor-rempace-310x158.png](/images/blog/editor-rempace-310x158.png) Fig. 9 Editor fonction tri
 ### *Adwords api*
 
 Cet outil est disponible depuis un **centre multicompte adwords**, c’est une fonctionnalité très intéressante pour gérer les comptes avec de nombreuses campagnes, mots clés etc. . Cet api sert à la création d’outils internes pour gérer les campagnes en dehors de la plateforme. L’intégration des données adwords au sein d’un CRM, ERP permet par exemple de parfaire des outils d’aide à la décision . Sinon l’api  est  également utile pour créer des applications ,  revendues ensuite en mode saas ou sous forme de logiciels de bureau.
-
-[![api-310x177.png](/images/blog/api-310x177.png) Fig. 10 Adwords API

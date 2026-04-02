@@ -36,7 +36,6 @@ Dans cet ebook, vous retrouverez  les articles  de cette charte à savoir
 
  	- Mais aussi un descriptif des actions du CPA : régulation des adhérents 1 à 2 fois par mois par commission paritaire
 
-[![cpa-235x300.jpg](/images/blog/cpa-235x300.jpg) Action du CPA
 ## **Un annuaire de 58 sociétés chartées **
 
 Intérêt aussi de ce document, c’est de pouvoir avoir une 1ère idée sur la qualité de la base d’emails des prestataires. Sont présentés chacun des signataires avec le descriptif des bases emails qu’ils utilisent constitué de 4 critères :

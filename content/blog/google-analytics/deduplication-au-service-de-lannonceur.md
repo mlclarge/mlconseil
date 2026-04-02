@@ -39,7 +39,6 @@ Un  acteur  influent  de l’affiliation comme le CPA (Club des plateformes d
 
 Des plateformes (effiliation) innove  en interne, dans la chaîne qui mène à la vente  (pour les éditeurs de sites) en adoptant des rémunérations plus homogènes,  équitables, conditionnelles selon « le temps » de la conversion (expiration du canal ou Activation).
 
-[![deduplisation-310x158.jpg](/images/blog/deduplisation-310x158.jpg) Déduplication conditionnelle selon canal
 
 En externe (avec le programme annonceur), elle encourage  l’adoption  de recommandations, avec  d’une part,  une attribution de la transaction au « dernier clic »  et un avantage au cookie post-clic (au premier point de contact) vis-à-vis du post-view, et d’autre part  en proscrivant toute déduplication en présence de leviers webmarketing comme :
 

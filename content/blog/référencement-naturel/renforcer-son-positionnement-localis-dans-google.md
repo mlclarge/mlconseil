@@ -27,7 +27,6 @@ Ce changement dans l’algorithme de Google est  d’une ampleur jamais entrepr
 
 Cela nous vient tout droit des US, le fameux carrousel de résultats, qui se déclenche sur une requête considérée comme locale mais d’envergure nationale, vu qu’elle se déclenche aussi bien sur Toulouse, paris ou bordeaux à partir du moment où l’on utilise « que faire à + nom de la ville».  Aux USA, c’est plus de 300 termes qui ont été identifiés et qui déclenchent ce diaporama local.
 
-[![que-faie-a-310x287.jpg](/images/blog/que-faie-a-310x287.jpg) La requête qui fait déclencher le carrousel des serp Google
 
 Sur une même requête, des résultats de recherche locaux de Google (serp)  peuvent ressortir complètement **changés d’une saison à l’autre**. Ici sur la requête « dépannage informatique + ville », il ressortait des résultats hybrides avec de l’adwords, des liens locaux sous forme de pack (avec pictos rouges reliés à Google maps). Désormais, cette même requête fait ressortir  des résultats non packagés, sans cartographie Google maps, uniquement une liste de liens organiques. Cela peut venir du fait que Google, depuis la mise Venice update, tient compte de manière plus fine des signaux locaux donnés par les sites web. Ici, si l’optimisation de l’ensemble des  sites sur la plateforme Google adresses n’est pas optimale  sur cette requête, alors le moteur juge sans doute qu’une présentation classique est plus pertinente. La même requête sur une commune voisine, enclenche des Serp sous forme packagée.
 

@@ -32,7 +32,6 @@ Google analytics fait déjà tout le travail pour vous, puisque, sans aucun para
 
 	- **Page de destination** : les internautes accèdent directement depuis leurs navigateurs en tapant l’adresse du site ou en cliquant sur un favori. Ici, 28 % vont atterrissent directement sur la page d’accueil mentionnée avec un "/".
 
-[![analytics-sources-trafic1-300x195.png](/images/blog/analytics-sources-trafic1-300x195.png) Fig.1 Indicateurs " Vue d'ensemble" | G. Analytics
 
 Sources
 

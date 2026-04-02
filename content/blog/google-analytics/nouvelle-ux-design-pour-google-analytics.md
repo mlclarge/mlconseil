@@ -38,7 +38,6 @@ Donc au final, plus de navigation centrale et une interface entièrement respon
 
 Une barre de navigation unique sur la sidebar gauche, modulable avec, au plus étroit , une visibilité des icones.  Le haut de ce menu gauche retrouve les fonctionnalités pour accéder aux rapports personnalisés avec un moteur de recherche bien utile pour les retrouver.
 
-[![interface-google-analytics.gif](/images/blog/interface-google-analytics.gif) Flexibilité du menu gauche central à l'application
 
 L’accès à l’administration se fait par le coin gauche en bas avec roue crantée qui donne accès aux 3 colonnes traditionnelle de l’architecture   : compte, propriété, vue.
 

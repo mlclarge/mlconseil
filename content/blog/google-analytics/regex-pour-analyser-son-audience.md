@@ -58,7 +58,6 @@ Ex : « Google »  dans un champ dédié au RegEx dans GA, est une RegEx !
 
 **Seo**
 
-[![Fig.-1-filtreliteral1.png](/images/blog/Fig.-1-filtreliteral1.png) Fig. 1 filtreliteral
 ### **Filtre**
 
 **Cas 2 : **Filtre et exclusion de cette adresse ip afin de ne pas mesurer l’audience qui provient de cette machine (fig.2)
@@ -76,7 +75,6 @@ Ex : « Google »  dans un champ dédié au RegEx dans GA, est une RegEx !
 
 **rfrencement**
 
-[![fig.3-filtre-mots-cles1.png](/images/blog/fig.3-filtre-mots-cles1.png) Fig.3 filtre-mots-cles
 
 **Cas 4 :** Enfin, je souhaite avoir les mots clés faisant référence au terme (référencement **ou **seo)
 
@@ -122,7 +120,6 @@ Ici, pas d'expression littérale, car on ne connait pas la donnée source, vu qu
 
 Dans google anlytics cela donne..(fig. 7)
 
-[![fig.6-Reg-ex-Mots-cles-3-mots1-496x300.png](/images/blog/fig.6-Reg-ex-Mots-cles-3-mots1-496x300.png) Fig. 7 Reg-ex-Mots-cles-3-mots
 ### **Construire un tunnel de conversion **(fig.8)
 
 Répérer ses pages ou urls qui marquent votre panier, voici le principe (adapter la syntaxe au chemin de l’url)
@@ -150,7 +147,6 @@ RegEx : (.*) avec un constructeur (pour associer les 2 champs)
 
  
 
-[![fig.8-Analyse-sous-domaine1.png](/images/blog/fig.8-Analyse-sous-domaine1.png) Fig.9 Analyse sous domaine
 ## **Liens utiles pour les expressions régulières**
 
 Articles et documentation :

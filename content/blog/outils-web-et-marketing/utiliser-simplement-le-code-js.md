@@ -15,7 +15,6 @@ Cette fonctionnalité a été déployée en septembre 2012 afin de combler le «
 
 Disponible sur le menu de gauche et positionné dans la catégorie « **opérations groupées** », l’interface  est intuitive et   alimentée par des exemples. Le lien « modifier en masse » situé en dessous,  est quant à lui vouer à des opérations plus simples, souvent fastidieuses comme des "copier-coller"  *(c’est en quelque sorte une version allégée d’adwords éditor, outil externe de manipulation de campagnes).*
 
-[![interface-310x199.jpg](/images/blog/interface-310x199.jpg) Accessibilité depuis l'iinterface Adw
 ## Des scripts prêts à l’emploi
 
 ### **Focus sur le reporting**

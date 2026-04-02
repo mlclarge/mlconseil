@@ -65,7 +65,6 @@ Toute l’architecture dWe l’information avec le hard  Datacenter, hébergeme
 
 	- Dev Web
 
-[![integration-cloudera1-310x169.jpg](/images/blog/integration-cloudera1-310x169.jpg) Integration cloudera avec autres solutions
 
 **Solutions, plateformes :**   Cloudera, Hortonworks (management BigData) , hive, Oracle, terradata, mysqsl (bases données), Amazon webservices, Vmware (cloud), Intel, cisco (hard), Appacelerator, kony, AmpchromaPlatform (mdap)
 ### **Middleware**
@@ -91,7 +90,6 @@ Bien d’autres services middleware sont à l’œuvre comme dans le M2m (machin
 
 Fer de lance des services marketing, pas la peine dans dire plus. Pour illustration, disons seulement que ce sont les contenus et services en « général ».  On peut parler aussi de leviers Inbound pour reprendre un terme anglophone.
 
-[![leviers-webmarketing1-232x300.png](/images/blog/leviers-webmarketing1-232x300.png) Contenus & Services Marketing
 **Mots clés**
 
 	- **Mobilité (app)**

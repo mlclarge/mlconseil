@@ -40,7 +40,6 @@ L’internaute a-t-il trouvé satisfaction après la promesse de l’annonce ? 
 
 Motiver l’internaute à produire de belles annonces en lui faisant payer moins cher le clic (soit disant)  et ainsi faire cliquer un maximum d’annonces.  pour faire plaisir à Google ;) .
 
-[![formule-scrore-de-qualite1-310x146.jpg](/images/blog/formule-scrore-de-qualite1-310x146.jpg) La recette officielle du QS
 
 Une étude de la société  Click équation rapportée  en 2009, actualisée en 2013 montre des écarts en % cpcs allant de 30% entre un QS de 10 et de 7 à plus de 600% pour un score de qualité à 1 !
 
@@ -63,7 +62,6 @@ Je remercie encore le blog de **Martin Roettgerding** d’où je tire les source
 
 3/ Copier ce  script : [http://bit.ly/scriptQsAdw](http://bit.ly/scriptQsAdw)  en allant  sur la campagne Compte adwords > rubrique opération groupées>script  le Copier-coller.
 
-[![script-adwords-310x257.jpg](/images/blog/script-adwords-310x257.jpg) Installation du script Adwords
 
 4/ Puis, dans le début du script à l’emplacement : "INSERT_SPREADSHEET_URL_HERE";  vous  mettez l’url de la feuille de calcul Google. Enregistrez et exécuter le script. Le second onglet devrait se remplir des données recherchées soit QS et, au fil du temps, les variations du QS.
 

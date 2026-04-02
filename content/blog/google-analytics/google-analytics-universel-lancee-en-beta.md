@@ -37,7 +37,6 @@ Trois niveaux d’accès au lieu de 2 auparavant (admin et utilisateurs)  vont 
 
 Ah celle-ci, cela faisait un bout de temps qu’elle s’annonçait. Qui a fait quoi sur le compte ? Les différents ajouts, suppressions ou autres sont désormais accessibles depuis le niveau de l’administration du compte.
 
-[![3-historique-310x108.png](/images/blog/3-historique-310x108.png) Historique des modifications
 ### Export des données
 
 Un changement mineur mais néanmoins, à l’heure du cloud, il fallait le souligner. Si vous souhaitez rester dans l’écosystème de Google, un export vers Google drive et son application **tableur** est possible.

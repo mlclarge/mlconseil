@@ -23,7 +23,6 @@ La construction de page doit observer  des standards techniques  de présentat
 
 Ce qui nous intéresse, c’est rendre ce site populaire vu que son contenu peut intéresser des individus,  il s’agit du **netLinking, technique « off page »**. Acquérir des liens (considérés comme des votes pour son site) qui pointent vers votre vitrine mais pas n’importe quel lien !
 
-[![places-liensnetlinking1-300x225.png](/images/blog/places-liensnetlinking1-300x225.png)1/ Provenance du lien 2/ Lien image    3/ Liens sites populaires
 
 Liens entrants
 

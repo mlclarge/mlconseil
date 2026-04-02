@@ -44,12 +44,10 @@ Les **marques avec des followers, avec de l’autorité**, semble sortir plus fa
 
 Sinon pour faire ressortir une **publication de sa page G+**, il faut se battre ! Quand on est logué, suiveur de la page G+, avec résultats privés activés avec une requête liée à l’enseigne,  ouf !  (Mais il faudra vraiment aller me chercher),    cela peut donner  des résultats du genre, ou j’ai les résultats de publication de ma page G+ qui ressortent.
 
-[![serp_logué-310x140.jpg](/images/blog/serp_logué-310x140.jpg) serp_logué
 ## Le programme Google Partners et le statut de Publisher
 
 Alors bien sûr, si l’on veut arborer le logo « Google partners » qui est le programme destiné aux agences de communication qui veulent commercialiser le programme adwords, il est obligatoire de faire la liaison site entreprise & page Google plus.
 
-[![parnter.jpg](/images/blog/parnter.jpg) Google Partner et Publisher indissociable
 ### Rel=Publisher + Rel=Author = Possible au sein d’une même entité ?
 
 Alors comment faire quand on tient un blog (donc auteur), comme celui - ci et que l’on souhaite aussi avoir le statut d’éditeur (Publisher) ? Tout simplement cumuler les deux, cela fonctionne sans conflit. Je l’ai appris à mes dépends d’ailleurs. En effet, Partners imposant ce statut, j’ai abandonné celui d’auteur pendant un temps, pensant la cohabitation des 2 impossible, finalement, c’est possible. Trop fort..
@@ -63,7 +61,6 @@ WordPress représente le parc le plus important parmi les cms dans le monde. Tou
 
 Ce plugin est bien sûr gratuit et installé en 2 minutes, si bien sûr, auparavant, vous possédez un **compte Google et adsense** par la même occasion. Son fonctionnement se fait par le plugin  via une autorisation d’accès  au compte Google et ensuite Il active automatiquement la liaison au compte adsense et au compte Google webmaster tool.  Reste ensuite à appuyer sur gérer les annonces…
 
-[![plugin-publisher-310x191.jpg](/images/blog/plugin-publisher-310x191.jpg) Mise en route du plugin
 
 Un scan du site est effectué, avec une proposition d’**emplacements matérialisés (slots) par les pictos rouges** munis d’une croix blanche en leur centre. Le fait de cliquer sur ces visuels définit les emplacements « verts » disponibles et le format des annonces possibles. Vous pouvez choisir le type d’annonces, textuelles ou graphiques ou les 2 à la fois. Un maximum de 3 « slots » est autorisé sur les pages WP, ou les posts (ensemble, pas individualisés).
 
@@ -71,7 +68,6 @@ Un scan du site est effectué, avec une proposition d’**emplacements matérial
 
 Ensuite un aperçu est proposé, et les publicités apparaissent, contextualisées ! Enfin, presque, avec un prénom comme le mien, forcément, cela signifie que mon blog parle de voyages et tiens, si l’envie vous en  prend, pourquoi pas »** l’île maurice** « ? ;) .  J'ai essayé de faire une **désactivation des annonces** , mais j'ai eu un message d'erreur, j''ai donc désinstaller le plugin..
 
-[![plugin-publisher1-310x191.jpg](/images/blog/plugin-publisher1-310x191.jpg) plugin-publisher
 
 Bon, restons-en là pour cette** notion bien comprise de Publisher**, il fallait y penser, Google l’a fait !
 

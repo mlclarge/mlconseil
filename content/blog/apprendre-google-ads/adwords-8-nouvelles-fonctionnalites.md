@@ -54,7 +54,6 @@ Cela donne un indicateur sur la part de voix de l’annonce sur le haut de la pa
 
 Aussi, un état des produits, utile et qui évite de faire la navette sur Merchant center pour voir l’état de diffusion du flux.
 
-[![shopping-310x200.jpg](/images/blog/shopping-310x200.jpg) etat produit shopping
 ## **Gestion des  campagnes Sea adwords**
 
 ### ***Nouvelle version adwords éditor (v12) ***

@@ -36,7 +36,6 @@ Je donne ici 2 plugins pour mes plateformes préférées **Joomla et WordPress.*
 
 Pour WordPress, il existe une version gratuite et une version Pro avec plus de fonctions, c'est[ Googlyzer](http://wordpress.org/extend/plugins/googlyzer/)
 
-[![Fig.-5-plugin-WordPress1-300x114.png](/images/blog/Fig.-5-plugin-WordPress1-300x114.png)
 ## Manipulation de données
 
 Un outil bien pratique lors de m**anipulations de profils** et notamment lors de duplication. Pour accélérer la procédure, ce petit [addons pour le navigateur Chrome ](https://chrome.google.com/webstore/detail/imgngfbfofnhpgdhoejahgpggoclgcom)permet de copier-coller simplement les objectifs et les filtres de profils en 2 clics

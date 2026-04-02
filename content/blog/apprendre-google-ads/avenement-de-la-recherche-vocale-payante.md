@@ -71,7 +71,6 @@ Enfin, à quoi serviraient toutes ces améliorations ses nouveautés sans avoir 
 
 Et un petit aperçu du joujou ....
 
-[![attribution-502x247.jpg](/images/blog/attribution-502x247.jpg) Nouvel statistique sur l'attribution dans adw
 
 **La keynote complète en vidéo**
 https://www.youtube.com/watch?v=MmkRJqnQ2T8

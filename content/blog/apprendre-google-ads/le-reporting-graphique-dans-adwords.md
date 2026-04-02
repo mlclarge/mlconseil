@@ -46,7 +46,6 @@ J’aurais pu en parler au niveau des nouveautés dernièrement, mais j’attend
 
 D’autre part, disponible dans certains comptes, l’onglet « rapport » constitue un véritable tournant dans le reporting adwords ! Deux façons de créer son reporting :  Défini (standard) et manuel (personnalisé).  L’interface offre ensuite un plan pour constituer son graphique selon ses besoins.
 
-[![rapports-adwords-310x163.jpg](/images/blog/rapports-adwords-310x163.jpg) Rapports perso. adwords
 ## ***Indicateurs avancés de conversions***
 
 ### ***Modèle d’attribution dans adwords***

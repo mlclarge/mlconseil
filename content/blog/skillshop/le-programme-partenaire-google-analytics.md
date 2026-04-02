@@ -14,7 +14,6 @@ Les **certifications** dans le monde du [**web analytics**](https://fr.wikipedi
 
 Il existe bien la **GAIQ (Google Analytics Individual qualification)** qui est un label qui fait partie du programme **Google partner** (orienté essentiellement sur le marketing en ligne) et directement relié à [skillshop](https://www.mauricelargeron.com/skillshop/). Ce dernier peut être matérialisé par l’édition d’une preuve d’achèvement avec un lien uniquement visible depuis la plateforme partner.  Si l’on souhaite arborer cette certif. **,  une capture d’écran fera l’affaire. Sinon, depuis le profil « entreprise », cette certification apparaît au même titre que celles liées plus précisément à adwords.
 
-[![certifications-google-310x118.jpg](/images/blog/certifications-google-310x118.jpg) Evolution présentation certifications google analytics
 ## **Le Label du programme Google analytics Partner (**GACP)
 
 L’acronyme change et devient Google Analytics Certified Partner. Elle intéresse plus particulièrement les entreprises qui sont structurées et qui font un business. Je reprends l’essentiel de la documentation officielle anglaise de ce programme. Elle repose sur 3 exigences  principales :

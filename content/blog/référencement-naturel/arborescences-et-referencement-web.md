@@ -54,11 +54,9 @@ Ce schéma en dit plus sur l’idée que pour donner de la force, du poids à un
 
 Comment atteindre ce(s) contenu(s) ? Les menus de navigation doivent si possible être explicite, là aussi, cela est directement relié aux fonctionnalités natives de la solution web adoptée. Une logique standard  marketing préconise une catégorisation de l’information (et ses  sous catégories éventuelles) qui achemine le visiteur vers la fiche produit ou service. Si pagination (donc liste d’urls), il faudra veiller à utiliser les tagages prévus à cet effet (rel= « next » and rel= « previous ») ou d’user du « rel »=canonical, afin d’éviter une pénalisation pour  plusieurs urls qui amènent au même contenu.
 
-[![7-navigation-310x228.gif](/images/blog/7-navigation-310x228.gif) Tunnel de navigation
 
 Cette méthode sera reprise pour nommer les interfaces (boutons, liens) de navigation sur le site. Attention à ne pas utiliser des menus javascripts, illisible pour les moteurs, ils sont souvents agréables à l'oeil mais sans pertinence pour les search engines.
 
-[![8-navigation-278x300.jpg](/images/blog/8-navigation-278x300.jpg) Architecture de navigation
 Configuration des liens hypertexte.
 
 Sans rentrer dans les détails de la réécriture d’urls, cela tombe sous le sens de pouvoir avoir une plateforme qui génère une url par page (éviter ainsi le duplicate content), et que cette dernière reflète les menus de navigation.

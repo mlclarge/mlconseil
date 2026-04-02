@@ -12,7 +12,6 @@ image: "/images/blog/adwords_Express.jpg"
 
 Les annonces Google Adwords Express se reconnaissent grâce à leurs **pictos bleus**
 
-[![AdwordsExpress01-300x137.png](/images/blog/AdwordsExpress01-300x137.png) Annonce "type" Adw Express
 ## Objectifs Adwords Express
 
  	- Faciliter pour le commun des organisations locales (commerce, artisanat..) , le lancement d'une campagne publicitaire.

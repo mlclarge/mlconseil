@@ -25,7 +25,6 @@ Cela vous donne la liste des mots clés qui ont aboutis sur cette page (url) Fi
 
 Voici la même manipulation, mais effectué à partir de la page de destination, voir processus Fig 4.
 
-[![Fig.-4-mots-clés-page-destination-310x232.png](/images/blog/Fig.-4-mots-clés-page-destination-310x232.png) mots-clés-page-destination
 
 Une autre façon est de procéder par élimination par **typologie de mots-clés**, les mots clés de la **marque** et les autres. Généralement, la marque aboutit à la page d’accueil, donc le but ici est de faire un tri de tous les mots clés qui amènent à la page d’accueil , le « not-provided » sera ainsi dénombré et identifié comme celui relié directement au nom de la marque, de l’enseigne Fig. 5.
 

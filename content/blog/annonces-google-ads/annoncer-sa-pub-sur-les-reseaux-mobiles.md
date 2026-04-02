@@ -30,7 +30,6 @@ L’interface de mise en place est vraiment intuitive est une prévisualisation 
 
 Les visuels se font tout seuls, je sais bien, c'est pas top pour les petites missions de designers  , cela tue le métier.
 
-[![interface.gif](/images/blog/interface.gif) Création graphique automatisée
 
 Le résultat est pas trop mal fichu !
 

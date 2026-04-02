@@ -27,7 +27,6 @@ Google continue toujours sa lutte contre le spam depuis le début de son existen
 
 ### **Serp et Snippets **
 
-[![serp-google1-310x143.jpg](/images/blog/serp-google1-310x143.jpg) Paroles de chansons serp Google
 
 Page de résultats avec des réponses directes aux  questions  (sports, météo, loisirs, transports, spectacle, culture)  ou snippets de Google plus que jamais concaténées, plaisantes pour les clics, souvent enrichies…
 

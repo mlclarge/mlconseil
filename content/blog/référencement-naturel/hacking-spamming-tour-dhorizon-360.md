@@ -115,7 +115,6 @@ Retenons là aussi dans cet espace les principales faille et notamment celle du 
 
 	- Non protection des ports internet (accès via http get & port 80 ou 443)
 
-[![iot-310x222.jpg](/images/blog/iot-310x222.jpg) Etude HP sur sécurité IOT
 
 Les démonstrations black hat of internet of thing vont bon train ici et là (voir lien bas de page).
 ## **Hacking Online**

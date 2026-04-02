@@ -51,7 +51,6 @@ Celui a apporté un changement dans la façon de se classer sur une carte. Voil�
 
  	- Enfin, et paradoxalement au point évoqué plus haut sur le filtrage anti-duplicate, certains résultats laisse apparaître des doublons, c’est-à-dire présent à la fois sur le pack 3 et sur les serp traditionnelles naturelles, ce qui laisse à ses bénéficiaires **une double présence**. Pour optimiser ce genre de résultats, il faut jouer la carte hybride et l’équilibre entre d’une part des signaux classiques de référencement naturel et d’autre part, ceux liés au seo local.
 
-[![patisseries-local-pluriels-310x216.jpg](/images/blog/patisseries-local-pluriels-310x216.jpg) Avec ou Sans "s" , algo. est plus précis
 
 ***Etude de Neil Patel pour terminer***
 

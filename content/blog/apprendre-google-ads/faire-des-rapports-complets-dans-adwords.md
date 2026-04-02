@@ -29,7 +29,6 @@ Accès à l'interface...
 
 Une feuille blanche, tout est  à faire par simple  « glisser – déposer »
 
-[![rapports-adwords.gif](/images/blog/rapports-adwords.gif)
 
 **Atouts et faiblesses de l’outil de création de rapports**
 

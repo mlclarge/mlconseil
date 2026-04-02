@@ -97,7 +97,6 @@ J’ai arbitrairement choisi le classement des 2 premières pages aux catégorie
 
 Bottlennose écoute les bruits sociaux dominants des influenceurs, sujets sur  des plateformes comme twitter, scoop it, blogs, médias ..
 
-[![big-data-webmarketing-310x194.jpg](/images/blog/big-data-webmarketing-310x194.jpg) big data webmarketing
 ### ***Wiki-Webmarketing ***
 
 Pour se donner des idées d’architecture de contenus, ce petit outil est bien pratique, il ne fait que rendre visuel les liens présents à la requête webmarketing sous forme de mindmapping : 8 articles connexes (marketing électronique, ciblage comportemental…) , 10 champs d’applications .

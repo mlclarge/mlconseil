@@ -26,11 +26,9 @@ Le process général de mise en place de l’environnement du développeur*.*
 
 Pour avoir **accès  à l’api**, il faut demander une autorisation d’accès via un centre multicompte existant.  La fonctionnalité est disponible depuis les paramètres du compte en haut à droite dans l’interface. Dans le cadre d’une utilisation de l’api en mode « test », une clé temporaire fonctionnera,  sans attendre l’approbation de Google  et l’acceptation des conditions d’utilisation et de facturation, exigée dans le cadre d’un usage en mode  production (réel).
 
-[![processus-310x123.jpg](/images/blog/processus-310x123.jpg) Process de demande Acces APi
 
 Il faut ensuite créer un centre multicompte de « test » dédié à fournir de la data aux tests de développement. Il suffira ensuite de copier-coller des comptes de campagnes existant depuis adwords éditor par exemple et de les importer dans le centre multicompte test.
 
-[![centre-multicompe-test-310x129.jpg](/images/blog/centre-multicompe-test-310x129.jpg) Centre multicompte test (mcc)
 
 Voilà notre environnement de adwords « bac à sable » est terminé.
 

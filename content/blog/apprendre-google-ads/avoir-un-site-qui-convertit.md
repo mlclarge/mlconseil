@@ -72,7 +72,6 @@ D’autres méthodes pour combattre des taux de transformation faibles,  soulig
 
  	- Avis d'experts ergonomes
 
-[![cro-methode1-310x231.jpg](/images/blog/cro-methode1-310x231.jpg) Autres [méthodes](http://pinterest.com/pin/57983913925432916/) qui misent sur les Tests (2012)
 ## **Une méthode pour améliorer son taux de conversion ?**
 
 ### **Un schéma pour éclaircir le sujet !**

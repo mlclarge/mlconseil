@@ -81,7 +81,6 @@ ils sont un peu au milieu du champ de bataille, entre annonceurs et éditeurs en
 
 Cela tombe sous le sens, des plateformes comme Facebook proposent un ciblage précis sur le territoire. Ils se sont lancés eux aussi aux conquêtes de commerçants et artisans locaux.
 
-[![facebook-310x241.jpg](/images/blog/facebook-310x241.jpg) facebook
 ### ***Plateformes technologiques ***
 
 elles viennent souvent en soutien à toute campagne de référencement local. Elles permettent du monitoring, des requêtes déportées, un suivi sur les actions localisées ou tout simplement la création de technologie applicatives.

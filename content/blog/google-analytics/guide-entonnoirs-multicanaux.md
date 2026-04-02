@@ -9,7 +9,6 @@ slug: "guide-entonnoirs-multicanaux"
 
 Après avoir parlé des interactions sociales sur un site web, intéressons-nous  aujourd’hui  à la façon dont un  internaute chemine pour atteindre un objectif précis sur un site web. Dans le jargon des marqueteurs, un objectif atteint s’appelle "**conversion**".  Exemple : je possède un site d’édition d’ouvrages (livresecolo.com) sur l’écologie et lance une campagne pour faire connaître un dernier titre, je propose un téléchargement gratuit d’un chapitre  et souhaite connaître par quels  chemins   sont passés les internautes qui ont téléchargé ce  fichier . Ces chemins plus communément appelés « canaux » pour les professionnels du marketing,  font l'objet d'une des fonctionnalités de l’outil gratuit Google analytics.  Il est en effet pertinent  d'un point de vue marketing de connaître  ces différents canaux liés à l'atteinte d'une cible finale (conversion, objectif) afin de mieux comprendre le comportement d'un visiteur.
 
-[![entonnoirs-multicanaux-300x194.png](/images/blog/entonnoirs-multicanaux-300x194.png)
 ## **Vous avez dit Canal ?**
 
 Alors ici on ne parlera que de canaux « online », ceux qui existent sur la toile, on peut en dénombrer 7, le tableau ci-dessous  les décrit. Les expressions (ou variables)  entre guillemets sont importantes car ce sont elles qui vont marquer ou « tagguer » les urls.
@@ -36,6 +35,5 @@ Ces paramétrages de suivi de canaux et d’évènements accomplis, la lecture d
 
 Puis ensuite on a accès à ce genre d'illustration ..
 
-[![EntonnoirMulticanaux0cheminGroupe1-300x104.png](/images/blog/EntonnoirMulticanaux0cheminGroupe1-300x104.png)
 
 Sans rentrer dans les détails, Google remonte les données jusqu’à 30 jours en arrière, décalées de 48 heures maximum. Il faut au moins 1 conversion, sinon aucun schéma n’est produit. Des analyses plus fines démontrent sur l’ensemble  des conversions les types de chemins de l’internaute, ceux qui possèdent 1, 2, 3 etc..canaux différents. La durée avec laquelle les conversions ont été atteintes. Pour plus d’informations : [http://support.google.com/analytics/bin/answer.py?hl=fr&answer=1319312#](http://support.google.com/analytics/bin/answer.py?hl=fr&answer=1319312) et livre sur la [dernière version de Google analytics](http://www.amazon.fr/Google-Analytics-Analysez-am%C3%A9liorer-performances/dp/274607057X/ref=sr_1_1?s=books&ie=UTF8&qid=1326957301&sr=1-1) de Ronan Chardonneau.

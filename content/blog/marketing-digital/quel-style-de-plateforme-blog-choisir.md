@@ -15,7 +15,6 @@ Pour faire simple, que ce soit un blog ou un CMS le principe reste le même, il 
 
 L'offre est grande en matière de  plateformes , c'est comme les fleurs, il en meurt et il en nait chaque jour, ou presque !
 
-[![top_Blog_Plateforms1-300x156.jpg](/images/blog/top_Blog_Plateforms1-300x156.jpg)Top 100 des blogs
 ## **Un blog , oui, mais lequel alors ?**
 
 Des plateformes gratuites au payantes, le choix est grand , en effet, certains en ont dénombré jusqu'à 250  !  :
@@ -42,7 +41,6 @@ Des plateformes gratuites au payantes, le choix est grand , en effet, certains e
 
 **et les autres ...**
 
-[![250_blogs-300x219.jpg](/images/blog/250_blogs-300x219.jpg)
 
 **Quelles sont les caractéristiques, atouts et faiblesses de ces plateformes ?** On demandera à une plateforme de blogs d'avoir les qualités suivantes :
 

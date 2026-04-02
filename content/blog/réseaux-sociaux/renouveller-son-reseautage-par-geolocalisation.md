@@ -29,7 +29,6 @@ Cependant, puis je miser tout sur mon réseau social préféré grand public, ty
 
 Avec une commande dans Google tel que  par exemple : "inurl :*33.fr –immobilier" qui veut dire, je recherche des sites internet dont l’url comportera le numéro départemental administratif sauf les sites d’immobilier (souvent bien placés sur cette requête) et bien j’obtiens une liste de site web locaux avec lesquels je vais pouvoir mener une investigation de recherche de profil.
 
-[![commandes-Google-300x259.png](/images/blog/commandes-Google-300x259.png)
 
 ## **Les Forums **
 
@@ -42,7 +41,6 @@ Base de donnée traditionnelle locale *( pagesjaunes pour ne pas la nommer)* dan
 
 D'autres  prestataires comme « Noméo » tentent de renouveler le concept en y apportant plus d’interactivité avec des données qui ne sont parfois pas présentes dans "l’annuairiste"  historique . En 3 étapes, l'accès à des données de profil est possible.
 
-[![annuaireLocauxNomao1-300x202.png](/images/blog/annuaireLocauxNomao1-300x202.png) Fonctionnalités avancées annuaire Noméo
 ## **Les pépinières d’entreprises**
 
 Souvent en ligne avec une base d’entreprises ancrées localement. Selon la nature des bases de contacts, il est parfois très simple d’avoir accès à des données sociales numériques.

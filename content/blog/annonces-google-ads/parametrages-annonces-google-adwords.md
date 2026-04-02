@@ -16,7 +16,6 @@ Le sujet de cette semaine s'intéresse aux "petits plus", qui vont faire le qu'u
 
 **Extensions d'appel** : permettez aux mobinautes de contacter directement votre entreprise par téléphone.
 
-[![appel.jpg](/images/blog/appel.jpg) Extension d'appel
 
 **Extensions de réseau social** : associez les recommandations des utilisateurs de Google+ en faveur de votre entreprise à votre campagne AdWords. Cette extension est très récente !
 

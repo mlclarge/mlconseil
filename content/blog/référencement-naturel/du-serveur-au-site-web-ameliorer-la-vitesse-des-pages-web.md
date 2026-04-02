@@ -46,7 +46,6 @@ Il y a de nombreux outils, mais cela dépend vraiment du contexte utilisateur, d
 
  	- **Optimisation du PHP** du site grâce à la gestion des connections, des caches avec** Nginx ou Varnish** comme Reverse Proxy. Cela consiste à utiliser via ces logiciels principalement des modes de compressions comme brotli (pas reconnu par des outils de test de vitesse d’ailleurs), gzip, http2. Le but étant d’optimiser le chargement du code source du site web. Bon je ne m’aventure pas trop là-dedans, trop technique et je pourrais raconter n’importe quoi. Ci-dessous les principaux apports des techniques du marché.
 
-[![caracteristiques-nginx-varnish-et-autres-1-502x204.jpg](/images/blog/caracteristiques-nginx-varnish-et-autres-1-502x204.jpg) Sur mon site j’ai Nginx d’installé.
 ## **Optimiser aussi son Seo côté site web**
 
  	- Un **langage optimisé** : dans le cas de WordPress, depuis 2015 les versions sont compatibles php7 une sacré évolution sur la 5.6 (2 fois plus performant en gros en vitesse d’exécution).

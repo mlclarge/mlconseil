@@ -21,7 +21,6 @@ Alors que Facebook est encore tout bébé, en 2006, le consultant seo Greg Jarbo
 
 « le ciblage des utilisateurs uniquement par les mots clés arrive à sa fin, maintenant, les moteurs ont la capacité de cible les requêteurs par âge, genre et autres critères démographiques. »
 
-[![historique-310x139.jpg](/images/blog/historique-310x139.jpg) 2006 se dessine déjà les avancées dans le ciblage audience
 
 Dès 2009, Yahoo et Bing proposeront des critères démographiques (âge, genre)  de ciblage sur leur moteur.
 ### ***Priorité au display pour Google dès 2008***

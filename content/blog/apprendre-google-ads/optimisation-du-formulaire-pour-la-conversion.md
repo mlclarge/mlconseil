@@ -56,7 +56,6 @@ Les études sont souvent anglo-saxonnes, mais l’expérience elle, est bien uni
 
 Lorsque l'on enregistre des sessions utilisateurs, le cheminement parfois est surprenant, donc , comme tout interface, la complexité est à l'oeuvre.Les points rouges ci dessous matérialisent les clics des utilisateurs. Pour éviter les déperditions éviter donc de donner à réfléchir au visiteur !
 
-[![complexite-formulaire1-310x181.jpg](/images/blog/complexite-formulaire1-310x181.jpg) Complexité dans l'usage par l'utilisateur
 **Style de formulaires**
 
 	- Simple – minimalistes :Les formulaires les plus simples sont les meilleurs (lokatme)
