@@ -132,20 +132,34 @@
       },
       darkMode: false,
     });
-    /* Écraser le placeholder du widget quel que soit le moment où il l'injecte */
+    /* Verrouiller le placeholder : intercepte toute réécriture via Object.defineProperty */
     var searchContainer = document.getElementById("algolia-header-search");
-    function forcePlaceholder() {
+    function lockPlaceholder(inp) {
+      Object.defineProperty(inp, "placeholder", {
+        get: function () { return "tapez ici votre demande"; },
+        set: function () { /* ignore toute réécriture par le widget */ },
+        configurable: true
+      });
+      inp.setAttribute("placeholder", "tapez ici votre demande");
+    }
+    /* Attendre que le widget crée l'input, puis le verrouiller */
+    var observer = new MutationObserver(function () {
       searchContainer.querySelectorAll("input").forEach(function (inp) {
-        if (inp.placeholder !== "tapez ici votre demande") {
-          inp.placeholder = "tapez ici votre demande";
-          inp.setAttribute("placeholder", "tapez ici votre demande");
+        if (!inp._mlPlaceholderLocked) {
+          inp._mlPlaceholderLocked = true;
+          lockPlaceholder(inp);
         }
       });
-    }
-    /* MutationObserver : déclenché à chaque changement DOM ou d'attribut dans le widget */
-    var observer = new MutationObserver(forcePlaceholder);
-    observer.observe(searchContainer, { childList: true, subtree: true, attributes: true, attributeFilter: ["placeholder"] });
-    /* Filet de sécurité après 600 ms */
-    setTimeout(forcePlaceholder, 600);
+    });
+    observer.observe(searchContainer, { childList: true, subtree: true });
+    /* Filet de sécurité */
+    setTimeout(function () {
+      searchContainer.querySelectorAll("input").forEach(function (inp) {
+        if (!inp._mlPlaceholderLocked) {
+          inp._mlPlaceholderLocked = true;
+          lockPlaceholder(inp);
+        }
+      });
+    }, 800);
   });
 </script>
