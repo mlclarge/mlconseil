@@ -255,6 +255,27 @@
 /* --- Références section --- */
 .references-section { margin: 2rem 0; text-align: center; }
 
+/* --- Barre recherche Algolia globale --- */
+.algolia-searchbar-wrapper {
+  background: var(--color-bg-light);
+  border-bottom: 1px solid var(--color-border);
+  padding: .6rem 1.5rem;
+}
+.algolia-searchbar-wrapper #algolia-header-search {
+  max-width: 860px;
+  margin: 0 auto;
+}
+/* Surcharge styles Algolia SiteSearch pour s'intégrer */
+.algolia-searchbar-wrapper .ais-SearchBox-input,
+.algolia-searchbar-wrapper input[type="search"] {
+  width: 100%;
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  padding: .5rem 1rem .5rem 2.5rem;
+  font-size: .95rem;
+  background: #fff;
+}
+
 /* --- Footer légal --- */
 .footer-legal {
   text-align: center;
