@@ -108,7 +108,10 @@
 
 <!-- Barre de recherche Algolia globale -->
 <div class="algolia-searchbar-wrapper">
-  <div id="algolia-header-search"></div>
+  <div class="algolia-searchbar-inner">
+    <span class="algolia-search-label">Puis-je vous aider&nbsp;?</span>
+    <div id="algolia-header-search"></div>
+  </div>
 </div>
 
 <link rel="stylesheet" href="https://unpkg.com/@algolia/sitesearch@latest/dist/search.min.css" />
@@ -129,5 +132,15 @@
       },
       darkMode: false,
     });
+    /* Changer le placeholder après rendu du widget */
+    var attempts = 0;
+    var setPlaceholder = setInterval(function () {
+      var inp = document.querySelector("#algolia-header-search input[type='search'], #algolia-header-search input.ais-SearchBox-input");
+      if (inp) {
+        inp.placeholder = "tapez ici votre demande";
+        clearInterval(setPlaceholder);
+      }
+      if (++attempts > 20) clearInterval(setPlaceholder);
+    }, 100);
   });
 </script>
