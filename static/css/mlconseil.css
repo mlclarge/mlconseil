@@ -255,6 +255,32 @@
 /* --- Références section --- */
 .references-section { margin: 2rem 0; text-align: center; }
 
+/* --- Footer légal --- */
+.footer-legal {
+  text-align: center;
+  padding: 1rem 0 .5rem;
+  border-top: 1px solid var(--color-border);
+  margin-top: 1rem;
+}
+.footer-qualiopi {
+  max-height: 60px;
+  width: auto;
+  margin-bottom: .5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer-legal p {
+  font-size: .8rem;
+  color: var(--color-muted);
+  margin: .2rem 0;
+}
+.footer-legal a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+.footer-legal a:hover { text-decoration: underline; }
+
 /* --- Responsive --- */
 @media (max-width: 640px) {
   .hero-text h1 { font-size: 1.6rem; }
