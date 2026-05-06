@@ -118,20 +118,13 @@
 <script src="https://unpkg.com/@algolia/sitesearch@latest/dist/search.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    /* Intercepter setAttribute AVANT init pour bloquer toute réécriture du placeholder */
-    var _origSetAttr = Element.prototype.setAttribute;
-    Element.prototype.setAttribute = function (name, value) {
-      if (name === "placeholder" && this.closest && this.closest("#algolia-header-search")) {
-        value = "tapez ici votre demande";
-      }
-      _origSetAttr.call(this, name, value);
-    };
-
     SiteSearch.init({
       container: "#algolia-header-search",
       applicationId: "T3FKQ5L3WK",
       apiKey: "2c1ca098da360b7ac0378cc100014d3b",
       indexName: "algolia-index",
+      placeholder: "tapez ici votre demande",
+      buttonText: "",
       attributes: {
         primaryText: "title",
         secondaryText: "content",
