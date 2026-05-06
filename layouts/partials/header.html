@@ -132,15 +132,17 @@
       },
       darkMode: false,
     });
-    /* Changer le placeholder après rendu du widget */
-    var attempts = 0;
-    var setPlaceholder = setInterval(function () {
-      var inp = document.querySelector("#algolia-header-search input[type='search'], #algolia-header-search input.ais-SearchBox-input");
-      if (inp) {
-        inp.placeholder = "tapez ici votre demande";
-        clearInterval(setPlaceholder);
-      }
-      if (++attempts > 20) clearInterval(setPlaceholder);
-    }, 100);
+    /* Écraser le placeholder du widget quel que soit le moment où il l'injecte */
+    var searchContainer = document.getElementById("algolia-header-search");
+    function forcePlaceholder() {
+      searchContainer.querySelectorAll("input").forEach(function (inp) {
+        inp.setAttribute("placeholder", "tapez ici votre demande");
+      });
+    }
+    /* MutationObserver : déclenché à chaque changement DOM dans le widget */
+    var observer = new MutationObserver(forcePlaceholder);
+    observer.observe(searchContainer, { childList: true, subtree: true, attributes: true });
+    /* Filet de sécurité après 600 ms */
+    setTimeout(forcePlaceholder, 600);
   });
 </script>

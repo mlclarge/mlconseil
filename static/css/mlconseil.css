@@ -300,9 +300,18 @@
   box-shadow: 0 0 0 3px rgba(251,191,36,.35);
 }
 .algolia-searchbar-wrapper .ais-SearchBox-input::placeholder,
-.algolia-searchbar-wrapper input[type="search"]::placeholder {
+.algolia-searchbar-wrapper input[type="search"]::placeholder,
+.algolia-searchbar-wrapper input::placeholder {
   color: #9ca3af;
   font-style: italic;
+}
+/* Masquer les labels/boutons "Search" / "What are you looking for" du widget */
+.algolia-searchbar-wrapper [placeholder="Search"],
+.algolia-searchbar-wrapper [placeholder="What are you looking for?"],
+.algolia-searchbar-wrapper [placeholder="what are you looking for"],
+.algolia-searchbar-wrapper button[type="submit"] svg + span,
+.algolia-searchbar-wrapper label:not(.algolia-search-label) {
+  display: none !important;
 }
 
 /* --- Footer légal --- */
