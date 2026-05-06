@@ -9,6 +9,9 @@ enableRobots = true
     [markup.goldmark.renderer]
       unsafe = true
 
+[permalinks]
+  pages = "/:slug/"
+
 [pagination]
 pagerSize = 10
 
