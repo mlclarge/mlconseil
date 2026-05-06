@@ -4,6 +4,11 @@ title = "MLConseil – Formation Marketing Digital | Google Ads & SEO"
 theme = "papermod"
 enableRobots = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [pagination]
 pagerSize = 10
 
