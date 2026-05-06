@@ -136,12 +136,15 @@
     var searchContainer = document.getElementById("algolia-header-search");
     function forcePlaceholder() {
       searchContainer.querySelectorAll("input").forEach(function (inp) {
-        inp.setAttribute("placeholder", "tapez ici votre demande");
+        if (inp.placeholder !== "tapez ici votre demande") {
+          inp.placeholder = "tapez ici votre demande";
+          inp.setAttribute("placeholder", "tapez ici votre demande");
+        }
       });
     }
-    /* MutationObserver : déclenché à chaque changement DOM dans le widget */
+    /* MutationObserver : déclenché à chaque changement DOM ou d'attribut dans le widget */
     var observer = new MutationObserver(forcePlaceholder);
-    observer.observe(searchContainer, { childList: true, subtree: true, attributes: true });
+    observer.observe(searchContainer, { childList: true, subtree: true, attributes: true, attributeFilter: ["placeholder"] });
     /* Filet de sécurité après 600 ms */
     setTimeout(forcePlaceholder, 600);
   });

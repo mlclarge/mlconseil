@@ -305,12 +305,8 @@
   color: #9ca3af;
   font-style: italic;
 }
-/* Masquer les labels/boutons "Search" / "What are you looking for" du widget */
-.algolia-searchbar-wrapper [placeholder="Search"],
-.algolia-searchbar-wrapper [placeholder="What are you looking for?"],
-.algolia-searchbar-wrapper [placeholder="what are you looking for"],
-.algolia-searchbar-wrapper button[type="submit"] svg + span,
-.algolia-searchbar-wrapper label:not(.algolia-search-label) {
+/* Masquer le texte "Search" dans le bouton submit du widget */
+.algolia-searchbar-wrapper .button-text {
   display: none !important;
 }
 
