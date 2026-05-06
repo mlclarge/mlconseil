@@ -305,6 +305,11 @@
   color: #9ca3af;
   font-style: italic;
 }
+/* Masquer le texte "Search" du bouton submit Algolia */
+.algolia-searchbar-wrapper .button-text {
+  display: none !important;
+}
+
 /* --- Footer légal --- */
 .footer-legal {
   text-align: center;
