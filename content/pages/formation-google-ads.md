@@ -1,87 +1,283 @@
----
-title: "formation-google-ads"
-date: 2022-07-28
-author: "admin"
-categories: ["Non classé"]
-tags: []
+﻿---
+title: "Formation Google Ads tous niveaux – MLConseil"
+description: "Formation Google Ads personnalisée en présentiel ou distanciel. Maîtrisez la plateforme Google Ads (Search, Display, Shopping, YouTube) avec un consultant Google Partner certifié depuis 2011."
+date: 2024-01-01
+author: "Maurice Largeron"
 slug: "formation-google-ads"
+aliases: ["/formation-google-adwords-2021/", "/formateur-google-adwords-a-bordeaux/"]
 ---
 
-Ce petit billet tentera de répondre aux questions ci dessous, sans rentrer dans les détails techniques qui pourront faire l'objet de divers articles spécifiques prochainement.
+<div class="page-formation">
 
-	- Pourquoi faire de la publicité sur Internet ?
+<div class="formation-hero">
+  <div class="formation-hero-text">
+    <h1>Formation Google Ads tous niveaux</h1>
+    <p class="formation-intro">Maîtrisez la plateforme Google Ads &amp; devenez autonome dans la gestion de vos campagnes d'annonces. Je vous accompagne sur le réseau de Recherche, Display, YouTube, Shopping ou Applications mobiles.</p>
+    <p>Cet accompagnement avec un spécialiste (consultant Google Partner depuis 2011) vous aidera à créer des campagnes par l'apprentissage de l'interface Google Ads. Vous créerez des annonces ciblées adaptées à votre marché, vos objectifs et votre budget.</p>
+    <p>Vous pourrez vous préparer à la certification Google Ads si vous souhaitez travailler en agence marketing ou comme trafic manager salarié d'une entreprise.</p>
+    <div class="formation-badges">
+      <img src="/images/pages/google_ads/qualiopi.jpg.webp" alt="Qualiopi – Certification qualité formation" />
+      <img src="/images/pages/google_ads/512px-Google_Ads_logo.svg_.png" alt="Google Ads" width="80" />
+    </div>
+  </div>
+  <div class="formation-hero-img">
+    <img src="/images/pages/google_ads/IMG_6028-removebg.webp.png" alt="Maurice Largeron – Formateur Google Ads" width="257" />
+  </div>
+</div>
 
-	- Quels sont les acteurs de la pub sur internet ?
+## Une formation à la publicité en ligne personnalisée
 
-	- Y a-t-il un impact réel de la publicité en ligne sur la vente de produits ?
+<div class="objectifs-grid">
+  <div class="objectif-card">
+    <h3>Définir une stratégie Rentable</h3>
+    <p>Traduit vos KPIs marketing et commerciaux dans l'outil Google Ads et calculez votre retour sur investissement.</p>
+  </div>
+  <div class="objectif-card">
+    <h3>Configurer un compte</h3>
+    <p>Mise en place et structuration complète d'un compte Google Ads avec les réglages stratégiques indispensables.</p>
+  </div>
+  <div class="objectif-card">
+    <h3>Paramétrer les campagnes</h3>
+    <p>Maîtrise des types de campagnes, des enchères et du ciblage pour maximiser l'impact de vos annonces.</p>
+  </div>
+  <div class="objectif-card">
+    <h3>Analyser</h3>
+    <p>Interpréter les rapports de performances et comprendre les métriques essentielles de vos campagnes.</p>
+  </div>
+  <div class="objectif-card">
+    <h3>Construire des rapports</h3>
+    <p>Création de tableaux de bord personnalisés pour piloter vos campagnes en temps réel.</p>
+  </div>
+  <div class="objectif-card">
+    <h3>Lancer des Optimisations</h3>
+    <p>Mise en œuvre des routines d'optimisation pour améliorer continuellement le ROI de vos campagnes.</p>
+  </div>
+</div>
 
-	- Combien coûte réellement une campagne publicitaire ?
+---
 
-	- Par où commencer ?
+## Programme de la Formation Google Ads
 
-## **Pourquoi faire de la publicité sur Internet ?**
+### Public concerné
 
-Un support de plus, après la presse, les brochures, le bus mailing, les e-mailings, bref dégagé un budget, encore 1 !
-Selon Google, son étude sur la' valeur de recherche' du 8 mars 2011, nous indique que plus de 3,6 milliards de recherches par jour passent par son moteur de recherche. 81 % des internautes consultent Internet avant leur processus d'achat. Google distingue quatre grands piliers dans son explication sur cette " valeur de la recherche" qui sont :
-*- **Conversion latente (au-delà du dernier clic) ***
-le processus de recherche d'un produit s'effectue sur une durée de plus de 30 jours et le nombre de sites visités pour l'achat d'un téléphone mobile par exemple est de 10 fois sur 4 sites marchands avec un temps moyen de 24 minutes passées sur les sites.
-Mais qu'entend-on par conversion ? Une conversion est tout simplement l'action d'achat suite à une clic sur une annonce publicitaire effectué à partir d'une requête sur un moteur de recherche.
-*- **Incidence de l'activité en ligne sur l'activité hors connexion ***
-Selon une étude pour le compte d'Auchan, 13 % des conversions en magasin ont été effectués suite à des campagnes publicitaires sur Internet (produit : téléviseur). Il convient ici de rapprocher son annonce publicitaire sur Internet à une brochure ou un flyer.
-*- **Branding (la marque) ***
-la notoriété, l'image de marque, l'effet de marque, fidélité à la marque
-*- **La réponse directe (génération de trafic)***
-Plus d'infos : http://www.youtube.com/watch?v=TH3e0tIaEcs
-## Quels sont les acteurs de la pub sur internet ?
+- Gérant, salarié d'entreprise
+- Auto entrepreneur, freelance
+- Demandeur d'emploi
 
-Mais il n'y a pas que google en matière d'offre publicitaire !
-En effet, les régies publicitaires sur le Net, ne sont pas forcément celles que l'on croit, les trois premières  sur le podium étaient selon le site Frenchweb.fr le 10 juin 2011 : Microsoft advertising  , Orange advertising Network) et Hi-Média. Google  arrive à la 5ème position et Yahoo à la 8ème.(source :http://frenchweb.fr/classement-les-resultats-audience-des-offres-publicitaires-des-regies-internet/ )
-## Impact réel de la publicite en ligne sur la vente de produits
+**Prérequis :** Aucun, mais savoir manipuler les plateformes numériques SaaS du marché (messageries, Office 365).
 
-La pub, cela marche ou pas ? Eh bien.. oui et non !
-Non, si on est pressé, car les enchères seront sur-évaluées par rapport au marché, le score de qualité s'acquiert avec le temps , comme le bon vin.
-Oui, si c'est du "gagnant / gagnant" ...Tu paies d'abord pour voir (les premières semaines), tu regardes et comprends ce qui se passe par rapport à ton marché, tu affines ton compte (mots clés/annonces/page du site)  afin d'obtenir une qualité mots clés ->  annonces -> page de destination optimale, un bon historique et un bon CTR (taux de clics sur impression, particule essentielle du score de qualité)  qui s'améliore au fil des semaines et puis la rançon du succès  est au bout !
-Selon** le 7ème baromètre Fevad-Mediamétrie-Netrating**, le marché des internautes est tout de même bien  présent en témoigne cette étude :
+---
 
-	- 38 millions d’internautes (+10% en un an)
+### Descriptif de la formation
 
-	- 15 millions de mobinautes (+35%)
+Dans cette formation vous y découvrirez :
 
-	- Les achats progressent sans cesse :
+- Les principes fondamentaux du **Marketing en ligne** au travers de Google Ads
+- Une des méthodologies pour **réussir sur Google Ads**
+- Les différentes **solutions Google** selon les objectifs commerciaux
+- Les pratiques afin de **maîtriser ses investissements**
+- Les façons d'**optimiser une acquisition en ligne**
+- Les routines pour **se faciliter la gestion opérationnelle** des publicités
+- La manière pour **construire des tableaux de bord** de pilotage
 
-	- 82 000 sites marchands (+28%)
+---
 
-	- 27,7 millions de cyberacheteurs (+14%) et le boom des » silver surfers »
+### Objectifs de la formation Google Ads
 
-	- 31 milliards d’euros dépensés en ligne (+24%)
+Être capable de :
 
-	- Un panier moyen de de 91€
+- Comprendre la plateforme publicitaire dans l'**écosystème de Google**
+- Découvrir le **potentiel** de tout l'inventaire de la régie (Search, Display, Shopping, Vidéos, Applications mobiles)
+- Pouvoir calculer le **retour sur investissement**
+- Saisir l'importance des **enchères et des conversions** pour l'algorithme
+- Assimiler l'utilisation des **audiences et du remarketing**
+- Déployer les **outils de reporting** essentiels
 
-	- Déjà près de 3 millions de M-Acheteurs (mobile)
+---
 
-Outre atlantique : Selon une étude américaine faite par e-marketer, Facebook représenterait la première plateforme publicitaire en ligne avec plus de 17% des investissements.
+### PARTIE 1 : Savoir poser une stratégie d'acquisition
 
- [![Image](/images/blog/22-06-2011-08-18-52-300x193.jpg)](https://www.mauricelargeron.com/wp-content/uploads/2011/06/22-06-2011-08-18-52.jpg) Top Régies publicitaires américaines 
+**Objectif :** Pouvoir traduire les KPIs marketing et commerciaux dans l'outil Google Ads, calculer la rentabilité, avoir une vision claire de la sémantique sur le parcours prospect/client à adopter.
 
-Les nouvelles perspectives :
+- Potentiel de la plateforme : Tour d'horizon de la Recherche et Bannières
+- Réglages indispensables dans la configuration d'un compte Google Ads
+- Calculer le retour sur investissement
+- Poser les conversions, un préalable indispensable
+- Mise en place et structuration d'un compte Google Ads avec des items stratégiques correspondants
+- Comprendre les audiences
+- Panorama complet de l'inventaire Google Ads (Shopping / Display / Vidéo)
 
-	- Essor du social shopping avec le carrefour d’audience incontournable de
+### PARTIE 2 : Configuration d'un compte
 
-	- Facebook, (26 millions de visiteurs / mois)
+**Objectif :** Savoir détecter les potentiels de la demande via l'outil de planification des mots clés, définir l'architecture d'un compte, créer une campagne Search.
 
-	- De nouveaux canaux qui se confirment (mobile) ou émergent (bornes interactives)
+- Utiliser le **Planificateur de mots clés**
+- Architecture des campagnes et groupes d'annonces
+- Rédiger des annonces efficaces et pertinentes
+- Paramétrer les extensions d'annonces
+- Stratégies d'enchères automatiques vs manuelles
 
-	- De nouvelles dispositions juridiques au niveau européen
+### PARTIE 3 : Effectuer les bons paramétrages d'une campagne
 
-	- Le renforcement des moyens d’authentification lors de l’achat online
+**Objectif :** Comprendre les différentes stratégies d'enchères, appliquer des ciblages pertinents.
 
-## Combien coûte une campagne ?
+- Types de correspondance des mots clés
+- Ciblages géographiques et démographiques
+- Ciblage des audiences (In-market, Affinité, Remarketing)
+- Paramétrage des campagnes Display et Shopping
 
-Prenons un exemple. Vous êtes professionnel de la formation. Yahoo vous promettra pour un budget de 150 euros mensuel 2400 impressions/jour et 14 clics  soit 72000 Impressions mensuelles pour 420 clics sur votre annonce par mois ! Elle est pas belle la vie ? Bon, ce ne sont que des probabilités, mais cela vous donne une idée. De 0.05 cts d'euros à plusieurs dizaines d'euros par clic (22 euros), tous les coups sont permis.
-Top 50 des mots clés les plus chers d'après le journal du net :
-http://www.journaldunet.com/ebusiness/publicite/mots-cles-adwords-les-plus-chers/top-50.shtml
-## Par où commencer ?
+### PARTIE 4 : Analyser et Optimiser
 
-Certes, c'est google mais le principe reste le même pour les autres plateformes prestataires.  Cette vidéo présente les grandes étapes d'une campagne de pub pour un prestataire de chambres d'hôtes sur Bordeaux.
-97IBbRDm6ro
-Allez, reste à démarrer..sa propre campagne ! **Bonne chance**
+**Objectif :** Lire et interpréter ses données de performance, mettre en place des optimisations régulières.
+
+- Les rapports essentiels de Google Ads
+- Score d'optimisation et recommandations
+- Connexion Google Ads ↔ Google Analytics 4
+- Construire un tableau de bord de pilotage
+- Routines d'optimisation hebdomadaires et mensuelles
+
+---
+
+### Actions exercées pendant la formation Google Ads
+
+Pendant l'accompagnement, différentes opérations sont effectuées :
+
+- **Association Google Ads** à toutes les données de l'annonceur
+- Accomplir tous les **paramétrages de conversion** d'un compte
+- Élaboration de **listes d'audiences** pour Google Ads
+- Paramétrages des **ciblages de contenus** au niveau du compte
+- Travail sur les notions de parcours prospect avec **l'attribution**
+- Travail sur le ciblage de la publicité Display (montage de bannières / création de vidéos simples)
+- Construction de **rapports de performances de campagnes**
+- Configuration du **Planificateur de mots clés**
+
+---
+
+### Approche et déroulement pédagogique
+
+- **Présentiel / Distanciel :** Audit du cas, brief avec l'apprenant, mise en place d'une feuille de route pour l'animation des ateliers
+- **Évaluation :** QCM au début et à la sortie de la formation pour mesurer la progression des connaissances
+- Alternance **théorie et pratique** dans une interactivité constructive
+- **Démonstrations** sur des cas réels d'entreprise
+- **Ateliers** pour la mise en pratique à chaque séquence
+- **Support :** Google Classroom (slides, PDF, synthèses, liens utiles) – accessible web, Android et iOS
+
+---
+
+### Financement de la formation
+
+| Profil | Modalité |
+|---|---|
+| **Tarif public** | 115 € / heure net (devis gratuit selon volume) |
+| **Salarié** | Via votre OPCO – contactez-moi |
+| **Demandeur d'emploi** | AIF Pôle Emploi selon votre agence |
+| **Autofinancement** | Sur devis après entretien |
+
+---
+
+### Modalités Pratiques
+
+| | |
+|---|---|
+| **Durée** | 28 heures (présentiel ou distanciel) |
+| **Distanciel** | 14 sessions de 2h (agenda partagé) |
+| **Présentiel** | 4 journées de 7h |
+| **Accès** | Entreprise, espace co-working, ou Zoom / Teams |
+| **Format** | Face à face « live » uniquement – pas d'e-learning autonome |
+| **Délai de montage** | 8 à 10 semaines selon financeur |
+| **Participants** | Intra-entreprise, 1 à 6 personnes maximum |
+
+---
+
+## Foire aux Questions
+
+**Cette formation est-elle de l'e-learning ?**
+Non, c'est du One to One ou One to Many (groupes de 4 à 6 personnes max). Mode Coaching, live.
+
+**Existe-t-il des financements ?**
+Oui : OPCO (salariés), CPF (projet personnel), Pôle Emploi (demandeurs d'emploi), autofinancement. Chaque tarif varie selon votre statut.
+
+**Combien de temps dure la formation ?**
+De 2h à 40h selon vos besoins. 80 % des accompagnements durent entre 14h et 21h.
+
+**Cette formation est-elle diplômante ?**
+Non au sens du RNCP. La préparation aux certifications Google Ads ou Analytics est possible.
+
+**La formation se déroule-t-elle avec d'autres apprenants ?**
+Non, formation individuelle privée (intra), propre à votre problématique.
+
+**Quel support technique assurez-vous ?**
+Je m'appuie sur mon expertise et celle de Google Ads pour vérifier configurations et paramétrages.
+
+**Quels outils de communication distante ?**
+Zoom ou Teams par défaut, ou Google Meet, Teamviewer selon votre préférence.
+
+**Quel support documentaire est fourni ?**
+Google Classroom centralise les documents (slides, PDF, synthèses, liens utiles) et la messagerie.
+
+---
+
+## Ils témoignent
+
+<div class="avis-grid">
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/Avis-Boubacar.jpg" alt="Avis Boubacar S. Sow" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Boubacar S. Sow – 14/06/2023</p>
+    <blockquote>Je suis ravi de partager mon avis sur Maurice Largeron, formateur Google Ads. Son expertise inégalée et sa profonde connaissance du sujet ont rendu cette formation extrêmement précieuse.</blockquote>
+  </div>
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/Avis-Guillaume.jpg" alt="Avis Guillaume Eouzan" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Guillaume Eouzan – 16/11/2021</p>
+    <blockquote>M. Largeron a formé l'ensemble des consultants de notre agence sur G4 Analytics. Formation de très haut niveau, extrêmement précise et complète.</blockquote>
+  </div>
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/Avis-Renaud-Passuello.jpg" alt="Avis Renaud Passuello" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Renaud Passuello – 25/05/2023</p>
+    <blockquote>J'ai suivi une formation Google Ads de 28 heures avec Mr Largeron qui fut riche et intense. Compétent, pédagogue et à l'écoute.</blockquote>
+  </div>
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/Avis-ludovic-Gilbert.jpg" alt="Avis Ludovic Gilbert" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Ludovic Gilbert – 22/05/2023</p>
+    <blockquote>J'ai eu le plaisir et la chance l'an dernier de pouvoir suivre une formation Google Ads, GA4 donnée par Maurice Largeron. Excellente formation !</blockquote>
+  </div>
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/Avis-Luc-Olivier.jpg" alt="Avis Luc-Olivier Pierre" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Luc-Olivier Pierre – 02/05/2023</p>
+    <blockquote>Très bon formateur avec une longue expérience du digital et notamment de Google Ads. Beaucoup de connaissances à partager.</blockquote>
+  </div>
+  <div class="avis-card">
+    <img src="/images/pages/google_ads/avis-Charlotte.jpg" alt="Avis Charlotte Regnault" />
+    <div class="avis-stars">★★★★★</div>
+    <p class="avis-nom">Charlotte Regnault – 04/11/2021</p>
+    <blockquote>Maurice est un excellent formateur qui s'adapte au niveau de compétences et fournit un maximum de clés et d'outils.</blockquote>
+  </div>
+</div>
+
+<div class="references-section">
+  <img src="/images/pages/google_ads/references-maurice-largeron-1080x169.webp" alt="Références clients MLConseil" class="references-img" loading="lazy" />
+</div>
+
+---
+
+## Le Formateur
+
+<div class="formateur-inline">
+  <img src="/images/pages/google_ads/IMG_6028-removebg.webp.png" alt="Maurice Largeron – Consultant Formateur Google Ads" width="200" />
+  <div>
+    <p><strong>Maurice Largeron</strong> – Formateur Consultant WebMarketing</p>
+    <ul>
+      <li>Consultant formateur chez MLConseil depuis 2011</li>
+      <li>Interventions France et Francophonie</li>
+      <li>Organisme de formation Référencé DIRECCTE et DATADOCK – Agence Google Partner</li>
+      <li>N° Siret : 409 062 361 000 20 | Formation : 72 33 08656 33 | Datadock : 0004901</li>
+    </ul>
+  </div>
+</div>
+
+</div>
+

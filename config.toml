@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr-FR"
-title = "MLConseil - Marketing Digital"
+title = "MLConseil – Formation Marketing Digital | Google Ads & SEO"
 theme = "papermod"
 enableRobots = true
 
@@ -8,11 +8,12 @@ enableRobots = true
 pagerSize = 10
 
 [params]
-    description = "Blog Maurice Largeron"
+    description = "Formations Google Ads et SEO personnalisées avec Maurice Largeron, consultant formateur certifié Google Partner depuis 2011."
     author = "Maurice Largeron"
     defaultTheme = "auto"
-    ShowWordCount = true
-    ShowReadingTime = true
+    ShowWordCount = false
+    ShowReadingTime = false
+    homeInfoParams = false
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
@@ -27,16 +28,26 @@ pagerSize = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Formation Google Ads"
+    url = "/formation-google-ads/"
     weight = 2
 
 [[menu.main]]
-    name = "Archives"
-    url = "/archives/"
+    name = "Formation SEO"
+    url = "/formation-referencement-a-bordeaux/"
     weight = 3
+
+[[menu.main]]
+    name = "Évaluations"
+    url = "/evaluation-avis-temoignage/"
+    weight = 4
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
 
 [[menu.main]]
     name = "Recherche"
     url = "/search/"
-    weight = 4
+    weight = 6
